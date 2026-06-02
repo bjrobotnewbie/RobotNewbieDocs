@@ -25,22 +25,22 @@
 
 | 层级 | 分类名称 | 核心内容 | 学习路径 |
 |------|---------|---------|:-------:|
-| **基础层** | [数学基础](math/README.md) | 微积分、线性代数、概率论、优化理论 | ⭐ 入门必修 |
-| **基础层** | [机器人学原理](robotics/README.md) | 运动学、动力学、控制理论 | ⭐ 核心基础 |
-| **工具层** | [机器人操作系统](ros/README.md) | ROS1、ROS2、Drake、PyRobot 等 | 🔧 开发工具 |
-| **模型层** | [基础模型](foundation-models/README.md) | VLA、WAM、VLN 三大方向 | 🚀 前沿技术 |
-| **感知层** | [感知系统](perception/README.md) | 2D 视觉、3D 视觉、多传感器融合 | 👁️ 环境感知 |
-| **决策层** | [决策与规划](planning/README.md) | 路径规划、运动规划、任务规划 | 🧠 智能核心 |
-| **导航层** | [导航系统](navigation/README.md) | SLAM、视觉导航 | 🧭 自主移动 |
-| **控制层** | [控制系统](control/README.md) | 经典控制、现代控制、鲁棒控制 | 🎮 执行控制 |
-| **仿真层** | [仿真与世界模型](simulation/README.md) | MuJoCo、Isaac Sim、Gazebo 等 | 🔬 虚拟验证 |
-| **模型层** | [世界模型](world-models/README.md) | 各类世界模型实现 | 🌍 预测学习 |
-| **数据层** | [具身数据](data/README.md) | 数据集、数据收集、评测基准 | 💾 数据基础 |
-| **训练层** | [训练框架](training/README.md) | Isaac Lab、LeRobot、Habitat Lab 等 | 🎯 模型训练 |
-| **部署层** | [模型部署](deployment/README.md) | vLLM、Ollama 等推理框架 | ⚡ 落地部署 |
-| **硬件层** | [硬件系统](hardware/README.md) | 传感器、电机控制、嵌入式系统 | 🔩 物理实现 |
-| **形态层** | [机器人形态分类](robot-forms/README.md) | 刚性、软体、模块化、群体机器人 | 🤖 形态多样性 |
-| **应用层** | [应用场景](applications/README.md) | 人形、工业、医疗、服务、农业、无人机 | 🏭 场景落地 |
+| **基础层** | [数学基础](docs/guide/math/README.md) | 微积分、线性代数、概率论、优化理论 | ⭐ 入门必修 |
+| **基础层** | [机器人学原理](docs/guide/robotics/README.md) | 运动学、动力学、控制理论 | ⭐ 核心基础 |
+| **工具层** | [机器人操作系统](docs/guide/ros/README.md) | ROS1、ROS2、Drake、PyRobot 等 | 🔧 开发工具 |
+| **模型层** | [基础模型](docs/guide/foundation-models/README.md) | VLA、WAM、VLN 三大方向 | 🚀 前沿技术 |
+| **感知层** | [感知系统](docs/guide/perception/README.md) | 2D 视觉、3D 视觉、多传感器融合 | 👁️ 环境感知 |
+| **决策层** | [决策与规划](docs/guide/planning/README.md) | 路径规划、运动规划、任务规划 | 🧠 智能核心 |
+| **导航层** | [导航系统](docs/guide/navigation/README.md) | SLAM、视觉导航 | 🧭 自主移动 |
+| **控制层** | [控制系统](docs/guide/control/README.md) | 经典控制、现代控制、鲁棒控制 | 🎮 执行控制 |
+| **仿真层** | [仿真与世界模型](docs/guide/simulation/README.md) | MuJoCo、Isaac Sim、Gazebo 等 | 🔬 虚拟验证 |
+| **模型层** | [世界模型](docs/guide/world-models/README.md) | 各类世界模型实现 | 🌍 预测学习 |
+| **数据层** | [具身数据](docs/guide/data/README.md) | 数据集、数据收集、评测基准 | 💾 数据基础 |
+| **训练层** | [训练框架](docs/guide/training/README.md) | Isaac Lab、LeRobot、Habitat Lab 等 | 🎯 模型训练 |
+| **部署层** | [模型部署](docs/guide/deployment/README.md) | vLLM、Ollama 等推理框架 | ⚡ 落地部署 |
+| **硬件层** | [硬件系统](docs/guide/hardware/README.md) | 传感器、电机控制、嵌入式系统 | 🔩 物理实现 |
+| **形态层** | [机器人形态分类](docs/guide/robot-forms/README.md) | 刚性、软体、模块化、群体机器人 | 🤖 形态多样性 |
+| **应用层** | [应用场景](docs/guide/applications/README.md) | 人形、工业、医疗、服务、农业、无人机 | 🏭 场景落地 |
 
 ## 适用人群
 
