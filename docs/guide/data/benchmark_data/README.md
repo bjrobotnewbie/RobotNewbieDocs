@@ -6,6 +6,7 @@
 
 - [Calvin](/guide/data/benchmark_data/calvin/README.md)
 - [embodied-agent-interface](/guide/data/benchmark_data/embodied-agent-interface/README.md)
+- [FluxBisim](/guide/data/benchmark_data/fluxbisim/README.md)
 - [Libero](/guide/data/benchmark_data/libero/README.md)
 - [MetaWorld](/guide/data/benchmark_data/metaworld/README.md)
 - [Robogen](/guide/data/benchmark_data/robogen/README.md)

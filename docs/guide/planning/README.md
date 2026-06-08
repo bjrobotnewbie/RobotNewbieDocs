@@ -130,5 +130,5 @@
 |------|---------|
 | **navigation/** | 导航技术栈（SLAM、建图），为路径规划提供环境信息 |
 | **control/** | 底层运动控制，执行规划器输出的轨迹 |
-| **foundation-models/vln/** | 视觉语言导航模型，端到端生成导航策略 |
-| **foundation-models/vla/** | 视觉语言动作模型，端到端生成机器人动作 |
+| **embodied-models/vln/** | 视觉语言导航模型，端到端生成导航策略 |
+| **embodied-models/vla/** | 视觉语言动作模型，端到端生成机器人动作 |

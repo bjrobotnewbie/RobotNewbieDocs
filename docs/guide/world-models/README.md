@@ -11,7 +11,7 @@
 | 项目 | 机构 | 发布时间 | 模型规模 |
 |------|------|---------|---------|
 | [NVIDIA Cosmos](nvidia-cosmos/README.md) | NVIDIA | 2026.1 | 4B / 7B / 14B |
-| [NVIDIA DreamDojo](dreamdojo/README.md) | NVIDIA (Jim Fan) | 2026.2 | 轻量实时版 |
+| [DreamDojo](dreamdojo/README.md) | NVIDIA (Jim Fan) | 2026.2 | 轻量实时版 |
 | [WoW (World-Omniscient)](wow/README.md) | 多校联合 (UC Berkeley) | 2026.4 | 2B / 7B / 14B |
 
 ### 二、自动驾驶世界模型（BEV/交通场景）

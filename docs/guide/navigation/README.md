@@ -9,7 +9,7 @@
 | **SLAM 技术** | 同时定位与建图 | SLAM Handbook, 视觉SLAM十四讲 |
 | **导航数据集** | 用于训练和评估导航算法的基准数据 | Matterport3D |
 
-> **注意**：视觉语言导航 (VLN) 模型已归类到 [基础模型](/guide/foundation-models/vln/README.md) 目录下，因为它们属于端到端的 AI 模型架构，而非传统的导航技术栈。
+> **注意**：视觉语言导航 (VLN) 模型已归类到 [基础模型](/guide/embodied-models/vln/README.md) 目录下，因为它们属于端到端的 AI 模型架构，而非传统的导航技术栈。
 
 ## 项目列表
 
@@ -27,5 +27,5 @@
 | 目录 | 定位 | 核心特点 |
 |------|------|---------|
 | **navigation/** | 传统导航技术栈 | SLAM、定位、建图、经典路径规划算法 |
-| **foundation-models/vln/** | AI 导航模型 | 端到端、多模态融合、语言驱动的导航 |
+| **embodied-models/vln/** | AI 导航模型 | 端到端、多模态融合、语言驱动的导航 |
 | **planning/path-planning/** | 路径规划算法 | A*, RRT*, Dijkstra 等几何寻路算法 |

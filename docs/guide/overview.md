@@ -11,7 +11,7 @@
 | **基础层** | [数学基础](/guide/math/README.md) | 微积分、线性代数、概率论、优化理论 | ⭐ 入门必修 |
 | **基础层** | [机器人学原理](/guide/robotics/README.md) | 运动学、动力学、控制理论 | ⭐ 核心基础 |
 | **工具层** | [机器人操作系统](/guide/ros/README.md) | ROS1、ROS2、Drake、PyRobot 等 | 🔧 开发工具 |
-| **模型层** | [基础模型](/guide/foundation-models/README.md) | VLA、WAM、VLN 三大方向 | 🚀 前沿技术 |
+| **模型层** | [基础模型](/guide/embodied-models/README.md) | VLA、WAM、VLN 三大方向 | 🚀 前沿技术 |
 | **感知层** | [感知系统](/guide/perception/README.md) | 2D 视觉、3D 视觉、多传感器融合 | 👁️ 环境感知 |
 | **决策层** | [决策与规划](/guide/planning/README.md) | 路径规划、运动规划、任务规划 | 🧠 智能核心 |
 | **导航层** | [导航系统](/guide/navigation/README.md) | SLAM、视觉导航 | 🧭 自主移动 |
@@ -51,7 +51,7 @@ ROS → 仿真环境 → 硬件系统 → 模型部署 → 应用开发
 
 当前最值得关注的项目和方向：
 
-- **VLA 模型** - [OpenVLA](/guide/foundation-models/vla/openvla/README.md)、[Octo](/guide/foundation-models/vla/octo/README.md)、[GR00T](/guide/foundation-models/vla/gr00t/README.md) 等视觉语言动作模型
+- **VLA 模型** - [OpenVLA](/guide/embodied-models/vla/openvla/README.md)、[Octo](/guide/embodied-models/vla/octo/README.md)、[GR00T](/guide/embodied-models/vla/gr00t/README.md) 等视觉语言动作模型
 - **训练框架** - [Isaac Lab](/guide/training/isaaclab/README.md)、[LeRobot](/guide/training/lerobot/README.md) 等机器人训练平台
 - **世界模型** - 各类动力学预测模型，探索世界如何运作
 - **具身数据集** - [Open X-Embodiment](/guide/data/datasets/open-x-embodiment/README.md)、[RH20T](/guide/data/datasets/rh20t/README.md) 等大规模数据集
@@ -80,7 +80,7 @@ ROS → 仿真环境 → 硬件系统 → 模型部署 → 应用开发
 
 > **Q: 我想做具身智能研究，重点看哪些内容？**
 > 
-> 重点关注 [基础模型](/guide/foundation-models/README.md) 中的 VLA 和 WAM 方向，以及 [训练框架](/guide/training/README.md) 和 [世界模型](/guide/world-models/README.md) 章节。[具身数据](/guide/data/README.md) 部分提供了丰富的评测基准。
+> 重点关注 [基础模型](/guide/embodied-models/README.md) 中的 VLA 和 WAM 方向，以及 [训练框架](/guide/training/README.md) 和 [世界模型](/guide/world-models/README.md) 章节。[具身数据](/guide/data/README.md) 部分提供了丰富的评测基准。
 
 > **Q: 如何在本地运行这些项目？**
 > 

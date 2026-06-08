@@ -28,7 +28,7 @@
 | **基础层** | [数学基础](docs/guide/math/README.md) | 微积分、线性代数、概率论、优化理论 | ⭐ 入门必修 |
 | **基础层** | [机器人学原理](docs/guide/robotics/README.md) | 运动学、动力学、控制理论 | ⭐ 核心基础 |
 | **工具层** | [机器人操作系统](docs/guide/ros/README.md) | ROS1、ROS2、Drake、PyRobot 等 | 🔧 开发工具 |
-| **模型层** | [基础模型](docs/guide/foundation-models/README.md) | VLA、WAM、VLN 三大方向 | 🚀 前沿技术 |
+| **模型层** | [基础模型](docs/guide/embodied-models/README.md) | VLA、WAM、VLN 三大方向 | 🚀 前沿技术 |
 | **感知层** | [感知系统](docs/guide/perception/README.md) | 2D 视觉、3D 视觉、多传感器融合 | 👁️ 环境感知 |
 | **决策层** | [决策与规划](docs/guide/planning/README.md) | 路径规划、运动规划、任务规划 | 🧠 智能核心 |
 | **导航层** | [导航系统](docs/guide/navigation/README.md) | SLAM、视觉导航 | 🧭 自主移动 |
