@@ -4,26 +4,28 @@
 
 ## 目录
 
-- [DreamZero](/guide/embodied-models/wam/dreamzero/README.md)
-- [Cosmos Policy](/guide/embodied-models/wam/cosmos-policy/README.md)
-- [UnifoLM-WMA-0](/guide/embodied-models/wam/unifolwm/README.md)
-- [Awesome-WAM](/guide/embodied-models/wam/awesome-wam/README.md)
-- [TesserAct](/guide/embodied-models/wam/tesseract/README.md)
-- [Large Video Planner](/guide/embodied-models/wam/lvp/README.md)
-- [4DGen](/guide/embodied-models/wam/4dgen/README.md)
-- [LaPA](/guide/embodied-models/wam/lapa/README.md)
-- [mimic-video](/guide/embodied-models/wam/mimic-video/README.md)
-- [villa-X](/guide/embodied-models/wam/villa-x/README.md)
-- [WorldVLA](/guide/embodied-models/wam/worldvla/README.md)
-- [RynnVLA-002](/guide/embodied-models/wam/rynnvla-002/README.md)
-- [GigaWorld-Policy](/guide/embodied-models/wam/gigaworld-policy/README.md)
-- [FRAPPE](/guide/embodied-models/wam/frappe/README.md)
-- [Motus](/guide/embodied-models/wam/motus/README.md)
-- [Diffusion Reward](/guide/embodied-models/wam/diffusion-reward/README.md)
-- [SRPO](/guide/embodied-models/wam/srpo/README.md)
-- [WoVR](/guide/embodied-models/wam/wovr/README.md)
-- [Interactive World Simulator](/guide/embodied-models/wam/interactive-world-sim/README.md)
-- [LingBot-VA](/guide/embodied-models/wam/lingbot-va/README.md)
+- [DreamZero](/guide/embodied-models/wam/dreamzero/README)
+- [Cosmos Policy](/guide/embodied-models/wam/cosmos-policy/README)
+- [UnifoLM-WMA-0](/guide/embodied-models/wam/unifolwm/README)
+- [Awesome-WAM](/guide/embodied-models/wam/awesome-wam/README)
+- [TesserAct](/guide/embodied-models/wam/tesseract/README)
+- [Large Video Planner](/guide/embodied-models/wam/lvp/README)
+- [4DGen](/guide/embodied-models/wam/4dgen/README)
+- [LaPA](/guide/embodied-models/wam/lapa/README)
+- [mimic-video](/guide/embodied-models/wam/mimic-video/README)
+- [villa-X](/guide/embodied-models/wam/villa-x/README)
+- [WorldVLA](/guide/embodied-models/wam/worldvla/README)
+- [RynnVLA-002](/guide/embodied-models/wam/rynnvla-002/README)
+- [GigaWorld-Policy](/guide/embodied-models/wam/gigaworld-policy/README)
+- [FRAPPE](/guide/embodied-models/wam/frappe/README)
+- [Motus](/guide/embodied-models/wam/motus/README)
+- [Diffusion Reward](/guide/embodied-models/wam/diffusion-reward/README)
+- [SRPO](/guide/embodied-models/wam/srpo/README)
+- [WoVR](/guide/embodied-models/wam/wovr/README)
+- [Interactive World Simulator](/guide/embodied-models/wam/interactive-world-sim/README)
+- [LingBot-VA](/guide/embodied-models/wam/lingbot-va/README)
+- [Book-of-MLM](/guide/embodied-models/Book-of-MLM/README)
+- [RynnBrain](/guide/embodied-models/RynnBrain/README)
 
 
 ## 什么是世界动作模型(WAM)
@@ -43,118 +45,125 @@
 
 DreamZero是首个开源的世界动作模型，由NVIDIA GEAR实验室开发，实现了零样本物理泛化和跨机器人本体迁移。
 
-详细信息：[DreamZero](/guide/embodied-models/wam/dreamzero/README.md)
+详细信息：[DreamZero](/guide/embodied-models/wam/dreamzero/README)
 
 ### Cosmos Policy
 
 NVIDIA 开源的世界动作模型，专为通用机器人设计，在LIBERO基准测试中达到82.2%成功率。
 
-详细信息：[Cosmos Policy](/guide/embodied-models/wam/cosmos-policy/README.md)
+详细信息：[Cosmos Policy](/guide/embodied-models/wam/cosmos-policy/README)
 
 ### UnifoLM-WMA-0
 
 宇树科技开源的世界模型动作框架（WMA），为具身智能机器人提供仿真引擎和策略增强的完整解决方案。
 
-详细信息：[UnifoLM-WMA-0](/guide/embodied-models/wam/unifolwm/README.md)
+详细信息：[UnifoLM-WMA-0](/guide/embodied-models/wam/unifolwm/README)
 
 ### Awesome-WAM
 
 复旦大学开源整理的世界动作模型(WAM)研究综述，系统梳理了WAM领域的最新进展和分类。
 
-详细信息：[Awesome-WAM](/guide/embodied-models/wam/awesome-wam/README.md)
+详细信息：[Awesome-WAM](/guide/embodied-models/wam/awesome-wam/README)
 
 ### TesserAct
 
 TesserAct: 学习4D具身世界模型，ICCV 2025。学习4D空间时间维度的环境动态，基于显式世界建模提升泛化能力。
 
-详细信息：[TesserAct](/guide/embodied-models/wam/tesseract/README.md)
+详细信息：[TesserAct](/guide/embodied-models/wam/tesseract/README)
 
 ### Large Video Planner (LV-P)
 
 Large Video Planner: 大型视频规划器框架，实现通用机器人控制，基于视频生成模型进行长程规划。
 
-详细信息：[Large Video Planner](/guide/embodied-models/wam/lvp/README.md)
+详细信息：[Large Video Planner](/guide/embodied-models/wam/lvp/README)
 
 ### 4DGen
 
 Geometry-aware 4D Video Generation for Robot Manipulation, ICLR 2026。几何感知的4D视频生成，专为机器人操作设计。
 
-详细信息：[4DGen](/guide/embodied-models/wam/4dgen/README.md)
+详细信息：[4DGen](/guide/embodied-models/wam/4dgen/README)
 
 ### LaPA
 
 Latent Action Pretraining from Videos, ICLR 2025。从视频中进行潜在动作预训练，无需交互数据。
 
-详细信息：[LaPA](/guide/embodied-models/wam/lapa/README.md)
+详细信息：[LaPA](/guide/embodied-models/wam/lapa/README)
 
 ### mimic-video
 
 mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs, arXiv 2025。视频动作模型框架，超越传统VLA实现更好泛化。
 
-详细信息：[mimic-video](/guide/embodied-models/wam/mimic-video/README.md)
+详细信息：[mimic-video](/guide/embodied-models/wam/mimic-video/README)
 
 ### villa-X
 
 villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models, ICLR 2026。增强视觉语言动作模型中的潜在动作建模。
 
-详细信息：[villa-X](/guide/embodied-models/wam/villa-x/README.md)
+详细信息：[villa-X](/guide/embodied-models/wam/villa-x/README)
 
 ### WorldVLA
 
 WorldVLA: Towards Autoregressive Action World Model, arXiv 2025。阿里巴巴达摩院开源，自回归动作世界模型框架。
 
-详细信息：[WorldVLA](/guide/embodied-models/wam/worldvla/README.md)
+详细信息：[WorldVLA](/guide/embodied-models/wam/worldvla/README)
 
 ### RynnVLA-002
 
 RynnVLA-002: A Unified Vision-Language-Action and World Model, arXiv 2025。阿里巴巴达摩院开源，统一的视觉语言动作和世界模型。
 
-详细信息：[RynnVLA-002](/guide/embodied-models/wam/rynnvla-002/README.md)
+详细信息：[RynnVLA-002](/guide/embodied-models/wam/rynnvla-002/README)
 
 ### GigaWorld-Policy
 
 GigaWorld-Policy: An Efficient Action-Centered World-Action Model, arXiv 2026。高效的以动作中心的世界动作模型。
 
-详细信息：[GigaWorld-Policy](/guide/embodied-models/wam/gigaworld-policy/README.md)
+详细信息：[GigaWorld-Policy](/guide/embodied-models/wam/gigaworld-policy/README)
 
 ### FRAPPE
 
 FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment, arXiv 2026。通过多未来表示对齐将世界建模注入通用策略。
 
-详细信息：[FRAPPE](/guide/embodied-models/wam/frappe/README.md)
+详细信息：[FRAPPE](/guide/embodied-models/wam/frappe/README)
 
 ### Motus
 
 Motus: A Unified Latent Action World Model, arXiv 2025。清华团队开源，统一的潜在动作世界模型框架。
 
-详细信息：[Motus](/guide/embodied-models/wam/motus/README.md)
+详细信息：[Motus](/guide/embodied-models/wam/motus/README)
 
 ### Diffusion Reward
 
 Diffusion Reward: Learning Rewards via Conditional Video Diffusion, ECCV 2024。通过条件视频扩散学习奖励函数。
 
-详细信息：[Diffusion Reward](/guide/embodied-models/wam/diffusion-reward/README.md)
+详细信息：[Diffusion Reward](/guide/embodied-models/wam/diffusion-reward/README)
 
 ### SRPO
 
 SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models, arXiv 2025。视觉语言动作模型的自引用策略优化。
 
-详细信息：[SRPO](/guide/embodied-models/wam/srpo/README.md)
+详细信息：[SRPO](/guide/embodied-models/wam/srpo/README)
 
 ### WoVR
 
 WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL, arXiv 2026。将世界模型作为可靠模拟器用于VLA策略后训练。
 
-详细信息：[WoVR](/guide/embodied-models/wam/wovr/README.md)
+详细信息：[WoVR](/guide/embodied-models/wam/wovr/README)
 
 ### Interactive World Simulator
 
 Interactive World Simulator for Robot Policy Training and Evaluation, arXiv 2026。交互式世界模拟器，用于机器人策略训练和评估。
 
-详细信息：[Interactive World Simulator](/guide/embodied-models/wam/interactive-world-sim/README.md)
+详细信息：[Interactive World Simulator](/guide/embodied-models/wam/interactive-world-sim/README)
 
 ### LingBot-VA
 
 LingBot-VA: Causal video-action world model for generalist robot control, RSS 2026。自回归扩散框架，统一视频世界建模和策略学习，联合学习未来帧预测和动作执行。具备长期记忆和少样本适应能力，在长周期操作任务上表现优异。
 
-详细信息：[LingBot-VA](/guide/embodied-models/wam/lingbot-va/README.md)
+详细信息：[LingBot-VA](/guide/embodied-models/wam/lingbot-va/README)
+- [Awesome-WAM（一份经过整理、持续更新的，关于具身智能中…）](/guide/embodied-models/wam/awesome-wam/README)
+- [Book-of-MLM（《多模态大模型：新一代人工智能技术范式》…）](/guide/embodied-models/Book-of-MLM/README)
+- [RynnBrain（RynnBrain：开放具身基础模型）](/guide/embodied-models/RynnBrain/README)
+- [Awesome-WAM（一份经过整理、持续更新的，关于具身智能中…）](/guide/embodied-models/wam/Awesome-WAM/README)
+- [mimic-video（面向超越VLA的通用化机器人控制的视频-…）](/guide/embodied-models/wam/mimic-video/README)
+- [Hy-Embodied-RxBrain-1.0（RxBrain: 具身认知基础模型，具备…）](/guide/embodied-models/wam/Hy-Embodied-RxBrain-1.0/README)
+- [OpenETA（openeta: 具身任务代理）](/guide/embodied-models/wam/OpenETA/README)

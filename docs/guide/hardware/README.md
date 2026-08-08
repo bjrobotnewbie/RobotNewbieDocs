@@ -1,36 +1,32 @@
 # 机器人硬件开发 (Robot Hardware Development)
 
-机器人硬件开发涵盖了从基础电子电路到完整机器人系统的各个方面，是机器人技术的物理基础。
+机器人硬件开发涵盖从嵌入式系统、电子设计、机械设计到传感器与执行器的完整物理实现链条，是机器人技术的物理基础。
 
-## 嵌入式基础
-
-### 项目列表
-
-- [微控制器基础](/guide/hardware/microcontroller-basics/README.md)
-- [嵌入式 Linux](/guide/hardware/embedded-linux/README.md)
-- [野火 STM32 教程](/guide/hardware/wildfire-stm32/README.md)
-- [STM32 工程实践](/guide/hardware/stm32-engineering/README.md)
-
-## 机械设计
-
-### 项目列表
-
-- [SolidWorks CAD 教程](/guide/hardware/solidworks-cad/README.md)
-
-## 传感器与执行器
-
-### 项目列表
-
-- [电机控制](/guide/hardware/motor-control/README.md)
-- [传感器](/guide/hardware/sensors/README.md)
-  - [深度相机](/guide/hardware/sensors/depth-camera/README.md)
-  - [触觉传感](/guide/hardware/sensors/tactile-sensing/README.md)
-
-
-## 分类说明
+## 分类体系
 
 | 分类 | 核心内容 | 技能要点 |
 |------|---------|---------|
-| **嵌入式基础** | 微控制器、STM32、嵌入式 Linux | C/C++ 编程，外设驱动，RTOS |
-| **机械设计** | CAD 建模，结构设计 | SolidWorks，机械原理，零件加工 |
-| **传感器与执行器** | 各类传感器原理，电机驱动 | 电路设计，信号处理，PID 控制 |
+| [**嵌入式系统**](./embedded-systems/README) | 微控制器、嵌入式Linux、RTOS | C/C++编程、外设驱动、实时系统 |
+| [**电子设计**](./electronics/README) | 电路设计、PCB、电力电子、驱动电路 | 原理图设计、PCB布局、信号完整性 |
+| [**机械设计**](./mechanical-design/README) | CAD建模、机械原理、材料与制造 | 三维建模、机构设计、加工工艺 |
+| [**传感器与执行器**](./sensors-actuators/README) | 传感器原理、电机驱动、信号处理 | 器件选型、数据采集、PID控制 |
+| [**硬件项目**](./projects/README) | 完整开源机器人硬件项目 | 系统集成、整机调试 |
+
+## 分类边界
+
+- **嵌入式系统** vs **电子设计**：嵌入式聚焦"芯片怎么编程"，电子设计聚焦"电路板怎么设计"。
+- **机械设计** vs **机器人学原理**：机械设计聚焦"零件怎么造"，机器人学原理聚焦"机构怎么运动"（运动学/动力学理论）。
+- **传感器与执行器** vs **感知系统**：本章节聚焦"器件原理和驱动"，感知系统聚焦"数据处理和算法"。
+- **传感器与执行器** vs **控制系统**：本章节聚焦"电机怎么驱动"，控制系统聚焦"运动怎么控制"（控制算法）。
+
+## 学习路径
+
+```
+嵌入式系统 -> 电子设计 -> 传感器与执行器 -> 机械设计 -> 硬件项目
+```
+
+建议从嵌入式系统建立微控制器开发能力，学习电子设计掌握电路板设计，再了解传感器与执行器的原理和驱动，配合机械设计完成结构实现，最终通过完整硬件项目进行综合实践。
+
+- [inav-configurator](/guide/hardware/inav-configurator/README)
+
+- [pycyphal（Cyphal 协议栈的 Python 实…）](/guide/hardware/pycyphal/README)

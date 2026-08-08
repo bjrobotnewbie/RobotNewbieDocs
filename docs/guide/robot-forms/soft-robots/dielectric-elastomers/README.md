@@ -1,7 +1,7 @@
 # 介电弹性体驱动器
 
 <figure style="text-align: center; margin: 1.5rem 0;">
-  <img src="./_static/Dielectric_elastomers.gif" alt="介电弹性体驱动器" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <img src="./_static/Dielectric_elastomers.gif" alt="介电弹性体驱动器" loading="lazy" decoding="async" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">介电弹性体执行器的工作原理：弹性体薄膜两侧涂有电极，电极连接到电路。施加电压 \(U\) 时，静电压力 \(p_{el}\) 产生作用。由于机械压缩，弹性体薄膜在厚度方向收缩，在薄膜平面方向膨胀。当电路短路时，弹性体薄膜恢复到原始位置。</figcaption>
 </figure>
 

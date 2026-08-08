@@ -10,7 +10,7 @@
 
 clifford 是一个老牌的 Python 库，用于处理 Clifford 代数（几何代数的数学基础）中的计算。它提供了对多向量（multivectors）的基本运算支持，是 Python 生态中较早的几何代数计算库。
 
-> 注意：这个项目现在已经由 [pygae/clifford](../pygae-clifford/README.md) 组织接手维护，建议新项目直接使用 pygae 版本。
+> 注意：这个项目现在已经由 [pygae/clifford](../pygae-clifford/README) 组织接手维护，建议新项目直接使用 pygae 版本。
 
 ## 主要功能
 
@@ -87,4 +87,4 @@ pip install clifford
 
 ## 总结
 
-DevonMorris/clifford 是 Python 几何代数计算的先行者，开创了 Python 中使用几何代数的先河。但现在开发已经转移到 pygae 组织，**新项目推荐直接使用 [pygae/clifford](../pygae-clifford/README.md)**。
+DevonMorris/clifford 是 Python 几何代数计算的先行者，开创了 Python 中使用几何代数的先河。但现在开发已经转移到 pygae 组织，**新项目推荐直接使用 [pygae/clifford](../pygae-clifford/README)**。

@@ -4,16 +4,17 @@
 
 ## 项目列表
 
-- [线性代数与几何](/guide/math/linear-algebra-geometry/README.md)：机器人学核心线性代数与几何资源
-- [微积分与数值方法](/guide/math/calculus-numerical/README.md)：微积分与机器人学数值计算资源
-- [概率与统计](/guide/math/probability-statistics/README.md)：概率与统计在机器人学中的应用
-- [优化理论](/guide/math/optimization-theory/README.md)：机器人学优化理论资源
-- [机器人学专用数学](/guide/math/robotics-math/README.md)：机器人专用数学理论与方法
-- [深度学习数学基础](/guide/math/deep-learning-math/README.md)：具身智能深度学习数学基础
+- [线性代数与几何](/guide/math/linear-algebra-geometry/README)：机器人学核心线性代数与几何资源
+- [微积分与数值方法](/guide/math/calculus-numerical/README)：微积分与机器人学数值计算资源
+- [概率与统计](/guide/math/probability-statistics/README)：概率与统计在机器人学中的应用
+- [优化理论](/guide/math/optimization-theory/README)：机器人学优化理论资源
+- [机器人学专用数学](/guide/math/robotics-math/README)：机器人专用数学理论与方法
+- [深度学习数学基础](/guide/math/deep-learning-math/README)：具身智能深度学习数学基础
+- [Maths-CS-AI Compendium](/guide/math/maths-cs-ai-compendium/README)：涵盖数学、计算机科学和人工智能的综合教材
 
 ## 分类说明
 
-| 分类 | 核心内容 | 应用场景 |
+| 分类 | 主要内容 | 应用场景 |
 |------|---------|---------|
 | **线性代数与几何** | 矩阵、向量、空间变换 | 机器人位姿表示、坐标变换、视觉感知 |
 | **微积分与数值方法** | 导数、积分、数值计算 | 机器人动力学、运动规划 |

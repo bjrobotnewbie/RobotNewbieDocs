@@ -1,12 +1,20 @@
 # StarVLA
-星桥资本团队开源的通用VLA框架，支持多种VLM基座，生态活跃，适配多种机器人平台。
 
-## 核心特性
-- 框架设计开放灵活，支持多种VLM基座（QwenPI-v2/QwenPI-v3/Bridge-RT-1等）
-- 原生支持多种机器人构型，开箱即用
-- 社区活跃，持续更新功能
-- 提供完整训练部署 pipeline
+StarVLA：一个用于开发视觉-语言-动作模型的乐高式代码库
 
-## 相关链接
-- 📦 GitHub仓库：[https://github.com/starVLA/starVLA](https://github.com/starVLA/starVLA)
-- 🤗 HuggingFace：[https://huggingface.co/starvla](https://huggingface.co/starvla)
+## 项目链接
+
+- GitHub: <https://github.com/starVLA/starVLA>
+- 项目主页: https://starvla.github.io/
+- HuggingFace: https://huggingface.co/starvla
+
+## 项目概述
+
+StarVLA是一个开源的通用机器人研究平台，主打乐高式模块化代码架构，用于开发视觉-语言-动作（VLA）模型。它遵循高内聚低耦合的设计原则，各功能组件（模型、数据、训练器、配置、评估等）可插拔，支持快速原型开发与独立调试，同时提供了官方项目页面、Hugging Face模型与数据集仓库、arXiv技术报告以及微信交流群。
+
+## 主要特性
+
+1. **模块化架构**：组件解耦，支持即插即用，便于快速迭代与调试
+2. 多硬件与模型支持：现已支持基于昇腾NPU以及通义千问系列骨干网络的VLA训练
+3. 低学习门槛：代码结构清晰直观，分支切换平滑，同时提供自定义脚本存放目录避免污染仓库
+4. 活跃社区：设有贡献者交流群，欢迎社区参与开发与维护

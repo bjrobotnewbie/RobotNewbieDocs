@@ -14,7 +14,7 @@
 
 ## 方法详解
 
-### 1. [行为树 (Behavior Tree)](/guide/planning/task-planning/classical/behavior-tree/README.md)
+### 1. [行为树 (Behavior Tree)](/guide/planning/task-planning/classical/behavior-tree/README)
 
 行为树是一种树形结构的任务执行建模方法，起源于游戏 AI 领域，现在广泛应用于机器人系统。
 
@@ -43,7 +43,7 @@
 
 ---
 
-### 2. [层次任务网络 (HTN)](/guide/planning/task-planning/classical/htn/README.md)
+### 2. [层次任务网络 (HTN)](/guide/planning/task-planning/classical/htn/README)
 
 层次任务网络通过递归地将复合任务分解为更简单的子任务，直到达到可执行的原语动作。
 
@@ -69,7 +69,7 @@
 
 ---
 
-### 3. [规划域定义语言 (PDDL)](/guide/planning/task-planning/classical/pddl/README.md)
+### 3. [规划域定义语言 (PDDL)](/guide/planning/task-planning/classical/pddl/README)
 
 PDDL 是人工智能规划领域的标准化语言，用于描述规划问题的领域知识和具体问题。
 

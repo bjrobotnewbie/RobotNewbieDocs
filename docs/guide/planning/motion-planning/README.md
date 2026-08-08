@@ -4,11 +4,11 @@
 
 ## 分类总览
 
-| 分类 | 定位 | 核心内容 | 典型代表 |
+| 分类 | 定位 | 主要内容 | 典型代表 |
 |------|------|---------|---------|
-| [**集成框架**](/guide/planning/motion-planning/frameworks/README.md) | 完整解决方案 | 运动学求解、碰撞检测、可视化 | MoveIt!, MoveIt 2 |
-| [**算法库**](/guide/planning/motion-planning/libraries/README.md) | 底层算法实现 | 规划算法核心实现 | OMPL, SBPL |
-| [**轨迹优化**](/guide/planning/motion-planning/optimization/README.md) | 轨迹质量提升 | 数值优化、平滑约束 | CHOMP, STOMP |
+| [**集成框架**](/guide/planning/motion-planning/frameworks/README) | 完整解决方案 | 运动学求解、碰撞检测、可视化 | MoveIt!, MoveIt 2 |
+| [**算法库**](/guide/planning/motion-planning/libraries/README) | 底层算法实现 | 规划算法核心实现 | OMPL, SBPL |
+| [**轨迹优化**](/guide/planning/motion-planning/optimization/README) | 轨迹质量提升 | 数值优化、平滑约束 | CHOMP, STOMP |
 
 ---
 
@@ -97,17 +97,36 @@
 
 ## 详细文档
 
-### [集成框架](/guide/planning/motion-planning/frameworks/README.md)
-- [MoveIt!](/guide/planning/motion-planning/frameworks/moveit/README.md) - ROS 1 运动规划标准框架
-- [MoveIt 2](/guide/planning/motion-planning/frameworks/moveit2/README.md) - ROS 2 下一代框架
+### [集成框架](/guide/planning/motion-planning/frameworks/README)
+- [MoveIt!](/guide/planning/motion-planning/frameworks/moveit/README) - ROS 1 运动规划标准框架
+- [MoveIt 2](/guide/planning/motion-planning/frameworks/moveit2/README) - ROS 2 下一代框架
 
-### [算法库](/guide/planning/motion-planning/libraries/README.md)
-- [OMPL](/guide/planning/motion-planning/libraries/ompl/README.md) - 开源运动规划库
-- [SBPL](/guide/planning/motion-planning/libraries/sbpl/README.md) - 基于搜索的规划库
+### [算法库](/guide/planning/motion-planning/libraries/README)
+- [OMPL](/guide/planning/motion-planning/libraries/ompl/README) - 开源运动规划库
+- [SBPL](/guide/planning/motion-planning/libraries/sbpl/README) - 基于搜索的规划库
 
-### [轨迹优化](/guide/planning/motion-planning/optimization/README.md)
-- [CHOMP](/guide/planning/motion-planning/optimization/chomp/README.md) - 协变哈密顿优化
-- [STOMP](/guide/planning/motion-planning/optimization/stomp/README.md) - 随机轨迹优化
+### [轨迹优化](/guide/planning/motion-planning/optimization/README)
+- [CHOMP](/guide/planning/motion-planning/optimization/chomp/README) - 协变哈密顿优化
+- [STOMP](/guide/planning/motion-planning/optimization/stomp/README) - 随机轨迹优化
+
+### 运动规划库与工具
+
+- [curobo](/guide/planning/curobo/README) - NVIDIA CUDA 加速机器人运动生成库，支持 IK、碰撞检测、轨迹优化
+- [MPlib](/guide/planning/MPlib/README) - 轻量级 Python 运动规划库，脱离 ROS 依赖
+- [openrave](/guide/planning/openrave/README) - 经典机器人运动规划仿真环境
+- [tesseract](/guide/planning/tesseract/README) - 运动规划环境框架，支持 IK、碰撞检测和轨迹规划
+- [pyroboplan](/guide/planning/pyroboplan/README) - 面向教育的 Python 机械臂运动规划库
+- [roboplan](/guide/planning/roboplan/README) - 基于 Pinocchio 的现代机器人运动规划库
+- [python_motion_planning](/guide/planning/python_motion_planning/README) - 运动规划算法 Python 实现集合，含可视化
+- [dynoplan](/guide/planning/dynoplan/README) - 动力学约束运动规划库，含 RRT*-TO、SST*、iDb-A* 算法
+- [ruckig](/guide/planning/ruckig/README) - 即时在线轨迹生成库，支持 jerk 约束
+- [toppra](/guide/planning/toppra/README) - 时间最优路径参数化（TOPP-RA）运动规划库
+- [cuTAMP](/guide/planning/cuTAMP/README) - GPU 并行任务与运动规划（TAMP）框架
+- [HRVO](/guide/planning/HRVO/README) - 混合互惠速度障碍（HRVO）C++ 库，用于多智能体避碰
+- [RVO2](/guide/planning/RVO2/README) - ORCA 最优互惠碰撞避免算法 C++ 实现
+- [RVO2-3D](/guide/planning/RVO2-3D/README) - ORCA 算法的三维空间实现
+- [RVO2-CS](/guide/planning/RVO2-CS/README) - ORCA 算法的 C# 实现版本
+- [SCAN-Planner](/guide/planning/SCAN-Planner/README) - 四足机器人空间碰撞感知局部规划器
 
 ---
 
@@ -146,3 +165,21 @@
 - [OMPL 官方文档](https://ompl.kavrakilab.org/)
 - [SBPL 官方文档](https://sbpl.net/)
 - [机器人运动规划教材](http://motion.cs.illinois.edu/RoboticSystemsBook/)
+
+- [ompl（开放运动规划库（OMPL））](/guide/planning/motion-planning/ompl/README)
+
+- [routingpy（🌎 这是一个 Python 库，用于以统…）](/guide/planning/motion-planning/routingpy/README)
+
+- [vamp（SIMD加速的基于采样的运动规划）](/guide/planning/motion-planning/vamp/README)
+
+- [isaac_ros_cumotion（用于机械臂运动规划与控制的NVIDIA加…）](/guide/planning/motion-planning/isaac_ros_cumotion/README)
+
+- [moveit2（：机器人：MoveIt for ROS …）](/guide/planning/motion-planning/moveit2/README)
+
+- [moveit（:robot: MoveIt 运动规划框…）](/guide/planning/motion-planning/moveit/README)
+
+- [RDA-planner（[RA-Letter 2023] RDA…）](/guide/planning/motion-planning/RDA-planner/README)
+
+- [mighty（MIGHTY：一种基于 Hermite …）](/guide/planning/motion-planning/mighty/README)
+
+- [lacam3（LaCAM*：面向实时、大规模及近乎最优…）](/guide/planning/motion-planning/lacam3/README)

@@ -110,13 +110,13 @@ $$ X = \frac{1}{2}r^2 e\_\infty + {\bf x} + e\_0 $$
 
 
 
-- [ganja.js](ganja-js/README.md) - 浏览器端交互式几何代数可视化，适合教学和演示
-- [clifford (DevonMorris)](clifford-devonmorris/README.md) - Python Clifford代数计算库
-- [kingdon](kingdon/README.md) - Rust高性能几何代数库
-- [gafro](gafro/README.md) - C++17自动微分几何代数库，适合机器人优化
-- [awesome-geometric-algebra](awesome-geometric-algebra/README.md) - 几何代数资源大全
-- [pygae/clifford](pygae-clifford/README.md) - Python几何代数库，Pygae维护
-- [geometricalgebra.org](geometricalgebra-org/README.md) - 几何代数官方网站和学习资源
+- [ganja.js](ganja-js/README) - 浏览器端交互式几何代数可视化，适合教学和演示
+- [clifford (DevonMorris)](clifford-devonmorris/README) - Python Clifford代数计算库
+- [kingdon](kingdon/README) - Rust高性能几何代数库
+- [gafro](gafro/README) - C++17自动微分几何代数库，适合机器人优化
+- [awesome-geometric-algebra](awesome-geometric-algebra/README) - 几何代数资源大全
+- [pygae/clifford](pygae-clifford/README) - Python几何代数库，Pygae维护
+- [geometricalgebra.org](geometricalgebra-org/README) - 几何代数官方网站和学习资源
 
 
 

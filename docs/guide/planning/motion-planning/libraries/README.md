@@ -6,8 +6,8 @@
 
 | 库 | 核心算法 | 规划类型 | 特点 |
 |----|---------|---------|------|
-| [**OMPL**](/guide/planning/motion-planning/libraries/ompl/README.md) | RRT*, PRM, EST 等 | 基于采样 | 算法丰富，高性能 |
-| [**SBPL**](/guide/planning/motion-planning/libraries/sbpl/README.md) | A*, ARA*, R* | 基于搜索 | 最优性保证，增量规划 |
+| [**OMPL**](/guide/planning/motion-planning/libraries/ompl/README) | RRT*, PRM, EST 等 | 基于采样 | 算法丰富，高性能 |
+| [**SBPL**](/guide/planning/motion-planning/libraries/sbpl/README) | A*, ARA*, R* | 基于搜索 | 最优性保证，增量规划 |
 
 ## 算法分类对比
 
@@ -15,7 +15,7 @@
 
 OMPL 专注于基于采样的运动规划算法，适合高维构型空间的运动规划。
 
-**核心特点：**
+**主要特点：**
 - ✅ 概率完备性
 - ✅ 高维空间效率高
 - ✅ 算法选择丰富
@@ -39,7 +39,7 @@ OMPL 专注于基于采样的运动规划算法，适合高维构型空间的运
 
 SBPL 专注于基于图搜索的规划算法，提供最优性保证和增量规划能力。
 
-**核心特点：**
+**主要特点：**
 - ✅ 有界次优性保证
 - ✅ Anytime 规划能力
 - ✅ 增量规划支持

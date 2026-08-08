@@ -4,7 +4,7 @@
 
 ## 项目链接
 
-- GitHub: https://github.com/ga/awesome-geometric-algebra
+- GitHub: <https://github.com/ga/awesome-geometric-algebra>
 
 ## 项目简介
 
@@ -33,12 +33,12 @@ awesome-geometric-algebra 是一个精心整理的几何代数资源列表，涵
 
 按语言分类：
 
-| 语言 | 库 | 说明 |
-|------|----|------|
-| JavaScript | [ganja.js](../ganja-js/README.md) | 交互式可视化 |
-| Python | [pygae/clifford](../pygae-clifford/README.md) | 活跃维护的Python库 |
-| Rust | [kingdon](../kingdon/README.md) | 高性能Rust实现 |
-| C++ | [gafro](../gafro/README.md) | 带自动微分，适合机器人 |
+| 语言         | 库                                             | 说明           |
+| ---------- | --------------------------------------------- | ------------ |
+| JavaScript | [ganja.js](../ganja-js/README)             | 交互式可视化       |
+| Python     | [pygae/clifford](../pygae-clifford/README) | 活跃维护的Python库 |
+| Rust       | [kingdon](../kingdon/README)               | 高性能Rust实现    |
+| C++        | [gafro](../gafro/README)                   | 带自动微分，适合机器人  |
 
 ### 🎓 课程与讲座
 
@@ -76,16 +76,10 @@ awesome-geometric-algebra 是一个精心整理的几何代数资源列表，涵
 - ✅ **分类清晰**：按语言、应用领域分类，快速找到需要的
 - ✅ **覆盖全面**：从入门书籍到前沿研究都有
 
-## 如何贡献
-
-项目欢迎贡献：
-1. Fork 这个仓库
-2. 添加新的优质资源
-3. 提交 Pull Request
 
 ## 项目状态
 
-- ⭐ Star: ~500+
+- ⭐ Star: \~500+
 - 🧑💻 维护: 几何代数社区
 - 📅 状态：活跃更新
 

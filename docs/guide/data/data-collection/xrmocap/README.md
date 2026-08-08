@@ -8,7 +8,7 @@ XRMoCap 是 OpenXRLab 推出的动作捕捉项目，由 openxrlab 组织维护�
 
 * GitHub仓库：<https://github.com/openxrlab/xrmocap>
 
-## 核心特点
+## 主要特点
 
 * **OpenXRLab 生态**：属于 OpenXRLab 项目生态
 * **开源工具链**：完整开源动作捕捉工具
@@ -21,17 +21,3 @@ XRMoCap 是 OpenXRLab 推出的动作捕捉项目，由 openxrlab 组织维护�
 * 三维人体重建
 * 数据预处理工具
 * 姿势估计
-
-## 适用场景
-
-* 大规模动作捕捉数据处理
-* 计算机视觉研究
-* 机器人数据采集
-* 开源动作捕捉系统
-
-## 适用人群
-
-* OpenXRLab 生态使用者
-* 计算机视觉研究者
-* 动作捕捉算法开发者
-* 需要开源完整工具链的项目

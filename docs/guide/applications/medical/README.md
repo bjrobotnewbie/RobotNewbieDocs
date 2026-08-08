@@ -15,3 +15,18 @@
 - 傅利叶智能康复外骨骼
 - 大艾康复机器人
 - 微创医疗腔镜手术机器人
+
+## 知识库相关项目
+
+- [连续体机器人](/guide/robot-forms/continuum-robots/README) - 微创手术机器人形态
+- [同心管机器人](/guide/robot-forms/continuum-robots/concentric-tubes/README) - 微创手术器械
+- [软体机器人](/guide/robot-forms/soft-robots/README) - 柔性医疗机器人
+- [外骨骼机器人](/guide/robot-forms/exoskeleton/README) - 康复训练设备
+
+## 常用机器人形态
+
+| 形态分类 | 适用场景 | 链接 |
+|---------|---------|------|
+| 操作机器人 | 手术操作 | [操作机器人](/guide/robot-forms/manipulators/README) |
+| 软体机器人 | 微创介入 | [软体机器人](/guide/robot-forms/soft-robots/README) |
+| 连续体机器人 | 微创手术 | [连续体机器人](/guide/robot-forms/continuum-robots/README) |

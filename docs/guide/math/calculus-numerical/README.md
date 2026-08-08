@@ -150,13 +150,13 @@
 
 ### 微积分
 
-- [MIT 18.01/18.02 微积分系列课程](./mit-1801-1802/README.md)：经典微积分系列公开课
-- [Calculus（Thomas）](./thomas-calculus/README.md)：经典微积分教材
+- [MIT 18.01/18.02 微积分系列课程](./mit-1801-1802/README)：经典微积分系列公开课
+- [Calculus（Thomas）](./thomas-calculus/README)：经典微积分教材
 
 ### 数值方法经典教材
 
-- [Numerical Recipes](./numerical-recipes/README.md)：数值计算领域经典著作，涵盖各类算法并提供完整代码
-- [Matrix Computations](./matrix-computations/README.md)：数值线性代数权威参考书，Golub & Van Loan 经典著作
-- [Numerical Optimization](./numerical-optimization/README.md)：数值优化经典教材，Nocedal & Wright 著
-- [Numerical Analysis](./numerical-analysis/README.md)：入门级数值分析教材，Burden & Faires 著
+- [Numerical Recipes](./numerical-recipes/README)：数值计算领域经典著作，涵盖各类算法并提供完整代码
+- [Matrix Computations](./matrix-computations/README)：数值线性代数权威参考书，Golub & Van Loan 经典著作
+- [Numerical Optimization](./numerical-optimization/README)：数值优化经典教材，Nocedal & Wright 著
+- [Numerical Analysis](./numerical-analysis/README)：入门级数值分析教材，Burden & Faires 著
 

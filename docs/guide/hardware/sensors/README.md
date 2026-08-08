@@ -1,15 +1,15 @@
-# 传感器&#x20;
+# 传感器
 
 传感器是机器人感知外部环境和自身状态的核心部件，是机器人实现自主决策和交互的基础。本章节涵盖机器人领域常见的各类传感器技术与应用。
 
 ## 项目列表
 
-- [深度相机](/guide/hardware/sensors/depth-camera/README.md)
-- [触觉感知](/guide/hardware/sensors/tactile-sensing/README.md)
+- [深度相机](/guide/hardware/sensors/depth-camera/README)
+- [触觉感知](/guide/hardware/sensors/tactile-sensing/README)
 
 ## 分类说明
 
-| 分类       | 核心内容        | 应用场景             |
+| 分类       | 主要内容        | 应用场景             |
 | -------- | ----------- | ---------------- |
 | **深度相机** | 深度感知、三维重建   | 环境建模、导航避障、物体位姿估计 |
 | **触觉感知** | 接触力、纹理、硬度感知 | 机器人抓取、精密操作、人机交互  |

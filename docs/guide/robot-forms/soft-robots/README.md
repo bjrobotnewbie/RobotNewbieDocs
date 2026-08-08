@@ -6,7 +6,7 @@
 
 **软体机器人**：机器人主体由模量接近生物软组织的软材料制成，能够产生连续大变形，与刚性机器人有本质区别。
 
-**核心特点**：
+**主要特点**：
 - **连续变形**：无限自由度（理论上）
 - **柔顺性**：能够自适应环境形状
 - **安全性**：与人交互不会造成伤害
@@ -16,11 +16,11 @@
 
 | 分类 | 驱动方式 | 特点 | 典型应用 |
 |------|---------|------|---------|
-| [气动人工肌肉](./pneumatic-artificial-muscles/README.md) | 气压驱动 | 结构简单，力大 | 机械手、仿生行走 |
-| [介电弹性体驱动器](./dielectric-elastomers/README.md) | 电压驱动 | 响应快，高效率 | 人工肌肉、仿生游泳 |
-| [形状记忆合金](./shape-memory-alloys/README.md) | 温度驱动 | 大变形，记住形状 | 医用支架、抓手 |
-| [流体驱动软机器人](./fluid-driven/README.md) | 液压/气压 | 全身连续变形 | 医疗手术机器人 |
-| [化学驱动](./chemical-driven/README.md) | 化学反应 | 自主变形 | 微机器人 |
+| [气动人工肌肉](./pneumatic-artificial-muscles/README) | 气压驱动 | 结构简单，力大 | 机械手、仿生行走 |
+| [介电弹性体驱动器](./dielectric-elastomers/README) | 电压驱动 | 响应快，高效率 | 人工肌肉、仿生游泳 |
+| [形状记忆合金](./shape-memory-alloys/README) | 温度驱动 | 大变形，记住形状 | 医用支架、抓手 |
+| [流体驱动软机器人](./fluid-driven/README) | 液压/气压 | 全身连续变形 | 医疗手术机器人 |
+| [化学驱动](./chemical-driven/README) | 化学反应 | 自主变形 | 微机器人 |
 
 ---
 
@@ -71,3 +71,12 @@
 2. **AI+软机器人**：学习控制替代传统建模
 3. **微纳米软机器人**：医疗靶向递送
 4. **仿生融合**：从生物获取设计灵感
+
+## 典型应用场景
+
+| 应用领域 | 链接 |
+|---------|------|
+| 医疗手术 | [医疗机器人应用](/guide/applications/medical/README) |
+| 抓取包装 | [工业机器人应用](/guide/applications/industrial/README) |
+| 康复辅助 | [医疗机器人应用](/guide/applications/medical/README) |
+| 灾难救援 | [服务机器人应用](/guide/applications/service/README) |

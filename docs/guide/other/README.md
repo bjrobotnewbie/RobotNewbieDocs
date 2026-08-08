@@ -2,17 +2,21 @@
 
 本章节涵盖一些无法归类到其他分类的机器人学习资源、教程和指南。
 
-## 项目列表
+## 综合资源
 
-- [Embodied-AI-Guide](/guide/other/Embodied-AI-Guide/README.md)
-- [embodied-ai-start](/guide/other/embodied-ai-start/README.md)
-- [how-to-learn-robotics](/guide/other/how-to-learn-robotics/README.md)
-- [interrobotics](/guide/other/interrobotics/README.md)
+- **Awesome Embodied AI** - 具身智能领域的综合资源列表，涵盖论文、数据集、工具
+- **Awesome Robotics** - 机器人学领域的开源项目和学习资源集合
+- **Robotics Roadmap** - 机器人技术发展路线图
 
-## 分类说明
+## 社区与论坛
 
-| 分类 | 核心内容 | 用途 |
-|------|---------|---------|
-| **学习资源** | 机器人学习教程，入门指南 | 机器人初学者 |
-| **研究资源** | 具身AI研究指南 | 具身智能研究者 |
-| **课程资源** | 机器人课程资料 | 课堂教学与自学 |
+- **IEEE RAS** - IEEE 机器人与自动化学会
+- **RSS (Robotics: Science and Systems)** - 机器人学顶级会议
+- **ICRA (International Conference on Robotics and Automation)** - IEEE 旗舰会议
+- **CoRL (Conference on Robot Learning)** - 机器人学习会议
+
+## 学习资源
+
+- **MIT OpenCourseWare** - MIT 机器人学公开课
+- **Coursera 机器人学专项课程** - 在线系统学习
+- **ROS Wiki** - ROS 官方文档和教程

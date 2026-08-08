@@ -170,7 +170,6 @@ mo --input_model model.pt --input_shape [1,3,640,640]
 - [ROS2 + OpenVINO 实战（YOLOv8 机器人视觉）](https://docs.openedgeplatform.intel.com/edge-ai-suites/robotics-ai-suite/main/robotics/dev_guide/tutorials_amr/perception/openvino/yolov8_openvino_tutorial.html)
 - [后训练量化（含 Accuracy-Aware 实战）](https://docs.openvino.ai/2026/openvino-workflow/model-optimization-guide/quantizing-models-post-training.html)
 
-
 ## 适用场景总结
 1. **工业机器人**：视觉检测、3D感知、运动预判、人机交互
 2. **边缘视觉设备**：工业相机、智能摄像头、嵌入式终端

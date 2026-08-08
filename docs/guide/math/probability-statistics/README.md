@@ -101,6 +101,9 @@ SLAM 不追求**绝对精确坐标**，追求**概率最优估计**：
 
 ## 资源列表
 
-- [Probability and Robotics（Thrun）](./thrun-probability/README.md)：机器人学概率理论经典教材
-- [Probability for Machine Learning（Murphy）](./murphy-probability-ml/README.md)：机器学习概率基础经典教材
+- [Probability and Robotics（Thrun）](./thrun-probability/README)：机器人学概率理论经典教材
+- [Probability for Machine Learning（Murphy）](./murphy-probability-ml/README)：机器学习概率基础经典教材
 
+- [gtsam（GTSAM 是一个在机器人与视觉领域实现…）](/guide/math/probability-statistics/gtsam/README)
+
+- [rednose（卡尔曼滤波库）](/guide/math/probability-statistics/rednose/README)

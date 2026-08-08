@@ -10,7 +10,7 @@ Numerical Optimization 是由 Jorge Nocedal 和 Stephen J. Wright 合著的数�
 - GitHub 算法实现：<https://github.com/eigenvivek/Numerical-Optimization>
 - Amazon 购买页面：<https://www.amazon.com/Numerical-Optimization-Second-Jorge-Nocedal/dp/0387403213>
 
-## 核心内容
+## 主要内容
 
 - 线性规划与整数规划
 - 无约束优化：线搜索方法、牛顿法、拟牛顿法（BFGS、L-BFGS）
@@ -20,24 +20,9 @@ Numerical Optimization 是由 Jorge Nocedal 和 Stephen J. Wright 合著的数�
 - 信赖域方法
 - 全局优化简介
 
-## 适用场景与学习人群
-
-- 机器人学：运动规划、轨迹优化、参数校准
-- 计算机视觉：捆绑调整（BA）、SLAM优化
-- 机器学习：模型参数拟合、深度学习优化
-- 控制理论：模型预测控制（MPC）
-- 应用数学方向研究生和研究者
-
 ## 特色优势
 
 - 理论严谨，算法讲解清晰
 - 包含大量算法伪代码和实现细节
 - 强调算法的实际应用和性能分析
 - 第二版更新了共轭梯度、内点法等现代方法
-
-## 学习建议
-
-- 机器人学中重点学习非线性最小二乘（高斯-牛顿法、LM算法），用于状态估计和校准
-- 拟牛顿法和共轭梯度法在大规模优化问题中非常重要
-- 阅读算法伪代码，理解迭代过程和停止条件
-- 结合Ceres Solver、G2O等库理解实际应用

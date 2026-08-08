@@ -1,0 +1,5 @@
+# pb2025_sentry_nav
+- GitHub仓库: https://github.com/SMBU-PolarBear-Robotics-Team/pb2025_sentry_nav
+
+## 项目概述
+这是深圳北理莫斯科大学北极熊战队2025赛季RoboMaster哨兵导航的仿真与实车套件，基于NAV2导航框架开发。项目优化了坐标变换逻辑，支持使用mid360激光雷达和point_lio里程计，结合small_gicp重定位，提供了完整的导航解决方案。使用NAV2默认全局规划器和pb_omni_pid_pursuit_controller路径跟踪器，支持多机器人命名空间设计，附带详细的仿真教程和实车部署方案，适用于RoboMaster机器人的导航开发。

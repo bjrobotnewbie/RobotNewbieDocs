@@ -8,15 +8,14 @@
 
 ### 项目列表
 
-- [PNP - 六IMU人体动作捕捉](./pnp/README.md)：基于6个IMU的实时人体动作捕捉系统
-- [FlashCap - 毫秒级精准人体动作捕捉](./flashcap/README.md)：基于闪烁LED和事件相机的毫秒级动作捕捉
-- [DexCap - 灵巧操作可扩展便携式动作捕捉](./dexcap/README.md)：斯坦福李飞飞团队，灵巧操作数据采集系统
-- [MiKaPo - 动态建模捕捉](./mikapo/README.md)：开源动态建模捕捉项目
-- [EasyMocap - 简易人体动作捕捉](./easymocap/README.md)：浙大3DV实验室，开源易用多人动作捕捉
-- [CHAMP - 生成式视觉动作捕捉](./champ/README.md)：复旦大学生成视觉团队动作捕捉项目
-- [Mediapipe4u-plugin - MediaPipe动作捕捉插件](./mediapipe4u-plugin/README.md)：基于MediaPipe的轻量级动作捕捉，中文文档
-- [XRMoCap - OpenXRLab动作捕捉](./xrmocap/README.md)：OpenXRLab开源动作捕捉工具链
-- [EgoLocate - 自中心定位动作捕捉](./egolocate/README.md)：自中心视角动作捕捉方法
+- [PNP - 六IMU人体动作捕捉](./pnp/README)：基于6个IMU的实时人体动作捕捉系统
+- [FlashCap - 毫秒级精准人体动作捕捉](./flashcap/README)：基于闪烁LED和事件相机的毫秒级动作捕捉
+- [DexCap - 灵巧操作可扩展便携式动作捕捉](./dexcap/README)：斯坦福李飞飞团队，灵巧操作数据采集系统
+- [MiKaPo - 动态建模捕捉](./mikapo/README)：开源动态建模捕捉项目
+- [EasyMocap - 简易人体动作捕捉](./easymocap/README)：浙大3DV实验室，开源易用多人动作捕捉
+- [Mediapipe4u-plugin - MediaPipe动作捕捉插件](./mediapipe4u-plugin/README)：基于MediaPipe的轻量级动作捕捉，中文文档
+- [XRMoCap - OpenXRLab动作捕捉](./xrmocap/README)：OpenXRLab开源动作捕捉工具链
+- [EgoLocate - 自中心定位动作捕捉](./egolocate/README)：自中心视角动作捕捉方法
 
 ## 遥操作采集
 
@@ -24,11 +23,11 @@
 
 ### 项目列表
 
-- [XR Teleoperate - XR沉浸式遥操作](./xr-teleoperate/README.md)：Unitree人形机器人XR设备遥操作，1.4k+ stars
-- [IsaacTeleop - NVIDIA统一遥操作](./isaac-teleop/README.md)：仿真和真实机器人统一遥操作框架
-- [LeRobot-Anything-U-Arm - 跨形态遥操作](./lerobot-anything-uarm/README.md)：LeRobot跨形态遥操作
-- [SPES Teleop - WebXR手机VR遥操作](./spes-teleop/README.md)：手机/VR变身为机器人遥操作设备
-- [ROS Teleop Tools - ROS通用遥操作工具](./ros-teleop-tools/README.md)：ROS生态通用遥操作工具集
+- [XR Teleoperate - XR沉浸式遥操作](./xr-teleoperate/README)：Unitree人形机器人XR设备遥操作，1.4k+ stars
+- [IsaacTeleop - NVIDIA统一遥操作](./isaac-teleop/README)：仿真和真实机器人统一遥操作框架
+- [LeRobot-Anything-U-Arm - 跨形态遥操作](./lerobot-anything-uarm/README)：LeRobot跨形态遥操作
+- [SPES Teleop - WebXR手机VR遥操作](./spes-teleop/README)：手机/VR变身为机器人遥操作设备
+- [ROS Teleop Tools - ROS通用遥操作工具](./ros-teleop-tools/README)：ROS生态通用遥操作工具集
 
 ## 核心价值
 
@@ -40,3 +39,7 @@
 - **仿真到现实**：准确采集支持sim2real迁移
 
 数据采集是机器人学习流水线的第一步，没有好数据就没有好模型。
+
+- [UMI-3D（UMI-3D SLAM与数据处理流水线：…）](/guide/data/data-collection/UMI-3D/README)
+
+- [chek-ego-miner（CHEK EGO Miner 由青空科技…）](/guide/data/data-collection/chek-ego-miner/README)

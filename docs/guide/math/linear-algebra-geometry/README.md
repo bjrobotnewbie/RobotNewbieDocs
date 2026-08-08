@@ -76,7 +76,11 @@
 
 ## 资源列表
 
-- [MIT 18.06 线性代数（Gilbert Strang）](./mit-1806-strang/README.md)：经典线性代数公开课
-- [Introduction to Linear Algebra（Strang）](./strang-textbook/README.md)：经典线性代数教材
-- [线性代数与解析几何（郑宝东）](./linear-algebra-zhengbaodong/README.md)：哈工大郑宝东教授线性代数课程
-- [线性代数的本质](./linear_algebra_nature/README.md)：线性代数的基本概念、性质、应用
+- [MIT 18.06 线性代数（Gilbert Strang）](./mit-1806-strang/README)：经典线性代数公开课
+- [Introduction to Linear Algebra（Strang）](./strang-textbook/README)：经典线性代数教材
+- [线性代数与解析几何（郑宝东）](./linear-algebra-zhengbaodong/README)：哈工大郑宝东教授线性代数课程
+- [线性代数的本质](./linear_algebra_nature/README)：线性代数的基本概念、性质、应用
+
+- [SpiceyPy（SpiceyPy：SPICE工具包的Py…）](/guide/math/linear-algebra-geometry/SpiceyPy/README)
+
+- [Tinfour（基于Java实现的Delaunay三角剖…）](/guide/math/linear-algebra-geometry/Tinfour/README)

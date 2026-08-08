@@ -1,41 +1,34 @@
 # 机器人形态分类
 
-机器人形态分类是按照机器人的物理结构、材料特性和运动方式对机器人进行分类的方法，是机器人学最基础的分类维度之一。不同形态的机器人适用于不同的应用场景，具有不同的技术特点。
+机器人形态分类用于描述**单个机器人本体长什么样、靠什么结构运动或操作**。本章节按"运动方式 + 物理结构类型"组织内容，避免把应用场景、协同方式或算法模块混入形态分类。
 
 ## 分类体系
 
-| 分类 | 中文名称 | 结构特点 | 典型应用 |
-|------|---------|---------|---------|
-| [刚性机器人](./rigid-robots/README.md) | Rigid Robots | 刚性连杆+离散关节 | 工业制造、装配 |
-| [软体机器人](./soft-robots/README.md) | Soft Robots | 软质材料+连续变形 | 抓取、医疗、人机交互 |
-| [连续体机器人](./continuum-robots/README.md) | Continuum Robots | 无离散关节+连续弯曲 | 微创手术、狭窄空间探测 |
-| [模块化机器人](./modular-robots/README.md) | Modular Robots | 可重构标准模块 | 未知环境探索、自适应任务 |
-| [群体机器人](./swarm-robots/README.md) | Swarm Robots | 大量简单个体协同 | 大规模探测、搜救 |
+| 分类 | 分类依据 | 典型对象 |
+|------|---------|---------|
+| [操作机器人](./manipulators/README) | 固定或半固定基座上的末端操作 | 串联机械臂、协作机械臂、SCARA、并联机器人 |
+| [地面移动机器人](./ground-mobile-robots/README) | 陆地环境自主移动 | 轮式AGV、四足机器人、履带机器人 |
+| [空中机器人](./aerial-robots/README) | 三维空间飞行 | 多旋翼无人机、固定翼无人机、扑翼机器人 |
+| [水下机器人](./underwater-robots/README) | 水下环境运动与作业 | ROV、AUV、仿生鱼机器人 |
+| [移动操作机器人](./mobile-manipulators/README) | 移动能力 + 操作能力 | 人形机器人、轮式/足式移动操作机器人 |
+| [特殊移动机器人](./special-mobile-robots/README) | 非常规运动方式 | 爬壁机器人、蛇形机器人、球型机器人 |
+| [软体机器人](./soft-robots/README) | 软材料和连续大变形 | 气动软体机器人、介电弹性体、形状记忆合金机器人 |
+| [连续体机器人](./continuum-robots/README) | 连续弯曲、超冗余自由度 | 腱驱动连续体、同心管机器人、象鼻型机器人 |
+| [可重构机器人](./reconfigurable-robots/README) | 模块重组、构型变化 | 模块化机器人、自重构机器人 |
+| [微纳米机器人](./micro-nano-robots/README) | 微纳尺度、场驱动/化学驱动 | 磁控微型机器人、纳米马达、生物杂化微机器人 |
+| [外骨骼机器人](./exoskeleton/README) | 可穿戴、人机耦合 | 康复外骨骼、工业助力外骨骼、军用动力外骨骼 |
 
----
+## 相关章节
 
-## 分类维度对比
+- [多机器人系统](/guide/multi-robot-systems/README)：多个机器人如何协同、编队、分工和通信。
+- [应用场景](/guide/applications/README)：机器人系统在行业和任务中的落地应用。
 
-机器人可以从多个维度进行分类，本分类专注于**物理形态维度**：
+- [awesome-robot-descriptions（精选优秀机器人描述文件（URDF、MJC…）](/guide/robot-forms/awesome-robot-descriptions/README)
 
-| 分类维度 | 本书对应章节 | 分类依据 |
-|---------|-------------|---------|
-| **物理形态** | **机器人形态分类 (当前)** | 结构设计、材料特性 |
-| **技术栈** | 感知/规划/控制/仿真等 | 技术功能模块 |
-| **应用领域** | 应用场景 | 行业和使用场景 |
+- [phobos（Blender的一个插件，支持在所见即所…）](/guide/robot-forms/phobos/README)
 
----
+- [robot_retargeter（从SMPL-X/源机器人到目标人形机器人…）](/guide/robot-forms/robot_retargeter/README)
 
-## 形态发展趋势
+- [gmr-motionlab（一个用于人形运动重定向、pkl运动可视化…）](/guide/robot-forms/gmr-motionlab/README)
 
-1. **从刚性到柔性**：传统刚性机器人向软体机器人发展，提升安全性和环境适应性
-2. **从固定到可重构**：模块化设计支持多种任务适配
-3. **从单体到群体**：分布式智能实现大规模复杂任务
-4. **从单一到复合**：混合形态机器人结合多种结构优势
-
-## 核心技术挑战
-
-- **建模与控制**：软体/连续体机器人具有无限自由度，建模难度大
-- **材料创新**：新型驱动材料是软体机器人发展的关键
-- **传感集成**：软质材料中集成传感器技术难度大
-- **能量密度**：小型化高能量密度驱动仍然是瓶颈
+- [humanoid-motion-intelligence（人形机器人运动智能论文、开源项目、产业与…）](/guide/robot-forms/humanoid-motion-intelligence/README)

@@ -15,3 +15,19 @@
 - 优必选服务机器人
 - 擎朗酒店机器人
 - 九号平衡车/配送机器人
+
+## 知识库相关项目
+
+- [Navigation2](/guide/ros/navigation2/README) - ROS 2 自主导航框架
+- [导航系统](/guide/navigation/README) - SLAM 与自主导航
+- [轮式机器人](/guide/robot-forms/ground-mobile-robots/wheeled-robots/README) - 服务机器人底盘
+- [移动操作机器人](/guide/robot-forms/mobile-manipulators/README) - 服务操作机器人
+- [SLAM Toolbox](/guide/navigation/slam_toolbox/README) - 建图工具
+
+## 常用机器人形态
+
+| 形态分类 | 适用场景 | 链接 |
+|---------|---------|------|
+| 地面移动机器人 | 送餐、清洁、配送 | [地面移动机器人](/guide/robot-forms/ground-mobile-robots/README) |
+| 操作机器人 | 咖啡制作、备菜 | [操作机器人](/guide/robot-forms/manipulators/README) |
+| 移动操作机器人 | 接待、服务 | [移动操作机器人](/guide/robot-forms/mobile-manipulators/README) |

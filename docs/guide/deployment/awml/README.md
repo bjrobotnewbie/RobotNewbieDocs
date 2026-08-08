@@ -1,4 +1,4 @@
-# AWML (Autoware Machine Learning)&#x20;
+# AWML (Autoware Machine Learning)
 
 ## 概述
 

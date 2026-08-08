@@ -4,10 +4,10 @@
 
 ## 方法概览
 
-| 方法 | 优化策略 | 核心特点 | 鲁棒性 |
+| 方法 | 优化策略 | 主要特点 | 鲁棒性 |
 |------|---------|---------|-------|
-| [**CHOMP**](/guide/planning/motion-planning/optimization/chomp/README.md) | 协变梯度下降 | 高效平滑 | 中等 |
-| [**STOMP**](/guide/planning/motion-planning/optimization/stomp/README.md) | 随机采样优化 | 逃脱局部最优 | 高 |
+| [**CHOMP**](/guide/planning/motion-planning/optimization/chomp/README) | 协变梯度下降 | 高效平滑 | 中等 |
+| [**STOMP**](/guide/planning/motion-planning/optimization/stomp/README) | 随机采样优化 | 逃脱局部最优 | 高 |
 
 ## 技术对比
 
@@ -20,7 +20,7 @@ CHOMP 使用协变梯度下降法优化轨迹，是 MoveIt! 中默认的轨迹�
 - 最小化平滑代价和碰撞代价
 - 协变梯度自然适应构型空间几何
 
-**核心特点：**
+**主要特点：**
 - ✅ 生成高度平滑的轨迹
 - ✅ 计算效率高
 - ✅ 数值稳定性好
@@ -49,7 +49,7 @@ STOMP 使用随机采样方法优化轨迹，通过概率采样探索轨迹空�
 - 使用权重更新轨迹参数
 - 不需要显式计算梯度
 
-**核心特点：**
+**主要特点：**
 - ✅ 对局部最优鲁棒性好
 - ✅ 不需要梯度计算
 - ✅ 参数调优相对简单

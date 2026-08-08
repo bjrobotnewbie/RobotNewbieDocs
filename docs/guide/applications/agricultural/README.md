@@ -15,3 +15,19 @@
 - 采摘机器人
 - 智慧养猪机器人
 - 水产养殖巡检机器人
+
+## 知识库相关项目
+
+- [Fields2Cover](/guide/planning/Fields2Cover/README) - 开源农业机器人路径规划
+- [无人机应用](/guide/applications/uav/README) - 无人机在农业中的应用
+- [多旋翼无人机](/guide/robot-forms/aerial-robots/multirotor/README) - 植保无人机形态
+- [PX4 自动驾驶仪](/guide/control/px4/README) - 无人机飞控系统
+- [ArduPilot](/guide/control/ardupilot/README) - 开源飞控平台
+
+## 常用机器人形态
+
+| 形态分类 | 适用场景 | 链接 |
+|---------|---------|------|
+| 空中机器人 | 植保、巡检、测绘 | [空中机器人](/guide/robot-forms/aerial-robots/README) |
+| 地面移动机器人 | 自主行走、巡检 | [地面移动机器人](/guide/robot-forms/ground-mobile-robots/README) |
+| 操作机器人 | 采摘、分拣 | [操作机器人](/guide/robot-forms/manipulators/README) |

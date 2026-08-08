@@ -17,7 +17,7 @@
 
 ### 主要方法
 
-#### 1. [行为树 (Behavior Tree)](/guide/planning/task-planning/classical/behavior-tree/README.md)
+#### 1. [行为树 (Behavior Tree)](/guide/planning/task-planning/classical/behavior-tree/README)
 
 行为树是一种层级化的任务执行建模方法，通过组合基本行为节点实现复杂任务逻辑。广泛应用于游戏 AI 和机器人系统。
 
@@ -32,7 +32,7 @@
 - 服务机器人任务编排
 - 工业机器人流程控制
 
-#### 2. [层次任务网络 (HTN)](/guide/planning/task-planning/classical/htn/README.md)
+#### 2. [层次任务网络 (HTN)](/guide/planning/task-planning/classical/htn/README)
 
 层次任务网络通过递归地将复合任务分解为更简单的子任务，直到达到可执行的原语动作。
 
@@ -47,7 +47,7 @@
 - 工业自动化流程
 - 航天任务规划
 
-#### 3. [规划域定义语言 (PDDL)](/guide/planning/task-planning/classical/pddl/README.md)
+#### 3. [规划域定义语言 (PDDL)](/guide/planning/task-planning/classical/pddl/README)
 
 PDDL 是标准化的规划问题描述语言，分离了领域知识和具体问题，使得不同规划器可以通用地解决各类规划问题。
 
@@ -70,7 +70,7 @@ PDDL 是标准化的规划问题描述语言，分离了领域知识和具体问
 
 ### 主要范式
 
-#### 1. [ReAct (Reasoning + Acting)](/guide/planning/task-planning/llm-driven/react/README.md)
+#### 1. [ReAct (Reasoning + Acting)](/guide/planning/task-planning/llm-driven/react/README)
 
 ReAct 将推理和行动结合，通过"思考-行动-观察"的循环迭代来解决复杂任务。
 
@@ -91,7 +91,7 @@ ReAct 将推理和行动结合，通过"思考-行动-观察"的循环迭代来�
 - 数据分析
 - 机器人高层任务规划
 
-#### 2. [Reflexion (反思式规划)](/guide/planning/task-planning/llm-driven/reflexion/README.md)
+#### 2. [Reflexion (反思式规划)](/guide/planning/task-planning/llm-driven/reflexion/README)
 
 Reflexion 在 ReAct 的基础上增加了反思机制，通过自我评估和错误修正来提升任务成功率。
 
@@ -112,7 +112,7 @@ Reflexion 在 ReAct 的基础上增加了反思机制，通过自我评估和错
 - Bug 修复
 - 复杂创意写作
 
-#### 3. [AutoGen (多智能体协作)](/guide/planning/task-planning/llm-driven/autogen/README.md)
+#### 3. [AutoGen (多智能体协作)](/guide/planning/task-planning/llm-driven/autogen/README)
 
 AutoGen 是微软开发的多智能体框架，通过多个专业化智能体的分工协作来完成复杂任务。
 
@@ -220,11 +220,19 @@ AutoGen 是微软开发的多智能体框架，通过多个专业化智能体的
 ## 详细文档导航
 
 ### 传统任务规划
-- [行为树 (Behavior Tree)](/guide/planning/task-planning/classical/behavior-tree/README.md)
-- [层次任务网络 (HTN)](/guide/planning/task-planning/classical/htn/README.md)
-- [规划域定义语言 (PDDL)](/guide/planning/task-planning/classical/pddl/README.md)
+- [行为树 (Behavior Tree)](/guide/planning/task-planning/classical/behavior-tree/README)
+- [层次任务网络 (HTN)](/guide/planning/task-planning/classical/htn/README)
+- [规划域定义语言 (PDDL)](/guide/planning/task-planning/classical/pddl/README)
 
 ### LLM 驱动的规划
-- [ReAct (推理+行动)](/guide/planning/task-planning/llm-driven/react/README.md)
-- [Reflexion (反思式规划)](/guide/planning/task-planning/llm-driven/reflexion/README.md)
-- [AutoGen (多智能体协作)](/guide/planning/task-planning/llm-driven/autogen/README.md)
+- [ReAct (推理+行动)](/guide/planning/task-planning/llm-driven/react/README)
+- [Reflexion (反思式规划)](/guide/planning/task-planning/llm-driven/reflexion/README)
+- [AutoGen (多智能体协作)](/guide/planning/task-planning/llm-driven/autogen/README)
+
+### 任务规划库与框架
+
+- [BehaviorTree.CPP](/guide/planning/BehaviorTree.CPP/README) - C++ 行为树框架，用于机器人任务编排与行为决策
+- [bonsai](/guide/planning/bonsai/README) - Rust 实现的行为树库，支持 Python 绑定
+- [ros2_planning_system](/guide/planning/ros2_planning_system/README) - ROS2 基于 PDDL 的自动规划系统
+- [mctx](/guide/planning/mctx/README) - DeepMind JAX 蒙特卡洛树搜索（MCTS）库，含 AlphaZero、MuZero
+- [open_spiel](/guide/planning/open_spiel/README) - DeepMind 博弈强化学习研究框架，含搜索规划算法

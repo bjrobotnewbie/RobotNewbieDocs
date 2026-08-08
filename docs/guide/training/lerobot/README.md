@@ -10,7 +10,7 @@ LeRobot 是由 Hugging Face 开发的开源机器人学习框架，旨在提供 
 * 官方文档：<https://huggingface.co/docs/lerobot>
 * HuggingFace主页：<https://huggingface.co/lerobot>
 
-## 核心特点
+## 主要特点
 
 * **硬件无关接口**：Python 原生接口，标准化控制，兼容从低成本机械臂（SO-100）到人形机器人的多种平台
 * **标准化数据集格式**：LeRobotDataset 格式（Parquet + MP4/图像），支持 Hugging Face Hub 存储和流式传输
@@ -35,29 +35,3 @@ LeRobot 是由 Hugging Face 开发的开源机器人学习框架，旨在提供 
 * 完整训练流程，支持多种策略模型
 * 仿真和真实硬件评估
 * Hugging Face Hub 集成
-
-## 适用场景
-
-* 机器人模仿学习研究
-* 多模态机器人学习
-* 视觉-语言-动作模型训练
-* 机器人数据收集与处理
-* 预训练模型复用与微调
-* 机器人技能迁移
-
-## 适用人群
-
-* 机器人学习研究者
-* 具身智能开发者
-* 强化学习工程师
-* 学生和研究人员
-* 机器人爱好者
-
-## 学习建议
-
-* 先浏览官方文档了解整体架构
-* 使用 `pip install lerobot` 安装
-* 利用预训练模型快速验证想法
-* 使用 LeRobotDataset 加载现有数据集
-* 参考示例代码开始训练
-* 加入社区讨论获取帮助

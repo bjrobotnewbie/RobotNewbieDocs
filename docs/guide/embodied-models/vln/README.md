@@ -4,13 +4,12 @@
 
 ## 目录
 
-- [CLIPort](/guide/embodied-models/vln/cliport/README.md)
-- [VLN-BERT](/guide/embodied-models/vln/vln-bert/README.md)
-- [DUET](/guide/embodied-models/vln/duet/README.md)
-- [DualVLN](/guide/embodied-models/vln/dualvln/README.md)
-- [SkillNav](/guide/embodied-models/vln/skillnav/README.md)
-- [UrbanNav](/guide/embodied-models/vln/urbannav/README.md)
-- [JanusVLN](/guide/embodied-models/vln/janusvln/README.md)
+- [VLN-BERT](/guide/embodied-models/vln/vln-bert/README)
+- [DUET](/guide/embodied-models/vln/duet/README)
+- [DualVLN](/guide/embodied-models/vln/dualvln/README)
+- [SkillNav](/guide/embodied-models/vln/skillnav/README)
+- [UrbanNav](/guide/embodied-models/vln/urbannav/README)
+- [JanusVLN](/guide/embodied-models/vln/janusvln/README)
 
 ## 什么是视觉语言导航(VLN)
 
@@ -24,10 +23,6 @@ VLN任务要求机器人接收自然语言指令（如"去厨房拿一瓶可乐"
 4. **多模态融合**：整合视觉、语言、空间等多模态信息
 
 ## 开源项目
-
-### CLIPort
-
-CLIPort是一个语言条件下的模仿学习智能体，可以学习单一的多任务策略，用于各种桌面操作任务
 
 ### VLN-BERT
 
@@ -54,3 +49,7 @@ UrbanNav是从网络规模人类轨迹中学习语言引导的城市导航方法
 JanusVLN是西安交通大学提出的新型视觉语言导航框架，受人类大脑功能分区启发，解耦语义理解与几何空间推理，采用双隐式记忆机制分别压缩视觉语义特征和3D空间表示。
 
 更多项目正在陆续添加中...
+- [RynnBrain（RynnBrain：开放具身基础模型）](/guide/embodied-models/vln/RynnBrain/README)
+- [HoloAgent（一个面向通用机器人的统一智能体系统，支持…）](/guide/embodied-models/vln/HoloAgent/README)
+- [VLX-Go（VLX-Go：开放世界具身AI导航）](/guide/embodied-models/vln/VLX-Go/README)
+- [PhyAgentOS（PhyAgentOS 是基于代理工作流构…）](/guide/embodied-models/vln/PhyAgentOS/README)

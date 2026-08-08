@@ -1,7 +1,7 @@
 # 气动人工肌肉
 
 <figure style="text-align: center; margin: 1.5rem 0;">
-  <img src="./_static/Sam_animation-real-muscle.gif" alt="气肌收缩和伸展" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <img src="./_static/Sam_animation-real-muscle.gif" alt="气肌收缩和伸展" loading="lazy" decoding="async" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">气肌收缩和伸展</figcaption>
 </figure>
 

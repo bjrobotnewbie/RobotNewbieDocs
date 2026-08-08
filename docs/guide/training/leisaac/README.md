@@ -12,8 +12,14 @@ LeIsaac 在 [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html) 中
 ## 文档导航
 
 - [介绍](./introduction.md)
-- [快速开始](./getting_started/README.md)
-- [教程](./tutorials/README.md)
-- [额外功能](./features/README.md)
+- [快速开始](./getting_started/README)
+- [教程](./tutorials/README)
+- [额外功能](./features/README)
 - [故障排除](./trouble_shooting.md)
-- [云仿真](./cloud_simulation/README.md)
+- [云仿真](./cloud_simulation/README)
+
+- [lerobot-sim2real（LeRobot sim2real 代码。…）](/guide/training/leisaac/lerobot-sim2real/README)
+
+- [cyclo_lab（此仓库提供了使用ROBOTIS机器人进行…）](/guide/training/leisaac/cyclo_lab/README)
+
+- [basic-locomotion-isaaclab（适用于基本四足机器人任务的 IsaacL…）](/guide/training/leisaac/basic-locomotion-isaaclab/README)

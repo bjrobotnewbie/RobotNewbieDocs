@@ -15,3 +15,14 @@
 - 小鹏XNGP/理想AD MAX/华为ADS 2.0
 - 文远知行/小马智行Robotaxi
 - 主线科技/嬴彻科技干线物流
+- [openpilot（开源自动驾驶辅助系统）](/guide/applications/autonomous-driving/openpilot/README)
+- [Autoware Universe](/guide/applications/autonomous-driving/autoware_universe/README) - Autoware 开源自动驾驶生态基础仓库，提供从感知到控制的完整自动驾驶软件栈
+- [mapbox-navigation-ios（基于iOS Swift实现的逐向导航逻辑…）](/guide/applications/autonomous-driving/mapbox-navigation-ios/README)
+- [navit（一款适用于多种操作系统的开源（GPL v…）](/guide/applications/autonomous-driving/navit/README)
+- [openpilot（openpilot 是一款面向机器人领域…）](/guide/applications/autonomous-driving/openpilot/README)
+- [autoware（Autoware——全球领先的自动驾驶开…）](/guide/applications/autonomous-driving/autoware/README)
+## 常用机器人形态
+
+| 形态分类 | 适用场景 | 链接 |
+|---------|---------|------|
+| 地面移动机器人 | 乘用车、商用车 | [地面移动机器人](/guide/robot-forms/ground-mobile-robots/README) |

@@ -14,7 +14,7 @@ LLM 驱动的任务规划利用大语言模型的语义理解能力、常识知�
 
 ## 范式详解
 
-### 1. [ReAct (Reasoning + Acting)](/guide/planning/task-planning/llm-driven/react/README.md)
+### 1. [ReAct (Reasoning + Acting)](/guide/planning/task-planning/llm-driven/react/README)
 
 ReAct 是最经典的 LLM Agent 架构之一，通过交替进行推理和行动来解决复杂任务。
 
@@ -56,7 +56,7 @@ Final Answer: 最终答案
 
 ---
 
-### 2. [Reflexion (反思式规划)](/guide/planning/task-planning/llm-driven/reflexion/README.md)
+### 2. [Reflexion (反思式规划)](/guide/planning/task-planning/llm-driven/reflexion/README)
 
 Reflexion 在 ReAct 的基础上增加了反思机制，让智能体能够从失败中学习并改进策略。
 
@@ -100,7 +100,7 @@ Reflexion 在 ReAct 的基础上增加了反思机制，让智能体能够从失
 
 ---
 
-### 3. [AutoGen (多智能体协作)](/guide/planning/task-planning/llm-driven/autogen/README.md)
+### 3. [AutoGen (多智能体协作)](/guide/planning/task-planning/llm-driven/autogen/README)
 
 AutoGen 通过多个专门化的智能体分工协作来处理复杂任务，每个智能体扮演不同角色。
 

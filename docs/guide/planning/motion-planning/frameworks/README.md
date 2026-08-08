@@ -6,8 +6,8 @@
 
 | 框架 | 支持 ROS 版本 | 主要特性 | 适用场景 |
 |------|--------------|---------|---------|
-| [**MoveIt!**](/guide/planning/motion-planning/frameworks/moveit/README.md) | ROS 1 | 成熟稳定，生态丰富 | 现有 ROS 1 项目 |
-| [**MoveIt 2**](/guide/planning/motion-planning/frameworks/moveit2/README.md) | ROS 2 | 实时支持，多机协作 | 新项目，ROS 2 生态 |
+| [**MoveIt!**](/guide/planning/motion-planning/frameworks/moveit/README) | ROS 1 | 成熟稳定，生态丰富 | 现有 ROS 1 项目 |
+| [**MoveIt 2**](/guide/planning/motion-planning/frameworks/moveit2/README) | ROS 2 | 实时支持，多机协作 | 新项目，ROS 2 生态 |
 
 ## 核心功能对比
 
