@@ -113,6 +113,11 @@
 - [OrienterNet（论文"OrienterNet 在带有神经…）](/guide/navigation/OrienterNet/README)
 - [awesome-robot-social-navigation（机器人社交导航精选列表）](/guide/navigation/awesome-robot-social-navigation/README)
 - [full_linear_wheel_odometry_factor（全线性轮式 odometry 因子为轮式…）](/guide/navigation/full_linear_wheel_odometry_factor/README)
+- [FASTLIO2_ROS2（ROS2 / FAST_LIO / PG…）](/guide/navigation/FASTLIO2_ROS2/README)
+- [Awesome-Learning-based-VO-VIO（基于学习的 odometry 论文综述）](/guide/navigation/Awesome-Learning-based-VO-VIO/README)
+- [SOLiD（RA-L'24 接受 / ICRA'25…）](/guide/navigation/SOLiD/README)
+- [docs.nav2.org（https://docs.nav2.or…）](/guide/navigation/docs.nav2.org/README)
+- [JamBoy（GPS 剥夺下的无人机导航层：光流 + …）](/guide/navigation/JamBoy/README)
 ## 与其他分类的区别
 
 | 目录 | 定位 | 主要特点 |

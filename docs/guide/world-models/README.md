@@ -58,3 +58,4 @@
 - [cortex-mem（🧠 适用于OpenClaw、具身AI等自…）](/guide/world-models/cortex-mem/README)
 - [INTACT-JEPA（INTACT: 无搜索的世界模型中的同构…）](/guide/world-models/INTACT-JEPA/README)
 - [SuperMap（SuperMap 是具身人工智能的活态空…）](/guide/world-models/SuperMap/README)
+- [Awesome-World-Models（世界模型定义综述：包含关于世界模型在通用…）](/guide/world-models/Awesome-World-Models/README)

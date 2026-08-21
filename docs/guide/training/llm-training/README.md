@@ -48,3 +48,7 @@
 - [LoongForge（一个用于LLM、VLM、扩散模型和具身模…）](/guide/training/llm-training/LoongForge/README)
 
 - [axrl（AxisRL 是一个基于 SGLang …）](/guide/training/llm-training/axrl/README)
+
+- [verl-omni（多模态强化学习训练框架：扩散与全向模型）](/guide/training/llm-training/verl-omni/README)
+
+- [Relax（面向大规模全模态后训练的异步强化学习引擎）](/guide/training/llm-training/Relax/README)

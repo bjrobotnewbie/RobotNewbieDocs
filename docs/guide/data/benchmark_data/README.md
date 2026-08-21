@@ -9,7 +9,6 @@
 - [FluxBisim](/guide/data/benchmark_data/fluxbisim/README)
 - [Libero](/guide/data/benchmark_data/libero/README)
 - [Robogen](/guide/data/benchmark_data/robogen/README)
-- [Robotwin](/guide/data/benchmark_data/robotwin/README)
 - [SimpleRenV](/guide/data/benchmark_data/simplerenv/README)
 - [University1652-Baseline（ACM Multimedia 2020 …）](/guide/data/benchmark_data/University1652-Baseline/README)
 - [RoboTwin（RoboTwin 2.0 官方仓库）](/guide/data/benchmark_data/RoboTwin/README)

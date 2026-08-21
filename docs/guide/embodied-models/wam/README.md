@@ -163,7 +163,6 @@ LingBot-VA: Causal video-action world model for generalist robot control, RSS 20
 - [Awesome-WAM（一份经过整理、持续更新的，关于具身智能中…）](/guide/embodied-models/wam/awesome-wam/README)
 - [Book-of-MLM（《多模态大模型：新一代人工智能技术范式》…）](/guide/embodied-models/Book-of-MLM/README)
 - [RynnBrain（RynnBrain：开放具身基础模型）](/guide/embodied-models/RynnBrain/README)
-- [Awesome-WAM（一份经过整理、持续更新的，关于具身智能中…）](/guide/embodied-models/wam/Awesome-WAM/README)
 - [mimic-video（面向超越VLA的通用化机器人控制的视频-…）](/guide/embodied-models/wam/mimic-video/README)
 - [Hy-Embodied-RxBrain-1.0（RxBrain: 具身认知基础模型，具备…）](/guide/embodied-models/wam/Hy-Embodied-RxBrain-1.0/README)
 - [OpenETA（openeta: 具身任务代理）](/guide/embodied-models/wam/OpenETA/README)

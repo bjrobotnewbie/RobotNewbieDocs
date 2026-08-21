@@ -41,3 +41,7 @@
 - [LeKiwi（LeKiwi - 低成本移动机械臂）](/guide/robot-forms/mobile-manipulators/LeKiwi/README)
 
 - [lerobot-humanoid](/guide/robot-forms/mobile-manipulators/lerobot-humanoid/README)
+
+- [asimov-1（v1 版 Asimov，一款开源的人形机…）](/guide/robot-forms/mobile-manipulators/asimov-1/README)
+
+- [hei-rebot-lift（HEI ReBot Lift 是一款基于…）](/guide/robot-forms/mobile-manipulators/hei-rebot-lift/README)

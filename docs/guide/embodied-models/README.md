@@ -60,3 +60,7 @@
 - [ScaleBFM（《Scaling Behavior Fo…）](/guide/embodied-models/ScaleBFM/README)
 
 - [Vision-OPD（Vision-OPD 是一种区域到全球的…）](/guide/embodied-models/Vision-OPD/README)
+
+- [Dispider（[CVPR 2025] Dispider…）](/guide/embodied-models/Dispider/README)
+
+- [dive-into-embodied-ai（Build an embodied in…）](/guide/embodied-models/dive-into-embodied-ai/README)

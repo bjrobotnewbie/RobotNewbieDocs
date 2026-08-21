@@ -183,3 +183,9 @@
 - [mighty（MIGHTY：一种基于 Hermite …）](/guide/planning/motion-planning/mighty/README)
 
 - [lacam3（LaCAM*：面向实时、大规模及近乎最优…）](/guide/planning/motion-planning/lacam3/README)
+
+- [polyanya（基于 Polyanya 的路径规划）](/guide/planning/motion-planning/polyanya/README)
+
+- [frenet（将 Frenet (s,d) 坐标变换为…）](/guide/planning/motion-planning/frenet/README)
+
+- [Heuristic_path_planners（包含类与函数集合，支持基于启发式算法（如…）](/guide/planning/motion-planning/Heuristic_path_planners/README)

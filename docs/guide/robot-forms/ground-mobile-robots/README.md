@@ -61,3 +61,5 @@
 - [XLeRobot（XLeRobot: 实用双臂移动家用机器…）](/guide/robot-forms/ground-mobile-robots/XLeRobot/README)
 
 - [openamr-platform-sw（OpenAMRobot 移动机器人平台的…）](/guide/robot-forms/ground-mobile-robots/openamr-platform-sw/README)
+
+- [Venom（全地形自主四足机器人）](/guide/robot-forms/ground-mobile-robots/Venom/README)

@@ -83,3 +83,5 @@
 - [LeggedSkillDeploy（一个用于基于强化学习的足式机器人运动控制…）](/guide/deployment/LeggedSkillDeploy/README)
 
 - [robonix（具身人工智能操作系统（EAIOS））](/guide/deployment/robonix/README)
+
+- [limioryn（面向具身智能的边云多智能体执行框架，实现…）](/guide/deployment/limioryn/README)

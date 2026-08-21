@@ -27,6 +27,7 @@
 - [xr_teleoperate（本仓库实现了基于 XR 设备的 Unit…）](/guide/applications/xr_teleoperate/README)
 - [CTK（一套用于医学成像、手术导航及相关应用的通…）](/guide/applications/CTK/README)
 - [PhysiClaw（与您在现实世界中互动的 AI 代理。）](/guide/applications/PhysiClaw/README)
+- [blockly（Otto Blockly：适用于任意类型…）](/guide/applications/blockly/README)
 ## 分类说明
 
 | 分类 | 核心应用领域 | 技术特点 |

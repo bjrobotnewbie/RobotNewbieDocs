@@ -4,14 +4,13 @@
 
 ## 项目列表
 
-- [OpenESC 20X20](/guide/hardware/OpenESC_20X20/README) - 开源电子调速器设计
+- [OpenESC-20x20（开源 4 合一 AM32 飞控，适用于 …）](/guide/hardware/electronics/OpenESC-20x20/README)
 - [Master Board](/guide/hardware/master-board/README) - 机器人主控板设计
-- [OpenESC-20x20（开源 4 通道 1 机 AM32 无人机…）](/guide/hardware/electronics/OpenESC-20x20/README)
 ## 分类说明
 
 | 项目 | 主要内容 | 技能要点 |
 |------|---------|---------|
-| **OpenESC 20X20** | 无刷电机ESC设计 | 功率电路、MOS驱动、PWM控制 |
+| **OpenESC-20x20** | 无刷电机ESC设计 | 功率电路、MOS驱动、PWM控制 |
 | **Master Board** | 机器人主控板 | 原理图设计、PCB布局、信号完整性 |
 
 ## 知识体系

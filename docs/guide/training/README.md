@@ -79,3 +79,9 @@
 - [rl_sar（机器人强化学习算法的仿真验证与实物部署，…）](/guide/training/rl_sar/README)
 
 - [meltingpot（多智能体强化学习测试场景套件。）](/guide/training/meltingpot/README)
+
+- [MO-Gymnasium（多目标 Gymnasium 环境用于强化…）](/guide/training/MO-Gymnasium/README)
+
+- [cosmos-rl（Cosmos-RL 是一个灵活且可扩展的…）](/guide/training/cosmos-rl/README)
+
+- [oscar（基于数据的操作空间自适应与鲁棒机器人操纵）](/guide/training/oscar/README)

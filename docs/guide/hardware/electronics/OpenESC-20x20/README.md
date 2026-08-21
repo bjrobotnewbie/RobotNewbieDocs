@@ -4,7 +4,7 @@
 
 ## 项目链接
 
-- GitHub: <https://github.com/incutec-hw/OpenESC-20x20>
+- GitHub: <https://github.com/OpenDrone-hw/OpenESC-20x20>
 - 项目主页: <https://opendrone.be/products/openesc>
 
 ## 项目概述

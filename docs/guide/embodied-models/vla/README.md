@@ -168,3 +168,5 @@ GigaBrain-0: 国内首个利用世界模型生成数据实现真机泛化的视�
 - [Galahad（视觉 - 语言 - 动作策略中的指令盲视…）](/guide/embodied-models/vla/Galahad/README)
 - [BridgeVLA（✨✨ BridgeVLA 与 Bridg…）](/guide/embodied-models/vla/BridgeVLA/README)
 - [OMG（官方仓库： "OMG: 通用多模态运动生…）](/guide/embodied-models/vla/OMG/README)
+- [pi-zero-pytorch（物理智能提出的机器人基础模型架构π₀的实…）](/guide/embodied-models/vla/pi-zero-pytorch/README)
+- [Efficient-VLAs-Survey（🔥 这是一份精选的"A survey o…）](/guide/embodied-models/vla/Efficient-VLAs-Survey/README)

@@ -76,7 +76,6 @@
 - [Metaworld](/guide/simulation/Metaworld/README) - 50+机器人操作任务的多任务/元RL基准
 - [robosuite](/guide/simulation/robosuite/README) - 基于MuJoCo的模块化机器人学习仿真框架
 - [RoboCasa](/guide/simulation/robocasa/README) - 365个任务+厨房场景的大规模仿真基准
-- [SAPIEN](/guide/simulation/sapien/README) - 高性能物理仿真平台，专注机器人操作
 - [SOFA](/guide/simulation/sofa/README) - 实时物理仿真框架，擅长软体/变形体仿真
 - [MuJoCo Menagerie](/guide/simulation/mujoco_menagerie/README) - MuJoCo高质量机器人模型集合
 
@@ -128,3 +127,6 @@
 - [IsaacLab（基于 NVIDIA Isaac Sim …）](/guide/simulation/IsaacLab/README)
 - [SAPIEN（SAPIEN 具身智能平台）](/guide/simulation/SAPIEN/README)
 - [metaurban（[ICLR 2025 焦点] MetaU…）](/guide/simulation/metaurban/README)
+- [unrealcv（UnrealCV: 将计算机视觉与 Un…）](/guide/simulation/unrealcv/README)
+- [mujoco（多关节动力学与接触。通用物理模拟器。）](/guide/simulation/mujoco/README)
+- [habitat-sim（用于具身人工智能研究的灵活高性能 3D …）](/guide/simulation/habitat-sim/README)

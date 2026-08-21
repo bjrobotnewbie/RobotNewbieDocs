@@ -15,3 +15,5 @@
 - [robotic_notes（本仓库包含我的关于李群和李代数、机器人及…）](/guide/math/robotics-math/robotic_notes/README)
 
 - [spatialmath-python（使用 Python 创建、操纵并转换 2…）](/guide/math/robotics-math/spatialmath-python/README)
+
+- [pypose（基于不同iable 的机器人学库。）](/guide/math/robotics-math/pypose/README)

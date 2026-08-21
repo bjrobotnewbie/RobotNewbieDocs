@@ -24,3 +24,5 @@
 - [GNM（基于 GNM Head 的开放生态系统，…）](/guide/perception/3d-vision/GNM/README)
 - [pyRANSAC-3D（一个用于在点云中使用 RANSAC 算法…）](/guide/perception/3d-vision/pyRANSAC-3D/README)
 - [hug（官方实现“人类通用抓取”。）](/guide/perception/3d-vision/hug/README)
+- [PE3R（[CVPR'26] PE3R: 感知高效…）](/guide/perception/3d-vision/PE3R/README)
+- [deep_grasp_demo（MoveIt 框架内的抓取检测深度学习方…）](/guide/perception/3d-vision/deep_grasp_demo/README)

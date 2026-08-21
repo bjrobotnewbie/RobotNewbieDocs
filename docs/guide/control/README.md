@@ -58,3 +58,5 @@
 - [PBHC（论文《KungfuBot：基于物理的人形…）](/guide/control/PBHC/README)
 - [mpx（基于JAX的模型预测控制）](/guide/control/mpx/README)
 - [wb_humanoid_mpc（全身非线性模型预测控制：实时人形机器人定…）](/guide/control/wb_humanoid_mpc/README)
+- [panda-py（Python 绑定，用于实时控制 Fra…）](/guide/control/panda-py/README)
+- [Pontryagin-Differentiable-Programming（能够学习控制系统的（神经）控制目标函数、…）](/guide/control/Pontryagin-Differentiable-Programming/README)
