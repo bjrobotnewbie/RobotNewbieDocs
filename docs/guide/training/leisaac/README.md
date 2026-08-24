@@ -23,3 +23,5 @@ LeIsaac 在 [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html) 中
 - [cyclo_lab（此仓库提供了使用ROBOTIS机器人进行…）](/guide/training/leisaac/cyclo_lab/README)
 
 - [basic-locomotion-isaaclab（适用于基本四足机器人任务的 IsaacL…）](/guide/training/leisaac/basic-locomotion-isaaclab/README)
+
+- [WBC-AGILE（人类 humanoid 局部 - 操作学…）](/guide/training/leisaac/WBC-AGILE/README)

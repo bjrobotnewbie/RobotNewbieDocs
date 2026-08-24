@@ -64,3 +64,11 @@
 - [Dispider（[CVPR 2025] Dispider…）](/guide/embodied-models/Dispider/README)
 
 - [dive-into-embodied-ai（Build an embodied in…）](/guide/embodied-models/dive-into-embodied-ai/README)
+
+- [llm-as-a-verifier（LLM-as-a-Verifier 是一…）](/guide/embodied-models/llm-as-a-verifier/README)
+
+- [awesome-vla-wam（一份精选的视觉 - 语言 - 动作（VL…）](/guide/embodied-models/awesome-vla-wam/README)
+
+- [Vision-Language-Models-Overview（最前端集合与视觉 - 语言模型论文及模型…）](/guide/embodied-models/Vision-Language-Models-Overview/README)
+
+- [RoboClaw（RoboClaw 是一个具身人工智能助手…）](/guide/embodied-models/RoboClaw/README)

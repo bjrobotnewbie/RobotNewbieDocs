@@ -33,3 +33,9 @@
 - [mrs_uav_system（MRS UAV系统的入口点。）](/guide/robot-forms/aerial-robots/mrs_uav_system/README)
 
 - [awesome-dronecraft（用于全面理解自主无人机工作原理的资源。这…）](/guide/robot-forms/aerial-robots/awesome-dronecraft/README)
+
+- [flix（从零开始制作基于 ESP32 的四旋翼飞…）](/guide/robot-forms/aerial-robots/flix/README)
+
+- [awesome-drones（精选的 Awesome 无人机资源列表）](/guide/robot-forms/aerial-robots/awesome-drones/README)
+
+- [Peng（基于 Rust 的微型四旋翼自主框架（支…）](/guide/robot-forms/aerial-robots/Peng/README)

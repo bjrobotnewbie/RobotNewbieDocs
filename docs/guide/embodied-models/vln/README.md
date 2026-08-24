@@ -53,3 +53,4 @@ JanusVLN是西安交通大学提出的新型视觉语言导航框架，受人类
 - [HoloAgent（一个面向通用机器人的统一智能体系统，支持…）](/guide/embodied-models/vln/HoloAgent/README)
 - [VLX-Go（VLX-Go：开放世界具身AI导航）](/guide/embodied-models/vln/VLX-Go/README)
 - [PhyAgentOS（PhyAgentOS 是基于代理工作流构…）](/guide/embodied-models/vln/PhyAgentOS/README)
+- [Embodied-Omni（具身推理器 具身导航器）](/guide/embodied-models/vln/Embodied-Omni/README)

@@ -198,3 +198,13 @@ ROS (Robot Operating System) 是机器人领域最常用的开源操作系统，
 - [ros2（机器人操作系统（ROS）是一个用于机器人…）](/guide/ros/ros2/README)
 
 - [rviz（ROS 3D 机器人视觉器）](/guide/ros/rviz/README)
+
+- [rosboard（ROS 节点，将机器人转化为 Web 服…）](/guide/ros/rosboard/README)
+
+- [ros_gz（ROS (1 和 2) 与 Gazebo…）](/guide/ros/ros_gz/README)
+
+- [unitree_go2_ros2（该包提供了基于 CHAMP 控制器框架的…）](/guide/ros/unitree_go2_ros2/README)
+
+- [sick_scan_xd（适用于多种 SICK 激光雷达和雷达设备…）](/guide/ros/sick_scan_xd/README)
+
+- [unity_ros_teleoperation（Unity 项目，用于 OpenXR 控…）](/guide/ros/unity_ros_teleoperation/README)

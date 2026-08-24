@@ -21,6 +21,7 @@
 - [navit（一款适用于多种操作系统的开源（GPL v…）](/guide/applications/autonomous-driving/navit/README)
 - [openpilot（openpilot 是一款面向机器人领域…）](/guide/applications/autonomous-driving/openpilot/README)
 - [autoware（Autoware——全球领先的自动驾驶开…）](/guide/applications/autonomous-driving/autoware/README)
+- [waze-voicepack-links（由社区维护的经典与自定义Waze GPS…）](/guide/applications/autonomous-driving/waze-voicepack-links/README)
 ## 常用机器人形态
 
 | 形态分类 | 适用场景 | 链接 |

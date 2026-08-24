@@ -30,3 +30,7 @@
 - [inav-configurator](/guide/hardware/inav-configurator/README)
 
 - [pycyphal（Cyphal 协议栈的 Python 实…）](/guide/hardware/pycyphal/README)
+
+- [mavp2p（灵活高效的 Mavlink 路由器）](/guide/hardware/mavp2p/README)
+
+- [gomavlib（Mavlink 库（2.0 和 1.0）…）](/guide/hardware/gomavlib/README)

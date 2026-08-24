@@ -29,6 +29,8 @@
 - [XCSoar（……开源滑翔伞飞行电脑）](/guide/applications/uav/XCSoar/README)
 - [skybrush-server（Skybrush 的服务端组件，这是一个…）](/guide/applications/uav/skybrush-server/README)
 - [drone-tm（无人机任务管理器 - 社区驱动的无人机影…）](/guide/applications/uav/drone-tm/README)
+- [PyThrust（无人机设计中的开源电动推进系统分析与优化…）](/guide/applications/uav/PyThrust/README)
+- [ardudeck（一个 GCS 统御一切。ArduPilo…）](/guide/applications/uav/ardudeck/README)
 ## 代表性项目
 - 大疆消费级/行业级无人机
 - 极飞农业无人机

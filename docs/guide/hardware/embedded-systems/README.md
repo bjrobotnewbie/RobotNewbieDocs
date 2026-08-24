@@ -15,6 +15,10 @@
 - [mavlink（面向无人机的编组/通信库）](/guide/hardware/mavlink/README)
 - [mavlink（面向无人机的编组/通信库）](/guide/hardware/embedded-systems/mavlink/README)
 - [opendroneid-core-c（Open Drone ID 核心 C 库）](/guide/hardware/embedded-systems/opendroneid-core-c/README)
+- [ESP32（无人机桥接 ESP32。支持 WiFi …）](/guide/hardware/embedded-systems/ESP32/README)
+- [FMT-Firmware（Firmament 自动驾驶嵌入式系统）](/guide/hardware/embedded-systems/FMT-Firmware/README)
+- [rosflight_firmware（ROSflight 自动飞控固件）](/guide/hardware/embedded-systems/rosflight_firmware/README)
+- [BLEnky（快速配置的低功耗 BLE 到 GPIO …）](/guide/hardware/embedded-systems/BLEnky/README)
 ## 分类说明
 
 | 项目 | 主要内容 | 技能要点 |

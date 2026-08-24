@@ -29,6 +29,9 @@
 - [MMAUD（[ICRA-2024] MMAUD: 面…）](/guide/data/datasets/MMAUD/README)
 - [awesome-embodied-data-pyramid（🔥 具身Manipulation数据金字…）](/guide/data/datasets/awesome-embodied-data-pyramid/README)
 - [SinD（SinD: 基于无人机的中国信号化路口异…）](/guide/data/datasets/SinD/README)
+- [usgs-lidar（AWS Entwine Point Ti…）](/guide/data/datasets/usgs-lidar/README)
+- [PhysInOne（🔥 PhysInOne 在 Python…）](/guide/data/datasets/PhysInOne/README)
+- [open-h-embodiment（Open-H-Embodiment 是一…）](/guide/data/datasets/open-h-embodiment/README)
 ## 分类说明
 
 | 数据集 | 数据类型 | 应用场景 |

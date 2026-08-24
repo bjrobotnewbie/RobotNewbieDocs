@@ -17,6 +17,7 @@
 - [PerceptionBench（感知基准：评估多模态大语言模型中的原子视…）](/guide/data/benchmark_data/PerceptionBench/README)
 - [Awesome-Visual-Spatial-Reasoning（这是一个关于视觉空间推理的项目。）](/guide/data/benchmark_data/Awesome-Visual-Spatial-Reasoning/README)
 - [hilti-trimble-slam-challenge-2026（基于地面计划先验的 360 度视觉 - …）](/guide/data/benchmark_data/hilti-trimble-slam-challenge-2026/README)
+- [M3DGR（M3DGR：面向地面机器人的多传感器、多…）](/guide/data/benchmark_data/M3DGR/README)
 ## 分类说明
 
 | 数据集 | 应用领域 | 特点 |

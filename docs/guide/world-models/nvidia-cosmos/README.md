@@ -46,3 +46,7 @@ Cosmos 3 在多项基准测试中排名第一：
 - GitHub 代码：[https://github.com/NVIDIA/cosmos-framework](https://github.com/NVIDIA/cosmos-framework)
 - 技术报告：[https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)
 - Hugging Face 模型：[https://huggingface.co/collections/nvidia/cosmos3](https://huggingface.co/collections/nvidia/cosmos3)
+
+- [flashdreams（高性能推理与服务库，用于交互式自回归视频…）](/guide/world-models/nvidia-cosmos/flashdreams/README)
+
+- [StarWAM（适用于世界 - 动作模型的通用代码库）](/guide/world-models/nvidia-cosmos/StarWAM/README)

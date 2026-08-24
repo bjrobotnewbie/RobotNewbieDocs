@@ -28,6 +28,9 @@
 - [CTK（一套用于医学成像、手术导航及相关应用的通…）](/guide/applications/CTK/README)
 - [PhysiClaw（与您在现实世界中互动的 AI 代理。）](/guide/applications/PhysiClaw/README)
 - [blockly（Otto Blockly：适用于任意类型…）](/guide/applications/blockly/README)
+- [core（🏡 优先保障本地控制与隐私的开源家庭自动…）](/guide/applications/core/README)
+- [skills（为 NVIDIA 产品设计的 Agent…）](/guide/applications/skills/README)
+- [TeleDex（手机远程操作机器人）](/guide/applications/TeleDex/README)
 ## 分类说明
 
 | 分类 | 核心应用领域 | 技术特点 |

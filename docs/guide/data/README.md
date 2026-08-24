@@ -47,3 +47,7 @@
 - [bagel（与您的机器人、无人机和物联网数据对话——…）](/guide/data/bagel/README)
 
 - [DroneDB（用于地理空间数据存储的自由开源软件。）](/guide/data/DroneDB/README)
+
+- [weightslab（专为处理杂乱、真实世界数据（图像、视频、…）](/guide/data/weightslab/README)
+
+- [UAVLogViewer（无人机日志文件在线查看器）](/guide/data/UAVLogViewer/README)

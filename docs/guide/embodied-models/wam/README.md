@@ -166,3 +166,5 @@ LingBot-VA: Causal video-action world model for generalist robot control, RSS 20
 - [mimic-video（面向超越VLA的通用化机器人控制的视频-…）](/guide/embodied-models/wam/mimic-video/README)
 - [Hy-Embodied-RxBrain-1.0（RxBrain: 具身认知基础模型，具备…）](/guide/embodied-models/wam/Hy-Embodied-RxBrain-1.0/README)
 - [OpenETA（openeta: 具身任务代理）](/guide/embodied-models/wam/OpenETA/README)
+- [flex-pi（Flex-π：一个多流世界 - 动作模型…）](/guide/embodied-models/wam/flex-pi/README)
+- [LiLa-WAM（LiLa-WAM: 轻量级潜在推理世界动…）](/guide/embodied-models/wam/LiLa-WAM/README)

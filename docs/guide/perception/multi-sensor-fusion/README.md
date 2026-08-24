@@ -15,3 +15,4 @@
 - [laser_geometry（激光扫描转点云）](/guide/perception/laser_geometry/README)
 - [DAIR-RCooper（协同感知数据集）](/guide/perception/DAIR-RCooper/README)
 - [Collaborative_Perception（本仓库收录了近期在车辆至基础设施（V2I…）](/guide/perception/multi-sensor-fusion/Collaborative_Perception/README)
+- [Lidar_AI_Solution（一个展示激光雷达相关 AI 解决方案的项…）](/guide/perception/multi-sensor-fusion/Lidar_AI_Solution/README)

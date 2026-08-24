@@ -20,3 +20,6 @@
 - [rmvl（机器人操作与视觉库）](/guide/perception/2d-vision/rmvl/README)
 - [awesome-image-registration（图像配准相关的书籍、论文、视频和工具箱）](/guide/perception/2d-vision/awesome-image-registration/README)
 - [yolov14（YOLOv14：面向鱼眼、无人机、全景、…）](/guide/perception/2d-vision/yolov14/README)
+- [UAVDetectionTrackingBenchmark](/guide/perception/2d-vision/UAVDetectionTrackingBenchmark/README)
+- [YOLOv12-BoT-SORT-ReID（🔥 CVPR 2025 (纳什维尔，美国…）](/guide/perception/2d-vision/YOLOv12-BoT-SORT-ReID/README)
+- [SGLATrack（基于相似度的层自适应视觉Transfor…）](/guide/perception/2d-vision/SGLATrack/README)

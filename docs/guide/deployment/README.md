@@ -85,3 +85,7 @@
 - [robonix（具身人工智能操作系统（EAIOS））](/guide/deployment/robonix/README)
 
 - [limioryn（面向具身智能的边云多智能体执行框架，实现…）](/guide/deployment/limioryn/README)
+
+- [PhyAgentOS-core（PhyAgentOS 是基于代理工作流构…）](/guide/deployment/PhyAgentOS-core/README)
+
+- [sdk（Temi 是一款无与伦比的机器人平台，引…）](/guide/deployment/sdk/README)

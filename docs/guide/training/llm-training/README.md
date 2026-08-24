@@ -52,3 +52,7 @@
 - [verl-omni（多模态强化学习训练框架：扩散与全向模型）](/guide/training/llm-training/verl-omni/README)
 
 - [Relax（面向大规模全模态后训练的异步强化学习引擎）](/guide/training/llm-training/Relax/README)
+
+- [EasyR1（EasyR1：一种基于 veRL 的多模…）](/guide/training/llm-training/EasyR1/README)
+
+- [labs-molt（面向研究用途的代理优先强化学习框架（90…）](/guide/training/llm-training/labs-molt/README)

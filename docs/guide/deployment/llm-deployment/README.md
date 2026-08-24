@@ -30,3 +30,13 @@
 - [cactus（面向移动设备、可穿戴设备、智能家居及机器…）](/guide/deployment/llm-deployment/cactus/README)
 
 - [needle（适用于微型设备的基座模型；14MB 参数…）](/guide/deployment/llm-deployment/needle/README)
+
+- [sglang（SGLang 是一个面向大语言模型和多模…）](/guide/deployment/llm-deployment/sglang/README)
+
+- [vllm-omni（支持多模态模型的高效推理框架）](/guide/deployment/llm-deployment/vllm-omni/README)
+
+- [FlashRT（FlashRT 是一款专为小批量、低延迟…）](/guide/deployment/llm-deployment/FlashRT/README)
+
+- [vla.cpp（VLA 模型统一推理运行时）](/guide/deployment/llm-deployment/vla.cpp/README)
+
+- [phyai（PhyAI 是一个高性能框架，用于运行物…）](/guide/deployment/llm-deployment/phyai/README)

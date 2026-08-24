@@ -43,3 +43,7 @@
 - [UMI-3D（UMI-3D SLAM与数据处理流水线：…）](/guide/data/data-collection/UMI-3D/README)
 
 - [chek-ego-miner（CHEK EGO Miner 由青空科技…）](/guide/data/data-collection/chek-ego-miner/README)
+
+- [hflow（开源 SDK，用于构建机器人和物理 AI…）](/guide/data/data-collection/hflow/README)
+
+- [lerobot-rgb-rgbd-vla-dataset-toolkit（用于收集、合并、审计、可视化和发布 RG…）](/guide/data/data-collection/lerobot-rgb-rgbd-vla-dataset-toolkit/README)

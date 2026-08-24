@@ -85,3 +85,21 @@
 - [cosmos-rl（Cosmos-RL 是一个灵活且可扩展的…）](/guide/training/cosmos-rl/README)
 
 - [oscar（基于数据的操作空间自适应与鲁棒机器人操纵）](/guide/training/oscar/README)
+
+- [slippi-ai（从 slippi 回放中进行模仿学习。）](/guide/training/slippi-ai/README)
+
+- [vowpal_wabbit（Vowpal Wabbit 是一个机器学…）](/guide/training/vowpal_wabbit/README)
+
+- [Mava（🦁 适用于研究的 JAX 多智能体强化学…）](/guide/training/Mava/README)
+
+- [imitation-learning（模仿学习算法）](/guide/training/imitation-learning/README)
+
+- [Zetta-Embodiment](/guide/training/Zetta-Embodiment/README)
+
+- [OpenTau（Tensor 的 VLA 训练基础设施：…）](/guide/training/OpenTau/README)
+
+- [dexbotic（Dexbotic：开源视觉语言动作工具箱）](/guide/training/dexbotic/README)
+
+- [vla-evaluation-harness（任何 VLA 模型在任意机器人仿真基准上…）](/guide/training/vla-evaluation-harness/README)
+
+- [abc（ABC: 可扩展行为克隆，基于开源数据、…）](/guide/training/abc/README)

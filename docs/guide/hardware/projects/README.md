@@ -23,6 +23,8 @@
 - [PincOpen（一款源自Reachy 2机械臂夹爪的低成…）](/guide/hardware/projects/PincOpen/README)
 - [SSG-48-adaptive-electric-gripper（SSG-48 自适应电动夹爪——带力反馈…）](/guide/hardware/projects/SSG-48-adaptive-electric-gripper/README)
 - [pizero_bikecomputer（基于 Raspberry Pi Zero…）](/guide/hardware/projects/pizero_bikecomputer/README)
+- [SoftRF（:airplane: 多功能兼容 DIY…）](/guide/hardware/projects/SoftRF/README)
+- [stackchan-mcp（StackChan (xiaozhi-e…）](/guide/hardware/projects/stackchan-mcp/README)
 ## 分类说明
 
 | 项目类型 | 项目 | 特点 |
