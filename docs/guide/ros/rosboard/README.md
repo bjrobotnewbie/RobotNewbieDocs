@@ -6,8 +6,6 @@ ROS 节点，将机器人转化为 Web 服务器以可视化 ROS 话题
 
 - GitHub: <https://github.com/dheera/rosboard>
 
-## 项目概述
-
 ## 项目介绍
 ROSboard是一个ROS节点，可以在机器人上运行Web服务器，通过浏览器访问即可可视化ROS话题数据。它兼容ROS1和ROS2，支持在桌面端运行并播放ROS包，同时适配移动端，可以在机器人旁用手机查看数据。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/physical-superintelligence-lab/Humanoid-Everyday>
 
-## 项目概述
-
 ## 项目介绍
 本项目是**Humanoid Everyday Dataset**，一款面向机器人学习、模仿学习与感知研究的类人机器人演示数据集。数据集基于Unitree G1和H1两款类人机器人录制，涵盖260种日常任务场景，包含超10万条时间步数据，总下载体积约500GB，每个任务配有40段演示片段，录制帧率为30Hz。
 支持的任务类型包括移动操作、基础操作、工具使用、可变形物体操作、铰接物体操作以及人机交互等。

@@ -7,8 +7,6 @@ DORA（面向数据流的机器人架构，Dataflow-Oriented Robotic Architectur
 - GitHub: <https://github.com/dora-rs/dora>
 - 项目主页: https://dora-rs.ai
 
-## 项目概述
-
 ## 项目介绍
 DORA（面向数据流的机器人架构）是一款基于Rust开发的中间件框架，用于简化基于AI的机器人应用开发。它将应用建模为有向数据流图（管道），提供低延迟、可组合、分布式的数据流能力，支持实时机器人与AI应用构建。
 

@@ -7,8 +7,6 @@ Otto Blockly：适用于任意类型 Arduino 项目的完全集成图形化编�
 - GitHub: <https://github.com/OttoDIY/blockly>
 - 项目主页: <https://www.ottodiy.com/software>
 
-## 项目概述
-
 ## 项目介绍
 本项目是基于Google和MIT Blockly开发的免费开源可视化编程工具，专为Arduino、机器人等嵌入式项目设计，可离线/在线使用，能生成C/C++代码并编译上传至开发板，兼容Otto DIY机器人、Arduino、ESP8266、ESP32系列主板。仅支持Windows桌面端，可直接通过安装包部署，无需额外配置Arduino库，通过USB即可直接上传代码；跨平台可使用官方网页版编程生态。
 

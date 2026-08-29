@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/eProsima/Fast-DDS>
 - 项目主页: https://eprosima.com
 
-## 项目概述
-
 ## 项目介绍
 Fast-DDS是eProsima推出的一款成熟完整的DDS（数据分发服务）实现，拥有大量成功落地的应用案例，可提供商业技术支持。它是一款高性能的中间件，广泛适配机器人、物联网等分布式实时通信场景，支持跨Ubuntu、Windows、MacOS等多平台部署。
 

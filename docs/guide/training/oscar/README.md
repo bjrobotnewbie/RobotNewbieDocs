@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NVlabs/oscar>
 - 项目主页: <https://cremebrule.github.io/oscar-web>
 
-## 项目概述
-
 ## 项目介绍
 该项目是NVIDIA发布的OSCAR，即数据驱动的操作空间控制框架，用于自适应且鲁棒的机器人操作。它基于IsaacGym构建，是模块化的大规模机器人训练研究框架，现已停止维护不再更新。项目提供了配套的论文、项目主页，可用于机器人操纵算法的 benchmark 与快速原型开发。
 

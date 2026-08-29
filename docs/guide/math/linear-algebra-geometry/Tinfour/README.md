@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/gwlucastrig/Tinfour>
 
-## 项目概述
-
 ## 项目介绍
 Tinfour是一款Java编写的高性能Delaunay三角剖分工具库，用于构建和应用符合Delaunay准则的不规则三角网（TIN）。它可处理大规模数据集，在普通笔记本上每秒可处理超百万个采样点，支持Lidar LAS文件、数字高程模型（DEM）、有限元分析、路径规划、自然邻域插值等TIN相关应用。
 

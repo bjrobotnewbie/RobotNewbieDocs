@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/cactus-compute/cactus>
 - 项目主页: <https://cactuscompute.com>
 
-## 项目概述
-
 ## 项目介绍
 Cactus是一款面向移动设备、可穿戴设备、智能家居和机器人的混合边缘-云AI引擎，提供量化、内核、运行时和推理引擎能力。它支持文本、语音、视觉类AI任务，兼容OpenAI风格API，同时内置零拷贝计算图、针对性硬件优化内核、自定义旋转量化技术以及PyTorch模型转译器，可以实现本地AI部署，支持边缘端和云端无缝切换。
 

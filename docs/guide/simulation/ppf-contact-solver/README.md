@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/st-tech/ppf-contact-solver>
 
-## 项目概述
-
 ## 项目介绍
 本项目是ZOZO公司开源的接触求解器，最初作为日本时尚电商巨头ZOZO的内部物理引擎开发，目前面向社区持续演进。它可用于布料、实体、杆件、刚体以及沙粒的基于物理的仿真，支持通过Blender插件远程体验，也可通过Windows批处理脚本或Docker快速启动运行。
 

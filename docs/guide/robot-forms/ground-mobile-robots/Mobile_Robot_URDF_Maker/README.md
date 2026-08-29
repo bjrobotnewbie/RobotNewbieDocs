@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ali-pahlevani/Mobile_Robot_URDF_Maker>
 
-## 项目概述
-
 ## 项目介绍
 Mobile Robot URDF Maker是一款ROS 2桌面应用，可通过引导式PyQt5向导快速生成可直接用于仿真的移动机器人URDF文件，无需手动编写XML。用户可一站式完成底盘选择、运动学配置、传感器添加、控制器调参，并在Gazebo中实时遥控调试，最终输出标准`.urdf`和可编辑的`.urdf.xacro`文件，以及配套的控制器配置文件，可直接集成到机器人开发栈中。
 该应用支持ROS 2 Humble（Ubuntu 22.04）和Jazzy（Ubuntu 24.04），会自动适配当前运行的ROS发行版，内置OpenGL实时3D预览窗口。

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/alireza787b/mavsdk_drone_show>
 
-## 项目概述
-
 ## 项目介绍
 本项目原名mavsdk_drone_show，现更名为MDS（Mission-Directed Swarm），是一款面向PX4无人机的开源MAVLink集群操作框架，支持SITL仿真、无人机编队表演、搜救侦察、协同自主作业以及实地验证等场景。项目覆盖无人机端运行时、地面站/后端服务、React操作面板、SITL仿真、真实边缘计算设备、侧边连接以及任务执行全流程，既可以快速搭建SITL演示，也可支撑专业多无人机验证与定制化部署。
 

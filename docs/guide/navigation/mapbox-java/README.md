@@ -7,8 +7,6 @@ Mapbox Java SDK – Java 包装的 Mapbox API 及其他位置数据
 - GitHub: <https://github.com/mapbox/mapbox-java>
 - 项目主页: <https://docs.mapbox.com/android/java/overview/>
 
-## 项目概述
-
 ## 项目介绍
 Mapbox Java SDK是一套针对Mapbox APIs与其他位置数据的Java封装库，用于在Android或Java应用中构建位置服务类应用。该项目拆分了多个模块，开发者可以按需引入所需依赖，减少项目体积。
 

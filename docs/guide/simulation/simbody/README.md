@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/simbody/simbody>
 - 项目主页: <https://simtk.org/home/simbody>
 
-## 项目概述
-
 ## 项目介绍
 Simbody是一款高性能开源C++多体动力学/物理库，用于仿真铰接式生物力学与机械系统，包括机器人、车辆、人体骨骼等由刚体通过关节连接、受力约束的系统。它采用Featherstone风格的物理引擎，以O(n)时间复杂度在广义坐标下完成运动建模，提供C++ API用于构建领域专用应用，已被OpenSim、Gazebo、MacroMoleculeBuilder等项目使用。
 

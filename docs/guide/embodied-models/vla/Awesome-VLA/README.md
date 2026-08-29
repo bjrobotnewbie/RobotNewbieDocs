@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/yueen-ma/Awesome-VLA>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一篇发表于IEEE Transactions on Neural Networks and Learning Systems (TNNLS)的具身AI视觉语言动作(VLA)模型综述的官方仓库，整理了该领域的精选学术论文。项目面向具身AI领域研究者与开发者，提供了系统化的VLA领域资料汇总。
 

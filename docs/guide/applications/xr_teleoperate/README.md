@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/unitreerobotics/xr_teleoperate>
 
-## 项目概述
-
 ## 项目介绍
 本项目实现了基于Apple Vision Pro的Unitree H1_2人形机器人遥操作系统，支持通过XR设备远程操控宇树人形机器人完成相关动作。项目测试环境为Ubuntu 20.04和22.04，可参考官方文档和OpenTeleVision项目完成相关配置。
 

@@ -6,8 +6,6 @@ UMI-3D SLAM与数据处理流水线：https://umi-3d.github.io/
 
 - GitHub: <https://github.com/hku-mars/UMI-3D>
 
-## 项目概述
-
 ## 项目介绍
 UMI-3D是一套完整的端到端SLAM与数据处理流水线，可将原始rosbag录制文件转换为可直接用于具身操纵学习的训练数据集。项目包含硬件、SLAM处理、策略训练三大子模块，支持从数据采集到模型训练的全流程工作流，可处理激光雷达点云、IMU、相机图像等多传感器数据。
 

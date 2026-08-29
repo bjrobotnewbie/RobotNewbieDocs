@@ -7,8 +7,6 @@ slime 是一个用于 RL Scaling 的大语言模型后训练框架。
 - GitHub: <https://github.com/THUDM/slime>
 - 项目主页: https://thudm.github.io/slime
 
-## 项目概述
-
 ## 项目介绍
 slime是由THUDM推出的大语言模型（LLM）后训练框架，专注于强化学习（RL）规模化训练。它通过统一的训练/推理/数据缓冲区数据流，将Megatron训练、SGLang推理、自定义数据生成、奖励计算、校验反馈和环境交互整合为一体，避免了零散训练工具、推理服务和智能体框架的臃肿堆叠。该框架已通过GLM-5.2、GLM-5.1等多款前沿大模型的实战验证。
 

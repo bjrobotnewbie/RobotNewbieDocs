@@ -7,8 +7,6 @@ ros2ai 是基于大语言模型驱动的下一代ROS 2命令行接口扩展
 - GitHub: <https://github.com/fujitatomoya/ros2ai>
 - 项目主页: https://github.com/fujitatomoya/ros2ai
 
-## 项目概述
-
 ## 项目介绍
 ros2ai是一款基于大语言模型(LLMs)的下一代ROS 2命令行界面扩展工具，支持OpenAI和Ollama两种LLM服务。它可以帮助用户直接获取ROS 2相关问题的解答，无需大量浏览查找，尤其适合ROS 2初学者和学生使用，同时支持多语言与多LLM平台。该工具兼容ROS 2 Rolling、Kilted、Jazzy、Humble多个主流发行版。
 

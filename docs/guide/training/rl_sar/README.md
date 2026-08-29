@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/fan-ziqi/rl_sar>
 
-## 项目概述
-
 ## 项目介绍
 rl_sar是一个用于机器人强化学习算法的仿真验证与实物部署框架，其中sar代表"simulation and real"，支持四足机器人、轮式机器人、人形机器人。该框架兼容ROS Noetic、ROS2 Foxy/Humble，支持Gazebo、Mujoco、IsaacGym、IsaacSim仿真环境，以及libtorch和onnxruntime推理引擎，可运行于Linux和仅支持Mujoco仿真的macOS系统，支持运动控制和舞蹈两类任务。
 

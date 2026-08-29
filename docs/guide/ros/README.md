@@ -208,3 +208,9 @@ ROS (Robot Operating System) 是机器人领域最常用的开源操作系统，
 - [sick_scan_xd（适用于多种 SICK 激光雷达和雷达设备…）](/guide/ros/sick_scan_xd/README)
 
 - [unity_ros_teleoperation（Unity 项目，用于 OpenXR 控…）](/guide/ros/unity_ros_teleoperation/README)
+
+- [mapviz（基于 2D 数据的模块化 ROS 可视化…）](/guide/ros/mapviz/README)
+
+- [yahboom_rosmaster（Yahboom 为 ROSMASTER …）](/guide/ros/yahboom_rosmaster/README)
+
+- [ROS（ROS Noetic 两轮差速自主移动机…）](/guide/ros/ROS/README)

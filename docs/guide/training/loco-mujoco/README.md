@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/robfiras/loco-mujoco>
 - 项目主页: <https://loco-mujoco.readthedocs.io/>
 
-## 项目概述
-
 ## 项目介绍
 LocoMuJoCo是一个专注于复杂运动控制任务的模仿学习基准测试套件，基于MuJoCo开发。它提供了丰富的四足机器人、人形机器人以及生物力学骨骼人体模型环境，每个环境附带超22000条运动捕捉数据集。项目不仅支持模仿学习，还可自定义奖励函数，同样适用于纯强化学习场景，兼容Gymnasium接口。最新v1.1版本新增了MjWarp后端，可在兼容GPU上实现更快的并行仿真。
 

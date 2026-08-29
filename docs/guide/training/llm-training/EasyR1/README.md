@@ -7,8 +7,6 @@ EasyR1：一种基于 veRL 的多模态高效可扩展强化学习训练框架
 - GitHub: <https://github.com/hiyouga/EasyR1>
 - 项目主页: <https://verl.readthedocs.io>
 
-## 项目概述
-
 ## 项目介绍
 EasyR1是基于veRL开发的高效、可扩展多模态强化学习（RL）训练框架，为适配视觉语言模型进行了针对性优化，已被亚马逊云科技采用。它依托HybirdEngine设计与vLLM的SPMD模式实现高性能训练，支持通过Docker/Apptainer快速部署环境。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Robbyant/lingbot-video>
 - 项目主页: https://technology.robbyant.com/lingbot-video
 
-## 项目概述
-
 ## 项目介绍
 LingBot-Video是首个面向具身智能的开源大规模MoE（混合专家）视频生成模型，旨在打通视频合成与物理世界理解的壁垒。项目提供了官方项目页、Hugging Face、ModelScope等资源入口，附带中英双语使用文档，已在2026年7月9日发布技术报告、代码、模型与提示重写工具。
 

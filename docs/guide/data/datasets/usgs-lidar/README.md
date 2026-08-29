@@ -7,8 +7,6 @@ AWS Entwine Point Tiles USGS LiDAR 公开数据集 GitHub 仓库
 - GitHub: <https://github.com/hobuinc/usgs-lidar>
 - 项目主页: <https://registry.opendata.aws/usgs-lidar/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是AWS公开数据集项目，将USGS 3DEP LiDAR点云数据处理为云友好、可流式加载、无损且易用的格式。
 AWS上该数据集有两种形式：

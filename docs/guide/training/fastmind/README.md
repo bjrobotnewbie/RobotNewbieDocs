@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/kandada/fastmind>
 
-## 项目概述
-
 ## 项目介绍
 FastMind是一款轻量级、事件驱动的具身智能多智能体框架，采用LLM+VLA双循环架构，可用于构建具身AI智能体。支持Python 3.10+，基于GPL-3.0开源协议，核心代码约8000行，依赖轻量化。
 

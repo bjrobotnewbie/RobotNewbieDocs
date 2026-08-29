@@ -7,8 +7,6 @@ PX4 自动驾驶仪软件
 - GitHub: <https://github.com/PX4/PX4-Autopilot>
 - 项目主页: <https://px4.io>
 
-## 项目概述
-
 ## 项目介绍
 PX4 Autopilot是一款开源的无人机及无人载具自动驾驶堆栈，是行业主流的自动驾驶开发基础。它支持多旋翼、固定翼、VTOL、地面机器人等多种平台，可运行在NuttX、Linux和macOS系统上，采用BSD 3-Clause开源许可协议。
 

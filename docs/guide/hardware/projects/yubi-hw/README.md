@@ -7,8 +7,6 @@ YUBI - Yielding Universal Bidigital Interface（自适应通用双数字接口�
 
 - GitHub: <https://github.com/Toyota/yubi-hw>
 
-## 项目概述
-
 ## 项目介绍
 本项目是丰田前沿研究中心开发的YUBI（Yielding Universal Bidigital Interface）开源硬件系统，包含手指驱动遥操作手套、机器人夹持器以及两种数据采集装置，提供全套CAD文件、BOM清单和组装指南。配套软件仓库为[yubi-sw](https://github.com/airoa-org/yubi-sw)，可实现控制与遥操作功能，遵循CERN-OHL-W v2开源协议允许商业使用。
 

@@ -6,8 +6,6 @@ TortoiseBot 是一款对学习者极其友好、性价比出色的基于ROS的�
 
 - GitHub: <https://github.com/rigbetellabs/tortoisebot>
 
-## 项目概述
-
 ## 项目介绍
 TortoiseBot是一款基于ROS 2 Humble开发的开源移动机器人，主打低学习成本与高性价比，支持远程遥控、手动/自主建图、导航以及仿真等功能，适配ROS 2生态，面向机器人学习爱好者与开发者。
 

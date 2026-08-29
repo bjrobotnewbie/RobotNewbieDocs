@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/google-deepmind/acme>
 
-## 项目概述
-
 ## 项目介绍
 Acme是DeepMind推出的强化学习（RL）组件与智能体库，旨在提供简洁、高效且易读的RL参考实现与基准算法，同时可作为新型RL研究的基础模块。它支持单进程、分布式等多种运行规模，面向RL研究人员开发，日常用于自身科研工作。
 

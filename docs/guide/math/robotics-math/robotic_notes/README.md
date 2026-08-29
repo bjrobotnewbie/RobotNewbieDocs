@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/behnamasadi/robotic_notes>
 
-## 项目概述
-
 ## 项目介绍
 本项目是机器人学相关的代码片段与教程合集，覆盖李群李代数、机器人与空间拓扑构型、IMU、ROS2与Gazebo集成、状态估计、VIO、LIO以及基于深度学习的SLAM等多个机器人核心技术方向，同时提供了配套的安装部署教程。
 

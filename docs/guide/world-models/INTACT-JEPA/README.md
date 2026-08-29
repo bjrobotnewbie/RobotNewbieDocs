@@ -7,8 +7,6 @@ INTACT: 无搜索的世界模型中的同构意图 - 行动学习
 - GitHub: <https://github.com/zju3dv/INTACT-JEPA>
 - 项目主页: <https://zju3dv.github.io/INTACT-JEPA/>
 
-## 项目概述
-
 ## 项目介绍
 INTACT-JEPA是一款基于JEPA的端到端世界模型框架，核心目标是训练可直接响应部署阶段控制查询的世界模型，实现无需大范围动作搜索的目标条件机器人控制。该项目由浙江大学、清华大学等机构的研究者推出，提供了论文、项目主页、开源代码与预训练模型下载渠道。
 

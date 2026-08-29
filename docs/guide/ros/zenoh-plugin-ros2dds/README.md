@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds>
 - 项目主页: https://zenoh.io
 
-## 项目概述
-
 ## 项目介绍
 本项目是针对ROS2的Zenoh插件，可作为DDS RMW实现，通过Zenoh转发ROS2的DDS通信流量。Zenoh是一款零开销的发布订阅、存储查询与计算框架，可统一整合动态数据、静态数据与计算任务。
 

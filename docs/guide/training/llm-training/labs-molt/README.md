@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/NVIDIA-NeMo/labs-molt>
 
-## 项目概述
-
 ## 项目介绍
 Molt是一款面向研究场景的agent优先型RL框架，代码量约9.2K行，基于PyTorch原生开发，采用轻量技术栈：Ray负责调度与异步队列、vLLM用于采样生成、NVIDIA AutoModel+FSDP2实现训练。它支持万亿参数级别的全异步多模态多轮智能体强化学习，可适配DeepSeek-V3等大模型训练。
 

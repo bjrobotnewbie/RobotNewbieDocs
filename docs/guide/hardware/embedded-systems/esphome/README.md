@@ -7,8 +7,6 @@ ESPHome 是一个通过简洁而强大的配置文件控制 ESP32、ESP8266、BK
 - GitHub: <https://github.com/esphome/esphome>
 - 项目主页: https://esphome.io/
 
-## 项目概述
-
 ## 项目介绍
 ESPHome是一款针对ESP32、ESP8266、BK72xx、RP2040开发板的控制系统，用户可通过简洁且功能强大的配置文件管理设备，并通过家庭自动化系统远程控制设备。
 

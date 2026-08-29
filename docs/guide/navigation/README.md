@@ -137,6 +137,7 @@
 - [SLAM-Former（[ECCV 2026] SLAM-For…）](/guide/navigation/SLAM-Former/README)
 - [Leg-KILO（Leg-KILO：面向动态履带机器人的鲁…）](/guide/navigation/Leg-KILO/README)
 - [awesome-LiDAR-Visual-SLAM（LiDAR-视觉融合 SLAM 相关资源…）](/guide/navigation/awesome-LiDAR-Visual-SLAM/README)
+- [mast3r-slam](/guide/navigation/mast3r-slam/README)
 ## 与其他分类的区别
 
 | 目录 | 定位 | 主要特点 |

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/OpenMind/OM1>
 - 项目主页: https://openmind.com
 
-## 项目概述
-
 ## 项目介绍
 OM1是OpenMind推出的模块化AI硬件抽象层(HAL)，同时也是多模态AI运行时，支持开发者在数字环境和实体机器人（包括人形机器人、 quadruped机器人、TurtleBot 4等教育机器人，以及Gazebo、Isaac Sim等模拟器）上创建和部署AI智能体。
 它可以处理网页数据、社交媒体内容、摄像头画面、激光雷达等多源输入，支持运动控制、自主导航、自然对话等物理交互，目标是简化高能力人形机器人的开发，便于升级和适配不同硬件形态。

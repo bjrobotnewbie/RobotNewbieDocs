@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/kornelski/dssim>
 - 项目主页: https://kornel.ski/dssim
 
-## 项目概述
-
 ## 项目介绍
 dssim是一款基于改进多尺度SSIM算法的图像相似度对比工具，通过模拟人类视觉感知来计算两张或多张PNG/JPEG图像的差异度。其返回值为1/SSIM-1，0代表图像完全一致，数值越大差异越明显，且不与其他工具的结果直接通用。该工具支持RGBA通道、色彩配置文件，可利用多核CPU加速计算，无需依赖OpenCV或MATLAB，同时提供C、Rust、WASM三方库调用方式。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution>
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向自动驾驶的激光雷达AI加速解决方案，基于GPU优化了3D稀疏卷积、CenterPoint、BEVFusion等多个激光雷达/相机深度学习网络及相关工具库，包括cuPCL、3D SparseConvolution、YUV2RGB、cuOSD等。项目支持快速部署各类激光雷达3D感知任务，可复现原生PyTorch实现的精度。
 

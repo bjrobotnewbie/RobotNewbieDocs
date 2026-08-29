@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/nstathou/hello-slam>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个面向初学者的SLAM迷你课程，通过Jupyter交互式笔记本结合Python代码实例，讲解同时定位与地图构建（SLAM）的核心基础知识，涵盖贝叶斯滤波、卡尔曼滤波、粒子滤波以及基于图的SLAM方法。课程分为三讲，仅覆盖SLAM领域的入门内容，附带pygame实现的多种SLAM算法对比演示示例。
 

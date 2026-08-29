@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/OpenHUTB/hutb>
 - 项目主页: <OpenHUTB.github.io>
 
-## 项目概述
-
 ## 项目介绍
 本项目名为hutb，即人车模拟器（Human-vehicle Simulator），是一款影视级物理模拟器，用于研究人和各类载具，包括具身人、地面/空域/水域载具，旨在加速人机相关算法的开发、训练与验证。
 项目提供开源代码与可自由使用的开放数字资产，涵盖城镇布局、建筑、载具、行人、道具等。支持VR驾驶舱、空地一体仿真、水下机器人、多类型传感器、数据合成、交通管理、多物理场仿真、行人导航以及Python接口等功能，适配Ubuntu和Windows系统，基于Unreal Engine、PyTorch等技术栈开发，采用MIT非商用开源协议。

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/MarginallyClever/Robot-Overlord-App>
 - 项目主页: <https://www.marginallyclever.com/>
 
-## 项目概述
-
 ## 项目介绍
 Robot Overlord是一款开源的机器人可视化模拟与控制软件，采用节点式视觉编程系统，可作为轻量化、易上手的ROS替代方案。它内置3D引擎并支持实时反馈，面向创客、教育工作者和爱好者，可用于DIY机器人控制与自定义仿真开发。
 

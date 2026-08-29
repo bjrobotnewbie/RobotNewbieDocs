@@ -6,8 +6,6 @@ Damn Vulnerable Drone 是一款基于流行的 ArduPilot/MAVLink 架构、故意
 
 - GitHub: <https://github.com/nicholasaleks/Damn-Vulnerable-Drone>
 
-## 项目概述
-
 ## 项目介绍
 Damn Vulnerable Drone是一款基于ArduPilot/MAVLink架构的故意设置漏洞的无人机黑客模拟平台，为安全从业者提供真实的动手练习环境。
 该项目面向渗透测试人员、安全爱好者，帮助其在受控环境中学习无人机黑客技术，无需承担实体无人机的高昂成本，可安全练习漏洞利用技巧。

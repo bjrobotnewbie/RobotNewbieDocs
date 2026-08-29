@@ -7,8 +7,6 @@ ROS wiki 上教程所用的代码
 - GitHub: <https://github.com/ros/ros_tutorials>
 - 项目主页: http://wiki.ros.org/ros_tutorials
 
-## 项目概述
-
 ## 项目介绍
 `ros_tutorials`是配套ROS 2官方文档的教程代码集合，用于在入门教程中讲解ROS 2核心概念，包括节点、话题、服务、动作、参数和launch文件。本分支适配ROS 2 Rolling Ridley版本，其他ROS发行版请切换对应仓库分支。
 

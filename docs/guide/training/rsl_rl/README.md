@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/leggedrobotics/rsl_rl>
 - 项目主页: <https://leggedrobotics.github.io/rsl_rl/>
 
-## 项目概述
-
 ## 项目介绍
 RSL-RL是一款面向机器人研究的GPU加速轻量级强化学习库，设计简洁紧凑，研究者可无需修改大型复杂库即可快速原型验证新想法。该库可通过PyPI直接安装，支持多GPU训练，内置多款机器人学习常用算法，已被Isaac Lab、Legged Gym、mjlab、MuJoCo Playground等多个机器人学习框架采用。
 

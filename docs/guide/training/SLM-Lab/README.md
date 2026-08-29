@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/kengz/SLM-Lab>
 - 项目主页: https://slm-lab.gitbook.io/slm-lab/
 
-## 项目概述
-
 ## 项目介绍
 SLM-Lab是一款基于PyTorch的模块化深度强化学习框架，同时也是《Foundations of Deep Reinforcement Learning》一书的配套库。当前v5.0版本已更新至Gymnasium、使用uv工具链并支持ARM架构，旧版适配书籍的代码可切换至v4.1.1分支。
 

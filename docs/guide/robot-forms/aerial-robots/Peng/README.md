@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/makeecat/Peng>
 - 项目主页: <https://deepwiki.com/makeecat/Peng>
 
-## 项目概述
-
 ## 项目介绍
 Peng是一款基于Rust开发的轻量级四旋翼无人机自主框架，支持Mac、Linux、Windows系统，提供实时动力学仿真、轨迹规划、控制功能以及现代化可视化能力。
 

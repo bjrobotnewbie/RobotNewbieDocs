@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026>
 - 项目主页: <https://hilti-trimble-challenge.com/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Hilti × Trimble 2026 SLAM挑战赛配套的基准数据集，全称Hilti-Trimble-Oxford Dataset，是带有平面图先验的360°视觉惯性SLAM与定位测试基准。数据集已在Hugging Face平台发布，同时提供官方主页、演示视频和arXiv论文支持，可用于SLAM、定位相关算法的研发与评测。
 

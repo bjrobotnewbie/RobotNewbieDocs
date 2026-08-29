@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/nvidia-isaac/isaac_mission_dispatch>
 - 项目主页: <https://developer.nvidia.com/isaac-ros>
 
-## 项目概述
-
 ## 项目介绍
 Isaac Mission Dispatch是一款兼容VDA5050协议的云端机器人车队任务调度服务，用于实现边缘机器人与云端车队管理系统的通信。它采用MQTT作为通信协议，符合AGV/AMR与中央调度服务通信的开放标准VDA5050。
 该项目包含两个核心微服务组件：任务数据库微服务，提供REST API用于创建、更新、获取任务/机器人对象状态并实现数据持久化；任务调度微服务，负责与机器人通信并管理任务状态流转。

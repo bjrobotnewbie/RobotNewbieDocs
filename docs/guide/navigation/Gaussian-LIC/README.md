@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/APRIL-ZJU/Gaussian-LIC>
 
-## 项目概述
-
 ## 项目介绍
 Gaussian-LIC2是一款实时激光-惯性-视觉融合Gaussian Splatting SLAM系统，同时实现高精度鲁棒位姿估计与照片级真实感3D高斯地图构建，相关研究成果发表于ICRA 2025与IJRR 2026。项目提供了论文、项目主页与演示视频资源。
 

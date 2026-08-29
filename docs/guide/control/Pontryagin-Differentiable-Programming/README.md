@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/wanxinjin/Pontryagin-Differentiable-Programming>
 - 项目主页: <https://wanxinjin.github.io/Pontryagin-Differentiable-Programming/>
 
-## 项目概述
-
 ## 项目介绍
 Pontryagin-Differentiable-Programming（PDP）是一个端到端统一学习与控制框架，可用于在控制系统中学习神经控制目标函数、动力学方程、控制策略或最优轨迹。
 该项目包含PDP核心包与JinEnv环境包，配套有NeurIPS 2020、IEEE T-RO、NeurIPS 2021相关论文，分别对应基础PDP、连续PDP以及安全PDP变体，还提供了仿真机器人演示博客。

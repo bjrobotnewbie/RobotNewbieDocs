@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/kaiaai/LDS>
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向Arduino的LiDAR驱动库，适配多款2D激光雷达传感器，同时也是kaia.ai家用机器人软件平台的封装控制器。目前已推出Python移植版`lds2d`，可通过PyPi安装，同时提供Arduino和树莓派4/5的LiDAR使用教程。
 

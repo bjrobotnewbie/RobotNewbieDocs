@@ -6,8 +6,6 @@ Webots ROS 2 包
 
 - GitHub: <https://github.com/cyberbotics/webots_ros2>
 
-## 项目概述
-
 ## 项目介绍
 `webots_ros2`是一套ROS 2功能包，为开源3D机器人仿真器Webots提供机器人仿真所需的交互接口，可通过ROS2的消息、服务和动作实现二者的集成。项目附带完整官方文档，包含入门指南、示例、参考资料与教程。
 

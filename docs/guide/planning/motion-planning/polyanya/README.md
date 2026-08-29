@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/vleue/polyanya>
 
-## 项目概述
-
 ## 项目介绍
 这是Rust语言实现的Polyanya路径规划算法项目，Polyanya是一种无妥协的导航网格任意角度路径规划算法。项目提供了WASM在线演示Demo，支持通过导航网格快速计算两点间最优路径。
 

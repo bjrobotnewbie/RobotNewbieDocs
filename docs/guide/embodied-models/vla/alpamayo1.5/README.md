@@ -6,8 +6,6 @@ NVIDIA Alpamayo 1.5 Nano 是一款专为自动驾驶车辆设计的开源 10B �
 
 - GitHub: <https://github.com/NVlabs/alpamayo1.5>
 
-## 项目概述
-
 ## 项目介绍
 Alpamayo 1.5 是NVIDIA推出的开源100亿参数自动驾驶视觉语言模型（VLA），通过强化学习增强推理能力，支持导航引导与视觉问答功能，旨在赋能自动驾驶交互化、可操控的推理能力。项目提供了微调（SFT）与强化学习后训练脚本，可在Hugging Face平台获取模型与相关资源，采用Apache 2.0开源协议。
 

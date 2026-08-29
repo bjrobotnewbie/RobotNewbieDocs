@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/YanjieZe/awesome-humanoid-robot-learning>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个人形机器人学习领域的学术论文列表仓库，优先收录搭载真实机器人实验的研究，带有开源代码的论文会标注🌟符号。用户可提交PR补充相关领域的新论文与开源项目。
 

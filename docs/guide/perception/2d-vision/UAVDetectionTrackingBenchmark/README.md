@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/KostadinovShalon/UAVDetectionTrackingBenchmark>
 
-## 项目概述
-
 ## 项目介绍
 本项目是为IROS 2021论文《基于深度神经网络的无人机视觉检测与跟踪：性能基准测试》搭建的基准测试仓库，包含相关代码、配置文件和数据集统计信息。项目使用OpenMMLab系列框架完成检测与跟踪任务，共用到MAV-VID、Drone-vs-Bird、Anti-UAV三个UAV相关数据集。
 

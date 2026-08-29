@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/NVIDIA-AI-IOT/jetbot>
 
-## 项目概述
-
 ## 项目介绍
 JetBot是基于NVIDIA Jetson Nano的开源AI教育机器人平台，原厂参考设计总成本仅需150美元以内，同时兼容SparkFun、Waveshare等第三方厂商推出的衍生套件。该平台面向AI学习与实验，用户可通过浏览器交互式编程，从基础运动控制逐步学习到AI避障等进阶内容，帮助开发者获得AI项目开发的实操经验。官方文档可通过[jetbot.org](https://jetbot.org)查阅。
 

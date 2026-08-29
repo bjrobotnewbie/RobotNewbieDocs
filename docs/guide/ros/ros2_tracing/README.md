@@ -7,8 +7,6 @@ ROS 2 追踪工具
 - GitHub: <https://github.com/ros2/ros2_tracing>
 - 项目主页: <https://docs.ros.org/en/rolling/>
 
-## 项目概述
-
 ## 项目介绍
 `ros2_tracing`是一款面向ROS 2的追踪工具套件，为核心ROS 2包提供追踪 instrumentation，同时支持通过Launch动作配置追踪，以及`ros2` CLI追踪命令。目前仅支持Linux系统，依赖LTTng追踪器，需根据ROS 2发行版选择对应分支使用。
 

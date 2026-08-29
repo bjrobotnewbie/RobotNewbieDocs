@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Yuxing-Wang-THU/SurveyBrainBody>
 - 项目主页: https://arxiv.org/abs/2512.04770
 
-## 项目概述
-
 ## 项目介绍
 本项目是一篇发表于IEEE TEVC的综述论文，主题为面向快速进化智能体的具身身心协同设计（Embodied Co-Design, ECD）。该研究受自然界动物大脑与身体协同进化的启发，提出ECD范式，可同时优化智能体的形态与控制策略，相比仅优化控制的传统方法，能更好地提升智能体与环境的交互能力和任务表现，覆盖实体机器人与虚拟生物两类智能体。
 

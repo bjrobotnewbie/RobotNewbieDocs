@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/vikashplus/robohive>
 - 项目主页: https://sites.google.com/view/robohive
 
-## 项目概述
-
 ## 项目介绍
 本项目是`mj_envs`，是基于Mujoco物理引擎仿真、并封装了OpenAI Gym接口的机器人学习环境集合，属于robohive统一机器人学习框架的一部分。它提供了多种机器人仿真任务环境，支持通过Python快速调用并可视化运行。
 

@@ -7,8 +7,6 @@ Paparazzi 是一个面向无人（航空）载具的免费开源软硬件项目�
 - GitHub: <https://github.com/paparazzi/paparazzi>
 - 项目主页: <http://paparazziuav.org>
 
-## 项目概述
-
 ## 项目介绍
 Paparazzi是一款开源的无人机软硬件项目，为本项目的主软件仓库。它已被全球爱好者、高校和企业成功应用多年，可适配11.9g到25kg的各类飞行器，支持固定翼、旋翼机、复合翼、扑翼飞行器，也可用于水面船只。项目提供官方文档与Wiki教程，支持通过邮件列表、IRC、Gitter渠道交流。
 

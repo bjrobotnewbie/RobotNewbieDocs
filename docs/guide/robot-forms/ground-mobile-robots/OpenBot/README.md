@@ -7,8 +7,6 @@ OpenBot利用智能手机作为低成本机器人的大脑。我们设计了一�
 - GitHub: <https://github.com/ob-f/OpenBot>
 - 项目主页: https://www.openbot.org
 
-## 项目概述
-
 ## 项目介绍
 OpenBot是一款将智能手机作为机器人大脑的低成本机器人项目。其配套的小型电动机器人车身造价仅约50美元，搭配Android端软件栈，可以实现人员追踪、实时自主导航等高级机器人功能。
 

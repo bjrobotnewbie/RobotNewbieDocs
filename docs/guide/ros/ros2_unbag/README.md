@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ika-rwth-aachen/ros2_unbag>
 
-## 项目概述
-
 ## 项目介绍
 `ros2_unbag`是一款ROS 2工具，用于将`.db3`或`.mcap`格式的ROS 2包文件导出为CSV、JSON、PCD、图片等易读格式。它同时提供直观的GUI界面和功能完整的CLI插件，支持自动化脚本工作流，可用于机器人研发中ROS bag数据的提取、转换与分析。
 

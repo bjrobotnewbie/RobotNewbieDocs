@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/robomechanics/quad-sdk>
 - 项目主页: <https://robomechanics.github.io/quad-sdk/>
 
-## 项目概述
-
 ## 项目介绍
 quad-sdk是由卡内基梅隆大学Robomechanics实验室开发的开源ROS全栈软件框架，用于敏捷四足机器人运动开发。它集成了规划、控制、状态估计、通信与开发工具，支持仿真与实体硬件部署，适配多平台且用户修改成本低。模块化架构支持研究者自定义组件，附带Gazebo仿真支持与可视化、数据处理工具，可用于快速开发四足机器人敏捷运动方案，当前已在ROS Melodic(Ubuntu18.04)和ROS Noetic(Ubuntu20.04)完成测试。
 

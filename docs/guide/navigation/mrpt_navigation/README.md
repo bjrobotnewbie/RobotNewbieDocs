@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/mrpt-ros-pkg/mrpt_navigation>
 - 项目主页: http://wiki.ros.org/mrpt_navigation
 
-## 项目概述
-
 ## 项目介绍
 mrpt_navigation是一个ROS 2软件包仓库，将Mobile Robot Programming Toolkit（MRPT）的核心功能封装为ROS 2节点，提供定位、自主导航、原始日志处理等机器人导航相关功能，MRPT的SLAM与传感器访问功能则封装在其他ROS仓库中。该项目兼容ROS 2 Humble、Jazzy、Kilted、Lyrical、Rolling等多个发行版，另有ROS 2 Iron等已终止支持的发行版历史版本。其配套的SLAM框架为MOLA，生成的地图可用于本仓库的定位功能。
 

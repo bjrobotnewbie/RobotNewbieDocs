@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/huangjunsen0406/py-xiaozhi>
 - 项目主页: https://huangjunsen0406.github.io/py-xiaozhi/
 
-## 项目概述
-
 ## 项目介绍
 py-xiaozhi是一款开源AI助手生态项目，支持MCP集成、多模态工作流、IoT设备接入与跨平台语音交互，采用MIT开源协议，提供了详细的使用文档，同时在Gitee、AtomGit等平台同步托管。
 

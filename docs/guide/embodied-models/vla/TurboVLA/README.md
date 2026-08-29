@@ -6,8 +6,6 @@ TurboVLA: 32 Hz 实时视觉语言 - 动作模型，搭载 RTX 4090，显存占�
 
 - GitHub: <https://github.com/H-EmbodVis/TurboVLA>
 
-## 项目概述
-
 ## 项目介绍
 TurboVLA是一款实时视觉语言动作模型，可在RTX 4090显卡上以32Hz的速率运行，显存占用低于1GB。该项目来自华中科技大学与华为团队，提供了官方实现代码、模型权重与演示示例，相关论文已发布在arXiv，同时配有项目主页与Hugging Face模型仓库。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/fetty31/fast_LIMO>
 
-## 项目概述
-
 ## 项目介绍
 fast_LIMO是一款紧耦合、实时的LiDAR-Inertial SLAM算法，基于LIMO-Velo和FAST_LIO项目开发，依托IKFoM C++库实现。它采用多线程架构，仅依赖Eigen3和PCL库，可无需修改直接脱离ROS框架使用，同时也提供了ROS包装器。当前已支持通过KISS-Matcher实现基于保存的pcd地图的重定位，后续还计划添加回环检测功能。该算法可在高速、大转角的复杂场景下稳定运行，适配Formula Student赛车、KITTI数据集等多种测试环境。
 

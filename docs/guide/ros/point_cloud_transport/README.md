@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/ros-perception/point_cloud_transport>
 - 项目主页: <https://docs.ros.org/en/rolling/p/point_cloud_transport>
 
-## 项目概述
-
 ## 项目介绍
 这是一个ROS2软件包，用于通过多种传输层发布和订阅PointCloud2消息，主打低带宽场景下的点云数据传输，可借助Google Draco压缩库实现点云压缩，适配ROS2全系列主流发行版。
 

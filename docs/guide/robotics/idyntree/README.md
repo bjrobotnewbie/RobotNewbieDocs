@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/gbionics/idyntree>
 
-## 项目概述
-
 ## 项目介绍
 iDynTree是一款面向机器人动力学计算的开源库，主要用于控制、状态估计与仿真，专为自由浮动机器人设计，也可支持固定基座机器人。
 

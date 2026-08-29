@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/moveit/moveit>
 - 项目主页: <http://moveit.ai>
 
-## 项目概述
-
 ## 项目介绍
 MoveIt是一款面向ROS的开源机器人运动规划框架，可用于开发商用机器人操作应用、原型设计以及算法基准测试。该项目分为ROS版本和ROS 2版本（MoveIt 2），同时提供商业支持版MoveIt Pro。
 

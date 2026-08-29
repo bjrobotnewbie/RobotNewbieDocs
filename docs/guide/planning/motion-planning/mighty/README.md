@@ -7,8 +7,6 @@ MIGHTY：一种基于 Hermite 样条的单/多体无人机及地面机器人的�
 - GitHub: <https://github.com/mit-acl/mighty>
 - 项目主页: <https://arxiv.org/abs/2511.10822v1>
 
-## 项目概述
-
 ## 项目介绍
 MIGHTY是一款基于Hermite样条曲线的实时轨迹规划器，适配ROS 2框架，可用于单智能体与多智能体的无人机、地面机器人运动规划，已被IEEE Robotics and Automation Letters (RA-L)收录。
 该项目支持仿真与实物部署场景，可完成未知环境自主探索、目标点导航、多智能体避障规划、动态障碍物规避等任务。

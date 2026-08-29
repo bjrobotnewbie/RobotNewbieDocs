@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Farama-Foundation/PettingZoo>
 - 项目主页: https://pettingzoo.farama.org
 
-## 项目概述
-
 ## 项目介绍
 PettingZoo是一款Python多智能体强化学习标准API库，对标单智能体领域的Gymnasium，提供了多款主流参考环境与配套工具，用于多智能体强化学习研究。官方文档站点为pettingzoo.farama.org，同时配有公共Discord开发协调社区。
 

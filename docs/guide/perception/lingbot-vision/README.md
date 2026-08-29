@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Robbyant/lingbot-vision>
 
-## 项目概述
-
 ## 项目介绍
 LingBot-Vision是一系列面向稠密空间感知的自监督视觉Transformer（ViT）骨干网络，模型尺寸覆盖ViT-S/16到11亿参数的ViT-g/16。其旗舰模型采用**掩码边界建模**预训练目标，在学习空间结构化特征的同时保留强语义表征能力，可同时捕捉边界、形状与语义区域，作为即插即用的视觉编码器适配多种下游任务。
 

@@ -7,8 +7,6 @@ Build an embodied intelligent robot from scratch: Engineering implementation of 
 - GitHub: <https://github.com/datawhalechina/dive-into-embodied-ai>
 - 项目主页: <https://datawhalechina.github.io/dive-into-embodied-ai/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是具身智能入门与求职开源教程，旨在从零到一搭建具身智能机器人，完成强化学习、World-Model、VLA等智能决策方法的工程落地，覆盖仿真环境、控制器、运动规划、感知系统等模块，跑通"决策—控制—感知"完整链路。项目分为零基础入门、项目实战、理论技能树三个阶段，当前为Alpha内测版本，仍在重构完善中。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/fjp/frenet>
 - 项目主页: <https://fjp.at/posts/optimal-frenet/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一款基于Frenet坐标系的移动机器人轨迹规划工具，核心功能是将Frenet(s,d)坐标转换为局部笛卡尔(x,y)坐标，适用于高速公路等存在先验参考路径的结构化环境下的二维平面移动机器人轨迹规划。
 

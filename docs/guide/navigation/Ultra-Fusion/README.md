@@ -7,8 +7,6 @@ Ultra-Fusion：传感器退化与时空扰动下的鲁棒紧耦合多传感器�
 - GitHub: <https://github.com/sjtuyinjie/Ultra-Fusion>
 - 项目主页: https://sjtuyinjie.github.io/ultrafusion-web/
 
-## 项目概述
-
 ## 项目介绍
 Ultra-Fusion是一款面向智能交通系统的紧耦合多传感器融合SLAM框架，针对传感器退化（光照不佳、LiDAR退化、车轮打滑、GNSS失效）和时空标定失准的真实部署场景设计。
 该框架支持ROS1 Noetic和ROS2 Humble，可适配地面、腿式、空中多种移动平台，兼容RGB-D、LiDAR、IMU、轮式里程计、GNSS等多类传感器。

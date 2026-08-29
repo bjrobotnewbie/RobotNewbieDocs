@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/bepu/bepuphysics2>
 
-## 项目概述
-
 ## 项目介绍
 bepuphysics2是一款纯C#编写的3D实时物理模拟库，是BEPUphysics v1的完整重制版。其核心库面向.NET 8，可在所有支持的平台上运行，附带DX11和OpenGL两种演示项目，可通过命令行快速启动。该库大量使用`System.Numerics.Vectors`类型以获得高性能，需要支持RyuJIT的编译器才能发挥最佳性能。
 

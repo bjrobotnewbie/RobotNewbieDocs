@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Tsinghua-MARS-Lab/OMG>
 - 项目主页: <https://tsinghua-mars-lab.github.io/OMG/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是论文《OMG: Omni-Modal Motion Generation for Generalist Humanoid Control》的官方代码仓库，针对通用人形机器人控制打造全模态运动生成模型。项目提供了论文预印本、官方数据集、预训练模型，曾获RSS 2026的ExWBC口头报告与RoboData spotlight奖项。
 

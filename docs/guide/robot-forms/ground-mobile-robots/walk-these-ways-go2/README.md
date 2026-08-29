@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Teddy-Liao/walk-these-ways-go2>
 
-## 项目概述
-
 ## 项目介绍
 本项目是从`walk-these-ways`复刻的Sim-to-Real四足机器人运动项目，适配宇树Go2机器人。原项目是Go1的Sim-to-Real运动入门套件，可通过简单修改适配A1机器人，本项目针对宇树新版SDK2不再基于UDP的特性，修改了SDK接口，实现将训练好的RL运动策略部署到Unitree Go2上。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/oliviazzzu/minimal-embodiment>
 - 项目主页: https://doi.org/10.5281/zenodo.19903098
 
-## 项目概述
-
 ## 项目介绍
 本项目是论文《A Minimal Self-Perceiving Embodiment for Large Language Models》的参考实现，为大语言模型提供闭环物理实体与自我感知循环。硬件基于ESP32，搭载环境、光线、运动、声音四类传感器，以及触觉、OLED显示屏、蜂鸣器三类输出通道，其中两路输出可反馈回输入，让模型能够感知自身的动作。
 

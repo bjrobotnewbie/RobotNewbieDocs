@@ -7,8 +7,6 @@ Unity 项目，用于 OpenXR 控制 ROS 系统
 - GitHub: <https://github.com/leggedrobotics/unity_ros_teleoperation>
 - 项目主页: <https://rffr.leggedrobotics.com/works/xr/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一款集成ROS的Unity XR远程操控项目，专为Quest 3 VR头显设计，支持OpenXR、手部追踪与Unity输入系统，适配Unity 6000.2.15f1版本，是ROS 1系统下官方支持的最新Unity版本。项目可运行于Linux x64与Quest 3平台，提供了完整的Unity与VR设备部署流程，支持ROS1与ROS2系统。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/instadeepai/Mava>
 
-## 项目概述
-
 ## 项目介绍
 Mava是由InstaDeep研发团队打造的面向研究场景的多智能体强化学习（MARL）代码库，基于JAX实现，支持快速开展分布式多智能体强化学习实验，能够帮助研究人员高效迭代、修改并测试全新算法思路。
 

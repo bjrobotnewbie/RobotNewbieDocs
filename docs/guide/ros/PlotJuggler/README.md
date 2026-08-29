@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/PlotJuggler/PlotJuggler>
 - 项目主页: https://www.plotjuggler.io
 
-## 项目概述
-
 ## 项目介绍
 PlotJuggler是一款高性能、易用的时间序列可视化工具，主打快速处理海量时序数据，支持从文件加载或实时流获取数据，广泛应用于机器人、嵌入式设备等领域的数据可视化分析，尤其适配ROS1/ROS2生态，可读取rosbag并订阅ROS话题。当前存在仿冒恶意钓鱼网站，需注意甄别官方项目地址。
 

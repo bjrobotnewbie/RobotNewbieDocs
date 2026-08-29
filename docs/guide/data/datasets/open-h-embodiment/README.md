@@ -6,8 +6,6 @@ Open-H-Embodiment 是一个社区驱动的基准数据集项目，旨在构建�
 
 - GitHub: <https://github.com/open-h/open-h-embodiment>
 
-## 项目概述
-
 ## 项目介绍
 Open-H-Embodiment是一个社区驱动的数据集项目，旨在为医疗机器人通用视觉-语言-动作（VLA）模型的训练与评估提供开源共享的基础数据支持。当前项目已更新至v2版本，采用LeRobot v0.6.0、数据集格式v3.0，v1版本可在Hugging Face获取。项目提供官方网站、Discord社区、数据集探索页面等交流与数据查看渠道，采用OpenMDW-1.1开源协议。
 

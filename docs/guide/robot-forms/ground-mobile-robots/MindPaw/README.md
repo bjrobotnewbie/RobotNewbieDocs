@@ -6,8 +6,6 @@ MindPaw —— 基于 ESP8266 的桌面级四足机器狗，支持语音交互�
 
 - GitHub: <https://github.com/ace-trump-tech/MindPaw>
 
-## 项目概述
-
 ## 项目介绍
 MindPaw是一款基于ESP8266的桌面级四足机器狗开源项目，总物料成本仅约50元（基础版35元）。它集成了语音交互（HLK-V20/SU-03T）、手势识别（OV2640+轻量MLP）、豆包大模型AI对话、PAD情感计算、WiFi网页遥控功能，同时支持OLED表情显示与音效反馈，适合机器人入门、嵌入式AI、HRI情感交互研究。
 

@@ -6,8 +6,6 @@ DUNE：统一导航环境
 
 - GitHub: <https://github.com/LSTS/dune>
 
-## 项目概述
-
 ## 项目介绍
 DUNE（Unified Navigation Environment）是一款无人系统机载软件运行时环境，用于开发无人系统核心的通用嵌入式软件，涵盖代码控制、导航、通信、传感器与执行器接入等功能。它提供了基于C++编写的操作系统与架构无关的平台抽象层，可提升在不同CPU架构和操作系统间的移植性。
 

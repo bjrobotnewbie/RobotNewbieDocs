@@ -40,3 +40,7 @@
 - [vla.cpp（VLA 模型统一推理运行时）](/guide/deployment/llm-deployment/vla.cpp/README)
 
 - [phyai（PhyAI 是一个高性能框架，用于运行物…）](/guide/deployment/llm-deployment/phyai/README)
+
+- [Crane（基于纯 Rust 的 LLM、VLM、V…）](/guide/deployment/llm-deployment/Crane/README)
+
+- [RoboECC（论文《RoboECC：面向 VLA 模型…）](/guide/deployment/llm-deployment/RoboECC/README)

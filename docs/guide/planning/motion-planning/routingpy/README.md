@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/routingpy/routingpy>
 - 项目主页: <https://routingpy.readthedocs.io/en/latest/?badge=latest>
 
-## 项目概述
-
 ## 项目介绍
 routingpy是一款Python 3第三方库，旨在以统一的接口调用各类公开的路径规划、等时圈、距离时间矩阵类Web服务。它参考geopy的设计思路，帮助开发者便捷访问主流空间路由服务，无需适配不同服务商的差异化API，可用于获取步行、骑行、汽车、重型货车等多种出行方式的路线、计算可达区域以及生成N×M规模的距离时间矩阵。
 

@@ -7,8 +7,6 @@ SGLang 是一个面向大语言模型和多模态模型的高性能服务框架�
 - GitHub: <https://github.com/sgl-project/sglang>
 - 项目主页: <https://sglang.io>
 
-## 项目概述
-
 ## 项目介绍
 SGLang是一款面向大语言模型与多模态模型的高性能推理服务框架，支持快速部署各类主流开源/闭源AI模型，提供原生TPU后端适配，可加速文本、图像、音频生成等任务，支持Day0级别的新模型上线支持。
 

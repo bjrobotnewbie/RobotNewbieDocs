@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Grigorij-Dudnik/RoboCrew>
 - 项目主页: https://grigorij-dudnik.github.io/RoboCrew-docs/
 
-## 项目概述
-
 ## 项目介绍
 RoboCrew是一个用于快速构建机器人LLM智能体的框架，可以让开发者像使用CrewAI或Autogen普通智能体一样轻松配置机器人自主能力。它支持接入移动控制、机械臂操控、视觉感知、语音交互、LiDAR建图等多种机器人工具，通过几行代码即可完成部署，已支持XLeRobot、LeKiwi、Earth Rover mini plus等多款机器人平台。
 

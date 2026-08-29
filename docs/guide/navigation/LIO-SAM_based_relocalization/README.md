@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/chennuo0125-HIT/LIO-SAM_based_relocalization>
 
-## 项目概述
-
 ## 项目介绍
 本项目基于LIO-SAM（未融合GPS的原始版本）开发了一款简易的机器人重定位系统，可以让机器人在已构建的地图中实现定位。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/WebODM/OpenSplat>
 
-## 项目概述
-
 ## 项目介绍
 OpenSplat是一款免费开源的3D高斯溅射（gaussian splatting）实现，采用C++编写，主打便携、轻量和高性能。它已加入WebODM生态，支持Windows、Mac、Linux系统，可通过CPU或GPU运行，GPU推荐NVIDIA、AMD及Apple Metal平台，CPU模式运行速度约慢100倍。
 

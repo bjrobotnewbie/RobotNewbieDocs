@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/GXNU-ZhongLab/SGLATrack>
 
-## 项目概述
-
 ## 项目介绍
 本项目是CVPR 2025论文《Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking》的官方实现，名为SGLATrack，是一款面向无人机跟踪任务的视觉Transformer跟踪算法，同时也可适配通用视觉跟踪场景。项目提供了预训练模型与原始测试结果下载链接，支持在多个航拍与通用跟踪数据集上开展训练与测试。
 

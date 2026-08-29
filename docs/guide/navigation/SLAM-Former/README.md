@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Tsinghua-MARS-Lab/SLAM-Former>
 - 项目主页: <https://tsinghua-mars-lab.github.io/SLAM-Former/>
 
-## 项目概述
-
 ## 项目介绍
 SLAM-Former是清华大学MARS实验室推出的基于Transformer的端到端SLAM方案，被收录为ECCV 2026论文，目前已发布预印本。该项目将完整SLAM流程整合进单个Transformer模型中，支持基于图像序列的定位与建图任务，提供了完整的代码、预训练模型与部署教程。
 

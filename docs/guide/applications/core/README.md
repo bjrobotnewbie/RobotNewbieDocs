@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/home-assistant/core>
 - 项目主页: <https://www.home-assistant.io>
 
-## 项目概述
-
 ## 项目介绍
 Home Assistant是一款开源的家庭自动化项目，以本地控制和隐私保护为核心理念，由全球爱好者社区驱动，可在树莓派或本地服务器上运行。项目提供官方演示站、安装指南、教程与完整文档，支持用户通过社区渠道获取帮助。
 

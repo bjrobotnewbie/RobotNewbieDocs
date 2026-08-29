@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/iit-DLSLab/basic-locomotion-isaaclab>
 
-## 项目概述
-
 ## 项目介绍
 本项目是基于IsaacLab的四足机器人基础运动强化学习DirectEnv实现，支持多款四足机器人，提供sim-to-sim与sim-to-real迁移流程。可用于四足机器人运动控制的RL训练、仿真间迁移以及真实机器人部署。支持通过ROS2完成真实机器人部署，搭配官方配套工具实现状态估计与机器人通信。
 

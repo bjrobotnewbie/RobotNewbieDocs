@@ -58,3 +58,5 @@
 | **control/** | 底层运动控制，执行规划器输出的轨迹 |
 | **embodied-models/vln/** | 视觉语言导航模型，端到端生成导航策略 |
 | **embodied-models/vla/** | 视觉语言动作模型，端到端生成机器人动作 |
+
+- [vleue_navigator（基于 NavMesh 的路径规划）](/guide/planning/vleue_navigator/README)

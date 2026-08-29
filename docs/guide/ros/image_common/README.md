@@ -7,8 +7,6 @@ ROS中处理图像的通用代码
 - GitHub: <https://github.com/ros-perception/image_common>
 - 项目主页: https://docs.ros.org/en/rolling/p/image_common/
 
-## 项目概述
-
 ## 项目介绍
 image_common是ROS 2机器人感知栈的一部分，提供了机器人系统中处理图像与相机的核心基础设施工具包。它包含多个子功能包，可用于图像传输、相机标定数据管理等场景，支持二进制和源码两种安装方式。
 

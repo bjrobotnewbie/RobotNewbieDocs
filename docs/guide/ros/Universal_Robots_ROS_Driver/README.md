@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/UniversalRobots/Universal_Robots_ROS_Driver>
 
-## 项目概述
-
 ## 项目介绍
 本项目是优傲机器人（Universal Robots）的ROS驱动包，支持CB3和e-Series系列协作机械臂，可实现UR机器人与ROS系统的稳定交互。该项目源自`ur_modern_driver`，由优傲机器人与FZI信息科技研究中心合作开发，曾获ROSIN项目支持。
 注意：ROS 1已于2025年5月停止维护，本仓库不再进行新功能开发，仅可能修复部分bug。

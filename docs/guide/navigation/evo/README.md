@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/MichaelGrupp/evo>
 - 项目主页: https://michaelgrupp.github.io/evo/
 
-## 项目概述
-
 ## 项目介绍
 evo是一款用于评估里程计和SLAM算法的Python工具包，提供可执行程序与基础库，用于处理、评估和对比里程计与SLAM算法输出的轨迹数据。支持TUM轨迹文件、KITTI位姿文件、EuRoC MAV数据集格式，以及ROS/ROS2 bagfile中的多种话题消息格式。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/iory/scikit-robot>
 - 项目主页: https://scikit-robot.readthedocs.io/
 
-## 项目概述
-
 ## 项目介绍
 scikit-robot是一个轻量级纯Python机器人框架，专注于机器人运动学、运动规划、可视化与控制开发，支持快速完成机器人相关编程与调试工作。
 

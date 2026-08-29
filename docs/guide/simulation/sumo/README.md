@@ -7,8 +7,6 @@ Eclipse SUMO 是一款开源、高度便携、微观且连续的交通仿真软�
 - GitHub: <https://github.com/eclipse-sumo/sumo>
 - 项目主页: <https://eclipse.dev/sumo>
 
-## 项目概述
-
 ## 项目介绍
 Eclipse SUMO（Simulation of Urban MObility）是一款开源、高可移植的微观交通仿真工具，专为处理大型道路网络设计，支持多模态仿真，包含行人模拟，同时提供大量场景创建工具。该项目主要由德国航空航天中心交通系统研究所开发，可通过官方下载站或GitHub源码获取，支持Windows、Linux、macOS多平台。
 

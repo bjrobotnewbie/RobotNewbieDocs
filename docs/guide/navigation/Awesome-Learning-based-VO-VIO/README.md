@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO>
 - 项目主页: <https://kwanwaipang.github.io/Learning-based-VO-VIO/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个精选的基于学习的里程计相关论文资源汇总，涵盖了基于学习的视觉里程计（支持普通相机与事件相机）、视觉惯性里程计、惯性里程计、激光雷达里程计、语义SLAM、NeRF SLAM等方向，旨在为相关领域研究者提供系统化的参考资料。
 

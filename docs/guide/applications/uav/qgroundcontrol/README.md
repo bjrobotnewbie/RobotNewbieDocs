@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/mavlink/qgroundcontrol>
 - 项目主页: http://qgroundcontrol.io
 
-## 项目概述
-
 ## 项目介绍
 QGroundControl（简称QGC）是一款跨平台无人机地面站软件，支持Android、iOS、Mac OS、Linux、Windows系统，专为支持MAVLink协议的无人机（包括PX4和ArduPilot平台）提供完整的飞行控制与任务规划能力。
 

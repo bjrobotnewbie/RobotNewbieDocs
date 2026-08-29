@@ -6,8 +6,6 @@ SIMD加速的基于采样的运动规划
 
 - GitHub: <https://github.com/KavrakiLab/vamp>
 
-## 项目概述
-
 ## 项目介绍
 Vector-Accelerated Motion Planning（VAMP）是一个基于SIMD加速的采样式运动规划库，支持多种经典及前沿运动规划算法，可用于机器人路径规划场景。它通过CPU SIMD指令加速碰撞检测与正运动学计算，在消费级桌面PC单核心上，针对Franka Emika Panda机械臂的MotionBenchMaker数据集规划任务， median速度可达35微秒，同时也可在ARM低功耗设备上运行。
 

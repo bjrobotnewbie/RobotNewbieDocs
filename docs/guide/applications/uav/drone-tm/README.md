@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/hotosm/drone-tm>
 - 项目主页: <https://drone.hotosm.org>
 
-## 项目概述
-
 ## 项目介绍
 Drone Tasking Manager是一款社区驱动的无人机影像采集平台，由HOTOSM开发，旨在通过社区协作完成无人机航测影像的收集任务，助力地图绘制工作。项目基于FastAPI、React、Postgres等技术栈，支持Docker与Kubernetes部署，提供完整的CI/CD自动化流程与官方文档支持。
 

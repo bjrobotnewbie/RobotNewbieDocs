@@ -7,8 +7,6 @@ CADAM 是开源的文本转CAD网页应用
 - GitHub: <https://github.com/Adam-CAD/CADAM>
 - 项目主页: https://adam.new/cadam
 
-## 项目概述
-
 ## 项目介绍
 CADAM是一款开源的文本转CAD网页应用，用户可直接在浏览器中通过自然语言或图片生成3D CAD模型，无需额外安装软件，支持导出为.STL、.SCAD、.DXF格式文件，官方在线演示地址为adam.new/cadam。项目基于React、Node.js开发，后端采用Supabase，通过WebAssembly运行OpenSCAD。
 

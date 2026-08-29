@@ -47,3 +47,5 @@
 - [hflow（开源 SDK，用于构建机器人和物理 AI…）](/guide/data/data-collection/hflow/README)
 
 - [lerobot-rgb-rgbd-vla-dataset-toolkit（用于收集、合并、审计、可视化和发布 RG…）](/guide/data/data-collection/lerobot-rgb-rgbd-vla-dataset-toolkit/README)
+
+- [Loop-Engineering-for-VLA（RGB/RGB-D LeRobot VL…）](/guide/data/data-collection/Loop-Engineering-for-VLA/README)

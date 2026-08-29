@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/haozhang04/LeggedSkillDeploy>
 
-## 项目概述
-
 ## 项目介绍
 LeggedSkillDeploy是一款基于状态机的Python多策略部署框架，专为腿足式机器人的强化学习运动控制设计，支持双足、四足、轮式双足、轮式四足共5类共7款机器人，可完成模仿学习、强化学习两类运动策略的部署，适配MuJoCo、Gazebo仿真环境，附带B站视频教程。
 

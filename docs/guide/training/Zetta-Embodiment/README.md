@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/air-embodied-brain/Zetta-Embodiment>
 
-## 项目概述
-
 ## 项目介绍
 Zetta是一款高效的闭环具身智能开发框架，支持在线进化基于代码的运行时评判器与恢复技能，同时保持基础策略固定。它在LIBERO-Pro（90.8%）和RoboCasa（93.6%）基准上取得了顶尖性能，推理速度提升11.1倍。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot>
 
-## 项目概述
-
 ## 项目介绍
 OpenCatEsp32是基于ESP32的开源四足机器人框架，运行在Petoi推出的BiBoard开发板上，可用于打造类似波士顿动力的四足机器人。适配Bittle X机器狗、Nybble Q机器猫等当前一代Petoi硬件，旧版NyBoard硬件请使用主OpenCat仓库。该项目适用于STEM教育、编程与机器人教学、IoT机器人应用、AI增强机器人服务、科研以及DIY机器人套件开发。
 

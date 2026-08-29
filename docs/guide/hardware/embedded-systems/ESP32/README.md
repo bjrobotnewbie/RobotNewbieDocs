@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/DroneBridge/ESP32>
 - 项目主页: <https://drone-bridge.com/>
 
-## 项目概述
-
 ## 项目介绍
 DroneBridge for ESP32是一款基于乐鑫ESP32模块的固件，是低成本的无人机/无人系统遥测通信方案。它可实现安全透明的串口转WiFi、串口转ESP-NOW、BLE链路，支持MAVLink、MSP、LTM等协议，也可配置为透明透传模式。仅支持低速率遥测通信，不支持视频编码传输。
 

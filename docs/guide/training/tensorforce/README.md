@@ -6,8 +6,6 @@ Tensorforce：一个用于应用强化学习的TensorFlow库
 
 - GitHub: <https://github.com/tensorforce/tensorforce>
 
-## 项目概述
-
 ## 项目介绍
 Tensorforce是一款基于TensorFlow的开源强化学习库，面向科研与实际应用场景，主打模块化灵活设计与易用性，仅支持Python 3环境，目前该项目已停止维护。它将全部强化学习逻辑（含控制流）都基于TensorFlow实现，可生成可移植的计算图，便于模型部署。
 

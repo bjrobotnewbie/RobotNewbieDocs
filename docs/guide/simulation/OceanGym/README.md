@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/OceanGPT/OceanGym>
 - 项目主页: <https://oceangpt.github.io/OceanGym/>
 
-## 项目概述
-
 ## 项目介绍
 OceanGym是一个面向水下具身智能体的基准测试环境，已被收录于EMNLP 2026。该项目基于Unreal Engine 5.3开发，参考了HoloOcean的部分实现，提供高保真的真实海洋模拟场景，可用于评估水下自主智能体的感知与决策导航能力。项目提供了官网、论文、数据集及多平台下载链接，附带教学演示视频。
 

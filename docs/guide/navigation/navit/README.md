@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/navit-gps/navit>
 - 项目主页: <http://www.navit-project.org>
 
-## 项目概述
-
 ## 项目介绍
 Navit是一款遵循GPL v2开源协议的跨平台逐向导航软件，自带路由引擎。支持在Android、Linux车载电脑等设备上运行，可通过F-Droid、Google Play获取移动版应用。它能够获取车辆当前位置，支持从gpsd、NMEA GPS传感器、移动端定位服务等多种途径获取位置数据，可加载多种格式矢量地图，提供最优路径规划与70余种语言的语音导航，支持导入多种格式的POI数据。
 

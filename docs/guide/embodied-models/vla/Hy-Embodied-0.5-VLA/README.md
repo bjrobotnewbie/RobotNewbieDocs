@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA>
 
-## 项目概述
-
 ## 项目介绍
 本项目是腾讯 Robotics X 和 Hy 团队推出的 Hy-Embodied-0.5-VLA（简称 Hy-VLA），是一套端到端的视觉-语言-动作（VLA）机器人学习全栈方案，覆盖数据采集、模型设计、预训练、监督微调、RL后训练到真实部署全流程。项目提供了完整的代码库、两款预训练模型（Hy-Embodied-0.5-VLA-UMI、Hy-Embodied-0.5-VLA-RoboTwin）以及超2000小时的第一视角UMI数据集，支持在HuggingFace和ModelScope获取相关资源。
 

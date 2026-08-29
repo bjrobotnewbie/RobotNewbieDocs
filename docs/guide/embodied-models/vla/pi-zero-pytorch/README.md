@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/lucidrains/pi-zero-pytorch>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Physical Intelligence提出的机器人基础模型架构π₀的PyTorch实现。该模型基于预训练视觉语言模型PaliGemma 2B构建，借鉴了Transfusion和Stable Diffusion 3的设计思路，采用流匹配替代扩散生成策略，并分离了联合注意力参数，用于机器人策略生成与在线强化学习。官方开源仓库已同步推出。
 

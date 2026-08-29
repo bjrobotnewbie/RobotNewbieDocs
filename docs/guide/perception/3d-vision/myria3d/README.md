@@ -7,8 +7,6 @@ Myria3D：基于深度学习的空中激光雷达高分辨率语义分割
 - GitHub: <https://github.com/IGNF/myria3d>
 - 项目主页: <https://ignf.github.io/myria3d/>
 
-## 项目概述
-
 ## 项目介绍
 Myria3D是一款基于深度学习的开源库，专注于大规模高密度航空LiDAR点云的多分类语义分割任务。它基于PyTorch构建，兼容PyTorch-Geometric标准数据格式，依托PyTorch-Lightning和Hydra实现灵活快速的深度学习实验迭代。
 该库支持3D分割神经网络的训练、推理流程，可对大型未知点云进行分割，并支持基于全点云的单类别IoU评估，模型评估结果可靠。项目最初适配法国Lidar HD项目，可实现地面、植被、建筑等多类目标的语义分割。

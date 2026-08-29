@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/sii-research/tau-0-vla>
 
-## 项目概述
-
 ## 项目介绍
 τ₀-VLA是一款分层式机器人基础模型，用于长时序机械臂操作任务。该项目是论文《τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation》的官方实现，提供了项目网页、论文和Hugging Face模型权重下载渠道。
 模型包含两级策略：高层策略基于记忆增强生成下一个子任务，并在需要额外推理时借助世界模型引导的测试时计算来搜索可行方案；低层策略则负责在不同机器人硬件上执行选定的子任务。低层策略结合了Qwen3.5视觉语言主干网络和基于条件流匹配训练的Transformer混合动作专家，使用统一的40维状态/动作空间，在40115小时的异构真实机器人多模态数据上联合训练得到。

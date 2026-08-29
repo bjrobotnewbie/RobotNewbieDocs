@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/pollen-robotics/PincOpen>
 - 项目主页: https://pollen-robotics.github.io/PincOpen/
 
-## 项目概述
-
 ## 项目介绍
 PincOpen是一款低成本、开源的平行夹爪机器人，衍生自Reachy 2的夹爪，单套成本仅约25欧元。项目旨在降低机器人操控技术门槛，让无充足预算的开发者也能开展相关研究与制作。
 该夹爪兼容SO-ARM100开源机械臂，指尖可更换以适配不同应用场景，整体性能可满足多数基础机器人抓取需求。本项目采用CC BY-SA 4.0开源协议。

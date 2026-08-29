@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ROBOTIS-GIT/cyclo_lab>
 
-## 项目概述
-
 ## 项目介绍
 cyclo_lab是基于Isaac Lab的科研型仓库，用于在仿真环境中开展Robotis机器人的强化学习(RL)和模仿学习(IL)实验，支持Sim2Real功能，可以将训练好的策略部署到实体机器人上。项目依托NVIDIA Isaac Sim的GPU加速物理引擎与Isaac Lab的模块化RL流程，提供了适配Robotis硬件的仿真环境、配置工具与任务定义。当前依赖IsaacLab v2.2.0及以上版本，适配Ubuntu22.04、Python3.11环境，采用Apache2.0开源协议。
 

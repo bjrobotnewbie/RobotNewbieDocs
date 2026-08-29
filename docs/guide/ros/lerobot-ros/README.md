@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ycheng517/lerobot-ros>
 
-## 项目概述
-
 ## 项目介绍
 lerobot-ros是一个通用ROS 2接口仓库，作为轻量级封装工具，可以将兼容ros2_control或MoveIt的机械臂连接到LeRobot生态系统中。同时提供了用于6自由度末端执行器控制的游戏手柄遥操作，以及关节位置控制的键盘遥操作工具。
 

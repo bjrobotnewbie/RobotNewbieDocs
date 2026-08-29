@@ -6,8 +6,6 @@ https://docs.nav2.org/ 中引用的教程代码
 
 - GitHub: <https://github.com/ros-navigation/navigation2_tutorials>
 
-## 项目概述
-
 ## 项目介绍
 本项目是[Navigation2官方文档](https://docs.nav2.org/)配套的教程代码仓库，用于辅助开发者学习Nav2（ROS 2导航栈）的相关使用方法，提供官方教程对应的可运行示例代码。
 

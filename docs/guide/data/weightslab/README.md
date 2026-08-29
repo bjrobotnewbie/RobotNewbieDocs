@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/GrayboxTech/weightslab>
 - 项目主页: <https://www.graybx.com/>
 
-## 项目概述
-
 ## 项目介绍
 weightslab是面向AI工程师的实时数据处理与训练辅助工具，专为处理图像、视频、LiDAR点云这类真实世界的复杂数据设计。它可以接入现有PyTorch训练循环，提供可视化UI，支持在不重启训练的前提下暂停训练、挖掘实时损失信号以识别误标注、类别不平衡问题与异常样本，并对数据集进行编辑优化，同时还能辅助调整训练方向。
 

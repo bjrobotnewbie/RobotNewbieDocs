@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/carla-simulator/ros-bridge>
 
-## 项目概述
-
 ## 项目介绍
 本项目是CARLA模拟器的ROS/ROS2桥接包，可实现ROS与CARLA之间的双向通信：将CARLA服务器的信息转换为ROS话题数据，同时将ROS节点间发送的指令转换为可在CARLA中执行的操作。本版本适配CARLA 0.9.13。
 

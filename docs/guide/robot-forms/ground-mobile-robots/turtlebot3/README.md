@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/ROBOTIS-GIT/turtlebot3>
 - 项目主页: http://turtlebot3.robotis.com
 
-## 项目概述
-
 ## 项目介绍
 本项目是TurtleBot3的ROS功能包集合，支持ROS Humble、Jazzy以及Rolling版本，同时保留了适配Noetic等旧版ROS的分支。TurtleBot3是一款开源的小型移动机器人平台，本仓库是其官方开源生态的核心组成部分，配套了完整的官方文档、学习资源与社区支持渠道。
 

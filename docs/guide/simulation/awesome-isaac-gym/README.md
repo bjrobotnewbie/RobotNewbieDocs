@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/robotlearning123/awesome-isaac-gym>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个精选的NVIDIA Isaac Gym相关资源汇总列表。NVIDIA Isaac Gym是一款高性能GPU加速的机器人学习物理仿真环境，本项目收集了该工具的官方资源、学习材料、研究论文、工具库、应用案例等全方位内容。
 

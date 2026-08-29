@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/jherrodthomas/robotics-skills-suite>
 
-## 项目概述
-
 ## 项目介绍
 Robotics Skills Suite是一套面向工业机器人、协作机器人、自主移动机器人(AMR)、ROS2、验证与确认(V&V)、AI/ML以及IEC 62443生命周期的76个可用于审计的Claude技能套件，包含38组构建器+审核器技能对，严格遵循ISO 10218、13849、62061等多项国际标准。
 该套件可自动化生成工业机器人全生命周期的结构化Excel交付物，包括风险评估、安全等级验证、合规矩阵、ROS2架构文档、性能验证报告、AI/ML治理文档以及工业网络安全评估材料等，且支持上下游技能通过Excel文件自动传递数据。

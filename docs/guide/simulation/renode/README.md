@@ -7,8 +7,6 @@ Renode - Antmicro 开源的复杂嵌入式系统仿真与虚拟开发框架
 - GitHub: <https://github.com/renode/renode>
 - 项目主页: <https://renode.io>
 
-## 项目概述
-
 ## 项目介绍
 Renode是Antmicro推出的开源复杂嵌入式系统仿真与虚拟开发框架，主打多节点有线/无线嵌入式网络虚拟开发，可用于创建经过测试、安全可靠的IoT系统。它支持运行无需修改的目标硬件原生二进制文件，能够仿真完整SoC（含异构多核SoC与各类外设）以及设备间的连接，解决物理嵌入式系统开发测试中复现性差、多节点场景难调试的问题。支持的架构包括ARMv7/ARMv8系列、x86/x86_64、RISC-V、SPARC、POWER、Xtensa、MSP430X。
 

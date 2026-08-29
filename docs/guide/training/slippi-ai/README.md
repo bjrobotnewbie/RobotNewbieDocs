@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/vladfi1/slippi-ai>
 
-## 项目概述
-
 ## 项目介绍
 slippi-ai（又名Phillip II）是原版Phillip的后继项目，基于Slippi回放数据进行模仿学习，相比纯深度RL（RL）训练的初代Phillip，其游戏风格更贴近人类玩家。项目支持通过Twitch直播联机对战，也可本地运行对战。
 

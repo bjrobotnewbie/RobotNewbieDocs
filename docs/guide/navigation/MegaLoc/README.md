@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/gmberton/MegaLoc>
 
-## 项目概述
-
 ## 项目介绍
 MegaLoc是一款通用视觉定位图像检索模型，在多数室内外视觉位置识别（VPR）数据集上达到当前最优（SOTA）性能。它支持通过上传查询图像，在自建图像库中匹配最相似的场景图像，官方提供了Gradio在线演示示例。
 

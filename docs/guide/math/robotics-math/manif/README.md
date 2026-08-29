@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/artivis/manif>
 - 项目主页: <https://artivis.github.io/manif>
 
-## 项目概述
-
 ## 项目介绍
 manif是一款面向机器人状态估计的Lie理论C++11头文件库，同时提供Python 3包装器。它专为机器人应用设计，当前支持多种Lie群：包括欧几里得空间ℝ(n)、平面/三维旋转群SO(2)/SO(3)、平面/三维刚体运动群SE(2)/SE(3)、三维扩展位姿群SE_2(3)、三维特殊伽利略群SGal(3)以及复合流形Bundle<>。项目基于经典Lie理论数学框架开发，附带配套入门论文与学习资源，采用MIT开源协议。
 

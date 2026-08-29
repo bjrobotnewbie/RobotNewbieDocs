@@ -7,8 +7,6 @@ PhyAgentOS 是基于代理工作流构建的自进化具身人工智能操作系
 - GitHub: <https://github.com/PhyAgentOS/PhyAgentOS-core>
 - 项目主页: <https://phy-agent-os.net/>
 
-## 项目概述
-
 ## 项目介绍
 PhyAgentOS-core 是一款基于智能体工作流的自主进化具身AI操作系统，采用认知-物理解耦设计，以会话为中心的运行时框架，适配仿真与真实机器人场景，支持Python≥3.11，采用MIT开源协议。
 

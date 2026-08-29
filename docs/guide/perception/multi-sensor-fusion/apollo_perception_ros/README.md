@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/cedricxie/apollo_perception_ros>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Apollo 3.0.0感知模块的ROS移植版本，将Apollo的障碍物感知模块提取并修改为可作为标准ROS节点运行的程序，解决了原生Apollo依赖定制化ROS环境、后续版本切换至Cyber RT无法兼容常规ROS工具的问题。项目面向学习自动驾驶感知架构的学生、研究者，需要在ROS中测试多传感器感知流水线的开发者，以及适配 legacy Apollo感知代码用于教学或仿真的维护者。2026年起重新维护，当前为历史教育向移植项目，非生产级自动驾驶栈。
 

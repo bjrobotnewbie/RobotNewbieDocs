@@ -6,8 +6,6 @@ FlashRT 是一款专为小批量、低延迟 AI 工作负载设计的高性能�
 
 - GitHub: <https://github.com/flashrt-project/FlashRT>
 
-## 项目概述
-
 ## 项目介绍
 FlashRT是一款面向小批量、低延迟AI推理工作负载的高性能实时推理引擎。它无需ONNX导出、无需引擎编译、无需逐驱动重新构建，通过手写定制内核覆盖标准Transformer、DiT、SigLIP等模型原语，且硬件适配架构无关，当前已支持从边缘端Jetson AGX Thor到服务器端A100、RTX 4090/5090的NVIDIA设备。
 

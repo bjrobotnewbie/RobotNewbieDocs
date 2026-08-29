@@ -150,3 +150,6 @@
 - [OceanSim（[IROS 2025] OceanSim…）](/guide/simulation/OceanSim/README)
 - [Robot-Overlord-App（机器人仿真与控制软件）](/guide/simulation/Robot-Overlord-App/README)
 - [scrimmage（多智能体机器人模拟器）](/guide/simulation/scrimmage/README)
+- [OpenModelica（OpenModelica 是一个开源的基…）](/guide/simulation/OpenModelica/README)
+- [project_superdex（SuperDex 整合了专用的物理引擎、…）](/guide/simulation/project_superdex/README)
+- [PythonVehicleSimulator（Python 车辆模拟器是补充教科书《海…）](/guide/simulation/PythonVehicleSimulator/README)

@@ -6,8 +6,6 @@ OpenKAI：一个用于无人载具与机器人控制的现代框架
 
 - GitHub: <https://github.com/yankailab/OpenKAI>
 
-## 项目概述
-
 ## 项目介绍
 OpenKAI是一款开源的无人车与机器人控制轻量化并行框架，用于快速原型开发与项目搭建。它采用纯C++编写的模块化多线程架构，可在嵌入式硬件上轻量运行，同时也能适配高性能平台扩展资源，支持自定义修改与新设备扩展，已适配x86 PC、NVIDIA Jetson系列、Raspberry Pi等平台。
 

@@ -7,8 +7,6 @@ DynoSAM：动态物体平滑建图 官方代码发布。论文已被《Transacti
 - GitHub: <https://github.com/ACFR-RPG/DynOSAM>
 - 项目主页: https://acfr-rpg.github.io/DynOSAM/
 
-## 项目概述
-
 ## 项目介绍
 DynoSAM是一款面向动态环境的视觉SLAM框架，已被IEEE Transactions on Robotics收录。它支持双目/RGB-D视觉里程计，能够同时估计相机位姿、动态物体的运动与位姿，同时重建静态背景地图与动态物体地图。项目完全集成ROS2，提供全批量、滑动窗口、增量三种优化模式。
 

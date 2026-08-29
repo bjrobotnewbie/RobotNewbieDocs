@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/physical-superintelligence-lab/Psi0>
 - 项目主页: https://psi-lab.ai/Psi0/
 
-## 项目概述
-
 ## 项目介绍
 Psi0（Ψ₀）是一款面向通用类人移动操作的开源视觉语言动作（VLA）基础模型，由USC-PSI Lab推出，获RSS26、CVPR 2026 3D-LLM/VLA最佳论文奖。该模型先从大规模人类第一视角视频中学习任务语义与视觉表征，再通过少量真实远程操作机器人数据微调，掌握机器人本体的通用动力学特性，仅需80条轨迹即可完成新的长跨度灵巧移动操作技能微调。项目提供了论文、项目主页、模型与数据集的开源链接，采用Apache2.0开源协议。
 

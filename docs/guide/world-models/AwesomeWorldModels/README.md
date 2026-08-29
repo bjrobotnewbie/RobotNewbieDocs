@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Li-Zn-H/AwesomeWorldModels>
 
-## 项目概述
-
 ## 项目介绍
 本项目是《A Comprehensive Survey on World Models for Embodied AI》的配套仓库，对应一篇arXiv综述论文。世界模型作为智能体的环境动力学内部模拟器，可以实现前向推演与反事实模拟，统一感知、预测与控制任务。仓库提供了中英双语的综述幻灯片，方便快速了解核心内容。
 

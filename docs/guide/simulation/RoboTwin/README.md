@@ -7,8 +7,6 @@ RoboTwin 2.0 官方仓库
 - GitHub: <https://github.com/RoboTwin-Platform/RoboTwin>
 - 项目主页: https://robotwin-platform.github.io
 
-## 项目概述
-
 ## 项目介绍
 RoboTwin是一款双手机器人操作平台，当前最新版本为2.0。它是一个可扩展的数据集生成工具与基准测试平台，主打强域随机化技术，用于提升双手机器人操控的鲁棒性。项目提供官方网页、文档、学术论文、社区交流与排行榜页面，支持CVPR 2025 MEIS Workshop的双手协作挑战赛。
 

@@ -188,3 +188,5 @@ GigaBrain-0: 国内首个利用世界模型生成数据实现真机泛化的视�
 - [alpamayo-recipes（NVIDIA Alpamayo 开发者 …）](/guide/embodied-models/vla/alpamayo-recipes/README)
 - [AeroVLA（[已入选 ECCV 2026] Aero…）](/guide/embodied-models/vla/AeroVLA/README)
 - [Awesome-VLA-Safety（[Arxiv] 视觉 - 语言 - 行动…）](/guide/embodied-models/vla/Awesome-VLA-Safety/README)
+- [Large-VLM-based-VLA-for-Robotic-Manipulation（用于机器人操作的基于大型视觉语言模型（V…）](/guide/embodied-models/vla/Large-VLM-based-VLA-for-Robotic-Manipulation/README)
+- [StreamPI（StreamPI：面向视觉 - 语言 -…）](/guide/embodied-models/vla/StreamPI/README)

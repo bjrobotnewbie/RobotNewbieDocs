@@ -6,8 +6,6 @@ Mavlink 库（2.0 和 1.0）用于 Go 编程语言
 
 - GitHub: <https://github.com/bluenviron/gomavlib>
 
-## 项目概述
-
 ## 项目介绍
 gomavlib是一款基于Go语言实现的Mavlink协议（支持1.0和2.0版本）开发库，可通过串口、UDP、TCP或自定义传输协议与支持Mavlink的设备交互，可用于开发UGV、UAV、地面站、监控系统或路由设备。Mavlink是轻量且传输无关的协议，广泛应用于无人车、无人机通信，被Ardupilot、PX4等主流开源飞控支持，该库也是mavp2p路由的底层依赖。
 

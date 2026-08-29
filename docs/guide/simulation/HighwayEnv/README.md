@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Farama-Foundation/HighwayEnv>
 - 项目主页: https://highway-env.farama.org/
 
-## 项目概述
-
 ## 项目介绍
 HighwayEnv是一个面向自动驾驶与战术决策任务的仿真环境集合，由Edouard Leurent最初开发，目前由Farama Foundation维护。它可用于训练、测试自动驾驶智能体，支持Python环境，可通过PyPI快速安装，官方文档与Discord社区支持完善。
 

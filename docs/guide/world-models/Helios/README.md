@@ -7,8 +7,6 @@ Helios: 真实实时长视频生成模型
 - GitHub: <https://github.com/PKU-YuanGroup/Helios>
 - 项目主页: <https://pku-yuangroup.github.io/Helios-Page>
 
-## 项目概述
-
 ## 项目介绍
 Helios是一款实时长视频生成模型，官方实现项目。该模型可在单张H100 GPU上实现19.5 FPS、分钟级别的高质量视频合成，单张Ascend NPU也可达到约10 FPS，无需依赖常规的长视频防漂移策略或标准视频加速技术。
 

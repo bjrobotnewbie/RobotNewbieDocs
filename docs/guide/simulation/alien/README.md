@@ -7,8 +7,6 @@ ALIEN 是一款基于 CUDA 的模拟人工生命程序。
 - GitHub: <https://github.com/chrxh/alien>
 - 项目主页: <https://alien-project.org>
 
-## 项目概述
-
 ## 项目介绍
 ALIEN是一款基于CUDA的人工生命模拟程序，全称Artificial LIfe ENvironment。它依托专用的2D CUDA粒子引擎模拟软体与流体，可创建由粒子网络构成的多细胞数字有机体，这些有机体搭载神经网络控制的传感器、肌肉等设备，能够通过基因组存储蓝图并繁衍后代。项目旨在研究前生物进化与生物系统复杂度，同时通过现代化UI与可视化渲染降低使用门槛，支持百万级粒子的大规模实时模拟。
 

@@ -7,8 +7,6 @@ Little Navmap 是一款适用于微软模拟飞行X、微软模拟飞行2020、P
 - GitHub: <https://github.com/albar965/littlenavmap>
 - 项目主页: https://albar965.github.io/littlenavmap.html
 
-## 项目概述
-
 ## 项目介绍
 Little Navmap是一款免费的飞行规划、导航工具，同时也是移动地图、机场搜索与机场信息系统，支持Flight Simulator X、Microsoft Flight Simulator 2020、Prepar3D以及X-Plane多款飞行模拟软件。
 

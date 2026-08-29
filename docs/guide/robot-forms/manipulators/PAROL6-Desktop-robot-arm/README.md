@@ -7,8 +7,6 @@ BOM, STL 文件及 PAROL6 3D 打印机器人臂的安装说明
 - GitHub: <https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm>
 - 项目主页: <https://source-robotics.com/>
 
-## 项目概述
-
 ## 项目介绍
 PAROL6是一款高性能3D打印桌面机械臂，其机械设计、控制软件与使用逻辑贴近工业机器人。本项目提供该机械臂的BOM物料清单、STL打印文件与组装指导，同时配套开源控制软件、GUI与Python API。用户可选择官方购买整机，或自行采购零件组装。
 

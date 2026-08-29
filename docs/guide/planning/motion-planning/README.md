@@ -189,3 +189,5 @@
 - [frenet（将 Frenet (s,d) 坐标变换为…）](/guide/planning/motion-planning/frenet/README)
 
 - [Heuristic_path_planners（包含类与函数集合，支持基于启发式算法（如…）](/guide/planning/motion-planning/Heuristic_path_planners/README)
+
+- [trajopt（ROS 轨迹优化运动规划器）](/guide/planning/motion-planning/trajopt/README)

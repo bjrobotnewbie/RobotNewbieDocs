@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_manipulation>
 - 项目主页: https://developer.nvidia.com/isaac/manipulator
 
-## 项目概述
-
 ## 项目介绍
 本项目是NVIDIA推出的Isaac ROS Manipulation仓库，提供集成化的机械臂操作工作流启动文件，用于快速搭建ROS机械臂操控相关的开发与运行环境。相关使用教程可访问官方文档页面查看。
 

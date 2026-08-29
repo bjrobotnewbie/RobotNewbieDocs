@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/kitoweeknd/RFUAV>
 
-## 项目概述
-
 ## 项目介绍
 本项目是论文《RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identification》的官方代码仓库，提供了基于射频（RF）的无人机检测与识别基准数据集RFUAV。
 该数据集包含35种不同型号无人机在高信噪比下的原始射频数据，可供所有从事无人机射频分析的研究人员使用。项目同时提供了配套的两阶段深度学习检测分类模型，支持直接基于原始IQ数据完成无人机信号检测与识别，也可使用传统信号处理方法如FFT、STFT进行分析。原始数据将在论文录用后免费开放。

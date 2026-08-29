@@ -6,8 +6,6 @@ LeRobot sim2real 代码。在快速仿真中训练，零样本将视觉策略部
 
 - GitHub: <https://github.com/StoneT2000/lerobot-sim2real>
 
-## 项目概述
-
 ## 项目介绍
 LeRobot sim2real 是一个机器人 sim2real 工具库，支持通过 GPU 并行化仿真平台 ManiSkill 结合强化学习（RL）快速训练视觉策略，并可直接零样本部署到真实机器人环境中。该项目基于 🤗 LeRobot 库开发，后者负责处理所有硬件交互相关代码。用户可通过官方教程完成仿真训练，并直接将训练好的策略应用到真实场景中。
 

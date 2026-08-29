@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/MINT-SJTU/Evo-RL>
 
-## 项目概述
-
 ## 项目介绍
 Evo-RL 是上海交通大学与Evo-Tech联合推出的开源真实世界离线强化学习（RL）项目，旨在降低真实机器人RL研究的复现难度。项目支持SO-101和AgileX PiPER/PiPER-X两款机器人平台，已开源可运行的离线RL代码、模型与数据集，同时提供社区共建机制，推动算法与基准数据集的迭代更新。目前已在Hugging Face平台发布RW-RL数据集，并支持快速上手的CLI训练流程。
 

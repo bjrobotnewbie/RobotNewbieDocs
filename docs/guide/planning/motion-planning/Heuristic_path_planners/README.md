@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/robotics-upo/Heuristic_path_planners>
 
-## 项目概述
-
 ## 项目介绍
 该项目是一个启发式路径规划算法集合，提供A*、Theta*、LazyTheta*等算法的纯C++实现，同时附带ROS接口，可以在ROS网络中快速部署运行这些路径规划算法，支持2D和3D路径生成。项目兼容Ubuntu 18.04+ROS Melodic以及Ubuntu 20.04+ROS Noetic环境，处于持续开发中。
 

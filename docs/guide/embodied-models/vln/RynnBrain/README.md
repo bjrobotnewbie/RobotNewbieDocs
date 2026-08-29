@@ -6,8 +6,6 @@ RynnBrain：开放具身基础模型
 
 - GitHub: <https://github.com/alibaba-damo-academy/RynnBrain>
 
-## 项目概述
-
 ## 项目介绍
 RynnBrain是阿里巴巴达摩院推出的开源具身基础模型，基于物理现实构建。提供2B、4B、8B三种稠密模型以及30B-A3B的MoE模型，同时还发布了三个微调后专用模型：用于机器人任务规划的RynnBrain-Plan、视觉语言导航的RynnBrain-Nav、链式点推理的RynnBrain-CoP。
 

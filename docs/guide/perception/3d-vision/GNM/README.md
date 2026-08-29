@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/google/GNM>
 
-## 项目概述
-
 ## 项目介绍
 GNM（发音类似genome）是开源的参数化人体模型与感知生态系统，首个开源组件为GNM Head，是高精度的3D参数化人类头部统计模型，属于3D Morphable Models（3DMMs）范畴，可应用于计算机视觉、计算机图形学、生成AI领域。该生态系统采用宽松许可证，支持非商业与商业使用，目前已发布GNM Head的技术报告与代码包。
 

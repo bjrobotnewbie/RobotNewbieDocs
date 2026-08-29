@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/keon/awesome-physical-ai>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个精选的物理人工智能（Physical AI）学术论文与资源列表，聚焦于视觉语言动作（VLA）模型、世界模型、具身智能以及机器人基础模型。物理AI指通过机器人实体与物理世界交互，结合感知、推理与动作能力的AI系统。
 

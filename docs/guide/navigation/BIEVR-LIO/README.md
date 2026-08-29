@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/ethz-asl/BIEVR-LIO>
 - 项目主页: <https://patripfr.github.io/bievr-lio/>
 
-## 项目概述
-
 ## 项目介绍
 BIEVR-LIO是一款鲁棒的LiDAR-Inertial Odometry框架，已被RSS 2026收录。它通过凸点图像增强的体素地图，利用高分辨率体素定向高度图像来挖掘信息稀疏的复杂场景中的细微几何变化，可实现可靠的激光惯性里程计计算。该项目支持ROS1 Noetic、ROS2 Humble/Jazzy，适配Ubuntu 20.04/22.04/24.04环境。
 

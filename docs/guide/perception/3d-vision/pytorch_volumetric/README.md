@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/UM-ARM-Lab/pytorch_volumetric>
 
-## 项目概述
-
 ## 项目介绍
 本项目是基于PyTorch实现的体素、有符号距离场（SDF）等体积结构工具库，支持并行化的SDF值与梯度查询、自动扩容范围的体素网格、单向 chamfer 距离计算，以及支持多配置并行查询的机器人模型转SDF功能，可用于机器人感知、仿真等场景。
 

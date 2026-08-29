@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Flaminis/Dalaran>
 
-## 项目概述
-
 ## 项目介绍
 Dalaran是一款Apache-2.0协议开源、面向机器人领域的多模态时序数据可视化与数据基础设施，是Rerun的硬分叉分支。它原生支持ROS 2，可以读取现有.rrd录制文件，能够将机器人、模拟器或离线 pipeline 产生的ROS 2话题、LiDAR点云、相机流、IMU、TF变换等多模态数据，统一存储在Arrow列式块存储中，并在同步的2D/3D viewer中渲染展示，同时还可以将数据导出为dataframe用于后续计算分析。
 

@@ -7,8 +7,6 @@ AxisRL 是一个基于 SGLang 滚动发布、Megatron 训练和真实世界智�
 - GitHub: <https://github.com/XYZ-AI-Lab/axrl>
 - 项目主页: <https://xyz-lab.ai/>
 
-## 项目概述
-
 ## 项目介绍
 AxisRL是一款基于SGLang推理、Megatron训练和真实智能体工作流构建的智能体强化学习（RL）后训练框架。它将高吞吐推理、大规模训练、权重同步、数据迁移、资源调度和可复现调试整合在一个统一框架中，底层依托SGLang和Megatron作为核心服务与训练引擎，自身负责智能体后训练的系统层工作。
 

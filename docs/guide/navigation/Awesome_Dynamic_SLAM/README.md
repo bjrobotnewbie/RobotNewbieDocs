@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/zhuhu00/Awesome_Dynamic_SLAM>
 - 项目主页: <http://zhuhu00.top/Awesome_Dynamic_SLAM/>
 
-## 项目概述
-
 ## 项目介绍
 这是一个动态SLAM、终身SLAM相关的优质论文资源列表，聚焦于激光、视觉、多传感器融合等方向的动态环境SLAM与终身SLAM研究。项目收录了相关顶会顶刊论文，多数附带论文链接与开源代码仓库。
 

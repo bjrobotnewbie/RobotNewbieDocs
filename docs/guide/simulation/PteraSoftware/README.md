@@ -7,8 +7,6 @@ Ptera 软件是一款快速、易用且开源的飞行器翼展分析工具。
 - GitHub: <https://github.com/camUrban/PteraSoftware>
 - 项目主页: <https://docs.pterasoftware.com>
 
-## 项目概述
-
 ## 项目介绍
 PteraSoftware是一款开源、快速且易用的扑翼飞行分析软件包，支持通过稳态马蹄涡格法(VLM)等方法模拟扑翼气动特性，可用于扑翼飞行器的气动性能分析。该软件兼容Python 3.11~3.14版本，可通过pip快速安装，提供完整的几何建模、仿真求解和结果可视化流程。
 

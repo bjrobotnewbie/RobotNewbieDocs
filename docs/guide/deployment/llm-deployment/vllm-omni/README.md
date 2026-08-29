@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/vllm-project/vllm-omni>
 - 项目主页: <https://docs.vllm.ai/projects/vllm-omni>
 
-## 项目概述
-
 ## 项目介绍
 vllm-omni是一款面向多模态模型的高效推理框架，主打简单易用、快速且低成本的多模态模型服务，旨在帮助开发者便捷部署各类多模态模型。项目依托vLLM生态，支持多种硬件平台，提供完整的文档、社区论坛与技术支持渠道。
 

@@ -7,8 +7,6 @@ ROS2 启动系统的更好替代品：直观、简单、易记。
 - GitHub: <https://github.com/dfki-ric/better_launch>
 - 项目主页: <https://dfki-ric.github.io/better_launch/>
 
-## 项目概述
-
 ## 项目介绍
 better_launch 是一款 ROS2 启动系统的完整替代方案，旨在解决原生 ROS2 启动系统易用性差的问题。它无需依赖原生 ROS2 启动系统，提供更直观、简洁且易记的使用体验，支持通过极简的代码编写启动文件，同时兼容原生 ROS2 启动文件。用户既可以使用`bl`命令启动，也可以通过`ros2 launch`运行，还自带基于 prompt_toolkit 的轻量终端用户界面（TUI）。
 

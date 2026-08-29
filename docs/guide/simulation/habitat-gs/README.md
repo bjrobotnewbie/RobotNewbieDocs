@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/zju3dv/habitat-gs>
 - 项目主页: https://zju3dv.github.io/habitat-gs/
 
-## 项目概述
-
 ## 项目介绍
 Habitat-GS是一款被ECCV 2026收录的高保真导航模拟器，基于动态高斯溅射（Gaussian Splatting）技术构建。项目提供了配套的高质量3DGS场景数据集，当前已包含129个室内场景，同时支持将原始3DGS场景快速转换为可用于导航仿真的环境。
 

@@ -7,8 +7,6 @@ VLA 模型统一推理运行时
 - GitHub: <https://github.com/VinRobotics/vla.cpp>
 - 项目主页: <https://fai-modelopt-tech.github.io/vla-cpp.github.io/>
 
-## 项目概述
-
 ## 项目介绍
 vla.cpp是一个基于llama.cpp的C++视觉语言动作(VLA)模型统一推理运行时，支持运行SmolVLA、π0、BitVLA、Evo-1、GR00T等多款开源VLA策略模型，推理时无需Python和PyTorch，仅需单个自包含的GGUF格式模型文件。它可在CPU、Apple Silicon、CUDA显卡、Jetson开发板以及通过SYCL支持的Intel GPU上部署运行，适配从消费级硬件到边缘设备的多种平台。
 

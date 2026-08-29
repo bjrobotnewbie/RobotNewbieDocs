@@ -7,8 +7,6 @@ ACM Multimedia 2020 University-1652：一个基于无人机的地理定位多视
 - GitHub: <https://github.com/layumi/University1652-Baseline>
 - 项目主页: https://arxiv.org/abs/2002.12186
 
-## 项目概述
-
 ## 项目介绍
 本项目是ACM MM 2020论文**University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization**的官方基线代码与数据集仓库。该数据集收录了全球72所大学的1652栋建筑的多视角多源数据，包含无人机视角、卫星视角、地面街景三种视图数据，可用于无人机地理定位相关研究。项目提供数据集申请通道、基线代码以及多种资源链接，包括论文、演示视频、中文介绍文档等。
 

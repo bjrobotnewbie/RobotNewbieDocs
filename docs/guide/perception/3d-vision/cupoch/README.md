@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/neka-nat/cupoch>
 
-## 项目概述
-
 ## 项目介绍
 Cupoch是一款基于CUDA的机器人3D数据快速处理库，依托Open3D开发，旨在为机器人系统提供高速3D数据计算能力，可应用于SLAM、避障、路径规划、目标跟踪等机器人相关场景。
 

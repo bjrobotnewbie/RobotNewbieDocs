@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NVIDIA/flashdreams>
 - 项目主页: <https://nvidia.github.io/flashdreams/>
 
-## 项目概述
-
 ## 项目介绍
 FlashDreams是NVIDIA推出的高性能交互式自回归视频与世界模型推理及服务库，其前身是GTC 2026的NVIDIA OmniDreams闭环演示优化运行时，现已发展为通用实时世界模型应用平台，可应用于游戏、自动驾驶、机器人、虚拟仿真等场景。
 

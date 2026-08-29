@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/iNavFlight/inav-configurator>
 
-## 项目概述
-
 ## 项目介绍
 INAV Configurator是一款跨平台配置工具，用于配置[inav](https://github.com/iNavFlight/inav)飞行控制系统，支持多旋翼无人机（四轴、六轴、八轴）以及固定翼飞机等多种机型。
 

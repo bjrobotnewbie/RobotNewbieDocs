@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/abizovnuralem/go2_omniverse>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Unitree Go2、G1机器人的数字孪生项目，适配Nvidia Isaac Lab（Isaac Gym / Isaac Sim），可用于机器人算法的仿真研发与测试。项目支持Isaac Sim 5.x与ROS 2 Jazzy，提供了实机-仿真数字孪生模式，可将物理机器人的状态同步到仿真环境中，实现1:1镜像复现。
 

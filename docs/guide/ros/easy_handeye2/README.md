@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/marcoesposito1988/easy_handeye2>
 
-## 项目概述
-
 ## 项目介绍
 easy_handeye2是一款面向ROS2的硬件无关自动化手眼标定工具，是原ROS版本easy_handeye的ROS2移植版。它提供了完整的手眼标定流程支持：通过`tf`采集机器人位姿和跟踪系统数据，调用OpenCV的手眼标定算法（如Tsai-Lenz）计算眼在手上（eye-in-hand）或眼在基座上（eye-on-base）的标定矩阵，支持保存标定结果、开机自动发布标定TF变换、评估标定精度，还可通过MoveIt!自动移动机器人采集标定样本。
 

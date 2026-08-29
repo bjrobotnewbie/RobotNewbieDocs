@@ -6,8 +6,6 @@ Leg-KILO：面向动态履带机器人的鲁棒性姿态 - 惯性 - 激光测距
 
 - GitHub: <https://github.com/ouguangjun/Leg-KILO>
 
-## 项目概述
-
 ## 项目介绍
 Leg-KILO是一款面向动态腿式机器人的鲁棒运动-惯性-激光里程计系统，同时也是实时激光SLAM方案。项目已将kilo-map功能合并，可切换`legkilo-v2`分支查看Leg-KILO 2.0版本，支持ROS1和ROS2，采用MIT开源协议。
 

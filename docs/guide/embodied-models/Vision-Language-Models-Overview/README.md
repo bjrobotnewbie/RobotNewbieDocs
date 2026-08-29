@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/zli12321/Vision-Language-Models-Overview>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个视觉语言模型（VLM）领域的前沿综述与资源集合，持续更新中，收录了相关顶会论文与开源模型仓库。项目附带arXiv综述论文与实时趋势仪表盘，提供了VLM架构演进、基准测试、应用场景与挑战的全面梳理。
 

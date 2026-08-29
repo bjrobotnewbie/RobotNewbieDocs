@@ -6,8 +6,6 @@ Evo-1：轻量级视觉 - 语言 - 动作模型，保留语义对齐
 
 - GitHub: <https://github.com/MINT-SJTU/Evo-1>
 
-## 项目概述
-
 ## 项目介绍
 Evo-1是一款轻量级视觉语言动作模型，已被CVPR 2026收录，主打保留语义对齐能力。它支持在MetaWorld、LIBERO等机器人仿真环境以及真实机械臂（如xarm6、Aloha双臂）上部署，已集成到LeRobot、RLinf主流机器人学习框架，还提供了Jetson Orin部署方案。
 

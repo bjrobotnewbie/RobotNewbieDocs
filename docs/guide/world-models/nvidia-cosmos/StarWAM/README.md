@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/shaohua-pan/StarWAM>
 
-## 项目概述
-
 ## 项目介绍
 StarWAM是一个通用的世界-动作模型（WAM）研究代码库，用于构建结合生成式视频/世界模型与动作预测模块的机器人策略，支持对世界模型骨干、动作表示和训练方案进行模块化实验。当前为早期研究发布版本，已集成RoboTwin 2.0，支持Wan2.2和Cosmos-Predict2等视频生成模型作为世界模型骨干，覆盖LIBERO等基准测试的训练与部署流程。
 

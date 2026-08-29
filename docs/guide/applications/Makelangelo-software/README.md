@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/MarginallyClever/Makelangelo-software>
 - 项目主页: http://www.marginallyclever.com/
 
-## 项目概述
-
 ## 项目介绍
 Makelangelo Software是一款Java编写的CNC绘图仪艺术图像预处理软件，专为Makelangelo极坐标绘图机器人设计，可在Windows、OSX、多种Linux系统上运行。它可配合Marlin-polargraph固件使用，该固件作为机器人主控程序接收指令控制电机运动。
 

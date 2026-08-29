@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/roboflow/notebooks>
 - 项目主页: https://roboflow.com/models
 
-## 项目概述
-
 ## 项目介绍
 该项目是Roboflow开源的计算机视觉教程笔记本集合，涵盖从基础到前沿的计算机视觉模型与技术，包含ResNet等基础架构，以及RF-DETR、YOLO11、SAM 3、Qwen3-VL等最新SOTA模型。教程覆盖目标检测、图像分割、姿态估计、数据提取、OCR等常见CV任务，帮助开发者学习落地前沿视觉技术。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/ros-controls/mujoco_ros2_control>
 - 项目主页: https://control.ros.org/rolling/doc/mujoco_ros2_control/doc/index.html
 
-## 项目概述
-
 ## 项目介绍
 本项目是针对MuJoCo物理模拟器的ROS 2控制硬件接口，将MuJoCo封装为硬件/系统接口，可让ros2_control栈（控制器管理器、各类控制器、控制器接口）对接基于MJCF或URDF生成的仿真机器人。项目包含核心系统接口插件、消息服务定义、扩展插件、示例demo、测试套件以及Docker运行配置等子包。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Farama-Foundation/Minari>
 - 项目主页: https://minari.farama.org
 
-## 项目概述
-
 ## 项目介绍
 Minari是一款用于离线强化学习研究的Python库，对标离线版Gymnasium或HuggingFace数据集库的离线RL版本，提供了标准化的离线强化学习数据集格式，附带热门参考数据集与相关工具。官方文档站点为minari.farama.org，同时提供官方Discord社区用于交流与开发协作。
 

@@ -7,8 +7,6 @@ rosbridge v2 协议的服务端实现
 - GitHub: <https://github.com/RobotWebTools/rosbridge_suite>
 - 项目主页: https://robotwebtools.github.io
 
-## 项目概述
-
 ## 项目介绍
 rosbridge_suite是rosbridge v2协议的服务器端实现套件，为ROS提供JSON接口，支持任意客户端通过JSON格式数据发布/订阅ROS话题、调用ROS服务等操作，支持WebSocket、TCP多种传输层。它属于Robot Web Tools项目组，兼容ROS Humble、Jazzy、Rolling版本，整体为ROS元包集合。
 

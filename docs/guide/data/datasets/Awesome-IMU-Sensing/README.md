@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/rh20624/Awesome-IMU-Sensing>
 - 项目主页: https://arxiv.org/abs/2508.12213
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向可泛化人体活动识别（HAR）与IMU传感的数据集、论文及资源汇总仓库，依托论文《Towards Generalizable Human Activity Recognition: A Survey》搭建，梳理了大量基于IMU的HAR相关研究资源。
 

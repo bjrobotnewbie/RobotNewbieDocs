@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/commontk/CTK>
 - 项目主页: <https://commontk.org>
 
-## 项目概述
-
 ## 项目介绍
 CTK（Common Toolkit）是一个社区驱动的通用工具集，专注为医学影像分析、手术导航及相关项目提供支持代码，填补现有工具库的功能空白。其核心覆盖领域包括DICOM、DICOM应用托管、可视化组件、插件框架和命令行界面。
 

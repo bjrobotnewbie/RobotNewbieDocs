@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/SIBench/Awesome-Visual-Spatial-Reasoning>
 
-## 项目概述
-
 ## 项目介绍
 本项目是视觉空间推理（Visual Spatial Reasoning）领域的精选资源汇总，同时配套推出了SIBench基准数据集与相关研究工具。项目由多高校及企业团队联合开发，包括上海交通大学、腾讯ARC实验室、澳门大学、大连理工大学、香港中文大学等机构。项目提供了数据集、排行榜、综述论文、代码仓库以及交互式综述页面，支持中英双语访问。
 

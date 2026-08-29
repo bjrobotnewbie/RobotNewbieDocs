@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/siyandong/awesome-visual-localization>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个精选的视觉（重）定位相关研究资源汇总列表，旨在收集视觉定位领域的优质研究成果。视觉定位的核心任务是在已知场景数据库中，查询RGB/RGB-D帧的6自由度相机位姿。项目仍在持续更新中，欢迎通过PR或Issue贡献资源、修正信息。
 

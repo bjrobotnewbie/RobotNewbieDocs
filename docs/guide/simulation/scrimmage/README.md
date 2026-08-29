@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/gtri/scrimmage>
 - 项目主页: <https://gtri.github.io/scrimmage/>
 
-## 项目概述
-
 ## 项目介绍
 SCRIMMAGE是一款面向机器人研究的多智能体模拟器，可用于多智能体任务分配、微分博弈、新型控制器以及强化学习（RL）相关的研究与实验。它支持在大规模多智能体游戏环境中模拟协作机器人，配套提供在线教程文档，并有官方引用论文可供科研场景下参考。
 

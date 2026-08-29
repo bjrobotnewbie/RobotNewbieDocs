@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/openrocket/openrocket>
 - 项目主页: <https://openrocket.info/>
 
-## 项目概述
-
 ## 项目介绍
 OpenRocket是一款免费的全功能模型火箭气动与轨迹模拟软件，允许用户在实际制作发射前完成火箭设计与仿真验证。它基于Java开发，支持跨平台运行，提供丰富的内置组件用于火箭设计、3D可视化以及仿真结果分析。
 

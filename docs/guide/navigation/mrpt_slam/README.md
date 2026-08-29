@@ -7,8 +7,6 @@ MRPT 中的 SLAM 算法 ROS 封装
 - GitHub: <https://github.com/mrpt-ros-pkg/mrpt_slam>
 - 项目主页: <http://wiki.ros.org/mrpt_slam>
 
-## 项目概述
-
 ## 项目介绍
 本项目是`mrpt_slam`，为Mobile Robot Programming Toolkit（MRPT）中的SLAM算法提供ROS封装包，适配ROS Kinetic、Melodic等版本，可在Ubuntu 16.04、18.04系统下运行。官方文档可参考ROS Wiki：http://wiki.ros.org/mrpt_slam。
 

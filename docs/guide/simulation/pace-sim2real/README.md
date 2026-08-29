@@ -7,8 +7,6 @@ PACE：一种用于足式机器人仿真到真实迁移的系统化方法，可�
 - GitHub: <https://github.com/leggedrobotics/pace-sim2real>
 - 项目主页: <https://pace.filipbjelonic.com/>
 
-## 项目概述
-
 ## 项目介绍
 PACE是一款面向腿式机器人的sim-to-real迁移框架，通过数据驱动系统辨识结合进化优化，精准建模执行器与关节动力学，缩小仿真与真实硬件间的性能差距。它支持多机器人平台与执行器类型，可无缝集成NVIDIA Isaac Lab，遵循其任务与环境规范，通过标准关节编码器的实测数据直接估算动力学参数，优化后参数可显著提升仿真到真实场景的 locomotion 表现。
 

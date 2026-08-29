@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/kylecorry31/Trail-Sense>
 - 项目主页: https://kylecorry.com/Trail-Sense/
 
-## 项目概述
-
 ## 项目介绍
 Trail Sense是一款安卓离线户外工具应用，依托手机自带传感器为野外徒步、遇险求生场景提供辅助支持，全程无需联网即可使用。应用可通过F-Droid、Google Play、Obtainium渠道下载，同时配套官方生存指南文档。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/galilai-group/stable-worldmodel>
 - 项目主页: <https://galilai-group.github.io/stable-worldmodel/>
 
-## 项目概述
-
 ## 项目介绍
 stable-worldmodel是一个用于可复现世界模型研究与评估的统一平台，覆盖世界模型研究的三大核心阶段：数据收集、模型训练以及基于模型预测控制的评估，支持大量标准化环境。它内置了常见基线与规划求解器的参考实现，让研究人员可以专注于模型与目标函数本身的创新。
 

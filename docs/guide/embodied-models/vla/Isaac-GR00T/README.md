@@ -7,8 +7,6 @@ NVIDIA Isaac GR00T N1.7 - 面向通用机器人的基础模型。
 - GitHub: <https://github.com/NVIDIA/Isaac-GR00T>
 - 项目主页: https://developer.nvidia.com/isaac/gr00t
 
-## 项目概述
-
 ## 项目介绍
 NVIDIA Isaac GR00T N1.7是一款通用人形机器人专用的开源视觉语言动作(VLA)基础模型，属于NVIDIA Isaac生态。它支持多模态输入（语言、图像），可在多样环境中完成操作类任务，支持跨机器人本体部署。当前为正式可用版本，提供模型权重、参考代码、数据集与完整基准测试套件，可用于机器人实验、原型开发、研究以及商业生产部署。
 

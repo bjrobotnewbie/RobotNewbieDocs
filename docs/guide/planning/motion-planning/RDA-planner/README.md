@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/hanruihua/RDA-planner>
 
-## 项目概述
-
 ## 项目介绍
 RDA Planner是一款基于优化的模型预测控制（MPC）运动规划器，发表于RA-Letter 2023，专为复杂 clutter 环境下的自主导航设计。它采用交替方向乘子法（ADMM）将复杂优化问题分解为多个简单子问题，支持对每个障碍物的避障约束并行计算，大幅提升计算速度。项目提供IEEE论文、ArXiv预印本、Youtube和Bilibili演示视频，同时带有ROS封装版本。
 

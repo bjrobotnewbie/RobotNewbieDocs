@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/brachiation-rl/brachiation>
 
-## 项目概述
-
 ## 项目介绍
 本项目是SIGGRAPH 2022会议论文《Learning to Brachiate via Simplified Model Imitation》的官方代码库，基于Python和PyTorch开发，用于通过简化模型模仿学习实现臂行运动控制，支持在仿真环境中训练、测试和可视化臂行智能体。项目官网提供论文和演示资源。
 

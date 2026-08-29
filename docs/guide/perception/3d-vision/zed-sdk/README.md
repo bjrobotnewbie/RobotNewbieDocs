@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/stereolabs/zed-sdk>
 - 项目主页: https://stereolabs.com
 
-## 项目概述
-
 ## 项目介绍
 ZED SDK是一款跨平台库，专为优化Stereolabs品牌ZED系列相机使用体验而设计，同时提供配套教程与代码示例帮助开发者快速上手SDK API。本项目可用于快速构建智能机器人与智能空间的空间感知应用。
 

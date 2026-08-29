@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/OpenRLHF/OpenRLHF>
 - 项目主页: https://openrlhf.readthedocs.io/
 
-## 项目概述
-
 ## 项目介绍
 OpenRLHF是首个结合Ray + vLLM分布式架构与统一智能体设计范式的高性能、可用于生产环境的开源RLHF框架，支持基于人类反馈的可扩展强化学习。它内置了Molt后端，可支持千亿级参数模型的RL训练，同时保留简洁易用的工作流，还提供了完整的文档、技术报告与教程资源。
 

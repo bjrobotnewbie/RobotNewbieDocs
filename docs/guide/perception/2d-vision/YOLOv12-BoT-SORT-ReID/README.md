@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/wish44165/YOLOv12-BoT-SORT-ReID>
 - 项目主页: <https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Chen_Strong_Baseline_Multi-UAV_Tracking_via_YOLOv12_with_BoT-SORT-ReID_CVPRW_2025_paper.html>
 
-## 项目概述
-
 ## 项目介绍
 本项目是CVPR 2025第四届反无人机研讨会挑战赛的获奖基线方案，提出了基于YOLOv12+BoT-SORT-ReID的多无人机跟踪方案。项目提供了完整的部署教程与在线演示，支持Linux、macOS、Windows多平台，已被收录于arXiv预印本与Zenodo开源仓库。
 

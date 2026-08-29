@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/MIV-XJTU/JanusVLN>
 - 项目主页: <https://miv-xjtu.github.io/JanusVLN.github.io/>
 
-## 项目概述
-
 ## 项目介绍
 JanusVLN是ICLR 2026收录的视觉语言导航（VLN）官方实现，受人类导航时左右脑分别负责语义理解与空间认知的启发，首次提出双隐式记忆框架。它将语义与空间解耦，构建两个互补的固定大小紧凑神经记忆，推动VLN研究从2D语义主导转向3D空间-语义协同方向，助力下一代空间具身智能体开发。
 

@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/ClemensElflein/open_mower_ros>
 
-## 项目概述
-
 ## 项目介绍
 open_mower_ros 是用于控制OpenMower的ROS工作空间，基于ROS Noetic开发，用于实现自动割草机器人的控制。项目依赖多个第三方库：基于Slic3r的割草路径规划器slic3r_coverage_planner、支持避障与路径跟踪的本地规划器teb_local_planner，以及xESC电机控制器的ROS接口xesc_ros。
 

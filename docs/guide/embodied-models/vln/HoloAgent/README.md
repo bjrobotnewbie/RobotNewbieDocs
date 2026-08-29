@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/HorizonRobotics/HoloAgent>
 - 项目主页: <https://horizonrobotics.github.io/robot_lab/holoagent/>
 
-## 项目概述
-
 ## 项目介绍
 HoloAgent是一款面向通用机器人的统一具身智能体框架，支持多模态感知、SLAM建图定位、自主移动与操作，可实现与用户的智能交互。它集成了闭环执行系统、3D空间记忆与机器人技能库，适配真实场景下的长时序任务，涵盖跨机器人协作、移动操作、主动探索等场景。目前已发布HoloAgent-0项目页面与论文，以及FSR-VLN快速-慢速视觉语言导航代码，框架代码即将开源。
 

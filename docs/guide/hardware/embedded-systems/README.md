@@ -19,6 +19,7 @@
 - [FMT-Firmware（Firmament 自动驾驶嵌入式系统）](/guide/hardware/embedded-systems/FMT-Firmware/README)
 - [rosflight_firmware（ROSflight 自动飞控固件）](/guide/hardware/embedded-systems/rosflight_firmware/README)
 - [BLEnky（快速配置的低功耗 BLE 到 GPIO …）](/guide/hardware/embedded-systems/BLEnky/README)
+- [OpenExo（开源外骨骼）](/guide/hardware/embedded-systems/OpenExo/README)
 ## 分类说明
 
 | 项目 | 主要内容 | 技能要点 |

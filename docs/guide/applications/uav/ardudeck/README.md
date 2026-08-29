@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/rubenCodeforges/ardudeck>
 - 项目主页: <https://ardudeck.com>
 
-## 项目概述
-
 ## 项目介绍
 ArduDeck是一款开源跨平台地面站软件，基于Electron、React和TypeScript开发，可统一支持ArduPilot（MAVLink协议）、Betaflight、iNav三种飞控的全流程操控。支持通过USB、无线电、IP或蜂窝链路连接单台或多台飞行器，覆盖连接、配置、校准、任务规划、飞行测试、数据分析全 workflow。当前处于Beta 1 (0.1.0)版本，已可用于实际飞行作业。
 

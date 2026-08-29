@@ -56,3 +56,5 @@
 - [EasyR1（EasyR1：一种基于 veRL 的多模…）](/guide/training/llm-training/EasyR1/README)
 
 - [labs-molt（面向研究用途的代理优先强化学习框架（90…）](/guide/training/llm-training/labs-molt/README)
+
+- [RAGEN（LLM 代理框架：基于 StarPO 的…）](/guide/training/llm-training/RAGEN/README)

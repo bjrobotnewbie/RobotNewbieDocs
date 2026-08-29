@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/project-instinct/InstinctMJ>
 
-## 项目概述
-
 ## 项目介绍
 InstinctMJ 是 InstinctLab 的 mjlab 原生移植版本，作为 Project-Instinct 的环境端项目，旨在推动人形机器人全身控制的强化学习工业化落地。它基于 mjlab 框架，集成 MuJoCo Warp 模拟器，适配 Python 3.10+，支持 Linux x86_64 和 macOS arm64 平台，可接入 Project-Instinct 的训练工作流。
 

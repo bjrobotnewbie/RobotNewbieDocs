@@ -6,8 +6,6 @@ ImageWAM: 世界动作模型是否真的需要视频生成，还是只需要图�
 
 - GitHub: <https://github.com/yuyangalin/ImageWAM>
 
-## 项目概述
-
 ## 项目介绍
 ImageWAM是一类基于图像编辑基础模型构建的世界动作模型，为官方PyTorch实现项目。本仓库包含在LIBERO、LIBERO-plus和RoboTwin数据集上进行论文实验所需的训练与评估代码。项目主推基于FLUX.2构建的FLUX.2 ImageWAM，提供4B和9B两种参数量版本，性能为系列中最强；同时还支持OmniGen2 ImageWAM和Ovis-U1 ImageWAM，其中Ovis-U1仅搭载1.1B的DiT图像编辑模块，参数量最小，在多数场景下可媲美更大尺寸的模型。
 

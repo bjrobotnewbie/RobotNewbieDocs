@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/iit-DLSLab/mpx>
 
-## 项目概述
-
 ## 项目介绍
 mpx是一个基于JAX的模型预测控制（MPC）与轨迹优化库，专为腿式机器人开发。它支持在GPU上实现并行计算，可集成到学习流水线中，提供了多种腿式机器人的控制示例，包括Talos、H1、Aliengo、Go2等。
 

@@ -12,8 +12,6 @@
 - GitHub: <https://github.com/OpenCPN/OpenCPN>
 - 项目主页: https://opencpn.org/
 
-## 项目概述
-
 ## 项目介绍
 OpenCPN是一款轻量级海图绘图/导航软件，是跨平台的船载GUI应用程序，主要作为船舶专职导航界面，用于日常航海导航作业。它基于wxWidgets开发，支持Windows、MacOS、Linux、Android系统，采用开源许可协议。
 

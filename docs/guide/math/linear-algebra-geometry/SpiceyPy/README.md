@@ -6,8 +6,6 @@ SpiceyPy：SPICE工具包的Python化封装库。
 
 - GitHub: <https://github.com/AndrewAnnex/SpiceyPy>
 
-## 项目概述
-
 ## 项目介绍
 SpiceyPy 是一款基于 ctypes 和 Cython 开发的 Python 封装库，用于调用 NAIF 官方的 C 语言 SPICE Toolkit。SPICE 是行星科学领域进行太阳系几何计算的核心工具，面向行星科学领域的科研与工程人员。
 

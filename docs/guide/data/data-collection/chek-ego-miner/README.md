@@ -7,8 +7,6 @@ CHEK EGO Miner 由青空科技开发：使用CHEK移动端和青空Miker桌面�
 - GitHub: <https://github.com/chekdata/chek-ego-miner>
 - 项目主页: https://www.chekkk.com/smart-download
 
-## 项目概述
-
 ## 项目介绍
 CHEK EGO Miner是擎控机器人团队推出的具身AI第一人称数据采集工具，通过手机端CHEK应用和桌面端Qingkong Miker应用，降低机器人训练数据的采集门槛。用户仅需手机、电脑和稳定支架，即可记录真实的工作或日常第一人称行动，将人类的动作、视角、决策和操作经验转化为机器人可学习的训练数据，覆盖洗碗、整理桌面、搬运物品等多种日常场景，解决传统机器人数据依赖实验室和专业团队的痛点。
 

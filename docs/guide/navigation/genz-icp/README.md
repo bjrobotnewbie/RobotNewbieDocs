@@ -6,8 +6,6 @@ GenZ-ICP：SOTA 鲁棒激光雷达里程计（IEEE RA-L 2025）
 
 - GitHub: <https://github.com/cocel-postech/genz-icp>
 
-## 项目概述
-
 ## 项目介绍
 GenZ-ICP是一款发表于IEEE RA-L 2025的前沿鲁棒LiDAR里程计方案，主打可泛化且抗退化的激光SLAM能力，通过自适应加权策略提升算法鲁棒性。项目支持C++、Python开发环境，兼容ROS1与ROS2，可通过`pip install genz-icp`快速安装，也提供了完整的ROS部署包。
 

@@ -7,8 +7,6 @@ https://docs.nav2.org/
 - GitHub: <https://github.com/ros-navigation/docs.nav2.org>
 - 项目主页: <https://docs.nav2.org/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Navigation2（Nav2）官方文档的源码与配置文件仓库，用于生成https://docs.nav2.org/ 官方文档网站，提供Nav2机器人导航框架的完整官方文档支持。
 

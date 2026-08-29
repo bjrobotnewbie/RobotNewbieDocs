@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/MRPT/mrpt>
 - 项目主页: https://docs.mrpt.org/reference/latest/
 
-## 项目概述
-
 ## 项目介绍
 MRPT即Mobile Robot Programming Toolkit，是一款始于2005年的成熟C++移动机器人开源框架，最初由马拉加大学开发，至今仍在持续维护，广泛应用于学术研究与工业领域。最新的3.0版本完成了重大重构，采用基于colcon的模块化构建系统，适配现代C++17标准，同时保留了核心的数据结构与算法。
 

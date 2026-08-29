@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/LiQiiiii/Awesome-VLA-Safety>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一篇关于视觉语言动作（VLA）模型安全的综述资源库，对应论文《Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms》。该综述系统性梳理了VLA模型安全领域的最新进展，涵盖了该领域的安全威胁、挑战、评估方法与安全机制，收录了相关研究成果，可供机器人、自动驾驶、人机交互等领域的研究者参考。
 

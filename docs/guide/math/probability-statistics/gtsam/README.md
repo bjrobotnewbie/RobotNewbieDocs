@@ -7,8 +7,6 @@ GTSAM 是一个在机器人与视觉领域实现了平滑与建图（SAM）的 C
 - GitHub: <https://github.com/borglab/gtsam>
 - 项目主页: https://borglab.github.io/gtsam/
 
-## 项目概述
-
 ## 项目介绍
 GTSAM全称Georgia Tech Smoothing and Mapping Library，是一款C++类库，用于机器人与计算机视觉领域的平滑与建图（SAM），底层采用因子图和贝叶斯网络作为计算范式，而非稀疏矩阵。该库同时提供MATLAB和Python封装，支持Ubuntu、MacOS、Windows多平台编译，可通过PyPI获取开发版Python包。
 

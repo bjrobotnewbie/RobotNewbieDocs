@@ -6,8 +6,6 @@ StackChan (xiaozhi-esp32) MCP 网关：支持将任何 MCP 客户端与 CoreS3 +
 
 - GitHub: <https://github.com/kisaragi-mochi/stackchan-mcp>
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向M5Stack官方StackChan（2025 Kickstarter发售套件）的MCP（Model Context Protocol）桥接工具，可以让任意LLM客户端驱动该机器人。项目基于stack-chan社区生态开发，通过Python网关实现MCP客户端与ESP32设备的通信，支持跨局域网远程访问，可替换原厂固件。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Robbyant/lingbot-vla-v2>
 
-## 项目概述
-
 ## 项目介绍
 LingBot-VLA 2.0是一款实用的视觉语言动作(Vision-Language-Action)基础模型，旨在从大规模预训练落地到可靠的真实世界机器人应用。项目提供了论文、项目官网以及HuggingFace、ModelScope模型下载渠道，采用Apache-2.0开源协议。
 

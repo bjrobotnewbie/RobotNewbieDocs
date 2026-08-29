@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/ICube-Robotics/ethercat_driver_ros2>
 - 项目主页: https://icube-robotics.github.io/ethercat_driver_ros2/
 
-## 项目概述
-
 ## 项目介绍
 本项目是一款适配`ros2_control`的EtherCAT硬件接口驱动，基于IgH EtherCAT Master for Linux开发，用于快速集成EtherCAT模块到ROS 2机器人开发流程中。EtherCAT是成熟的工业实时通信标准，该驱动通过参数文件即可完成硬件接口的配置与组装，简化了基于EtherCAT模块的ROS 2应用开发与部署流程。
 

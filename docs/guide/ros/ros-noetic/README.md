@@ -7,8 +7,6 @@ Vinca 配置文件（适用于 ROS Noetic）
 - GitHub: <https://github.com/RoboStack/ros-noetic>
 - 项目主页: <https://robostack.github.io>
 
-## 项目概述
-
 ## 项目介绍
 本项目是RoboStack针对ROS Noetic的配置文件仓库，提供基于Conda的ROS Noetic快速安装分发方案，支持Linux、Windows、macOS、macOS arm64、Linux aarch64多平台，可通过Conda便捷安装ROS相关工具与依赖，无需手动编译源码。
 

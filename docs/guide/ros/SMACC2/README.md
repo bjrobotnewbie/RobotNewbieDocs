@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/robosoft-ai/SMACC2>
 - 项目主页: https://smacc2.robosoft.ai
 
-## 项目概述
-
 ## 项目介绍
 SMACC2是一款面向ROS2（机器人操作系统）实时应用的C++事件驱动异步行为状态机库，用于帮助开发者以直观、系统化的方式构建多组件机器人的控制程序。
 

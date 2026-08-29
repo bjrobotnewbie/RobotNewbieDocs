@@ -7,8 +7,6 @@ Dexbotic：开源视觉语言动作工具箱
 - GitHub: <https://github.com/dexmal/dexbotic>
 - 项目主页: <https://dexbotic.com>
 
-## 项目概述
-
 ## 项目介绍
 Dexbotic是一款基于PyTorch的开源视觉-语言-动作（VLA）开发工具箱，为具身智能研究提供统一高效的解决方案。它内置主流VLA模型的环境配置，支持用户快速复现、微调并推理前沿VLA算法，覆盖预训练、微调、推理、评估全流程。工具箱兼容UR5、Franka、ALOHA等主流机器人，提供统一训练数据格式与部署脚本，同时支持阿里云、火山引擎等云平台与消费级GPU本地训练。
 

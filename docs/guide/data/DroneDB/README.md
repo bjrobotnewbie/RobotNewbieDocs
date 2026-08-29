@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/DroneDB/DroneDB>
 - 项目主页: https://dronedb.app
 
-## 项目概述
-
 ## 项目介绍
 DroneDB是一款免费开源的现代化地理空间数据管理平台，支持云端存储、可视化与分享地理空间数据，可处理正射影像、点云、3D模型、地理标记文件等多种类型数据，提供了Web端演示站点。项目采用MPL 2.0开源协议，支持Windows和Linux跨平台运行。
 

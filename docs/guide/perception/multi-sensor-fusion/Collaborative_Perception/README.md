@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Little-Podi/Collaborative_Perception>
 
-## 项目概述
-
 ## 项目介绍
 本仓库是面向V2I、V2V、V2X自动驾驶场景的协同/协作/多智能体感知领域最新研究的论文整理库，按论文标题首字母排序整理相关文献。项目已不再收录复现基准测试结果，如需查看历史结果可访问归档版本。
 

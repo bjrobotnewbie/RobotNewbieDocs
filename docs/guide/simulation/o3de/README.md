@@ -7,8 +7,6 @@ Open 3D Engine (O3DE) 是一个采用 Apache 2.0 许可的多平台 3D 引擎，
 - GitHub: <https://github.com/o3de/o3de>
 - 项目主页: <https://o3de.org>
 
-## 项目概述
-
 ## 项目介绍
 O3DE（Open 3D Engine）是一款基于Apache 2.0开源协议的多平台实时3D引擎，面向开发者和内容创作者，可免费无商业限制地制作AAA级游戏、影院级3D场景以及高保真仿真项目。
 

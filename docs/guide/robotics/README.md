@@ -22,6 +22,7 @@
 - [roboticsknowledgebase.github.io（机器人知识库：面向机器人开发者的Wiki）](/guide/robotics/roboticsknowledgebase.github.io/README)
 - [scikit-robot（一个用于机器人可视化与编程的Python…）](/guide/robotics/scikit-robot/README)
 - [robotics（基于笔记的书籍《机器人学感知导论》，作者…）](/guide/robotics/robotics/README)
+- [robotics-coursework（🤖 机器人学习在线平台 🤖）](/guide/robotics/robotics-coursework/README)
 ## 算法与工具库
 
 - [PythonRobotics（机器人学算法库）](/guide/robotics/PythonRobotics/README)

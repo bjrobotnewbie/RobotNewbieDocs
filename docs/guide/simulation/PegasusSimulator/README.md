@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/PegasusSimulator/PegasusSimulator>
 - 项目主页: <https://pegasussimulator.github.io/PegasusSimulator/>
 
-## 项目概述
-
 ## 项目介绍
 Pegasus Simulator是基于NVIDIA Omniverse和Isaac Sim开发的无人机仿真框架，支持PX4和ArduPilot飞控集成，同时提供自定义Python控制接口，可用于多旋翼飞行器动力学仿真。当前仅支持多旋翼机型，后续计划扩展其他机型拓扑。适配Ubuntu 22.04系统，兼容Isaac Sim 5.1.0、PX4-Autopilot 1.14.3、ArduPilot-Copter 4.4.0版本。
 

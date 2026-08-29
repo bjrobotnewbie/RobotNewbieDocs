@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/eclipse-zenoh/zenoh-plugin-dds>
 
-## 项目概述
-
 ## 项目介绍
 这是Eclipse Zenoh的DDS插件，可透明路由DDS数据，帮助DDS应用借助Zenoh实现地理路由或优化发现扩展。它基于DDS标准，可有限兼容ROS 2，但官方推荐ROS 2用户使用专用的`zenoh-plugin-ros2dds`插件以获得更好的集成体验。
 

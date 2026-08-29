@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/metadriverse/metaurban>
 - 项目主页: <https://metadriverse.github.io/metaurban/>
 
-## 项目概述
-
 ## 项目介绍
 MetaUrban是一款面向城市微移动场景的具身AI仿真平台，入选ICLR 2025 Spotlight论文。该平台专为城市空间的具身AI研究打造，支持生成多样化交互式城市场景，可用于开发、测试城市微移动相关的AI算法，适配机器人、自动驾驶、强化学习等研究方向。
 

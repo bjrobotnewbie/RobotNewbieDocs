@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/TeleHuman/PBHC>
 - 项目主页: https://kungfubot.github.io/
 
-## 项目概述
-
 ## 项目介绍
 本项目是论文《KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills》以及衍生项目KungfuBot2的官方实现，聚焦类人机器人高动态全身控制与多技能学习。项目基于物理仿真，旨在训练类人机器人掌握复杂动态运动技能，由中国电信人工智能研究院、上海交通大学等多机构联合研发。
 

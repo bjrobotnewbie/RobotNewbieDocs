@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/gtbook/robotics>
 - 项目主页: <https://www.roboticsbook.org/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Frank Dellaert与Seth Hutchinson编写的《机器人学与感知导论》草稿版配套资源，采用Notebook形式组织内容。项目仅允许个人复制笔记或复刻仓库用于私人使用，禁止商业/广播使用或二次分发修改后的非代码内容，代码部分遵循BSD开源协议。
 

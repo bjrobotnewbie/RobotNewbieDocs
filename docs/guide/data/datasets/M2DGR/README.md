@@ -6,8 +6,6 @@ M2DGR：面向地面机器人的多模态多场景数据集(RA-L2021 & ICRA2022)
 
 - GitHub: <https://github.com/SJTU-ViSYS/M2DGR>
 
-## 项目概述
-
 ## 项目介绍
 M2DGR是一款面向地面机器人的多模态多场景SLAM数据集，入选RA-L2021与ICRA2022。该数据集可用于测试SLAM、RL等机器人算法，官方还提供了扩展数据集M2DGR-plus。
 

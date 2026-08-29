@@ -6,8 +6,6 @@ SLAM/机器人领域内隐式表示、NeRF与3D高斯溅射相关论文的综合
 
 - GitHub: <https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个针对SLAM/机器人领域的隐式表示、NeRF和3D高斯溅射（3DGS）相关论文的精选汇总列表，收录了相关论文、代码、视频及关联网站，灵感源自Awesome-Implicit-NeRF-Robotics项目。
 用户可通过提交PR或邮件向列表中添加新内容，欢迎点赞分享。项目还提供了NeRF和3DGS的入门资料链接。

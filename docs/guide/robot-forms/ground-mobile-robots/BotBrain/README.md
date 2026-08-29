@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/botbotrobotics/BotBrain>
 - 项目主页: https://botbot.bot
 
-## 项目概述
-
 ## 项目介绍
 BotBrain是一款模块化开源机器人控制系统，适配轮式、四足、双足及人形等ROS2机器人，提供网页端远程操控、自主导航、建图与设备监控功能。配套3D打印硬件套件，可快速部署到机器人上。项目基于ROS2 Humble开发，官方支持Jetson Nano、Jetson Orin Nano，适配Intel RealSense D435i传感器，兼容NVIDIA Jetson全系列平台。
 

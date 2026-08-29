@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/OpenGVLab/InternVideo>
 
-## 项目概述
-
 ## 项目介绍
 InternVideo是面向多模态视频理解的视频基础模型系列项目，收录了InternVideo全系列相关研究与配套数据集，涵盖通用视频基础模型、大规模多模态视频理解模型、长上下文视频多模态大模型、长时序智能体推理模型以及真实世界通用视频理解模型等方向，同时提供了配套的大规模视频文本数据集InternVid。
 

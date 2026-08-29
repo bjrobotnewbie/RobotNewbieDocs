@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ros2/examples>
 
-## 项目概述
-
 ## 项目介绍
 本项目是ROS 2的示例代码包集合，提供ROS 2相关的开发示例，可配合ROS 2官方教程学习使用。
 

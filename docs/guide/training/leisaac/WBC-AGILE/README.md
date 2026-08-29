@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/nvidia-isaac/WBC-AGILE>
 
-## 项目概述
-
 ## 项目介绍
 WBC-AGILE（简称AGILE）是一个基于NVIDIA Isaac Lab的通用人形机器人运动操作学习引擎，提供完整的强化学习工作流，用于训练全身控制策略，且具备经过验证的仿真到实物迁移能力。该工具面向研究者和开发者，可用于开发人形机器人的运动与操作行为，适配Isaac Lab v3.0.0-beta2、Isaac Sim 6.0、Python 3.12环境，搭配带小补丁的RSL-RL 5.4.1使用。项目已公开论文与官方文档，展示了Booster T1、Unitree G1等机器人的仿真与实物对比效果。
 

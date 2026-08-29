@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/moveit/moveit2>
 - 项目主页: <https://moveit.ai/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向ROS 2的MoveIt运动规划框架，是一款易用的开源机器人操作平台，可用于开发商用应用、原型设计以及算法基准测试。它支持ROS 2的Rolling、Jazzy、Humble等活跃发行版，提供二进制安装与源码编译两种部署方式，详细教程与文档可查阅官方站点。
 

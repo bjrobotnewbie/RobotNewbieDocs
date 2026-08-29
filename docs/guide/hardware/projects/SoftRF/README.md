@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/lyusupov/SoftRF>
 
-## 项目概述
-
 ## 项目介绍
 SoftRF是一款基于亚1GHz ISM频段无线电的多功能、可兼容DIY通用航空 proximity awareness（ proximity awareness即近距离防撞预警）系统，面向通用航空场景，帮助飞行员获取周边飞行器的位置信息以规避碰撞。项目提供了十余种不同形态的硬件版本，适配不同使用需求。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/PeterFWS/Structure-PLP-SLAM>
 
-## 项目概述
-
 ## 项目介绍
 本项目是ICRA 2023论文《Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras》的官方实现，是一款支持单目、RGB-D、双目相机的视觉SLAM系统，融合点、线、面三种视觉特征实现高效稀疏建图与定位。支持TUM RGB-D、ICL-NUIM、EuRoC MAV、KITTI等主流数据集测试。
 

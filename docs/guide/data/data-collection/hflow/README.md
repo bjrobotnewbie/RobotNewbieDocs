@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Hebbian-Robotics/hflow>
 - 项目主页: <https://hebbianrobotics.com>
 
-## 项目概述
-
 ## 项目介绍
 HFlow是Hebbian Robotics（YC S26）推出的开源SDK，面向机器人与物理AI领域，用于构建可扩展的多模态数据流水线。它将大型机器人数据团队专属的生产级数据工具与实践普及化，支持用户接入现有Python转换、质量检查、标注与增强逻辑，自动处理流程编排、存储、版本管理与数据整理工作。
 

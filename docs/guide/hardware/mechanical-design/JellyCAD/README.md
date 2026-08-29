@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Jelatine/JellyCAD>
 - 项目主页: https://jelatine.github.io/JellyCAD/
 
-## 项目概述
-
 ## 项目介绍
 JellyCAD是一款面向程序员、机器人开发者和参数化建模爱好者的现代化开源可编程CAD软件。
 

@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/unitreerobotics/unitree_ros2>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Unitree机器人的ROS2支持包，基于Cyclonedds实现，可直接通过ROS2消息完成对Unitree Go2、B2、H1三款机器人的通信与控制，无需额外封装SDK接口。项目兼容基于Cyclonedds的Unitree SDK2通信机制，适配ROS2的DDS通信底层架构。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/MIT-SPARK/Kimera-VIO>
 
-## 项目概述
-
 ## 项目介绍
 Kimera-VIO是由MIT SPARK实验室开发的开源视觉惯性里程计工具，支持通过双目相机+IMU或单目相机+IMU数据进行高精度状态估计，同时具备SLAM功能与3D网格重建能力。
 

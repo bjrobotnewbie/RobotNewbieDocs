@@ -7,8 +7,6 @@ Vowpal Wabbit 是一个机器学习系统，利用在线、哈希、allreduce、
 - GitHub: <https://github.com/VowpalWabbit/vowpal_wabbit>
 - 项目主页: <https://vowpalwabbit.org>
 
-## 项目概述
-
 ## 项目介绍
 Vowpal Wabbit是一款高性能在线机器学习系统，主打前沿机器学习技术，涵盖在线学习、哈希技巧、allreduce、特征约简、learning2search、主动学习与交互式学习等方向，尤其强化了上下文多臂老虎机算法的实现，适配在线强化学习场景。它支持跨Linux、macOS、Windows平台编译运行，内存占用与训练数据量解耦，可高效处理大规模数据集。
 

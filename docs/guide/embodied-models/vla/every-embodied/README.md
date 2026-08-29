@@ -6,8 +6,6 @@ With only basic Python knowledge, build your own embodied intelligent robot from
 
 - GitHub: <https://github.com/datawhalechina/every-embodied>
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向具身智能的零基础入门教程，仅需掌握Python基础即可从零搭建具身智能机器人与相关模型。项目提供组队学习文档、完整学习地图与前沿算法复现资源，支持在线阅读学习，可帮助开发者深入理解具身智能技术栈，从零实现VLA/OpenVLA/SmolVLA/Pi0等主流模型。
 

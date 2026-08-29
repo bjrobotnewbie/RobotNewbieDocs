@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/koide3/direct_visual_lidar_calibration>
 - 项目主页: https://koide3.github.io/direct_visual_lidar_calibration/
 
-## 项目概述
-
 ## 项目介绍
 这是一个面向ROS1/ROS2的无靶标激光雷达-相机外参标定工具箱，仅需一组或多组激光点云和相机图像数据，即可自动完成两者的外参校准，无需初始猜测值。
 

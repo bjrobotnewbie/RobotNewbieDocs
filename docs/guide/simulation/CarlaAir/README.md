@@ -6,8 +6,6 @@ CarlaAir：在 CARLA 世界中飞行无人机！一种统一的空中 - 地面�
 
 - GitHub: <https://github.com/louiszengCN/CarlaAir>
 
-## 项目概述
-
 ## 项目介绍
 CarlaAir是一款开源统一基础设施，可在单个Unreal Engine进程中实现高保真城市驾驶与物理精确的多旋翼无人机飞行模拟，为空地一体具身智能研究提供实用仿真基础。支持Ubuntu 20.04/22.04和Windows 11系统，提供预编译可执行文件无需手动编译。
 

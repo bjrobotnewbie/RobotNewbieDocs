@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ClemensElflein/OpenMower>
 
-## 项目概述
-
 ## 项目介绍
 OpenMower是一款开源DIY智能割草机器人项目，旨在将廉价的量产普通割草机器人升级为基于RTK GPS的现代化智能割草设备。项目通过替换原厂主控硬件和开源软件，将随机路径行走的传统割草机改造为支持GPS导航、地图感知、APP控制的智能设备。
 

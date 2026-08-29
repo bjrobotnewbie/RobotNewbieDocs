@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/verl-project/verl-omni>
 - 项目主页: <https://verl-omni.readthedocs.io/en/latest/index.html>
 
-## 项目概述
-
 ## 项目介绍
 VeRL-Omni是一款专注于多模态生成模型的强化学习（RL）训练框架，基于`verl`项目开发，旨在为扩散模型与全模态模型提供简单、快速且稳定的RL训练能力。它针对多模态生成类RL训练的特殊需求，提供专属的训练仓库以适配这类模型的结构、输入输出模式与计算特性。
 

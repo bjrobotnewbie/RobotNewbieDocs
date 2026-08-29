@@ -7,8 +7,6 @@ C++17 实现的通用蒙特卡洛局部化（MCL）算法实现，以及适用�
 - GitHub: <https://github.com/Ekumen-OS/beluga>
 - 项目主页: <https://ekumen-os.github.io/beluga/>
 
-## 项目概述
-
 ## 项目介绍
 Beluga是一个基于C++17开发的通用蒙特卡洛定位（MCL）算法实现库，同时提供可兼容ROS 1和ROS 2的ROS包。它可用于机器人自主定位场景，已在Turtlebot 2、Andino等多款机器人上完成运行演示。
 

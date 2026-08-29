@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/commaai/rednose>
 
-## 项目概述
-
 ## 项目介绍
 rednose是一款Python卡尔曼滤波库，可用于优化问题，尤其适配视觉里程计、传感器融合定位以及SLAM场景。它支持在线/离线运行，计算效率较高，能够提供精准的估计结果，且便于在Python中快速设计滤波器。
 

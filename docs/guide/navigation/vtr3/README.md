@@ -6,8 +6,6 @@ VT&R3 是 Teach and Repeat 导航框架的 C++ 实现。它允许机器人学习
 
 - GitHub: <https://github.com/utiasASRL/vtr3>
 
-## 项目概述
-
 ## 项目介绍
 VT&R3是一个C++实现的Teach and Repeat导航框架，可让机器人学习可通行路径网络，之后精准复现路径网络中的任意路段。它支持适配多种传感器（相机、激光雷达、雷达、GPS等）和机器人平台，目前已验证过单目相机、激光雷达、雷达以及相机+GPS组合的导航方案。
 

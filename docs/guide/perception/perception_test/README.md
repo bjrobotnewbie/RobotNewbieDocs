@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/google-deepmind/perception_test>
 
-## 项目概述
-
 ## 项目介绍
 Perception Test是一个多模态视频模型诊断基准测试套件，用于全面评估多模态视频模型的感知与推理能力。其数据集包含真实世界场景视频，设置了6类任务：目标跟踪、点跟踪、动作定位、声音定位、多选视频问答、 grounded视频问答，需要模型结合视觉、音频、文本模态，理解记忆、抽象模式、物理规则与语义信息。该项目的第四届挑战赛将作为ECCV 2026 workshop举办。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/mapbox/mapbox-navigation-ios>
 - 项目主页: <https://docs.mapbox.com/ios/navigation/>
 
-## 项目概述
-
 ## 项目介绍
 Mapbox Navigation SDK for iOS是一款基于Swift的iOS平台导航SDK，可为iOS应用集成逐turn导航逻辑与UI。开发者可快速接入预制的`NavigationViewController`快速搭建导航应用，也可基于其核心路由与导航组件自定义开发导航应用。
 

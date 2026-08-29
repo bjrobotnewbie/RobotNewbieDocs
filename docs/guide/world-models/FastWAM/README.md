@@ -7,8 +7,6 @@ Fast-WAM 官方代码库：世界动作模型是否需要测试时的未来想�
 - GitHub: <https://github.com/yuantianyuan01/FastWAM>
 - 项目主页: <https://yuantianyuan01.github.io/FastWAM/>
 
-## 项目概述
-
 ## 项目介绍
 FastWAM是论文《Fast-WAM: Do World Action Models Need Test-time Future Imagination?》的官方代码仓库，支持在LIBERO和RoboTwin数据集上进行世界模型的训练与评估，可实现机器人智能体的决策与控制，支持切换是否使用未来想象进行行动决策。
 

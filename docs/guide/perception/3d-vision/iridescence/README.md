@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/koide3/iridescence>
 - 项目主页: https://koide3.github.io/iridescence/
 
-## 项目概述
-
 ## 项目介绍
 Iridescence是一款轻量级3D算法快速原型可视化库，支持C++和Python开发，主要用于加速点云相关算法的个人研究与开发，并非通用渲染可视化库。提供多语言官方文档，支持Ubuntu 22.04/24.04和Windows系统。
 

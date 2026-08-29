@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Robbyant/lingbot-depth>
 - 项目主页: https://technology.robbyant.com/lingbot-depth
 
-## 项目概述
-
 ## 项目介绍
 LingBot-Depth 是一款基于掩码深度建模的空间感知工具，可将残缺、带噪声的深度传感器数据转换为高质量、符合度量标准的3D测量结果。它通过在统一隐空间中联合对齐RGB外观与深度几何特征，为机器人学习（RL）和3D视觉应用提供强大的空间感知基础。
 

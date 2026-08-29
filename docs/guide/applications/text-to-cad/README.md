@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/earthtojake/text-to-cad>
 - 项目主页: https://www.cadskills.xyz
 
-## 项目概述
-
 ## 项目介绍
 text-to-cad是一个面向CAD、机器人学与硬件设计的智能体技能工具库，支持通过自然语言生成、检查、导出各类设计工件，可用于快速将文本需求转化为可落地的硬件/机器人设计文件。项目提供在线文档与演示Demo，基于Python 3.11+开发，遵循MIT开源协议。
 

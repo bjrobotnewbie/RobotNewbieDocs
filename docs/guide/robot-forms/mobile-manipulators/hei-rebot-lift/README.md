@@ -6,8 +6,6 @@ HEI ReBot Lift 是一款基于 LeRobot/ReBot 的双臂移动机器人，配备�
 
 - GitHub: <https://github.com/lipengdong/hei-rebot-lift>
 
-## 项目概述
-
 ## 项目介绍
 HEI ReBot Lift是一款基于LeRobot/ReBot的双臂升降移动机器人项目，面向具身AI学习、复现与实机验证，旨在降低搭建真实机器人学习系统的门槛。项目采用完全开源可复现的模式，提供硬件物料、接线、部署流程、VR遥操作管线、数据集录制、ACT/VLA训练以及实机部署全流程支持。机器人硬件包含双臂、升降平台、四轮O型全向底盘和三个摄像头，软件基于LeRobot构建，覆盖MuJoCo/Pinocchio逆运动学、LeRobotDataset、模仿学习以及VLA策略部署。
 

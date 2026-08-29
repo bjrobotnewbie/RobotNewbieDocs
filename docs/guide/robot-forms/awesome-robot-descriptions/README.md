@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/robot-descriptions/awesome-robot-descriptions>
 
-## 项目概述
-
 ## 项目介绍
 这是一个精选的优质机器人模型资源列表，收录了URDF、Xacro、MJCF格式的机器人描述文件，涵盖机械臂、双足机器人、无人机、人形机器人、移动操作机器人等多类机器人模型，可供ROS、MuJoCo等机器人开发框架使用。
 

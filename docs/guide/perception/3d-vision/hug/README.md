@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/KevinyWu/hug>
 - 项目主页: <https://grasping.io/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是论文《Human Universal Grasping》的官方实现，名为HUG。它仅基于真实世界的人类抓取数据训练，可通过立体摄像头采集的单张RGB-D图像，为任意用户选定的物体生成多样化的人类手部抓取姿态，支持市面上绝大多数立体相机，开箱即用。项目提供了项目官网、论文PDF、预训练权重、数据集、基准测试工具等相关资源。
 

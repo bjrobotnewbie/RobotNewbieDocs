@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/XCSoar/XCSoar>
 - 项目主页: https://xcsoar.org
 
-## 项目概述
-
 ## 项目介绍
 XCSoar是一款面向滑翔机飞行员的开源战术滑翔电脑，无广告、无用户追踪。支持Android、iOS、Linux、macOS、Windows多平台，由开源社区开发维护。
 

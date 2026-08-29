@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/lifemate-ai/embodied-claude>
 
-## 项目概述
-
 ## 项目介绍
 Embodied Claude 是一套为Claude赋予实体能力的MCP服务器集合，可通过低成本硬件（最低约30美元）为AI添加视觉、语音、长时记忆等实体功能，让Claude从被动接收信息变为主动感知交互，甚至可以带它外出散步。项目打破了“给AI做身体需要昂贵机器人”的固有印象，仅用平价硬件就能实现基础的视觉、移动与交互能力。
 

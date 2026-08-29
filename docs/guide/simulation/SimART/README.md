@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/guchuanv-alt/SimART>
 
-## 项目概述
-
 ## 项目介绍
 SimART是一款面向全场景无线通信与感知研究的开源软件平台，基于ROS1构建。它可用于数字孪生场景搭建、基于ROS的轨迹复现、Sionna数据采集、可视化网络规划，以及结合AirSim/Unreal Engine的通信感知联合实验。用户可通过其图形界面完成基站部署、轨迹可视化、无线信道观测查看、波束选择工作流评估等操作。
 

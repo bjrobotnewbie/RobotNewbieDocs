@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/bluenviron/mavp2p>
 
-## 项目概述
-
 ## 项目介绍
 mavp2p是一款灵活高效的Mavlink代理/桥接/路由命令行工具，基于gomavlib库开发。主要用于将串口连接的无人机飞行控制器与地面站网络进行连接，也可搭建任意涉及串口、TCP、UDP的路由链路，实现不同物理层和传输层的通信。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/skybrush-io/live>
 - 项目主页: https://skybrush.io
 
-## 项目概述
-
 ## 项目介绍
 Skybrush Live是Skybrush服务器的官方桌面端与网页端前端控制台，专为无人机表演、无人机集群设计的地面站GUI工具，用于管控集群无人机演出。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ArduPilot/UAVLogViewer>
 
-## 项目概述
-
 ## 项目介绍
 UAVLogViewer是一款基于Javascript的无人机日志在线查看工具，支持解析Mavlink遥测日志和Dataflash日志，提供了在线演示站点。该工具可通过Docker快速部署，也支持本地编译运行，部署时需要配置Cesium ion令牌以使用地图功能。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Tasshack/dreame-vacuum>
 - 项目主页: https://community.home-assistant.io/t/custom-component-dreame-vacuum
 
-## 项目概述
-
 ## 项目介绍
 这是一款适用于Home Assistant的追觅扫地机器人集成插件，可替代官方APP实现设备控制，支持实时及多楼层地图展示，适配多款追觅扫地机器人机型，可通过Home Assistant完成设备自动化配置。
 

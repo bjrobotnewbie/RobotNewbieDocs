@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/omarrayyann/TeleDex>
 - 项目主页: <https://www.orayyan.com/teledex>
 
-## 项目概述
-
 ## 项目介绍
 TeleDex是一款基于iOS设备AR数据的机器人远程操控工具，可通过你的iPhone/iPad来控制机器人关节、末端执行器和灵巧手。它支持两种使用模式：仅手机姿态模式，以及搭配3D打印支架实现手指运动追踪模式，可完成精准物体操作、物品递送、日常辅助等机器人操控任务。项目提供Python SDK，可通过PyPI快速安装，配套iOS应用可在App Store下载。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/worldbench/awesome-embodied-data-pyramid>
 - 项目主页: <https://jasper-aaa.github.io/embodied-data-pyramid/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一篇面向机器人与具身AI领域的**数据金字塔**综述配套仓库，整理了该综述中涵盖的各类数据集、数据采集范式、模拟器以及依赖数据的模型。收录的数据类型包括真实机器人数据、野外UMI数据、自我中心/内外双视角人类数据、仿真数据以及通用网页规模数据，同时收录了基于这些数据训练的VLA/世界模型/具身VLM模型，所有资源均附带对应论文、项目页与开源代码链接。
 

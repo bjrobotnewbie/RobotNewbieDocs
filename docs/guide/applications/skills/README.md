@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NVIDIA/skills>
 - 项目主页: <https://docs.nvidia.com/skills>
 
-## 项目概述
-
 ## 项目介绍
 本项目是NVIDIA官方验证的AI代理技能库，可安装到Claude Code、Codex等编码代理中，支持端到端运行Physical AI、机器人、仿真、CUDA以及RAG工作流。技能是可移植的指令集，用于指导AI代理最优使用NVIDIA软件，本仓库为技能目录，通过自动同步流水线每日从各产品仓库镜像技能，且技能在持续新增中。
 

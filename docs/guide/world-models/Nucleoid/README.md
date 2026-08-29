@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NucleoidAI/Nucleoid>
 - 项目主页: <https://nucleoid.ai>
 
-## 项目概述
-
 ## 项目介绍
 Nucleoid是一款基于神经符号AI的声明式逻辑运行时引擎，主打知识图谱推理能力。它采用类IPL的声明式语法追踪所有语句，动态在逻辑与数据语句间构建知识图谱关系，用于决策制定与问题解决。项目支持多语言，可通过官方聊天工具`https://nucleoid.ai/chat`进行逻辑上下文交互，遵循Apache 2.0开源协议。
 

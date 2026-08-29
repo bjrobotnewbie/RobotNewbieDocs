@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker>
 
-## 项目概述
-
 ## 项目介绍
 本项目提供了基于ROS2 Humble（Ubuntu 22.04）的ORB-SLAM3容器化封装，可通过Docker快速部署运行ORB-SLAM3，无需手动配置复杂的编译和依赖环境。推荐使用1.0.0版本以获取稳定版本，master分支为最新特性但未经过充分测试。
 

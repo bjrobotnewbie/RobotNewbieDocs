@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/UWRobotLearning/WheeledLab>
 
-## 项目概述
-
 ## 项目介绍
 WheeledLab是一款集成IsaacLab的开源移动机器人开发工具包，提供机器人环境、资产与开发工作流，适配ROS、SLAM、RL相关移动机器人研发场景。支持Ubuntu 20.04/22.04平台，依赖Python3.10、IsaacSim 4.5.0+与IsaacLab 2.0.2。
 

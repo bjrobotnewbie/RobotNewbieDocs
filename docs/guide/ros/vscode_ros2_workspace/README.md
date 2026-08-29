@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/althack/vscode_ros2_workspace>
 - 项目主页: https://althack.github.io/vscode_ros2_workspace/
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个VSCode ROS2开发工作区模板，用于将VSCode作为IDE进行ROS2开发，支持通过Docker容器快速搭建开发环境，适配NVIDIA GPU加速场景。用户可通过GitHub模板一键创建专属ROS2开发仓库，默认基于`osrf/ros:jazzy-desktop-full`镜像，也可自行修改Dockerfile适配其他ROS版本。
 

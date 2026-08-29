@@ -32,6 +32,7 @@
 - [usgs-lidar（AWS Entwine Point Ti…）](/guide/data/datasets/usgs-lidar/README)
 - [PhysInOne（🔥 PhysInOne 在 Python…）](/guide/data/datasets/PhysInOne/README)
 - [open-h-embodiment（Open-H-Embodiment 是一…）](/guide/data/datasets/open-h-embodiment/README)
+- [AgriLiRa4D（AgriLiRa4D: 面向复杂农业环境…）](/guide/data/datasets/AgriLiRa4D/README)
 ## 分类说明
 
 | 数据集 | 数据类型 | 应用场景 |

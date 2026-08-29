@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/RuPingCen/mick_robot>
 
-## 项目概述
-
 ## 项目介绍
 mick_robot是基于ROS2开发的自主移动机器人导航开源项目，支持四轮差速、麦克纳姆轮两种底盘，适配室内外场景：室内使用修改版move_base框架，室外使用裁剪后的Autoware框架，传感器采用32线3D激光雷达。项目从机械设计到底层嵌入式控制、上层建图导航全流程开源，同时配套开源底盘项目mick_robot_chassis，master分支为ROS2版本，另有ROS1旧版本分支。
 

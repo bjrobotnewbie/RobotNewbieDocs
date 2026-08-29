@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/chaowei-code/gmr-motionlab>
 
-## 项目概述
-
 ## 项目介绍
 GMR-MotionLab是一款基于斯坦福大学GMR框架的量产级人形运动重定向工具，可将SMPL-X、BVH、FBX、视频格式的人体动作捕捉数据，通过逆运动学转换为物理合理的人形机器人关节配置。同时支持pkl格式动作可视化编辑与动作分割。
 

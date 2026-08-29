@@ -7,8 +7,6 @@ GPS 剥夺下的无人机导航层：光流 + 离线地图配准 + EKF → MAVLi
 - GitHub: <https://github.com/Fratres-X-AI/JamBoy>
 - 项目主页: <--disable-wiki>
 
-## 项目概述
-
 ## 项目介绍
 JamBoy是一款用于GPS拒止环境下的无人机导航层，通过光流、离线地图地理匹配、EKF融合与气压高度数据，输出MAVLink格式的位置估计，已通过仿真验证。它仅负责导航功能，非飞行认证软件，适用于可消耗型无人机在无GPS环境下的定位导航。
 

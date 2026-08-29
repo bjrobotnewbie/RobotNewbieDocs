@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/RoboSense-LiDAR/rslidar_sdk>
 
-## 项目概述
-
 ## 项目介绍
 rslidar_sdk是速腾聚创LiDAR针对Ubuntu平台开发的ROS/ROS2软件开发套件，内置LiDAR驱动核心rs_driver，提供ROS和ROS2原生支持。用户可通过该SDK快速通过ROS/ROS2获取点云数据，若需将LiDAR驱动集成到自有项目中则可直接使用rs_driver。
 

@@ -7,8 +7,6 @@ HarnessEval-W: 视觉世界的代理化评估
 - GitHub: <https://github.com/MirroS-Lab/HarnessEval-W>
 - 项目主页: <https://mirros-lab.github.io/HarnessEval-W/>
 
-## 项目概述
-
 ## 项目介绍
 HarnessEval-W是一个将LLM生态中的测试框架范式引入世界模型评测的智能评估流水线，核心目标是实现可解释的视觉世界评测。现有视觉世界评测基准仅能输出标量分数，无法提供可追溯的推理过程，而HarnessEval-W通过将评测任务代理化，针对每个评测案例拆解为可量化的子问题，调用配备专属工具的子代理分别推理，最终由父代理整合证据生成最终结论，完整的推理链可作为评测结果的可信依据。
 

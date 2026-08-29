@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ros2/rmw_zenoh>
 
-## 项目概述
-
 ## 项目介绍
 这是一款基于Zenoh的ROS 2 RMW实现，通过zenoh-cpp绑定开发，将Zenoh作为ROS 2的中间件，用于实现ROS 2节点间的通信。支持通过二进制包或源码方式安装，适配多个ROS 2发行版。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/altnautica/ADOSMissionControl>
 - 项目主页: https://command.altnautica.com/
 
-## 项目概述
-
 ## 项目介绍
 ADOSMissionControl是一款开源的网页版无人机地面站，面向软件定义无人机。支持ArduPilot、PX4、Betaflight、iNav等飞控，可通过浏览器实现无人机全流程操控，无需额外安装软件，无硬件锁定限制。
 它属于ADOS生态系统，可搭配ADOS Drone Agent实现长距离数据链路、高清视频传输与云端机队管理，也可独立通过USB或WebSocket连接任意MAVLink协议无人机，还支持通过ADOS Extensions扩展功能。

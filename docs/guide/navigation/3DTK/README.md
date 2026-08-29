@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/JMUWRobotics/3DTK>
 
-## 项目概述
-
 ## 项目介绍
 3DTK（The 3D Toolkit）是一款3D点云处理工具集，提供了高精度的自动配准算法，支持6D SLAM（同时定位与地图构建），还内置快速3D查看器、平面提取等工具，原生支持多种点云文件格式，且可轻松扩展支持新格式。项目支持Ubuntu、Debian、macOS和Windows系统编译，同时兼容ROS1（Kinetic、Melodic、Noetic），正在开发ROS2支持，部分工具还可适配3DConnexion SpaceMouse进行导航操作。
 

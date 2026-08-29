@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/idaholab/moose>
 - 项目主页: <https://mooseframework.inl.gov>
 
-## 项目概述
-
 ## 项目介绍
 MOOSE全称Multiphysics Object-Oriented Simulation Environment，是由爱达荷国家实验室主导开发的面向对象多物理场有限元仿真框架。它集成了当前顶尖的非线性求解技术（基于PETSc），提供了贴合工程科研实际需求的简洁API，从安装到超算集群运行全流程优化，可加速多物理场仿真研究。
 

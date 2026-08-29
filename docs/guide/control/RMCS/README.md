@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Alliance-Algorithm/RMCS>
 
-## 项目概述
-
 ## 项目介绍
 RMCS是一款基于ROS2的RoboMaster机器人控制系统，用于RoboMaster机甲大师机器人的开发、部署与运行。项目提供了完整的开发容器化环境与部署方案，支持在Linux/WSL2环境下进行开发，适配x86-64架构，可完成机器人控制代码的编写、构建、运行以及下位机通信调试。
 

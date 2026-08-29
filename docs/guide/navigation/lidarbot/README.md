@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/TheNoobInventor/lidarbot>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一款基于ROS2 Jazzy的差分驱动移动机器人，运行在搭载Ubuntu Server 24.04的树莓派4上。机器人配备树莓派摄像头、RPLIDAR A1激光雷达与MPU6050 IMU，可通过`robot_localization`包结合扩展卡尔曼滤波器(EKF)融合IMU与轮式编码器数据，获得高精度里程计。支持使用Nav2栈实现SLAM建图、自主导航与避障，同时适配Waveshare电机驱动板，通过`ros2_control`框架实现硬件控制与传感器数据广播。
 

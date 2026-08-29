@@ -4,8 +4,6 @@
 
 - GitHub: <https://github.com/ros2/rosbag2>
 
-## 项目概述
-
 ## 项目介绍
 rosbag2是ROS 2生态下的数据包录制、回放与信息查看工具，是官方设计文档中定义的新一代rosbag实现，可用于记录ROS 2系统中的话题数据，也支持读取ROS1 bag文件，适配ROS 2 Crystal及以上版本。
 

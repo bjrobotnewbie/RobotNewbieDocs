@@ -6,8 +6,6 @@ RAI 是一个面向物理人工智能机器人的厂商无关智能体框架，�
 
 - GitHub: <https://github.com/RobotecAI/rai>
 
-## 项目概述
-
 ## 项目介绍
 RAI是一款厂商无关的具身AI机器人智能体框架，基于ROS 2工具开发，可用于为机器人部署和开发具身AI功能。它支持复杂动作执行、预设场景运行、自由接口交互、日志总结、语音交互等能力，适配Ubuntu 22.04/24.04，支持Python 3.10/3.12以及ROS 2 Humble/Jazzy版本。官方文档、安装指南和教程可访问[robotecai.github.io/rai](https://robotecai.github.io/rai/)获取。
 

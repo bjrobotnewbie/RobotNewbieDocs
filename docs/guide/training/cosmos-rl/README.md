@@ -6,8 +6,6 @@ Cosmos-RL 是一个灵活且可扩展的强化学习框架，专为物理人工�
 
 - GitHub: <https://github.com/nvidia-cosmos/cosmos-rl>
 
-## 项目概述
-
 ## 项目介绍
 Cosmos-RL是NVIDIA推出的专注于Physical AI应用的灵活可扩展强化学习框架，目前已停止活跃开发，仅会收到有限维护更新，官方推荐用户迁移至新一代的Cosmos 3平台。该框架可支持大规模RL训练工作负载，配套有官方文档。
 

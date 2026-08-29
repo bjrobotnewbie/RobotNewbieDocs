@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/LAStools/LAStools>
 
-## 项目概述
-
 ## 项目介绍
 LAStools是一套高效的LiDAR点云处理工具套装，依托LASlib和开源压缩库LASzip，支持处理ASPRS LAS 1.0-1.4格式、压缩LAZ格式以及Terrasolid BIN、ESRI Shapefile、ASCII等多种点云数据。整体代码采用轻量高效的C++编写，支持多核并行与脚本化批量处理。
 

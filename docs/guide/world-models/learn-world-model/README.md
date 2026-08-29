@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/datawhalechina/learn-world-model>
 - 项目主页: <https://datawhalechina.github.io/learn-world-model/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向世界模型（World Models）的系统化学习教程，处于Alpha预览阶段，旨在通过动手搭建的方式带领学习者从基础直觉出发，掌握完整的世界模型、仿真、规划与评估系统。教程包含5个主题讲座与6个实战项目，可在线阅读，采用MIT开源协议。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/collabora/libsurvive>
 
-## 项目概述
-
 ## 项目介绍
 libsurvive是一套开源工具与库，可在基于Lighthouse和HTC Vive的系统上实现6自由度跟踪，支持在任意设备上运行。它兼容SteamVR 1.0和2.0两代设备，支持市面上绝大多数可跟踪物体，不单独运行头显，可集成到各类自定义应用中，提供了C语言高低层API、Python及C#绑定。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/mgonzs13/yolo_ros>
 - 项目主页: https://mgonzs13.github.io/yolo_ros/
 
-## 项目概述
-
 ## 项目介绍
 这是一个ROS 2封装项目，集成Ultralytics旗下的YOLOv8、YOLOv9、YOLOv10、YOLOv11、YOLOv12模型，可在ROS 2环境中实现目标检测与追踪、实例分割、人体姿态估计、定向边界框（OBB）任务，同时支持基于深度图像的3D目标检测与3D实例分割、3D人体姿态估计。
 

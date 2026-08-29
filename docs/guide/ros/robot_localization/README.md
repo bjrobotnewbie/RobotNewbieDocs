@@ -7,8 +7,6 @@ robot_localization 是一个非线性的状态估计节点包。该包由 Charle
 - GitHub: <https://github.com/cra-ros-pkg/robot_localization>
 - 项目主页: <http://www.cra.com>
 
-## 项目概述
-
 ## 项目介绍
 robot_localization是一款ROS非线性状态估计节点包，由Charles River Analytics, Inc.开发，可用于机器人状态融合估算，官方文档托管于http://wiki.ros.org/robot_localization，技术问题可在answers.ros.org咨询。
 

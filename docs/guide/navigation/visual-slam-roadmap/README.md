@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/changh95/visual-slam-roadmap>
 - 项目主页: https://www.cv-learn.com/visual-slam-roadmap/
 
-## 项目概述
-
 ## 项目介绍
 本项目是2026年视觉SLAM开发者学习路线图，面向想要成为视觉SLAM工程师或研究员的零基础学习者，旨在梳理从入门到从业所需掌握的全部知识点，解决当前视觉SLAM入门课程较少、尤其是非英语语言课程稀缺的问题，帮助初学者理清学习方向。
 

@@ -7,8 +7,6 @@ ROS2 代码片段
 - GitHub: <https://github.com/mikeferguson/ros2_cookbook>
 - 项目主页: <https://fer.gs/ros2_cookbook/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是ROS2的代码片段合集，为ROS2开发者提供快速上手的代码示例与使用指南，覆盖ROS2核心开发场景，帮助开发者快速掌握ROS2开发技巧。
 

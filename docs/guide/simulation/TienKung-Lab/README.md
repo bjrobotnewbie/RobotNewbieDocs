@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Open-X-Humanoid/TienKung-Lab>
 
-## 项目概述
-
 ## 项目介绍
 本项目是针对全尺寸人形机器人TienKung开发的基于RL的运动控制系统，基于IsaacLab打造，支持直接将仿真训练流程迁移到实体机器人。它整合了AMP风格奖励与周期性步态奖励，可实现自然稳定的行走、跑步等运动行为，支持Sim2Sim迁移到MuJoCo，还搭载了基于光线投射的传感器以提升环境交互与避障能力，已在实体TienKung机器人上完成验证，且该机器人曾获首届人形机器人半程马拉松冠军。
 

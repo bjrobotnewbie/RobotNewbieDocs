@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration>
 - 项目主页: <https://awesome-image-registration-organization.github.io/awesome-image-registration/>
 
-## 项目概述
-
 ## 项目介绍
 本项目是精选的图像配准（Image Registration）相关资源合集，涵盖图书、论文、视频和工具库。图像配准指将不同来源、时间、视角或传感器的多组数据统一到同一坐标系的过程，可应用于计算机视觉、医学影像、军事自动目标识别、卫星影像数据分析等领域，用于实现多源数据的对比与融合。
 项目附带自动追踪IR论文更新的工具，提供官方网页版完整内容，同时设有QQ和微信交流群供社区交流。

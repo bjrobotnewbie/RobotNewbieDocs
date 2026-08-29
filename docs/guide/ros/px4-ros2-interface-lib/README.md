@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Auterion/px4-ros2-interface-lib>
 
-## 项目概述
-
 ## 项目介绍
 本项目是`px4-ros2-interface-lib`，用于在 companion computer 上通过 ROS 2 与 PX4 进行交互。它提供工具链支持编写动态注册到 PX4 的外部模式，可实现从高层导航任务到直接执行器控制的各类 setpoint 发送。项目基于 C++ 开发，同时提供未完全完善的 Python 绑定。
 

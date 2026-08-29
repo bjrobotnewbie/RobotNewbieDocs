@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/uos/rmcl>
 
-## 项目概述
-
 ## 项目介绍
 本项目名为rmcl，专注于**Mobile Robot Localization in 3D Triangle Meshes & Geometric Scene Graphs**，即面向三维三角网格与几何场景图的移动机器人定位。
 项目提供基于地图的机器人定位算法，适配的地图来源包括建筑设计师提供的官方图纸，或机器人通过SLAM自主生成的地图。其核心是在给定地图中估计机器人位姿，可处理初始位姿已知的跟踪场景，也可解决 kidnapped robot 问题（初始位姿完全未知），为机器人任务规划提供精准位姿基础。

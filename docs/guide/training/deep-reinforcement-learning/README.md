@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/udacity/deep-reinforcement-learning>
 - 项目主页: https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
 
-## 项目概述
-
 ## 项目介绍
 本仓库是Udacity深度强化学习纳米学位（Deep Reinforcement Learning Nanodegree）的配套学习材料，基于Python 3和PyTorch v0.4开发，包含多种强化学习算法的教程与实现代码。
 

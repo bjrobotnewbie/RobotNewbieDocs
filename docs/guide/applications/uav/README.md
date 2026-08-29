@@ -31,6 +31,8 @@
 - [drone-tm（无人机任务管理器 - 社区驱动的无人机影…）](/guide/applications/uav/drone-tm/README)
 - [PyThrust（无人机设计中的开源电动推进系统分析与优化…）](/guide/applications/uav/PyThrust/README)
 - [ardudeck（一个 GCS 统御一切。ArduPilo…）](/guide/applications/uav/ardudeck/README)
+- [NodeODM（轻量级 REST API，用于访问空中图…）](/guide/applications/uav/NodeODM/README)
+- [Kite-GC（Kite Ground Control（…）](/guide/applications/uav/Kite-GC/README)
 ## 代表性项目
 - 大疆消费级/行业级无人机
 - 极飞农业无人机

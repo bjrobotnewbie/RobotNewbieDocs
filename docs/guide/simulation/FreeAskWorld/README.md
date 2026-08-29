@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/AIR-DISCOVER/FreeAskWorld>
 
-## 项目概述
-
 ## 项目介绍
 FreeAskWorld是一个获AAAI 2026 Oral收录的交互式闭环仿真框架，面向以人为中心的具身AI研究，集成大语言模型（LLMs）实现高层规划与社交场景交互。项目提供了配套数据集与基线闭环框架，相关开源资源可在HuggingFace与对应GitHub仓库获取，采用Apache 2.0开源协议。
 

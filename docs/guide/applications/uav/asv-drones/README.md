@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/asv-soft/asv-drones>
 
-## 项目概述
-
 ## 项目介绍
 asv-drones是一款面向ArduPilot和PX4自动驾驶仪的开源地面站应用，属于无人航空系统(UAS)领域的模块化开源平台，采用社区协作开发模式，旨在推动无人机领域的技术创新。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/okalachev/flix>
 - 项目主页: <https://t.me/opensourcequadcopter>
 
-## 项目概述
-
 ## 项目介绍
 Flix是一款基于ESP32的开源四轴飞行器，名称取自“flight + X”，主打从零搭建的教育科研向四轴项目。项目提供3D打印机架版本以及原型机，支持通过多种方式飞行演示，还配套有飞行控制理论教材、完整的组装与使用文档，官方PCB版本Flix2正在开发中。
 

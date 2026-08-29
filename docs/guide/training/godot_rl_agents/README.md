@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/edbeeching/godot_rl_agents>
 
-## 项目概述
-
 ## 项目介绍
 Godot RL Agents是一个开源工具包，面向游戏开发者、AI研究者和爱好者，用于为游戏中的非玩家角色（NPC）或智能体训练复杂行为。它可以搭建Godot引擎开发的游戏与Python端机器学习算法之间的交互接口，支持通过Ray RLLib框架提供的21种前沿机器学习算法进行训练，兼容2D和3D游戏，还提供配套的AI传感器工具增强智能体的环境感知能力。本项目基于MIT开源协议，完全免费无授权费。
 

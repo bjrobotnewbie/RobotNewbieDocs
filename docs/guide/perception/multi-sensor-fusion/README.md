@@ -16,3 +16,4 @@
 - [DAIR-RCooper（协同感知数据集）](/guide/perception/DAIR-RCooper/README)
 - [Collaborative_Perception（本仓库收录了近期在车辆至基础设施（V2I…）](/guide/perception/multi-sensor-fusion/Collaborative_Perception/README)
 - [Lidar_AI_Solution（一个展示激光雷达相关 AI 解决方案的项…）](/guide/perception/multi-sensor-fusion/Lidar_AI_Solution/README)
+- [RGBT-Perception-Papers（RGB-T 目标检测、语义分割与人群计数…）](/guide/perception/multi-sensor-fusion/RGBT-Perception-Papers/README)

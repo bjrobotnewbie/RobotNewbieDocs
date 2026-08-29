@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/InternRobotics/InternScenes>
 - 项目主页: https://marjordcpz.github.io/InternScenes.github.io/
 
-## 项目概述
-
 ## 项目介绍
 InternScenes是NeurIPS 2025收录的大规模交互式室内场景数据集，包含约40000个多样化场景、196万个3D物体，覆盖15种常见场景类型与288个物体类别，规模约为现有同类数据集的10倍。该数据集解决了传统3D场景数据集多样性不足、布局过于简化、存在严重物体碰撞等问题，可用于3D场景重建、3D场景理解、场景布局生成、具身导航等任务。
 

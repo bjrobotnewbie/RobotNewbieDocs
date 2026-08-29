@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/BotRunner64/Teleopit>
 - 项目主页: <https://botrunner64.github.io/Teleopit/>
 
-## 项目概述
-
 ## 项目介绍
 Teleopit是一款轻量可扩展的类人机器人全身遥操作框架，可实现从BVH动作文件或Pico 4 VR设备到Unitree G1类人机器人的实时运动重定向，支持在MuJoCo仿真环境或真实硬件上运行。
 

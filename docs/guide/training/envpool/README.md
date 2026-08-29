@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/sail-sg/envpool>
 - 项目主页: https://envpool.readthedocs.io
 
-## 项目概述
-
 ## 项目介绍
 EnvPool是一款基于C++开发的高性能并行环境执行引擎，通过pybind11和线程池实现批量环境管理，适配通用强化学习（RL）场景。它拥有出色的运行性能，在DGX-A100设备上，Atari游戏可达到约100万原始FPS，MuJoCo模拟器可达约300万原始FPS，同时兼容Gymnasium、dm_env等主流RL环境接口，支持同步/异步、单/多玩家环境。
 

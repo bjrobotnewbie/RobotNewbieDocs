@@ -6,8 +6,6 @@ SuperSLAM：基于深度学习的视觉SLAM开源框架（开发中）
 
 - GitHub: <https://github.com/adityamwagh/SuperSLAM>
 
-## 项目概述
-
 ## 项目介绍
 SuperSLAM是一款基于深度学习的实时双目、RGB-D视觉SLAM开源框架（仍处于开发测试阶段，为Alpha版本）。它采用SuperPoint提取特征、LightGlue完成特征匹配，基于TensorRT FP16后端加速，以GTSAM作为优化核心，并支持位姿图回环检测。
 

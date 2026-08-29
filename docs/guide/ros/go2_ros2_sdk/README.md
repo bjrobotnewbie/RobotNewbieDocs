@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/abizovnuralem/go2_ros2_sdk>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Unitree GO2 AIR/PRO/EDU四足机器人的非官方ROS2 SDK，支持通过Wi-Fi（WebRTC协议）和以太网（CycloneDDS协议）实现机器人与ROS2的连接，可将机器人数据接入ROS2生态。项目已完成重构，激光雷达数据流帧率从2Hz提升至7Hz，适配固件v1.1.7。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Ingrid789/OmniContact_sim2sim>
 - 项目主页: https://omnicontact.github.io/
 
-## 项目概述
-
 ## 项目介绍
 本项目是论文《OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation》的官方实现，是一个面向长时序人形机器人移动操作的接触流框架。项目包含CFgen和CFtrack两个核心模块，支持在MuJoCo中运行，提供了官方项目页面、arXiv论文、在线演示demo以及Hugging Face数据集，采用CC BY-NC-SA 4.0开源协议。
 

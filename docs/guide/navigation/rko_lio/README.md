@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/PRBonn/rko_lio>
 - 项目主页: https://prbonn.github.io/rko_lio/
 
-## 项目概述
-
 ## 项目介绍
 RKO-LIO是一款无需传感器专属建模的鲁棒LiDAR-Inertial Odometry（LIO）方案，由德国波恩大学PRB实验室开发。该项目支持ROS 1/ROS 2多版本，同时提供Python命令行工具，可处理ROS1/ROS2格式的rosbag数据，适配多平台多场景的激光惯性里程计任务。
 

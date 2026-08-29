@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation>
 - 项目主页: <https://developer.nvidia.com/isaac-ros-gems>
 
-## 项目概述
-
 ## 项目介绍
 本项目是NVIDIA推出的基于深度学习、搭载GPU加速的3D物体位姿估计工具包，属于Isaac ROS生态，包含3个ROS 2软件包，可通过感知功能结合深度信息输出物体3D位姿，用于导航或机械臂操作场景。
 其中`isaac_ros_foundationpose`基于NVLabs的FoundationPose预训练模型，支持零样本新物体位姿估计与跟踪，无需微调；`isaac_ros_dope`为成熟稳定的快速方案；`isaac_ros_centerpose`支持TAO工具链，精度表现较好。

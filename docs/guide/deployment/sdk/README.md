@@ -7,8 +7,6 @@ Temi 是一款无与伦比的机器人平台，引入了一种全新的发展维
 - GitHub: <https://github.com/robotemi/sdk>
 - 项目主页: <https://www.robotemi.com/>
 
-## 项目概述
-
 ## 项目介绍
 temi SDK是面向temi机器人平台的开发工具包，开发者可通过temi自带的Android平板为机器人开发新功能、拓展使用场景。temi的移动与导航能力基于Linux计算机运行，搭载了激光雷达（Lidar）、深度相机、行车相机、麦克风等共16种传感器。该SDK会持续迭代优化并更新文档，开发者可通过developers@robotemi.com反馈需求与问题。
 

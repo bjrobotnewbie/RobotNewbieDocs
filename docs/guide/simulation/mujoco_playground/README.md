@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/google-deepmind/mujoco_playground>
 - 项目主页: https://playground.mujoco.org
 
-## 项目概述
-
 ## 项目介绍
 mujoco_playground 是谷歌DeepMind推出的开源GPU加速机器人学习与 sim-to-real 迁移工具库，基于MuJoCo MJX构建，为机器人学习研究提供全面的仿真环境套件。支持通过PyPI快速安装，也可从源码获取最新功能，适配Python 3.10及以上版本，可用于机器人控制、仿真到现实迁移等研究场景。
 

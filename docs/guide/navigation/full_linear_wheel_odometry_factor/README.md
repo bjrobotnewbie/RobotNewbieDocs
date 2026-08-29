@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/TakuOkawara/full_linear_wheel_odometry_factor>
 
-## 项目概述
-
 ## 项目介绍
 本项目为`full_linear_wheel_odometry_factor`，专为滑移转向机器人提供运动约束与运动学参数在线标定功能，可集成到SLAM框架中使用。
 它适用于无转向机构的两轮、六轮及履带式滑移转向机器人，基于全线性运动学模型构建约束，无需手动离线标定即可适配未知地面打滑等复杂环境，能够为LiDAR-IMU里程计提供可靠约束，解决运动学参数误差与特征匮乏环境下的定位鲁棒性问题。

@@ -6,8 +6,6 @@ nRF24干扰器是一款功能强大的工具，需要一块ESP32和可配置数�
 
 - GitHub: <https://github.com/W0rthlessS0ul/nRF24_jammer>
 
-## 项目概述
-
 ## 项目介绍
 nRF24 Jammer是一款基于ESP32和nRF24技术的射频干扰工具，需要搭配ESP32与可配置数量的nRF24模块组装。它可干扰蓝牙、BLE、无人机、Wi-Fi、Zigbee的信号，还配备了易用的网页控制界面。该项目已移植到Flipper Zero和LOLIN32 Lite设备，同时提供了硬件组装、固件编译与烧录的相关教程。
 

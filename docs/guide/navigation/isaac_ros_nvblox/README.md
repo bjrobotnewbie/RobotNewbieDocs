@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox>
 - 项目主页: <https://developer.nvidia.com/isaac-ros-gems>
 
-## 项目概述
-
 ## 项目介绍
 Isaac ROS Nvblox是NVIDIA推出的ROS 2集成包，基于nvblox实现实时3D场景重建与导航局部代价地图生成。它可接收深度相机/3D LiDAR数据与位姿输入，通过GPU加速实时构建3D场景，并输出适配Nav2的2D局部代价地图，用于机器人导航避障，还支持将彩色3D重建结果通过RViz实时可视化。
 

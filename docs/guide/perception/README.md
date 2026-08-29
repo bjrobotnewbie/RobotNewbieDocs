@@ -34,3 +34,5 @@
 - [perception_test](/guide/perception/perception_test/README)
 
 - [Awesome-Touch（触觉感知 • 数据采集 • IL/RL/…）](/guide/perception/Awesome-Touch/README)
+
+- [MPRGDeepLearningLectureNotebook](/guide/perception/MPRGDeepLearningLectureNotebook/README)

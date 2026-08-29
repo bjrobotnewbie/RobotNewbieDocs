@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam>
 - 项目主页: https://developer.nvidia.com/isaac-ros-gems
 
-## 项目概述
-
 ## 项目介绍
 本项目是基于NVIDIA加速cuVSLAM的ROS 2视觉SLAM/里程计包，支持立体视觉惯性里程计(SVIO)。它可通过一个或多个立体相机+可选IMU，为移动机器人、无人机提供实时低延迟的位姿估计，作为导航输入的里程计源，尤其适用于GPS不可用的场景如室内、城市高楼遮挡区域。
 

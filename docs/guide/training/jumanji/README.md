@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/instadeepai/jumanji>
 - 项目主页: <https://instadeepai.github.io/jumanji>
 
-## 项目概述
-
 ## 项目介绍
 Jumanji是基于JAX开发的多样化、可扩展强化学习（RL）环境套件，由InstaDeepAI推出。它提供了覆盖组合优化、经典游戏、调度规划等多个领域的测试环境，可用于RL算法的训练、评估与研究。
 

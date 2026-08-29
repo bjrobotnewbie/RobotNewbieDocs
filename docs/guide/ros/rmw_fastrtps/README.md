@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ros2/rmw_fastrtps>
 
-## 项目概述
-
 ## 项目介绍
 `rmw_fastrtps`是ROS 2的中间件实现，用于连接ROS 2与eProsima Fast DDS中间件，提供ROS中间层(RMW)接口。该实现已覆盖所有ROS 2发行版，可通过二进制包或源码获取。
 

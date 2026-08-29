@@ -31,6 +31,8 @@
 - [core（🏡 优先保障本地控制与隐私的开源家庭自动…）](/guide/applications/core/README)
 - [skills（为 NVIDIA 产品设计的 Agent…）](/guide/applications/skills/README)
 - [TeleDex（手机远程操作机器人）](/guide/applications/TeleDex/README)
+- [aira（自主智能机器人代理（AIRA）项目实现了…）](/guide/applications/aira/README)
+- [lehome_solution（我的解决方案获得 LeHome 挑战赛第…）](/guide/applications/lehome_solution/README)
 ## 分类说明
 
 | 分类 | 核心应用领域 | 技术特点 |

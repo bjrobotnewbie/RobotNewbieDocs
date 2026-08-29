@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/zauberzeug/rosys>
 - 项目主页: https://rosys.io
 
-## 项目概述
-
 ## 项目介绍
 RoSys是一款基于Web技术的全Python机器人系统，功能定位类似ROS，专注于移动机器人开发，且更易于使用。它依托现代Web技术栈，通过NiceGUI实现Web UI，支持离线本地网页操作或网关远程操控，内置仿真模式可快速测试算法，还可通过pytest编写集成测试。其核心采用asyncio实现无锁无互斥量的事件循环，性能优于ROS的多进程通信架构。
 

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/vmayoral/ros-robotics-companies>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一份公开的企业列表，收录了已知使用Robot Operating System（ROS/ROS 2）及其相关工具进行开发、打造产品、提供服务，或将ROS作为产品组成部分的机器人公司，按字母顺序排序。列表分为活跃企业和已被收购、关闭或不活跃企业两大板块，同时还细分了ROS导航、操作、感知方向的用户企业。
 

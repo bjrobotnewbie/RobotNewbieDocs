@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Roboparty/Party_OS>
 
-## 项目概述
-
 ## 项目介绍
 Party OS 是RoboParty_Lab打造的人形机器人全栈系统，覆盖从底层工具到上层交互能力的完整技术栈。其核心链路串联数据采集与生成、动作重定向、模仿学习与无监督学习，后续将逐步扩展人-物交互（HOI）、人-系统交互（HSI）、VLA以及自主智能人形机器人（Agentic Humanoid）方向。
 

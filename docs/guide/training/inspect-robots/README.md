@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/robocurve/inspect-robots>
 - 项目主页: <https://inspectrobots.org>
 
-## 项目概述
-
 ## 项目介绍
 Inspect Robots是一个开源的实体AI评估框架，对标Inspect AI，专注机器人领域。用户只需定义一次机器人基准测试，即可让任意LLM/VLA策略在兼容的实体（真实机械臂、人形机器人）或模拟器上运行测试，同时支持可审计的日志记录（评分结果、LLM对话记录、完整配置）以及Rerun可视化。当前项目处于alpha开发阶段。
 

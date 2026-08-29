@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/asimovinc/asimov-1>
 - 项目主页: <https://manual.asimov.inc/v1>
 
-## 项目概述
-
 ## 项目介绍
 Asimov v1是一款开源双足人形机器人，整机高1.2m、重35kg，拥有25个主动自由度+2个被动自由度。本仓库包含其机械CAD、电气CAD、仿真模型以及机载软件，支持用户自行搭建、仿真和定制该机器人。
 

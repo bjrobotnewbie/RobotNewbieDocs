@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/MichaelGrupp/maps>
 - 项目主页: <https://crates.io/crates/maps>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一款用于直观、快速地查看、对比和对齐多张栅格地图的GUI工具，基于Rust语言开发，可用于机器人开发中地图相关的调试、对齐工作，适配ROS、SLAM等机器人技术栈中的栅格地图文件。
 

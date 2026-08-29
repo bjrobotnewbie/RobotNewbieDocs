@@ -7,8 +7,6 @@ SAPIEN 具身智能平台
 - GitHub: <https://github.com/haosulab/SAPIEN>
 - 项目主页: <https://sapien.ucsd.edu/>
 
-## 项目概述
-
 ## 项目介绍
 SAPIEN是一款高拟真度、富含物理特性的具身AI仿真平台，由UCSD、斯坦福和SFU的研究者联合开发，其数据集是ShapeNet和PartNet的延续。它内置大量铰接物体，支持需要精细部件级理解的机器人视觉与交互任务，可通过PyPI快速安装，支持Linux带GPU的运行环境，还提供无显示器服务器部署方案。PartNet-Mobility数据集现已主要通过Hugging Face获取。
 

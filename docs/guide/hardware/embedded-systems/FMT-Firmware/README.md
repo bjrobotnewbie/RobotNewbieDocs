@@ -6,8 +6,6 @@ Firmament 自动驾驶嵌入式系统
 
 - GitHub: <https://github.com/Firmament-Autopilot/FMT-Firmware>
 
-## 项目概述
-
 ## 项目介绍
 FMT-Firmware是Firmament Autopilot的嵌入式自动驾驶系统，基于模型驱动设计(MBD)开发，可快速搭建无人机、无人车、无人船、机器人等自主移动载体的控制系统。
 项目分为两部分：本仓库的嵌入式固件（C/C++编写，稳定高性能）和配套的FMT-Model仿真框架（基于MATLAB/Simulink，带算法库）。

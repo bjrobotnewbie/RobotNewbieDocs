@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/KangLiao929/Puffin>
 - 项目主页: <https://kangliao929.github.io/projects/puffin-world/      https://kangliao929.github.io/projects/puffin/ >
 
-## 项目概述
-
 ## 项目介绍
 Puffin是一系列面向空间智能的以相机为中心的统一多模态模型，可统一跨视角、朝向的世界理解与生成，其中Puffin-World支持原生3D世界状态建模。本项目包含两个子项目：
 1.  Puffin：ICLR 2026收录模型，专注相机中心的多模态理解与生成，配套Puffin-4M数据集

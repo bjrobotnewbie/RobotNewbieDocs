@@ -6,8 +6,6 @@ ROS-工业级通用机器人支持 (https://wiki.ros.org/universal_robot)
 
 - GitHub: <https://github.com/ros-industrial/universal_robot>
 
-## 项目概述
-
 ## 项目介绍
 本项目是ROS-Industrial生态下的优傲机器人（Universal Robots）支持元包，为UR系列协作机器人提供ROS功能支持，可通过ROS wiki查询兼容性与更多信息。项目支持Ubuntu 18.04/20.04系统，适配多版ROS发行版，提供二进制安装与源码编译两种部署方式。
 

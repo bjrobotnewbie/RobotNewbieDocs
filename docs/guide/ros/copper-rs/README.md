@@ -7,8 +7,6 @@ Copper是一个面向机器人的操作系统——可用于确定性地构建�
 - GitHub: <https://github.com/copper-project/copper-rs>
 - 项目主页: <https://discord.gg/VkCG7Sb9Kw>
 
-## 项目概述
-
 ## 项目介绍
 Copper是一款机器人操作系统，基于Rust开发，支持构建、运行和完全确定性复现机器人程序。它可兼容ROS2，通过Zenoh实现桥接，支持渐进式迁移；可部署在Linux服务器、工作站、单板计算机甚至裸机MPU上，覆盖飞行、自驾、水下、航天、人形机器人等多类机器人场景。项目提供浏览器在线演示，无需本地配置即可体验。
 

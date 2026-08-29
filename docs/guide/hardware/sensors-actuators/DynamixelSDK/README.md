@@ -7,8 +7,6 @@ ROBOTIS Dynamixel SDK（协议1.0/2.0）
 - GitHub: <https://github.com/ROBOTIS-GIT/DynamixelSDK>
 - 项目主页: http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/
 
-## 项目概述
-
 ## 项目介绍
 本项目是ROBOTIS出品的Dynamixel SDK，是一款面向Dynamixel执行器及基于Dynamixel的机器人平台的软件开发工具包，通过数据包通信实现对Dynamixel电机的控制。
 它适配ROS多版本开发环境，同时支持多种编程语言，可用于快速开发Dynamixel相关的机器人控制程序。

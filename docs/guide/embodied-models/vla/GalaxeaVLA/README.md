@@ -6,8 +6,6 @@ Galaxea 开源视觉 - 语言 - 动作控制（VLA）仓库
 
 - GitHub: <https://github.com/OpenGalaxea/GalaxeaVLA>
 
-## 项目概述
-
 ## 项目介绍
 GalaxeaVLA是OpenGalaxea团队开源的G0.5视觉语言动作（VLA）模型项目，主打单自回归流实现机器人推理与动作生成。项目提供了预训练权重、多机器人部署与仿真评估代码，支持在R1 Lite、R1 Pro、SO-100/101等实体机器人以及DROID、LIBERO、RoboTwin 2.0等仿真环境中使用，相关论文已发布于arXiv。
 

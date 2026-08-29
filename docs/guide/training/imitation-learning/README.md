@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Kaixhin/imitation-learning>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个深度模仿学习算法集合，基于SAC作为基础强化学习（RL）算法，实现了AdRIL、DRIL（带dropout版本）、GAIL（即DAC/SAM）、GMMIL、PWIL（nofill版本）、RED等多种模仿学习算法，同时支持行为克隆（BC）预训练、仅状态模仿学习、吸收态标记、专家与智能体数据混合训练、BC辅助损失等通用配置。项目已在Gym MuJoCo环境和D4RL "expert-v2"数据集上进行了基准测试。
 

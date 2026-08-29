@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/NVIDIA-NeMo/ProRL-Agent-Server>
 
-## 项目概述
-
 ## 项目介绍
 ProRL-Agent-Server（又名Polar）是一款面向真实世界智能体的大规模智能体强化学习（RL）部署框架，可将现有智能体套件直接作为RL可用环境，无需修改原有代码。它采用服务化设计，支持通过异步方式结合任意训练框架扩展RL训练，能够通过并行部署调度大幅节省GPU计算资源。
 

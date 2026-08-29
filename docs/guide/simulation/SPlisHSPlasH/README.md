@@ -7,8 +7,6 @@ SPlisHSPlasH 是一个开源库，用于物理基础模拟流体。
 - GitHub: <https://github.com/InteractiveComputerGraphics/SPlisHSPlasH>
 - 项目主页: <https://splishsplash.physics-simulation.org/>
 
-## 项目概述
-
 ## 项目介绍
 SPlisHSPlasH是一款开源的基于物理的流体模拟库，核心基于光滑粒子流体动力学（SPH）这一经典无网格拉格朗日方法，可高效模拟复杂流体效果。它支持跨平台编译，覆盖Linux、Windows、macOS系统，附带完整文档。
 

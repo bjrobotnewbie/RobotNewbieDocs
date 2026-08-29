@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/nasa-jpl/visual-perception-engine>
 
-## 项目概述
-
 ## 项目介绍
 Visual Perception Engine是一款面向机器人视觉任务的快速灵活框架，专为NVIDIA Jetson平台优化，支持以并发高效的方式运行多感知模型。该项目由NASA JPL开发，可统一处理视觉输入，输出单目深度、语义分割、目标检测等感知结果，支持实时运行（≥50Hz）。框架内置基于DepthAnythingV2的单目深度估计、语义分割以及纯PyTorch实现的目标检测，同时提供C++ ROS 2（Humble）节点，可快速集成到现有机器人栈中。
 

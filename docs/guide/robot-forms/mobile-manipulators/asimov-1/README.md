@@ -7,8 +7,6 @@ v1 版 Asimov，一款开源的人形机器人
 - GitHub: <https://github.com/menloresearch/asimov-1>
 - 项目主页: <https://manual.asimov.inc/v1>
 
-## 项目概述
-
 ## 项目介绍
 Asimov v1是一款开源人形机器人，身高1.2m、重35kg，拥有25个主动自由度+2个被动自由度，可进行搭建、训练和自定义。本仓库包含其机械CAD、电气CAD、仿真模型以及机载软件，支持用户完成机器人的搭建、仿真和定制。
 该机器人采用双足结构，搭载Raspberry Pi 5和Radxa CM5作为 onboard compute，使用CAN Bus进行通信，结构材料为7075铝合金和MJF PA12尼龙，可实现深蹲（负载5kg）、单臂二头弯举（负载15kg）、侧平举（负载18kg）等动作。

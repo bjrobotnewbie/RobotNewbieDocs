@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit>
 
-## 项目概述
-
 ## 项目介绍
 本项目是面向LeRobot的RGB/RGB-D视觉语言动作模型（VLA）数据集端到端工具包，可完成数据集采集、合并、审核、可视化、增强与发布全流程，实现从采集到优化的可追溯闭环。项目支持生成可直接用于训练的LeRobot格式数据集，已发布两个公开数据集：RGB-D格式的`DerekLX/lerobot_derek_depth`，以及包含2318个片段、249万帧的纯RGB格式数据集`dadm022/lerobot_rgb_vla`。
 

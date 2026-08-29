@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/r-lidar/lidR>
 - 项目主页: <https://CRAN.R-project.org/package=lidR>
 
-## 项目概述
-
 ## 项目介绍
 lidR是一款面向林业应用的机载LiDAR数据处理与可视化R包，目前托管于r-universe，不再维护CRAN版本。它支持读取/写入`.las`/`.laz`格式文件、可视化点云、基于面积法计算指标、生成数字冠层模型、精简LiDAR数据、管理LAS/LAZ文件集、自动提取地面清查数据、多核处理多瓦片数据、单木分割、基于地理数据分类点云，可用于科研与开发场景。该包已被超2000篇学术论文引用，配套有官方入门书籍。
 

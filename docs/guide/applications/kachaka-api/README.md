@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/pf-robotics/kachaka-api>
 - 项目主页: https://kachaka.zendesk.com/hc/ja/articles/7660222791183-%E3%82%AB%E3%83%81%E3%83%A3%E3%82%ABAPI
 
-## 项目概述
-
 ## 项目介绍
 本项目是智能家具平台「カチャカ」的官方API仓库，提供控制该设备移动、对接，以及获取设备状态和传感器数据的功能。支持本地网络设备或设备内置的Playground用户环境访问，官方提供Python和ROS 2的SDK，同时基于gRPC通信接口，也支持其他语言调用。使用前需通过手机APP开启API权限，并可通过设备IP或`kachaka-<序列号>.local`域名访问。
 

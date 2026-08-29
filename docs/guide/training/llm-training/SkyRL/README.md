@@ -7,8 +7,6 @@ SkyRL: 面向大语言模型（LLMs）的模块化全栈RL库
 - GitHub: <https://github.com/NovaSky-AI/SkyRL>
 - 项目主页: https://docs.skyrl.ai/docs
 
-## 项目概述
-
 ## 项目介绍
 SkyRL是一款模块化全栈大语言模型强化学习（RL）库，提供完整的RL开发栈。项目包含四个核心子模块：`skyrl`统一本地硬件RL训练库，整合了高性能训练框架`skyrl-train`与支持Tinker API的跨平台后端库`skyrl-tx`；`skyrl-agent`用于长时序、真实场景智能体训练；`skyrl-gym`提供基于Gymnasium API的工具使用任务环境库，涵盖数学、编码、搜索、SQL等场景。
 

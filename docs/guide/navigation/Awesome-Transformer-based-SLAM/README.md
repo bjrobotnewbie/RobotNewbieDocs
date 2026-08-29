@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM>
 - 项目主页: https://kwanwaipang.github.io/Transformer_SLAM/
 
-## 项目概述
-
 ## 项目介绍
 本项目是一个基于Transformer的SLAM相关研究论文整理清单，涵盖了光流估计、视图/特征匹配、立体匹配、深度估计、3D重建、位姿估计等SLAM相关任务的精选资源。
 

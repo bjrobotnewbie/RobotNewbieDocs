@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/worldbench/awesome-spatial-intelligence>
 - 项目主页: https://worldbench.github.io/awesome-spatial-intelligence
 
-## 项目概述
-
 ## 项目介绍
 本项目是论文《Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems》的官方资源汇总仓库，针对自主系统的多模态数据预训练领域构建了系统化分类体系，统一了该领域的术语、研究范围与评估基准。
 

@@ -89,3 +89,7 @@
 - [PhyAgentOS-core（PhyAgentOS 是基于代理工作流构…）](/guide/deployment/PhyAgentOS-core/README)
 
 - [sdk（Temi 是一款无与伦比的机器人平台，引…）](/guide/deployment/sdk/README)
+
+- [RoboJuDo（适用于机器人的开箱即用部署框架。只需部署…）](/guide/deployment/RoboJuDo/README)
+
+- [EVA-CLIENT（EVA-Client：面向真实机器人部署…）](/guide/deployment/EVA-CLIENT/README)

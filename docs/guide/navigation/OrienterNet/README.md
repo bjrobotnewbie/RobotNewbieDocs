@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/facebookresearch/OrienterNet>
 
-## 项目概述
-
 ## 项目介绍
 OrienterNet是CVPR 2023收录的研究项目，由Meta Reality Labs推出，对应论文《OrienterNet Visual Localization in 2D Public Maps with Neural Matching》。它是一款基于深度学习的视觉定位工具，可以通过匹配鸟瞰神经特征与公开2D地图（如OpenStreetMap），实现图像的精准定位，无需依赖复杂的3D点云方案。项目提供了在线Demo、Colab演示、论文与项目主页等资源。
 

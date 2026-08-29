@@ -32,3 +32,5 @@
 - [isaac_ros_pose_estimation（深度学习的 NVIDIA 加速 3D 物…）](/guide/perception/3d-vision/isaac_ros_pose_estimation/README)
 - [lidR（林业应用中的空中激光雷达数据处理与可视化）](/guide/perception/3d-vision/lidR/README)
 - [myria3d（Myria3D：基于深度学习的空中激光雷…）](/guide/perception/3d-vision/myria3d/README)
+- [libpointmatcher（基于迭代最近点（ICP）算法的机器人 2…）](/guide/perception/3d-vision/libpointmatcher/README)
+- [Awesome-Global-Solvers-for-3D-Vision（3D 视觉领域全球求解器 curated…）](/guide/perception/3d-vision/Awesome-Global-Solvers-for-3D-Vision/README)

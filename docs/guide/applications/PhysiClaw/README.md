@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/physiclaw/PhysiClaw>
 - 项目主页: <https://physiclaw.ai>
 
-## 项目概述
-
 ## 项目介绍
 PhysiClaw是一款实体AI代理，可通过摄像头读取手机屏幕、触控笔模拟人手操作手机，无需在手机上安装任何软件、无需API/ADB/OAuth，仅需解锁手机放置即可工作。
 它可完成日常手机端任务：点外卖、采购 groceries、叫车、缴费、回复消息等所有手动可完成的手机操作，用户可通过自然语言向其专属WhatsApp账号下达指令。

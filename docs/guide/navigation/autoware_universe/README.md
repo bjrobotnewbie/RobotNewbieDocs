@@ -5,8 +5,6 @@
 - GitHub: <https://github.com/autowarefoundation/autoware_universe>
 - 项目主页: <https://autowarefoundation.github.io/autoware_universe/>
 
-## 项目概述
-
 ## 项目介绍
 Autoware Universe是Autoware生态系统的基础支柱，是Autoware Core/Universe概念的核心组成部分，负责管理大量扩展自动驾驶车辆功能的软件包，对提升自动驾驶核心技术能力起到关键作用。
 

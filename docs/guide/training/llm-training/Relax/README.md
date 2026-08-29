@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/redai-infra/Relax>
 - 项目主页: <https://redai-infra.github.io/Relax>
 
-## 项目概述
-
 ## 项目介绍
 Relax是小红书AI基础设施团队开源的高性能多模态大模型强化学习后训练框架，定位为大规模异步全模态RL训练引擎。它基于Ray Serve构建服务化架构，以Megatron-LM作为训练后端、SGLang作为推理引擎，通过TransferQueue实现训练与推理完全解耦，支持从文本到图像、视频、音频的端到端多模态RL训练。
 

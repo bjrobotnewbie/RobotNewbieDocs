@@ -6,8 +6,6 @@ NVIDIA Alpamayo 开发者 Hub，提供用于微调、强化学习后训练、量
 
 - GitHub: <https://github.com/NVlabs/alpamayo-recipes>
 
-## 项目概述
-
 ## 项目介绍
 本项目是NVIDIA Alpamayo开发者中心，是面向 reasoning 级自动驾驶的开源平台，提供开箱即用的微调、强化学习后训练、量化和部署示例代码。平台包含视觉语言动作（VLA）模型、闭环仿真框架、强化学习基础设施、真实AI自动驾驶数据集与工具，旨在加速安全、可解释、具备推理能力的自动驾驶开发。
 

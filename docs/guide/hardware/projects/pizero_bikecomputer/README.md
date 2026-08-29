@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/hishizuka/pizero_bikecomputer>
 - 项目主页: <https://qiita.com/hishi/items/46619b271daaa9ad41b3>
 
-## 项目概述
-
 ## 项目介绍
 本项目是一款基于树莓派Zero（W、WH、2 W）或Compute Module Zero的开源自行车码表，支持GPS和ANT+功能，自带离线地图与导航能力。
 它可以采集、记录并实时展示位置（GPS）、ANT+传感器（速度/踏频/功率）以及I2C传感器（气压/温度/加速度计等）的数据，还能生成`.fit`格式的骑行日志。当前已具备自行车码表的基础功能，后续还将拓展现有产品未有的新特性。官方硬件正在设计原型中，将以CERN-OHL-S-2.0协议开源设计文件。

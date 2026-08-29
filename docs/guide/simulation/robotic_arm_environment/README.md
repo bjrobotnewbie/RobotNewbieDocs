@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/dvalenciar/robotic_arm_environment>
 
-## 项目概述
-
 ## 项目介绍
 本项目基于ROS 2 Jazzy和Gazebo Harmonic，从零搭建了6自由度斗山（Doosan a0912/m1013）机械臂的仿真环境，支持自定义强化学习（RL）算法测试，可实现机械臂抓取随机位置绿色目标球的reach任务。项目已从老旧的ROS 2 Foxy+Gazebo Classic版本迁移至最新适配Ubuntu 24.04的技术栈。
 

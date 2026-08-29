@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/robot-descriptions/robot_descriptions.py>
 
-## 项目概述
-
 ## 项目介绍
 这是一个Python机器人描述资源库，可以一键获取190+款主流开源机器人的模型描述文件。支持通过Python模块导入机器人描述，首次导入时会自动下载并缓存文件，覆盖绝大多数收录在Awesome Robot Descriptions中的机器人模型。所有模型均可成功在MuJoCo(MJCF格式)、Pinocchio、iDynTree、PyBullet和yourdfpy(URDF格式)等主流机器人仿真/计算框架中加载。
 

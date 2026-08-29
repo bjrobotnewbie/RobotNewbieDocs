@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/RoboTwin-Platform/RMBench>
 - 项目主页: https://rmbench.github.io
 
-## 项目概述
-
 ## 项目介绍
 RMBench是一个基于RoboTwin的记忆依赖型机器人操作基准测试平台，用于研究依赖记忆的机器人操纵任务与策略设计，目前处于投稿审核阶段。项目提供了官方论文、官网与社区链接，团队已重新发布了重新训练的模型权重与数据集，托管于Hugging Face。
 

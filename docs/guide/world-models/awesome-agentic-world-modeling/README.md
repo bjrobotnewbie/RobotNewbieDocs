@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/matrix-agent/awesome-agentic-world-modeling>
 - 项目主页: <https://arxiv.org/abs/2604.22748>
 
-## 项目概述
-
 ## 项目介绍
 本项目是**Agentic World Modeling**领域的精选资源库，围绕论文《Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond》整理，收录了1000+相关研究论文与基准测试集，按主题分类并以倒序时间排列，数据可通过公开Notion数据库查看。项目附带官方网站、arXiv论文链接，曾登上Hugging Face每日TOP1论文，遵循MIT开源协议。
 

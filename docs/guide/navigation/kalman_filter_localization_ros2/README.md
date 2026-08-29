@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/rsasaki0109/kalman_filter_localization_ros2>
 
-## 项目概述
-
 ## 项目介绍
 这是一款面向ROS 2的GNSS/IMU/里程计融合定位工具，基于误差状态扩展卡尔曼滤波（Error-state EKF）实现，可估算载体的位置、速度、姿态以及IMU零偏，支持多传感器输入的组合定位。
 

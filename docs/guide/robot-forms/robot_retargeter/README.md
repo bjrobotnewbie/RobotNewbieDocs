@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/ccrpRepo/robot_retargeter>
 
-## 项目概述
-
 ## 项目介绍
 这是一个将SMPL-X人体动作或源机器人动作重定向到目标人形机器人的工具包，支持多机器人并排可视化。完整流程分为三个阶段：
 1.  重放/关键点提取：从SMPL-X的`.npz`文件或源机器人的`.csv`动作文件中提取骨骼关键点

@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/Livox-SDK/Livox-SDK2>
 
-## 项目概述
-
 ## 项目介绍
 Livox SDK2是面向HAP、Mid-360等全系列Livox激光雷达的软件开发套件，基于C/C++开发，遵循Livox SDK2通信协议，提供易用的C风格API，可快速连接Livox激光雷达并接收点云数据。套件包含核心代码、API接口和三个示例程序，同时开放用户程序与Livox产品间的通信协议。
 

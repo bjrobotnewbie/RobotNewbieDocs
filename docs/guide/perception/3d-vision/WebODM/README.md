@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/WebODM/WebODM>
 - 项目主页: <https://webodm.org/download>
 
-## 项目概述
-
 ## 项目介绍
 WebODM是一款易用的商业级航拍图像处理软件，可从航拍影像生成地理参考地图、点云、高程模型以及带纹理的3D模型。它现已脱离OpenDroneMap独立开发，官方安装包可免费下载，提供完整文档与技术支持。
 

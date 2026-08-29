@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/Roboparty/UFO>
 - 项目主页: <https://roboparty.github.io/UFO/>
 
-## 项目概述
-
 ## 项目介绍
 UFO是一个开源的无监督强化学习（RL）人形机器人控制框架，支持FB/TeCH训练、机器人适配的动作导入以及实机遥操作。当前`main`分支聚焦于MJLab训练、机器人感知的动作数据导入、跟踪/目标/奖励推理以及ONNX模型导出，目前适配最完善且测试最充分的机型是Unitree G1。
 该框架尽量将学习流程与机器人专属配置解耦，但新机器人适配仍处于实验阶段，需提供MuJoCo XML文件、可选匹配的URDF文件以及适配该机器人的RobotState格式动作数据。

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/ouster-lidar/ouster-sdk>
 - 项目主页: <https://ouster.com>
 
-## 项目概述
-
 ## 项目介绍
 本项目是Ouster激光雷达传感器的跨平台C++和Python开发SDK，用于连接、配置Ouster传感器，读取并可视化其点云数据。同时提供数据录制、回放工具，支持OSF格式传感器数据存储。
 项目包含多个核心模块：核心C++库、感知与建图算法库、PCAP处理库、OSF数据存储库、可自定义点云可视化工具，以及PyPI可安装的Python SDK包。

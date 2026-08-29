@@ -6,8 +6,6 @@ NVIDIA Alpamayo 1 Nano 是一款面向自动驾驶的开源 10 亿参数推理�
 
 - GitHub: <https://github.com/NVlabs/alpamayo>
 
-## 项目概述
-
 ## 项目介绍
 Alpamayo 1 Nano是NVIDIA推出的开源10B参数自动驾驶视觉语言推理模型（VLA），可将驾驶轨迹预测与因果链推理相结合。本仓库已停止活跃开发，仅接收有限维护更新，最新版本模型、教程、基准测试等资源已迁移至[alpamayo-recipes仓库](https://github.com/NVlabs/alpamayo-recipes)，建议用户迁移至新版本获取最新能力。
 

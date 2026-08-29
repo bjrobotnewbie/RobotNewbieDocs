@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/PetoiCamp/OpenCat-Quadruped-Robot>
 - 项目主页: https://www.petoi.com
 
-## 项目概述
-
 ## 项目介绍
 OpenCat是由Petoi开发的开源 quadruped机器人框架，基于Arduino和Raspberry Pi打造，可用于开发类似Boston Dynamics的四足机器人，适配Bittle机器狗和Nybble机器猫两大硬件平台。项目始于2016年，初衷是让敏捷四足机器人变得平价且易于改造，目前已在全球K12学校、高校实验室、创客空间及个人项目中广泛应用。当前在售硬件为Bittle X和Nybble Q，旧版硬件仍获代码库支持。
 

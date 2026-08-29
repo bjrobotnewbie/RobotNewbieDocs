@@ -6,8 +6,6 @@
 
 - GitHub: <https://github.com/SICKAG/sick_scan_xd>
 
-## 项目概述
-
 ## 项目介绍
 sick_scan_xd是一款通用的SICK LiDAR和RADAR设备驱动程序，支持Linux和Windows双平台。它可适配ROS 1（仅维护不再开发）、ROS 2（Linux/Windows）环境，同时提供无ROS依赖的原生C/C++和Python API，可用于机器人感知、SLAM建图等场景，兼容x64、ARM64架构（包括树莓派），且无需依赖boost等第三方库。
 

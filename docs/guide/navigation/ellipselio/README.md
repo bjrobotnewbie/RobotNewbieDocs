@@ -7,8 +7,6 @@ EllipseLIO 是一种具有椭圆表示的自适应激光雷达惯导方法。
 - GitHub: <https://github.com/v4rl-ucy/ellipselio>
 - 项目主页: <https://v4rl-ucy.github.io/ellipselio/>
 
-## 项目概述
-
 ## 项目介绍
 EllipseLIO是一款采用椭球表示的自适应LiDAR惯性里程计方案，基于ROS2开发，支持Linux系统，采用MIT开源协议。该项目可用于激光雷达与惯性测量单元融合的位姿估计，支持离线数据包回放和实时传感器数据输入，已在多个公开数据集上完成适配。
 

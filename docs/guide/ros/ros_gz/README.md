@@ -7,8 +7,6 @@ ROS (1 和 2) 与 Gazebo 仿真之间的集成
 - GitHub: <https://github.com/gazebosim/ros_gz>
 - 项目主页: <https://gazebosim.org>
 
-## 项目概述
-
 ## 项目介绍
 本项目是ROS（1和2）与Gazebo仿真的集成工具包，实现两者之间的通信桥接，支持将Gazebo仿真数据流转至ROS，或反向转发ROS指令到Gazebo仿真环境。可用于机器人仿真开发、SLAM算法验证、RL机器人训练等场景。
 

@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/ompl/ompl>
 - 项目主页: https://ompl.kavrakilab.org
 
-## 项目概述
-
 ## 项目介绍
 OMPL即Open Motion Planning Library，是一款开源的基于采样的运动规划库，主要用于机器人、自动驾驶等领域的路径规划任务，支持在SE(3)、欧几里得空间等20余种状态空间中完成规划。
 

@@ -7,8 +7,6 @@ LLM-as-a-Verifier 是一个通用框架，可为任何代理提供细粒度的�
 - GitHub: <https://github.com/llm-as-a-verifier/llm-as-a-verifier>
 - 项目主页: <https://llm-as-a-verifier.com/docs/>
 
-## 项目概述
-
 ## 项目介绍
 LLM-as-a-Verifier是一个通用验证框架，无需额外训练即可为任意智能体提供细粒度反馈。它在编码、机器人、医疗智能体等多个基准测试中达到SOTA性能，支持多模态场景，可用于测试时优化、进度追踪和强化学习（RL）。
 

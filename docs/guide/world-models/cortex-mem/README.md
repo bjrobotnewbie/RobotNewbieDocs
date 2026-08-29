@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/sopaco/cortex-mem>
 - 项目主页: https://sopaco.github.io/cortex.github.com/
 
-## 项目概述
-
 ## 项目介绍
 cortex-mem是一款基于Rust开发的AI原生内存框架，可用于构建具备上下文感知能力的智能应用，尤其适用于OpenClaw、具身AI等自主系统。它提供了完整的生产级长期内存系统，能让AI代理跨会话实现记忆、学习和个性化交互。框架内置了从记忆提取、搜索到自动优化的全流程内存管理能力，还自带SKILL、CLI、API、MCP以及可视化仪表盘。
 

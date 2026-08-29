@@ -6,8 +6,6 @@ ROS2 / FAST_LIO / PGO / 在线重定位 / 一致地图（使用 BA 或 HBA）
 
 - GitHub: <https://github.com/liangheming/FASTLIO2_ROS2>
 
-## 项目概述
-
 ## 项目介绍
 本项目是针对FASTLIO2的ROS2适配重构版本，在原FASTLIO基础上新增了回环检测、在线重定位和一致性地图优化功能，支持小场景BA优化和大场景HBA优化，可用于激光SLAM建图与定位任务。
 

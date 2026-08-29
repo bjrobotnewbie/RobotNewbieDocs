@@ -7,8 +7,6 @@
 - GitHub: <https://github.com/microsoft/AirSim>
 - 项目主页: https://microsoft.github.io/AirSim/
 
-## 项目概述
-
 ## 项目介绍
 AirSim是微软AI与研究团队推出的开源自动驾驶模拟器，基于Unreal Engine开发，同时提供实验性的Unity版本。它支持无人机、汽车等多种载具的仿真，可跨平台运行，能与PX4、ArduPilot等主流飞行控制器实现软件在环仿真，也支持PX4硬件在环仿真，提供物理和视觉效果逼真的模拟环境。该项目可作为Unreal插件快速集成到现有环境中，旨在为自动驾驶的深度学习、计算机视觉、强化学习（RL）等AI研究提供实验平台，还提供跨平台API用于获取数据和控制载具。
 
