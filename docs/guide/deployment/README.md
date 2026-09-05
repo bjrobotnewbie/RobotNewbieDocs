@@ -93,3 +93,5 @@
 - [RoboJuDo（适用于机器人的开箱即用部署框架。只需部署…）](/guide/deployment/RoboJuDo/README)
 
 - [EVA-CLIENT（EVA-Client：面向真实机器人部署…）](/guide/deployment/EVA-CLIENT/README)
+
+- [edgeai-for-beginners（本课程旨在引导初学者深入探索边缘 AI …）](/guide/deployment/edgeai-for-beginners/README)

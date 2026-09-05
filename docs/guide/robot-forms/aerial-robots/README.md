@@ -39,3 +39,5 @@
 - [awesome-drones（精选的 Awesome 无人机资源列表）](/guide/robot-forms/aerial-robots/awesome-drones/README)
 
 - [Peng（基于 Rust 的微型四旋翼自主框架（支…）](/guide/robot-forms/aerial-robots/Peng/README)
+
+- [DroneAware-Node-Releases（DroneAware Node 发布版本…）](/guide/robot-forms/aerial-robots/DroneAware-Node-Releases/README)

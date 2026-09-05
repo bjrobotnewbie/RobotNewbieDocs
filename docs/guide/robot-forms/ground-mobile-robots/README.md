@@ -65,3 +65,7 @@
 - [Venom（全地形自主四足机器人）](/guide/robot-forms/ground-mobile-robots/Venom/README)
 
 - [MindPaw（MindPaw —— 基于 ESP826…）](/guide/robot-forms/ground-mobile-robots/MindPaw/README)
+
+- [microduck（一个微型双足鸭机器人 🦆）](/guide/robot-forms/ground-mobile-robots/microduck/README)
+
+- [OpenCat-Old（可编程且高度机动的人形机器人，专为 ST…）](/guide/robot-forms/ground-mobile-robots/OpenCat-Old/README)

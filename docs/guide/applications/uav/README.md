@@ -33,6 +33,8 @@
 - [ardudeck（一个 GCS 统御一切。ArduPilo…）](/guide/applications/uav/ardudeck/README)
 - [NodeODM（轻量级 REST API，用于访问空中图…）](/guide/applications/uav/NodeODM/README)
 - [Kite-GC（Kite Ground Control（…）](/guide/applications/uav/Kite-GC/README)
+- [mmt（媒体管理工具 - 使从 GoPro 及其…）](/guide/applications/uav/mmt/README)
+- [QGISFMV（QGIS 全运动视频 (FMV)）](/guide/applications/uav/QGISFMV/README)
 ## 代表性项目
 - 大疆消费级/行业级无人机
 - 极飞农业无人机

@@ -20,6 +20,9 @@
 - [rosflight_firmware（ROSflight 自动飞控固件）](/guide/hardware/embedded-systems/rosflight_firmware/README)
 - [BLEnky（快速配置的低功耗 BLE 到 GPIO …）](/guide/hardware/embedded-systems/BLEnky/README)
 - [OpenExo（开源外骨骼）](/guide/hardware/embedded-systems/OpenExo/README)
+- [Tasmota（适用于基于ESP8266和ESP32设备…）](/guide/hardware/embedded-systems/Tasmota/README)
+- [WLED（通过ESP32基于WiFi控制WS281…）](/guide/hardware/embedded-systems/WLED/README)
+- [antsdr_dji_droneid（ANTSDR E200 DJI 无人机 …）](/guide/hardware/embedded-systems/antsdr_dji_droneid/README)
 ## 分类说明
 
 | 项目 | 主要内容 | 技能要点 |

@@ -11,3 +11,5 @@
 > GTSAM 已归入"概率与统计"分类（见 [概率与统计/gtsam](../probability-statistics/gtsam/README)），基于因子图与贝叶斯网络的平滑与建图库。
 
 - [g2o（g2o：一个用于图优化的通用框架）](/guide/math/optimization-theory/g2o/README)
+
+- [awesome-fm4co（关于组合优化的Foundation模型的…）](/guide/math/optimization-theory/awesome-fm4co/README)

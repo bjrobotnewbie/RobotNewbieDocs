@@ -191,3 +191,5 @@
 - [Heuristic_path_planners（包含类与函数集合，支持基于启发式算法（如…）](/guide/planning/motion-planning/Heuristic_path_planners/README)
 
 - [trajopt（ROS 轨迹优化运动规划器）](/guide/planning/motion-planning/trajopt/README)
+
+- [WAM-Flow（[CVPR 2026] WAM-Flow…）](/guide/planning/motion-planning/WAM-Flow/README)

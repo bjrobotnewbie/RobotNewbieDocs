@@ -138,6 +138,18 @@
 - [Leg-KILO（Leg-KILO：面向动态履带机器人的鲁…）](/guide/navigation/Leg-KILO/README)
 - [awesome-LiDAR-Visual-SLAM（LiDAR-视觉融合 SLAM 相关资源…）](/guide/navigation/awesome-LiDAR-Visual-SLAM/README)
 - [mast3r-slam](/guide/navigation/mast3r-slam/README)
+- [headway（由OpenStreetMap提供支持的可…）](/guide/navigation/headway/README)
+- [cuVSLAM（支持 CUDA 加速的视觉位姿估计与 S…）](/guide/navigation/cuVSLAM/README)
+- [faster-lio（Faster-LIO：基于并行稀疏增量体…）](/guide/navigation/faster-lio/README)
+- [RESPLE（基于激光测距里程计的六自由度基于样条的递…）](/guide/navigation/RESPLE/README)
+- [FastDEM（嵌入式移动机器人的实时 2.5D 高程映…）](/guide/navigation/FastDEM/README)
+- [VINS-RGBD-FAST（VINS-RGBD-FAST 是一个基于…）](/guide/navigation/VINS-RGBD-FAST/README)
+- [glass-lio（适用于 Livox 的透明激光雷达 - …）](/guide/navigation/glass-lio/README)
+- [se3-lio（SE(3)-LIO：基于 SE(3) 流…）](/guide/navigation/se3-lio/README)
+- [LeSTA（[RA-L '24] 基于移动机器人导航…）](/guide/navigation/LeSTA/README)
+- [small_point_lio（Point-LIO 算法的高级实现）](/guide/navigation/small_point_lio/README)
+- [neonavigation（适用于 ROS 的 2-D/3-DOF …）](/guide/navigation/neonavigation/README)
+- [NGD-SLAM（[IROS 2025] NGD-SLAM…）](/guide/navigation/NGD-SLAM/README)
 ## 与其他分类的区别
 
 | 目录 | 定位 | 主要特点 |

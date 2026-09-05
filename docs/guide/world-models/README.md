@@ -86,3 +86,4 @@
 - [LatentSpatialMemory（视频世界模型的潜在空间记忆）](/guide/world-models/LatentSpatialMemory/README)
 - [awesome-world-action-models](/guide/world-models/awesome-world-action-models/README)
 - [ForgeWM（使用 8 张 GPU 训练实时可玩的视频…）](/guide/world-models/ForgeWM/README)
+- [nano-world-model（一个极简、带电池仓的仓库，用于推动世界模…）](/guide/world-models/nano-world-model/README)

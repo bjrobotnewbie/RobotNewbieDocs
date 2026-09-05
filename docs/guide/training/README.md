@@ -103,3 +103,17 @@
 - [vla-evaluation-harness（任何 VLA 模型在任意机器人仿真基准上…）](/guide/training/vla-evaluation-harness/README)
 
 - [abc（ABC: 可扩展行为克隆，基于开源数据、…）](/guide/training/abc/README)
+
+- [Pearl（由Meta应用强化学习团队打造的生产可用…）](/guide/training/Pearl/README)
+
+- [amazon-sagemaker-examples（示例 📓 Jupyter笔记本，展示了如…）](/guide/training/amazon-sagemaker-examples/README)
+
+- [Awesome-Robot-Learning（本仓库包含一份关于机器人学习（主要聚焦于…）](/guide/training/Awesome-Robot-Learning/README)
+
+- [agent-sandbox（agent-sandbox 支持对隔离、…）](/guide/training/agent-sandbox/README)
+
+- [microduck_rl（Microduck（mjlab）的强化学…）](/guide/training/microduck_rl/README)
+
+- [Shimmy（PettingZoo 和 Gymnasi…）](/guide/training/Shimmy/README)
+
+- [ASPIRE（ASPIRE：机器人领域的代理/技能发现）](/guide/training/ASPIRE/README)

@@ -34,3 +34,8 @@
 - [myria3d（Myria3D：基于深度学习的空中激光雷…）](/guide/perception/3d-vision/myria3d/README)
 - [libpointmatcher（基于迭代最近点（ICP）算法的机器人 2…）](/guide/perception/3d-vision/libpointmatcher/README)
 - [Awesome-Global-Solvers-for-3D-Vision（3D 视觉领域全球求解器 curated…）](/guide/perception/3d-vision/Awesome-Global-Solvers-for-3D-Vision/README)
+- [limap（用于 3D 视觉定位、定位和 SfM 的…）](/guide/perception/3d-vision/limap/README)
+- [ABot-Recon（仅凭视频输入实现流式 3D 重建：回顾局…）](/guide/perception/3d-vision/ABot-Recon/README)
+- [GeoMVSNet（[CVPR 23] GeoMVSNet：…）](/guide/perception/3d-vision/GeoMVSNet/README)
+- [lidar_perception（一个包含地面滤波、聚类、最小盒、跟踪和状…）](/guide/perception/3d-vision/lidar_perception/README)
+- [POLI（[RSS 2026] 作为统计流形：点云…）](/guide/perception/3d-vision/POLI/README)

@@ -25,6 +25,7 @@
 - [pizero_bikecomputer（基于 Raspberry Pi Zero…）](/guide/hardware/projects/pizero_bikecomputer/README)
 - [SoftRF（:airplane: 多功能兼容 DIY…）](/guide/hardware/projects/SoftRF/README)
 - [stackchan-mcp（StackChan (xiaozhi-e…）](/guide/hardware/projects/stackchan-mcp/README)
+- [Sky-Spy（无人机遥测数据检测与建图）](/guide/hardware/projects/Sky-Spy/README)
 ## 分类说明
 
 | 项目类型 | 项目 | 特点 |

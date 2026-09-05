@@ -153,3 +153,5 @@
 - [OpenModelica（OpenModelica 是一个开源的基…）](/guide/simulation/OpenModelica/README)
 - [project_superdex（SuperDex 整合了专用的物理引擎、…）](/guide/simulation/project_superdex/README)
 - [PythonVehicleSimulator（Python 车辆模拟器是补充教科书《海…）](/guide/simulation/PythonVehicleSimulator/README)
+- [OpenTTD（OpenTTD 是一款基于 Transp…）](/guide/simulation/OpenTTD/README)
+- [omnisim（开源机器人模拟器：支持 HTTP/JSO…）](/guide/simulation/omnisim/README)

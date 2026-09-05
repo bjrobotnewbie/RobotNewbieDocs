@@ -72,3 +72,9 @@
 - [Vision-Language-Models-Overview（最前端集合与视觉 - 语言模型论文及模型…）](/guide/embodied-models/Vision-Language-Models-Overview/README)
 
 - [RoboClaw（RoboClaw 是一个具身人工智能助手…）](/guide/embodied-models/RoboClaw/README)
+
+- [Awesome-Embodied-AI-Safety（具身AI中的安全性：风险、攻击与防御综述…）](/guide/embodied-models/Awesome-Embodied-AI-Safety/README)
+
+- [VLX-Seek（VLX-Seek 是一款原生视觉语言模型…）](/guide/embodied-models/VLX-Seek/README)
+
+- [awesome-embodied-rsi（Embodied 递归自我改进（Embo…）](/guide/embodied-models/awesome-embodied-rsi/README)

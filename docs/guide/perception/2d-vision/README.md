@@ -23,3 +23,4 @@
 - [UAVDetectionTrackingBenchmark](/guide/perception/2d-vision/UAVDetectionTrackingBenchmark/README)
 - [YOLOv12-BoT-SORT-ReID（🔥 CVPR 2025 (纳什维尔，美国…）](/guide/perception/2d-vision/YOLOv12-BoT-SORT-ReID/README)
 - [SGLATrack（基于相似度的层自适应视觉Transfor…）](/guide/perception/2d-vision/SGLATrack/README)
+- [geo-clip（这是我们在 NeurIPS 2023 论…）](/guide/perception/2d-vision/geo-clip/README)

@@ -33,6 +33,9 @@
 - [TeleDex（手机远程操作机器人）](/guide/applications/TeleDex/README)
 - [aira（自主智能机器人代理（AIRA）项目实现了…）](/guide/applications/aira/README)
 - [lehome_solution（我的解决方案获得 LeHome 挑战赛第…）](/guide/applications/lehome_solution/README)
+- [joycon-robotics（Joycon-Robotics: 低成本…）](/guide/applications/joycon-robotics/README)
+- [workbench-mobile-home-robot（具有有限动作、可重放事件和失效闭验证的轮…）](/guide/applications/workbench-mobile-home-robot/README)
+- [UrbanGround（UrbanGround：从本地感知到城市…）](/guide/applications/UrbanGround/README)
 ## 分类说明
 
 | 分类 | 核心应用领域 | 技术特点 |

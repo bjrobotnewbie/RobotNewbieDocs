@@ -58,3 +58,15 @@
 - [labs-molt（面向研究用途的代理优先强化学习框架（90…）](/guide/training/llm-training/labs-molt/README)
 
 - [RAGEN（LLM 代理框架：基于 StarPO 的…）](/guide/training/llm-training/RAGEN/README)
+
+- [AReaL（用于基于LLM的智能体应用的RL Bri…）](/guide/training/llm-training/AReaL/README)
+
+- [hands-on-modern-rl（🚀 一门开源的实操课程，填补了从基础RL…）](/guide/training/llm-training/hands-on-modern-rl/README)
+
+- [AgentsMeetRL（精选Agentic RL资源列表）](/guide/training/llm-training/AgentsMeetRL/README)
+
+- [agent-lightning（绝对训练器，点亮 AI 智能体。）](/guide/training/llm-training/agent-lightning/README)
+
+- [vla-scratch](/guide/training/llm-training/vla-scratch/README)
+
+- [EasyWAM（EasyWAM: 一个统一且高效的框架用…）](/guide/training/llm-training/EasyWAM/README)

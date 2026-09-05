@@ -33,6 +33,9 @@
 - [PhysInOne（🔥 PhysInOne 在 Python…）](/guide/data/datasets/PhysInOne/README)
 - [open-h-embodiment（Open-H-Embodiment 是一…）](/guide/data/datasets/open-h-embodiment/README)
 - [AgriLiRa4D（AgriLiRa4D: 面向复杂农业环境…）](/guide/data/datasets/AgriLiRa4D/README)
+- [pointcloud（存储点云（激光雷达）数据的 Postgr…）](/guide/data/datasets/pointcloud/README)
+- [scribblekitti（Scribble-Supervised …）](/guide/data/datasets/scribblekitti/README)
+- [OpenPAV（Open-PAV 项目收集并组织来自商业…）](/guide/data/datasets/OpenPAV/README)
 ## 分类说明
 
 | 数据集 | 数据类型 | 应用场景 |
