@@ -13,6 +13,7 @@
 - [ouster-sdk（跨平台 C++ 和 Python SDK…）](/guide/hardware/sensors-actuators/ouster-sdk/README)
 - [Livox-SDK2（接收激光雷达数据并控制激光雷达的驱动程序…）](/guide/hardware/sensors-actuators/Livox-SDK2/README)
 - [invensense-imu（Arduino 与 CMake 库：用于…）](/guide/hardware/sensors-actuators/invensense-imu/README)
+- [products（超核电子产品资料）](/guide/hardware/sensors-actuators/products/README)
 ## 分类说明
 
 | 项目 | 主要内容 | 技能要点 |

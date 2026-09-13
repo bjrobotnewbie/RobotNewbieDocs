@@ -78,3 +78,9 @@
 - [VLX-Seek（VLX-Seek 是一款原生视觉语言模型…）](/guide/embodied-models/VLX-Seek/README)
 
 - [awesome-embodied-rsi（Embodied 递归自我改进（Embo…）](/guide/embodied-models/awesome-embodied-rsi/README)
+
+- [LocalAI（LocalAI 是开源 AI 引擎。可在…）](/guide/embodied-models/LocalAI/README)
+
+- [Embodied-AI-Daily（📚本仓库收集arxiv上与VLN、VLA…）](/guide/embodied-models/Embodied-AI-Daily/README)
+
+- [Omni-Interaction-Agent（开源端到端全向交互代理，支持自然全双工语…）](/guide/embodied-models/Omni-Interaction-Agent/README)

@@ -155,3 +155,7 @@
 - [PythonVehicleSimulator（Python 车辆模拟器是补充教科书《海…）](/guide/simulation/PythonVehicleSimulator/README)
 - [OpenTTD（OpenTTD 是一款基于 Transp…）](/guide/simulation/OpenTTD/README)
 - [omnisim（开源机器人模拟器：支持 HTTP/JSO…）](/guide/simulation/omnisim/README)
+- [oasis（🏝️ OASIS：百万级多智能体开放代理…）](/guide/simulation/oasis/README)
+- [SpartanEngine（一个完全无绑定、基于 GPU 渲染的游戏…）](/guide/simulation/SpartanEngine/README)
+- [bcr_bot（支持 ROS、ROS2、Gazebo、I…）](/guide/simulation/bcr_bot/README)
+- [WareTwin（实时 3D 自主仓储数字孪生——20 台…）](/guide/simulation/WareTwin/README)

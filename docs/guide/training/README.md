@@ -117,3 +117,11 @@
 - [Shimmy（PettingZoo 和 Gymnasi…）](/guide/training/Shimmy/README)
 
 - [ASPIRE（ASPIRE：机器人领域的代理/技能发现）](/guide/training/ASPIRE/README)
+
+- [android_env（基于Android设备的RL研究。）](/guide/training/android_env/README)
+
+- [skrl（模块化强化学习（RL）库（基于 PyTo…）](/guide/training/skrl/README)
+
+- [MADDPG_Multi_UAV_Roundup（基于 MADDPG 的多无人机目标聚合）](/guide/training/MADDPG_Multi_UAV_Roundup/README)
+
+- [ENPIRE（ENPIRE 是一个代理框架，它允许 A…）](/guide/training/ENPIRE/README)

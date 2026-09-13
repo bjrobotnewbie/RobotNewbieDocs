@@ -39,3 +39,6 @@
 - [GeoMVSNet（[CVPR 23] GeoMVSNet：…）](/guide/perception/3d-vision/GeoMVSNet/README)
 - [lidar_perception（一个包含地面滤波、聚类、最小盒、跟踪和状…）](/guide/perception/3d-vision/lidar_perception/README)
 - [POLI（[RSS 2026] 作为统计流形：点云…）](/guide/perception/3d-vision/POLI/README)
+- [CSF（基于织物模拟的激光雷达点云地面滤波/分割…）](/guide/perception/3d-vision/CSF/README)
+- [maplibre-gl-lidar（MapLibre 插件，用于可视化激光雷…）](/guide/perception/3d-vision/maplibre-gl-lidar/README)
+- [GaussianPretrain（GaussianPretrain 用于自…）](/guide/perception/3d-vision/GaussianPretrain/README)

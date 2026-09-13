@@ -51,3 +51,7 @@
 - [weightslab（专为处理杂乱、真实世界数据（图像、视频、…）](/guide/data/weightslab/README)
 
 - [UAVLogViewer（无人机日志文件在线查看器）](/guide/data/UAVLogViewer/README)
+
+- [data-juicer（面向基础模型以及与基础模型协同的数据处理…）](/guide/data/data-juicer/README)
+
+- [questdb（QuestDB 是一款高性能、开源的时间…）](/guide/data/questdb/README)

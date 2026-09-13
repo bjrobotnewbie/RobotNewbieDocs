@@ -26,6 +26,8 @@
 - [SoftRF（:airplane: 多功能兼容 DIY…）](/guide/hardware/projects/SoftRF/README)
 - [stackchan-mcp（StackChan (xiaozhi-e…）](/guide/hardware/projects/stackchan-mcp/README)
 - [Sky-Spy（无人机遥测数据检测与建图）](/guide/hardware/projects/Sky-Spy/README)
+- [VolAnti（开源声学无人机检测。它监听螺旋桨而非无线…）](/guide/hardware/projects/VolAnti/README)
+- [ESP32_FC（基于 ESP32 的无人机飞行控制器研发…）](/guide/hardware/projects/ESP32_FC/README)
 ## 分类说明
 
 | 项目类型 | 项目 | 特点 |

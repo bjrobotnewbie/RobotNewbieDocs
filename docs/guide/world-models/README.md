@@ -87,3 +87,8 @@
 - [awesome-world-action-models](/guide/world-models/awesome-world-action-models/README)
 - [ForgeWM（使用 8 张 GPU 训练实时可玩的视频…）](/guide/world-models/ForgeWM/README)
 - [nano-world-model（一个极简、带电池仓的仓库，用于推动世界模…）](/guide/world-models/nano-world-model/README)
+- [minWM（极简优雅框架与教程：实时交互式世界模型）](/guide/world-models/minWM/README)
+- [Evoke（EVOKE 官方实现：具有有限状态和长时…）](/guide/world-models/Evoke/README)
+- [WorldFoundry（统一的全球模型推理与评估基础设施）](/guide/world-models/WorldFoundry/README)
+- [TriWorldBench（一个评估三视图具身世界模型的基准测试）](/guide/world-models/TriWorldBench/README)
+- [infinite-world（一个开源系统，用于构建具有多模态 AI …）](/guide/world-models/infinite-world/README)

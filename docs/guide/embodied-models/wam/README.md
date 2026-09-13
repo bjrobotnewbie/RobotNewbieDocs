@@ -169,3 +169,5 @@ LingBot-VA: Causal video-action world model for generalist robot control, RSS 20
 - [flex-pi（Flex-π：一个多流世界 - 动作模型…）](/guide/embodied-models/wam/flex-pi/README)
 - [LiLa-WAM（LiLa-WAM: 轻量级潜在推理世界动…）](/guide/embodied-models/wam/LiLa-WAM/README)
 - [Zero-WAM（基于人类视频的上下文世界动作建模以支持开…）](/guide/embodied-models/wam/Zero-WAM/README)
+- [OpenWAM（OpenWAM：面向系统世界 - 动作模…）](/guide/embodied-models/wam/OpenWAM/README)
+- [WLA（[CoRL 2026] 统一世界建模、语…）](/guide/embodied-models/wam/WLA/README)

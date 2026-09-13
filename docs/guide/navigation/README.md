@@ -150,6 +150,12 @@
 - [small_point_lio（Point-LIO 算法的高级实现）](/guide/navigation/small_point_lio/README)
 - [neonavigation（适用于 ROS 的 2-D/3-DOF …）](/guide/navigation/neonavigation/README)
 - [NGD-SLAM（[IROS 2025] NGD-SLAM…）](/guide/navigation/NGD-SLAM/README)
+- [MBCompass（一款无广告、无应用内购买、无追踪的现代自…）](/guide/navigation/MBCompass/README)
+- [NavDP（[ICRA 2026] NavDP: 利…）](/guide/navigation/NavDP/README)
+- [Awesome-LiDAR-Mapping（论文集合：带有代码的 LiDAR 里程计…）](/guide/navigation/Awesome-LiDAR-Mapping/README)
+- [MASt3R-Fusion（基于前馈视觉模型与惯性测量单元（IMU）…）](/guide/navigation/MASt3R-Fusion/README)
+- [lidar_inertial_odometry（紧耦合激光 - 惯性里程计）](/guide/navigation/lidar_inertial_odometry/README)
+- [awesome-and-novel-works-in-slam（收集关于 SLAM 的新想法（涵盖语义、…）](/guide/navigation/awesome-and-novel-works-in-slam/README)
 ## 与其他分类的区别
 
 | 目录 | 定位 | 主要特点 |

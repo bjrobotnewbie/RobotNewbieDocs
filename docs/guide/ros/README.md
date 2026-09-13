@@ -218,3 +218,5 @@ ROS (Robot Operating System) 是机器人领域最常用的开源操作系统，
 - [robotics-agent-skills（使 AI 代码助手生成生产级机器人软件的…）](/guide/ros/robotics-agent-skills/README)
 
 - [ouster-ros（官方 ROS 驱动：Ouster 传感器…）](/guide/ros/ouster-ros/README)
+
+- [ros-sharp（ROS# 是一套基于 C# 的开源软件库…）](/guide/ros/ros-sharp/README)

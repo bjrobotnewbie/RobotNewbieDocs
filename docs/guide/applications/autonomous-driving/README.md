@@ -22,6 +22,8 @@
 - [openpilot（openpilot 是一款面向机器人领域…）](/guide/applications/autonomous-driving/openpilot/README)
 - [autoware（Autoware——全球领先的自动驾驶开…）](/guide/applications/autonomous-driving/autoware/README)
 - [waze-voicepack-links（由社区维护的经典与自定义Waze GPS…）](/guide/applications/autonomous-driving/waze-voicepack-links/README)
+- [mapbox-navigation-android（Mapbox 导航 SDK 用于 And…）](/guide/applications/autonomous-driving/mapbox-navigation-android/README)
+- [unidrivevla（UniDriveVLA：融合理解、感知与…）](/guide/applications/autonomous-driving/unidrivevla/README)
 ## 常用机器人形态
 
 | 形态分类 | 适用场景 | 链接 |

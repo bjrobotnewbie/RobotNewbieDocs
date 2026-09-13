@@ -35,6 +35,7 @@
 - [Kite-GC（Kite Ground Control（…）](/guide/applications/uav/Kite-GC/README)
 - [mmt（媒体管理工具 - 使从 GoPro 及其…）](/guide/applications/uav/mmt/README)
 - [QGISFMV（QGIS 全运动视频 (FMV)）](/guide/applications/uav/QGISFMV/README)
+- [RemoteIDReceiver（基于远程标识（Remote ID）技术的…）](/guide/applications/uav/RemoteIDReceiver/README)
 ## 代表性项目
 - 大疆消费级/行业级无人机
 - 极飞农业无人机

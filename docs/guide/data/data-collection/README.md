@@ -49,3 +49,5 @@
 - [lerobot-rgb-rgbd-vla-dataset-toolkit（用于收集、合并、审计、可视化和发布 RG…）](/guide/data/data-collection/lerobot-rgb-rgbd-vla-dataset-toolkit/README)
 
 - [Loop-Engineering-for-VLA（RGB/RGB-D LeRobot VL…）](/guide/data/data-collection/Loop-Engineering-for-VLA/README)
+
+- [Phyzical_org（基于 Web 的具身智能操作数据——el…）](/guide/data/data-collection/Phyzical_org/README)
