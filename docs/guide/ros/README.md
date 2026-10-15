@@ -4,8 +4,6 @@ ROS (Robot Operating System) 是机器人领域最常用的开源操作系统，
 
 ## ROS 核心与文档
 
-- [ROS 1](/guide/ros/ros1/README) - 传统机器人操作系统
-- [ROS 2](/guide/ros/ros2/README) - 新一代机器人操作系统
 - [ROS 2 官方文档](/guide/ros/ros2_documentation/README) - ros2_documentation
 - [ROS 教程](/guide/ros/ros-tutorials/README) - 官方全套教程
 - [common_interfaces](/guide/ros/common_interfaces/README) - ROS 2 标准消息定义
