@@ -36,6 +36,8 @@
 - [pointcloud（存储点云（激光雷达）数据的 Postgr…）](/guide/data/datasets/pointcloud/README)
 - [scribblekitti（Scribble-Supervised …）](/guide/data/datasets/scribblekitti/README)
 - [OpenPAV（Open-PAV 项目收集并组织来自商业…）](/guide/data/datasets/OpenPAV/README)
+- [MoCapAct（多任务仿真人类控制数据集）](/guide/data/datasets/MoCapAct/README)
+- [DroneAudioDataset](/guide/data/datasets/DroneAudioDataset/README)
 ## 分类说明
 
 | 数据集 | 数据类型 | 应用场景 |

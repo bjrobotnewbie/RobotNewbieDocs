@@ -55,3 +55,11 @@
 - [data-juicer（面向基础模型以及与基础模型协同的数据处理…）](/guide/data/data-juicer/README)
 
 - [questdb（QuestDB 是一款高性能、开源的时间…）](/guide/data/questdb/README)
+
+- [xtreme1（Xtreme1 是一款集成的多模态数据标…）](/guide/data/xtreme1/README)
+
+- [OSM2World（将 OpenStreetMap 数据转换…）](/guide/data/OSM2World/README)
+
+- [autodistill（无标注图像推理（利用基础模型训练监督模型…）](/guide/data/autodistill/README)
+
+- [gta-v-data-dumps（GTA V 数据 dump 适用于模组开…）](/guide/data/gta-v-data-dumps/README)

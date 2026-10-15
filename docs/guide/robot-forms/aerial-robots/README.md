@@ -41,3 +41,11 @@
 - [Peng（基于 Rust 的微型四旋翼自主框架（支…）](/guide/robot-forms/aerial-robots/Peng/README)
 
 - [DroneAware-Node-Releases（DroneAware Node 发布版本…）](/guide/robot-forms/aerial-robots/DroneAware-Node-Releases/README)
+
+- [FlyDrones（果蝇连接组作为无人机驾驶员：摄像头 ->…）](/guide/robot-forms/aerial-robots/FlyDrones/README)
+
+- [TelloPy（DJI Tello 无人机控制器 Pyt…）](/guide/robot-forms/aerial-robots/TelloPy/README)
+
+- [pyDrone（01 微Python无人机（ESP32-…）](/guide/robot-forms/aerial-robots/pyDrone/README)
+
+- [POKRION-Speed-Drone（支持快速原型开发的开源高机动四旋翼飞行器…）](/guide/robot-forms/aerial-robots/POKRION-Speed-Drone/README)

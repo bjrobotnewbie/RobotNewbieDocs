@@ -171,3 +171,7 @@ LingBot-VA: Causal video-action world model for generalist robot control, RSS 20
 - [Zero-WAM（基于人类视频的上下文世界动作建模以支持开…）](/guide/embodied-models/wam/Zero-WAM/README)
 - [OpenWAM（OpenWAM：面向系统世界 - 动作模…）](/guide/embodied-models/wam/OpenWAM/README)
 - [WLA（[CoRL 2026] 统一世界建模、语…）](/guide/embodied-models/wam/WLA/README)
+- [flux-action（FLUX 3 动作模型：从 Black …）](/guide/embodied-models/wam/flux-action/README)
+- [FACT（[CoRL 2026] "FACT：面向…）](/guide/embodied-models/wam/FACT/README)
+- [EmbodiedSkills（RoboTwin 的模块化具身智能体运行…）](/guide/embodied-models/wam/EmbodiedSkills/README)
+- [UniWAM（UniWAM 官方代码：统一世界 - 动…）](/guide/embodied-models/wam/UniWAM/README)

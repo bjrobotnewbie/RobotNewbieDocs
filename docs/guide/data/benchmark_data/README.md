@@ -19,6 +19,9 @@
 - [hilti-trimble-slam-challenge-2026（基于地面计划先验的 360 度视觉 - …）](/guide/data/benchmark_data/hilti-trimble-slam-challenge-2026/README)
 - [M3DGR（M3DGR：面向地面机器人的多传感器、多…）](/guide/data/benchmark_data/M3DGR/README)
 - [Evo-SOTA.io（本网站用于收集 VLA 领域最先进（SO…）](/guide/data/benchmark_data/Evo-SOTA.io/README)
+- [lamaria（城市尺度视觉 - 惯性 SLAM 基准测…）](/guide/data/benchmark_data/lamaria/README)
+- [Benchmark（低空多视角观测条件下的无人机视觉定位基准）](/guide/data/benchmark_data/Benchmark/README)
+- [ACMMM25-UAV_ON](/guide/data/benchmark_data/ACMMM25-UAV_ON/README)
 ## 分类说明
 
 | 数据集 | 应用领域 | 特点 |

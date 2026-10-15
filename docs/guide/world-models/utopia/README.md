@@ -5,6 +5,7 @@
 ## 项目链接
 
 - GitHub: <https://github.com/deeplethe/utopia>
+- 中文文档: https://img.shields.io/badge/LANG-%E4%B8%AD%E6%96%87-DA3633?style=flat-square&labelColor=161B22
 
 ## 项目介绍
 Utopia是全球首个开源企业级世界模型，由DeepLethe团队打造，是一款被动学习且自主治理的知识工程基座。它将时间与本体论作为底层基础，可随新数据更新本体结构，记录自身认知变化过程，通过公理解决冲突，并能复现任意历史节点的世界认知状态。

@@ -5,6 +5,7 @@
 ## 项目链接
 
 - GitHub: <https://github.com/discoverse-dev/MuJoCo-LiDAR>
+- 中文文档: https://github.com/discoverse-dev/mujoco-lidar/blob/main/README_zh.md
 
 ## 项目介绍
 MuJoCo-LiDAR是一款基于MuJoCo的高性能激光雷达仿真工具，支持CPU、Taichi、JAX、Warp多种后端，可实现多种激光雷达模型仿真并兼容ROS1/ROS2集成，适用于机器人SLAM、强化学习（RL）等相关仿真研发场景。

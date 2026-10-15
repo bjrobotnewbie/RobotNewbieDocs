@@ -75,3 +75,17 @@
 - [tianracer（基于 NVIDIA 开发套件构建的tia…）](/guide/robot-forms/ground-mobile-robots/tianracer/README)
 
 - [Orion-Quadruped（🐕 Orion 是一款由 ROS2 驱动…）](/guide/robot-forms/ground-mobile-robots/Orion-Quadruped/README)
+
+- [awesome-microduck（Pollen Robotics / Hu…）](/guide/robot-forms/ground-mobile-robots/awesome-microduck/README)
+
+- [rig_omni（开源 ESP32-S3 机器人固件，支持…）](/guide/robot-forms/ground-mobile-robots/rig_omni/README)
+
+- [jumper（🦀 跳蟹 — 一种蟹式机器人。）](/guide/robot-forms/ground-mobile-robots/jumper/README)
+
+- [diffbot（DiffBot 是一款基于 ROS No…）](/guide/robot-forms/ground-mobile-robots/diffbot/README)
+
+- [php_parkour（[RSS 2026] 感知类人公园跑：通…）](/guide/robot-forms/ground-mobile-robots/php_parkour/README)
+
+- [hyperdog_ros2（HyperDog 是一款完全基于 ROS…）](/guide/robot-forms/ground-mobile-robots/hyperdog_ros2/README)
+
+- [RC_WheelLeg（关键词：ROBOCON、四足机器人、仿生…）](/guide/robot-forms/ground-mobile-robots/RC_WheelLeg/README)

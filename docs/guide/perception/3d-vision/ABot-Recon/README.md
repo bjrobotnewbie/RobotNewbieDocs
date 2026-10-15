@@ -6,6 +6,7 @@
 
 - GitHub: <https://github.com/amap-cvlab/ABot-Recon>
 - 项目主页: <https://amap-cvlab.github.io/ABot-Recon-html/>
+- 中文文档: https://github.com/amap-cvlab/abot-recon/blob/main/README_ZH.md
 
 ## 项目介绍
 ABot-Recon是一款仅通过视频输入即可实现长时序流式3D重建的工具，核心思路是通过固定12帧的局部上下文来完成重建，无需持久化的长程记忆模型。它通过缓存前序11帧的KV特征、预测当前帧点图、估算相邻相对位姿，最终通过位姿拼接恢复全局轨迹与点云，有效控制了长时序重建中的漂移问题。项目提供了在线Demo、预训练模型以及技术报告，支持快速体验与部署。

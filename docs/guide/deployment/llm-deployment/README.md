@@ -44,3 +44,9 @@
 - [Crane（基于纯 Rust 的 LLM、VLM、V…）](/guide/deployment/llm-deployment/Crane/README)
 
 - [RoboECC（论文《RoboECC：面向 VLA 模型…）](/guide/deployment/llm-deployment/RoboECC/README)
+
+- [Mooncake（Mooncake 是 Kimi 的服务部…）](/guide/deployment/llm-deployment/Mooncake/README)
+
+- [realtime-vla（以 30Hz 帧率和 480Hz 轨迹频…）](/guide/deployment/llm-deployment/realtime-vla/README)
+
+- [RadixQuantVLA（RadixQuantVLA 是一个统一且…）](/guide/deployment/llm-deployment/RadixQuantVLA/README)

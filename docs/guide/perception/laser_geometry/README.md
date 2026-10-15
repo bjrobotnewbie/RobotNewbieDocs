@@ -5,5 +5,3 @@
 ## 项目链接
 
 - GitHub: <https://github.com/ros-perception/laser_geometry>
-
-暂无法获取完整项目文档

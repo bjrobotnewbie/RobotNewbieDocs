@@ -6,6 +6,7 @@ XTuner 是 InternLM 生态中的大模型训练引擎，重点面向超大规模
 
 - GitHub: <https://github.com/InternLM/xtuner>
 - 项目主页: https://xtuner.readthedocs.io/zh-cn/latest/
+- 中文文档: https://github.com/internlm/xtuner/blob/main/README_zh-CN.md
 
 ## 项目概述
 

@@ -1,4 +1,5 @@
 # LeRobot
+- 中文文档: https://zihao-ai.feishu.cn/wiki/space/7589642043471924447
 
 ## 资源简介
 

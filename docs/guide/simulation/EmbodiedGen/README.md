@@ -1,6 +1,7 @@
 # EmbodiedGen
 
 - 项目链接：https://github.com/HorizonRobotics/EmbodiedGen
+- 中文文档：https://img.shields.io/badge/中文介绍-07C160?logo=wechat&logoColor=white
 - 项目主页：https://horizonrobotics.github.io/EmbodiedGen
 
 ## 项目概述

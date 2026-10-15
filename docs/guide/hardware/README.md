@@ -34,3 +34,7 @@
 - [mavp2p（灵活高效的 Mavlink 路由器）](/guide/hardware/mavp2p/README)
 
 - [gomavlib（Mavlink 库（2.0 和 1.0）…）](/guide/hardware/gomavlib/README)
+
+- [FanControl.Releases（这是 Fan Control 的发布仓库…）](/guide/hardware/FanControl.Releases/README)
+
+- [DankDroneDownloader（一款用 C# 编写的 DJI 无人机自定…）](/guide/hardware/DankDroneDownloader/README)

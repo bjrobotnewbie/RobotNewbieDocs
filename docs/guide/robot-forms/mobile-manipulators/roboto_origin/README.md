@@ -1,6 +1,7 @@
 # 萝博头_原型机——全开源手搓级人形机器人
 
 - 项目链接：https://github.com/Roboparty/roboto_origin
+- 中文文档：https://github.com/roboparty/roboto_origin/blob/main/README_cn.md
 
 ## 项目概述
 

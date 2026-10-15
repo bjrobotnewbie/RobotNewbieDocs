@@ -1,4 +1,5 @@
 # kornia
+- 中文文档: https://github.com/kornia/kornia/blob/main/README_zh-CN.md
 - GitHub仓库: https://github.com/kornia/kornia
 - 项目主页: https://kornia.readthedocs.io
 

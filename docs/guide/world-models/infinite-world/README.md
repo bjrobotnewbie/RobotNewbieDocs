@@ -5,6 +5,7 @@
 ## 项目链接
 
 - GitHub: <https://github.com/BuzzPlay/infinite-world>
+- 中文文档: https://github.com/buzzplay/infinite-world/blob/main/README.zh-CN.md
 
 ## 项目介绍
 Infinite World 是一款开源的多模态AI持久化世界构建系统，可打造持续进化的交互式世界。它通过多模态理解、世界模拟和交互的闭环流程，实现对世界的认知、状态模拟与实时交互，并可记录场景、选择分支与状态变化。

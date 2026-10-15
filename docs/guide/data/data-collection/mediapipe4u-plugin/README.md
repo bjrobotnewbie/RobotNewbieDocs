@@ -1,4 +1,5 @@
 # Mediapipe4u-plugin - MediaPipe 动作捕捉插件
+- 中文文档: https://github.com/endink/mediapipe4u-plugin/blob/main/README_CN.md
 
 ## 项目简介
 

@@ -84,3 +84,19 @@
 - [Embodied-AI-Daily（📚本仓库收集arxiv上与VLN、VLA…）](/guide/embodied-models/Embodied-AI-Daily/README)
 
 - [Omni-Interaction-Agent（开源端到端全向交互代理，支持自然全双工语…）](/guide/embodied-models/Omni-Interaction-Agent/README)
+
+- [Foundation-Models-Framework-Lab（一个用于基于Apple Foundati…）](/guide/embodied-models/Foundation-Models-Framework-Lab/README)
+
+- [Awesome-Robot-Use-Agent（机器人使用代理的精选论文、研究博客、开源…）](/guide/embodied-models/Awesome-Robot-Use-Agent/README)
+
+- [Awesome-RL-for-LRMs（大推理模型的强化学习综述）](/guide/embodied-models/Awesome-RL-for-LRMs/README)
+
+- [Embodied-AI-Guide（[Lumina 具身智能社区] 具身智能…）](/guide/embodied-models/Embodied-AI-Guide/README)
+
+- [Awesome-Foundation-Models（用于视觉和语言任务的精选基础模型列表）](/guide/embodied-models/Awesome-Foundation-Models/README)
+
+- [cs249r_book（机器学习系统：基础、扩展、代理式 AI …）](/guide/embodied-models/cs249r_book/README)
+
+- [Semantic-Framework（InsightOS Semantic 是…）](/guide/embodied-models/Semantic-Framework/README)
+
+- [awesome-coding-agents-for-robot-learning（机器人学习的编码代理研究地图）](/guide/embodied-models/awesome-coding-agents-for-robot-learning/README)

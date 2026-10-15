@@ -42,3 +42,8 @@
 - [CSF（基于织物模拟的激光雷达点云地面滤波/分割…）](/guide/perception/3d-vision/CSF/README)
 - [maplibre-gl-lidar（MapLibre 插件，用于可视化激光雷…）](/guide/perception/3d-vision/maplibre-gl-lidar/README)
 - [GaussianPretrain（GaussianPretrain 用于自…）](/guide/perception/3d-vision/GaussianPretrain/README)
+- [representations4d（4D 空间与时序视觉任务的基础模型。）](/guide/perception/3d-vision/representations4d/README)
+- [awesome-lidar（😎 awesome LIDAR 列表。该…）](/guide/perception/3d-vision/awesome-lidar/README)
+- [urbanomnidetect（一种无需标定即可泛化于 ego-车辆、基…）](/guide/perception/3d-vision/urbanomnidetect/README)
+- [Lidar-object-clustering-AND-ground-remove（激光雷达障碍物检测与聚类，参考论文：Ef…）](/guide/perception/3d-vision/Lidar-object-clustering-AND-ground-remove/README)
+- [Interactive4D（[ICRA 2025] Interact…）](/guide/perception/3d-vision/Interactive4D/README)

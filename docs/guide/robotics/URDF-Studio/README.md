@@ -1,6 +1,7 @@
 # URDF-Studio
 
 - 项目链接：https://github.com/OpenLegged/URDF-Studio
+- 中文文档：https://github.com/openlegged/urdf-studio/blob/main/README_CN.md
 - 项目主页：https://urdf.d-robotics.cc/
 
 ## 项目概述

@@ -6,5 +6,3 @@ OrbbecSDK ROS2 封装
 
 - GitHub: <https://github.com/orbbec/OrbbecSDK_ROS2>
 - 项目主页: <https://orbbec.github.io/OrbbecSDK_ROS2/>
-
-暂无法获取完整项目文档

@@ -95,3 +95,7 @@
 - [EVA-CLIENT（EVA-Client：面向真实机器人部署…）](/guide/deployment/EVA-CLIENT/README)
 
 - [edgeai-for-beginners（本课程旨在引导初学者深入探索边缘 AI …）](/guide/deployment/edgeai-for-beginners/README)
+
+- [XPolicyLab（[第 26 届 IROS 尺度基础设施研…）](/guide/deployment/XPolicyLab/README)
+
+- [lerobot_android（使用 Android 手机作为 LeRo…）](/guide/deployment/lerobot_android/README)

@@ -23,6 +23,10 @@
 - [scikit-robot（一个用于机器人可视化与编程的Python…）](/guide/robotics/scikit-robot/README)
 - [robotics（基于笔记的书籍《机器人学感知导论》，作者…）](/guide/robotics/robotics/README)
 - [robotics-coursework（🤖 机器人学习在线平台 🤖）](/guide/robotics/robotics-coursework/README)
+- [Robotics_Tutorial（系统化的机器人教学文档，涵盖数学基础、C…）](/guide/robotics/Robotics_Tutorial/README)
+- [awesome-robotics-libraries（:sunglasses: 精心整理的机器…）](/guide/robotics/awesome-robotics-libraries/README)
+- [robotics-toolbox-matlab（MATLAB 机器人工具箱）](/guide/robotics/robotics-toolbox-matlab/README)
+- [kinpy（机器人领域简单运动学计算工具集）](/guide/robotics/kinpy/README)
 ## 算法与工具库
 
 - [PythonRobotics（机器人学算法库）](/guide/robotics/PythonRobotics/README)

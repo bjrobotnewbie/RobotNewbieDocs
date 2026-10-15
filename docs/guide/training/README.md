@@ -125,3 +125,25 @@
 - [MADDPG_Multi_UAV_Roundup（基于 MADDPG 的多无人机目标聚合）](/guide/training/MADDPG_Multi_UAV_Roundup/README)
 
 - [ENPIRE（ENPIRE 是一个代理框架，它允许 A…）](/guide/training/ENPIRE/README)
+
+- [bindsnet（使用 PyTorch 模拟脉冲神经网络（…）](/guide/training/bindsnet/README)
+
+- [deep-rl-class（本仓库包含 Hugging Face 深…）](/guide/training/deep-rl-class/README)
+
+- [rl-tools（深度学习最快的库）](/guide/training/rl-tools/README)
+
+- [orcs（训练特权型人形控制器的工具集）](/guide/training/orcs/README)
+
+- [PARL（高性能分布式强化学习训练框架）](/guide/training/PARL/README)
+
+- [sample-factory（高吞吐量同步与异步强化学习）](/guide/training/sample-factory/README)
+
+- [linesight（AI 在 Trackmania 中运用强…）](/guide/training/linesight/README)
+
+- [RLark（跨集群具身智能云原生平台。使用 Kube…）](/guide/training/RLark/README)
+
+- [RoboRSI（带有命令行界面和本地 Web 控制台的机…）](/guide/training/RoboRSI/README)
+
+- [awesome-model-based-RL（精选基于模型的强化学习资源列表（持续更新…）](/guide/training/awesome-model-based-RL/README)
+
+- [SimpleNav（SimpleNav: 一个简单、统一、可…）](/guide/training/SimpleNav/README)

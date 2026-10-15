@@ -5,6 +5,7 @@
 ## 项目链接
 
 - GitHub: <https://github.com/Quchaosheng/workbench-mobile-home-robot>
+- 中文文档: https://github.com/quchaosheng/workbench-mobile-home-robot/blob/main/README.zh-CN.md
 
 ## 项目介绍
 本项目是一款轮式家用移动机器人的证据优先运行时框架，主打**先验证再完成任务**的开发理念。它支持有限动作集、可回放事件流，并能通过验证器输出`confirmed`、`refuted`或`insufficient evidence`三种验证结果，避免将“指令已接收”等同于“任务已完成”。

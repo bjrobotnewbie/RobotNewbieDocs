@@ -70,3 +70,17 @@
 - [vla-scratch](/guide/training/llm-training/vla-scratch/README)
 
 - [EasyWAM（EasyWAM: 一个统一且高效的框架用…）](/guide/training/llm-training/EasyWAM/README)
+
+- [reef（持续学习基础设施：自改进智能体）](/guide/training/llm-training/reef/README)
+
+- [LlamaFactory（100+大语言模型与视觉语言模型的统一高…）](/guide/training/llm-training/LlamaFactory/README)
+
+- [notebooks（250+ 面向文本、视觉、音频、嵌入、T…）](/guide/training/llm-training/notebooks/README)
+
+- [rlhf-book（基于人类反馈的强化学习教科书）](/guide/training/llm-training/rlhf-book/README)
+
+- [TextWorld（TextWorld 是一个用于训练和评估…）](/guide/training/llm-training/TextWorld/README)
+
+- [stable-pretraining（可靠、精简且可扩展的预训练基础模型与世界…）](/guide/training/llm-training/stable-pretraining/README)
+
+- [oumi（轻松微调（SFT/RL）、评估并部署 Q…）](/guide/training/llm-training/oumi/README)

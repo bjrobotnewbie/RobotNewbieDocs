@@ -6,6 +6,7 @@
 
 - GitHub: <https://github.com/physiclaw/PhysiClaw>
 - 项目主页: <https://physiclaw.ai>
+- 中文文档: https://docs.physiclaw.ai/zh/
 
 ## 项目介绍
 PhysiClaw是一款实体AI代理，可通过摄像头读取手机屏幕、触控笔模拟人手操作手机，无需在手机上安装任何软件、无需API/ADB/OAuth，仅需解锁手机放置即可工作。

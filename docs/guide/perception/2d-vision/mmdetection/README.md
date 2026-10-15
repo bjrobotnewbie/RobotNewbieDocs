@@ -6,6 +6,7 @@ MMDetection是由国内开源团队OpenMMLab开发的开源计算机视觉检测
 ## 项目链接
 - 官方网站: https://mmdetection.readthedocs.io/
 - GitHub仓库: https://github.com/open-mmlab/mmdetection
+- 中文文档: https://github.com/open-mmlab/mmdetection/blob/main/README_zh-CN.md
 
 ## 主要特性
 - 支持多种先进的目标检测和分割算法

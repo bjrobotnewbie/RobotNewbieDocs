@@ -1,4 +1,5 @@
 # WoVR
+- 中文文档: https://img.shields.io/badge/语言-简体中文-red.svg
 WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL, arXiv 2026.
 
 ## 核心特性

@@ -51,3 +51,9 @@
 - [Loop-Engineering-for-VLA（RGB/RGB-D LeRobot VL…）](/guide/data/data-collection/Loop-Engineering-for-VLA/README)
 
 - [Phyzical_org（基于 Web 的具身智能操作数据——el…）](/guide/data/data-collection/Phyzical_org/README)
+
+- [kapture（kapture 不仅是一个文件格式，还是…）](/guide/data/data-collection/kapture/README)
+
+- [IsaacCapture（机器人遥操作的统一框架）](/guide/data/data-collection/IsaacCapture/README)
+
+- [TWIST2（[arXiv 2025] TWIST2：…）](/guide/data/data-collection/TWIST2/README)

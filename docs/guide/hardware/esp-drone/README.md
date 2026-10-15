@@ -1,4 +1,5 @@
 # ESP-Drone
+- 中文文档: https://github.com/espressif/esp-drone/blob/main/README_cn.md
 - GitHub仓库: https://github.com/espressif/esp-drone
 
 ## 项目概述

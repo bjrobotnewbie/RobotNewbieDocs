@@ -50,3 +50,7 @@ Cosmos 3 在多项基准测试中排名第一：
 - [flashdreams（高性能推理与服务库，用于交互式自回归视频…）](/guide/world-models/nvidia-cosmos/flashdreams/README)
 
 - [StarWAM（适用于世界 - 动作模型的通用代码库）](/guide/world-models/nvidia-cosmos/StarWAM/README)
+
+- [object-permanence（世界模型中的对象持久性训练代码库）](/guide/world-models/nvidia-cosmos/object-permanence/README)
+
+- [LongLive（长视频生成/世界模型/世界动作模型（具身…）](/guide/world-models/nvidia-cosmos/LongLive/README)

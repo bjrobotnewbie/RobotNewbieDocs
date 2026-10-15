@@ -238,3 +238,5 @@ AutoGen 是微软开发的多智能体框架，通过多个专业化智能体的
 - [open_spiel](/guide/planning/open_spiel/README) - DeepMind 博弈强化学习研究框架，含搜索规划算法
 
 - [isaac_mission_dispatch（适用于 VDA5050 的云端服务，用于…）](/guide/planning/task-planning/isaac_mission_dispatch/README)
+
+- [Xplanner（X-Planner：具身智能事件结构化任…）](/guide/planning/task-planning/Xplanner/README)

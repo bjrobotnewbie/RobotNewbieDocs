@@ -6,6 +6,7 @@ EasyWAM: 一个统一且高效的框架用于训练和评估世界动作模型�
 
 - GitHub: <https://github.com/OpenMOSS/EasyWAM>
 - 项目主页: <http://openmoss.ai/EasyWAM/>
+- 中文文档: https://github.com/openmoss/easywam/blob/main/docs/blogs/blog01_arch_zh.md
 
 ## 项目介绍
 EasyWAM是一款用于训练和评估World Action Models（世界动作模型）的统一高效研究代码库，旨在让WAM开发更高效、可复现且易于扩展。它通过统一的工作流串联起模型实现、数据处理、分布式训练、参数高效微调与大规模评估全流程。

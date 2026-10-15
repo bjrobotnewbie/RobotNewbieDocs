@@ -1,6 +1,6 @@
 # dive-into-embodied-ai
 
-Build an embodied intelligent robot from scratch: Engineering implementation of intelligent decision-making methods including RL, World Model, VLA, covering skill tree modules such as simulation environment, controller, motion planning and perception system, and running through the complete "decision-making - control - perception" pipeline in real projects.
+从零构建具身智能机器人：涵盖强化学习、World Model、VLA 等智能决策方法的工程落地，覆盖仿真环境、控制器、运动规划与感知系统等技能树模块，在真实项目中跑通"决策—控制—感知"完整链路。
 
 ## 项目链接
 

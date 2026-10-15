@@ -36,6 +36,10 @@
 - [joycon-robotics（Joycon-Robotics: 低成本…）](/guide/applications/joycon-robotics/README)
 - [workbench-mobile-home-robot（具有有限动作、可重放事件和失效闭验证的轮…）](/guide/applications/workbench-mobile-home-robot/README)
 - [UrbanGround（UrbanGround：从本地感知到城市…）](/guide/applications/UrbanGround/README)
+- [Hstar（[CVPR 2026] 360°思维：野…）](/guide/applications/Hstar/README)
+- [piper-dual-arm-smolvla-towel-folding（SmolVLA（SmolVLM2-500…）](/guide/applications/piper-dual-arm-smolvla-towel-folding/README)
+- [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials（Synapsa Commons: 免费、…）](/guide/applications/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials/README)
+- [awesome-reliable-robotics（机器人研究，展示其在真实世界中的可靠性与…）](/guide/applications/awesome-reliable-robotics/README)
 ## 分类说明
 
 | 分类 | 核心应用领域 | 技术特点 |

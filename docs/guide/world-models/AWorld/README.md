@@ -6,6 +6,7 @@
 
 - GitHub: <https://github.com/inclusionAI/AWorld>
 - 项目主页: <https://www.aworldagents.com>
+- 中文文档: https://github.com/inclusionai/aworld/blob/main/README_zh.md
 
 ## 项目介绍
 AWorld是一款AI智能体编排框架，主打帮助领域专家将自身专业知识转化为可复用的智能体技能，解决通用AI存在的上下文壁垒问题。其核心理念为：只有让专家嵌入宝贵的领域知识，才能真正解锁AI的规模化能力，打造针对特定领域的可靠精准应用。用户可以通过该平台轻松搜索、理解、复现并改进创意，将专业知识转化为自动化的生产能力。

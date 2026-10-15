@@ -1,6 +1,7 @@
 # MetaClaw
 
 - 项目链接：https://github.com/aiming-lab/MetaClaw
+- 中文文档：https://github.com/aiming-lab/metaclaw/blob/main/assets/README_ZH.md
 - 项目主页：https://arxiv.org/abs/2603.17187
 
 ## 项目概述

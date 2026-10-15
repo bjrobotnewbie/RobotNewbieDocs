@@ -193,3 +193,15 @@
 - [trajopt（ROS 轨迹优化运动规划器）](/guide/planning/motion-planning/trajopt/README)
 
 - [WAM-Flow（[CVPR 2026] WAM-Flow…）](/guide/planning/motion-planning/WAM-Flow/README)
+
+- [rl4co（一个用于组合优化（CO）所有强化学习（R…）](/guide/planning/motion-planning/rl4co/README)
+
+- [gbplanner_ros（基于图的地下环境探索规划器）](/guide/planning/motion-planning/gbplanner_ros/README)
+
+- [three-pathfinding（基于 PatrolJS 的 three.…）](/guide/planning/motion-planning/three-pathfinding/README)
+
+- [UAV-Path-Planning（基于人工蜂群算法的无人航空器路径规划）](/guide/planning/motion-planning/UAV-Path-Planning/README)
+
+- [plainmp（快速运动规划，适用于 articulat…）](/guide/planning/motion-planning/plainmp/README)
+
+- [teb_local_planner（基于 Timed-Elastic-Ban…）](/guide/planning/motion-planning/teb_local_planner/README)

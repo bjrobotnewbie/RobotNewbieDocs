@@ -220,3 +220,11 @@ ROS (Robot Operating System) 是机器人领域最常用的开源操作系统，
 - [ouster-ros（官方 ROS 驱动：Ouster 传感器…）](/guide/ros/ouster-ros/README)
 
 - [ros-sharp（ROS# 是一套基于 C# 的开源软件库…）](/guide/ros/ros-sharp/README)
+
+- [nebula（ROS 2 通用 LiDAR 与雷达驱动…）](/guide/ros/nebula/README)
+
+- [pointcloud_to_laserscan（将 3D 点云转换为 2D 激光扫描。）](/guide/ros/pointcloud_to_laserscan/README)
+
+- [imu_pipeline（使用 tf 将 sensor_msgs/…）](/guide/ros/imu_pipeline/README)
+
+- [aruco_ros（Aruco 增强现实标记检测库的软件包及…）](/guide/ros/aruco_ros/README)

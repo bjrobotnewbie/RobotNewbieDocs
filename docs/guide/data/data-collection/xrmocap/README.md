@@ -1,4 +1,5 @@
 # XRMoCap - OpenXRLab 动作捕捉
+- 中文文档: https://github.com/openxrlab/xrmocap/blob/main/README_CN.md
 
 ## 项目简介
 

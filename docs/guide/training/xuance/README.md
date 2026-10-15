@@ -6,6 +6,7 @@ XuanCe 是一个统一的深度强化学习与多智能体强化学习算法库�
 
 - GitHub: <https://github.com/agi-brain/xuance>
 - 项目主页: https://xuance.org
+- 中文文档: https://cn.xuance.org
 
 ## 项目概述
 

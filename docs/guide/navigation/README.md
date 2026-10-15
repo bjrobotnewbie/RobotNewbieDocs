@@ -156,6 +156,19 @@
 - [MASt3R-Fusion（基于前馈视觉模型与惯性测量单元（IMU）…）](/guide/navigation/MASt3R-Fusion/README)
 - [lidar_inertial_odometry（紧耦合激光 - 惯性里程计）](/guide/navigation/lidar_inertial_odometry/README)
 - [awesome-and-novel-works-in-slam（收集关于 SLAM 的新想法（涵盖语义、…）](/guide/navigation/awesome-and-novel-works-in-slam/README)
+- [Vela（Android 地图与导航（地图 + 导…）](/guide/navigation/Vela/README)
+- [DPVO（深度特征视觉定位/SLAM）](/guide/navigation/DPVO/README)
+- [Air-IO（[IEEE RA-L] Air-IO: …）](/guide/navigation/Air-IO/README)
+- [Batch-LIO（基于批次的点线激光：每~1ms 批次的 …）](/guide/navigation/Batch-LIO/README)
+- [wave-go（WAVE-Go: Go2-W 世界模型动…）](/guide/navigation/wave-go/README)
+- [open3d_slam（基于点云图的 SLAM 系统，使用 C+…）](/guide/navigation/open3d_slam/README)
+- [roman（[RSS 2025] ROMAN: 一种…）](/guide/navigation/roman/README)
+- [ELite（[ICRA 2025] ELite：即时…）](/guide/navigation/ELite/README)
+- [TIC-VLA（[ICML 2026] 思考 - 控制 …）](/guide/navigation/TIC-VLA/README)
+- [FMCW-LIO（FMCW-LIO：一种多普勒激光雷达 -…）](/guide/navigation/FMCW-LIO/README)
+- [imu_gps_localization（使用卡尔曼滤波融合IMU和GPS数据以实…）](/guide/navigation/imu_gps_localization/README)
+- [aruco_ekf_slam（基于 ArUco 的 EKF-SLAM）](/guide/navigation/aruco_ekf_slam/README)
+- [YOPO-Tracker（无人机端到端敏捷跟踪与导航方法）](/guide/navigation/YOPO-Tracker/README)
 ## 与其他分类的区别
 
 | 目录 | 定位 | 主要特点 |

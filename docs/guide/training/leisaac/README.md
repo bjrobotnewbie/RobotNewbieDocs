@@ -1,4 +1,5 @@
 # LeIsaac
+- 中文文档: https://zihao-ai.feishu.cn/wiki/space/7589642043471924447
 
 - [**原英文文档**](https://lightwheelai.github.io/leisaac/)
 
@@ -25,3 +26,9 @@ LeIsaac 在 [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html) 中
 - [basic-locomotion-isaaclab（适用于基本四足机器人任务的 IsaacL…）](/guide/training/leisaac/basic-locomotion-isaaclab/README)
 
 - [WBC-AGILE（人类 humanoid 局部 - 操作学…）](/guide/training/leisaac/WBC-AGILE/README)
+
+- [physical-ai-studio（物理 AI 工作室是一个端到端的框架，用…）](/guide/training/leisaac/physical-ai-studio/README)
+
+- [cyclotron（基于 Isaac Lab 构建的官方强化…）](/guide/training/leisaac/cyclotron/README)
+
+- [phosphobot（控制人工智能机器人。社区驱动的 UI 中…）](/guide/training/leisaac/phosphobot/README)

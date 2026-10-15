@@ -5,6 +5,7 @@
 ## 项目链接
 
 - GitHub: <https://github.com/tianbot/tianracer>
+- 中文文档: https://github.com/tianbot/tianracer/blob/master/README_CN.md
 
 ## 项目介绍
 Tianracer是基于NVIDIA开发套件打造的低成本自主AI赛车元套件，涵盖1:10到1:5尺寸的系列车型，采用闭环速度控制，可精准跟随输入指令。基础版最高时速3m/s，专业版可达10m/s。

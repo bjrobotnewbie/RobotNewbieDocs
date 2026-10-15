@@ -6,6 +6,7 @@ LoongForge 是百度百舸开源的高性能训练框架，覆盖 LLM、VLM、�
 
 - GitHub: <https://github.com/baidu-baige/LoongForge>
 - 项目主页: https://baidu-baige.github.io/LoongForge/
+- 中文文档: https://loongforge.readthedocs.io/zh-cn/latest/index.html
 
 ## 项目概述
 

@@ -6,5 +6,3 @@
 
 - GitHub: <https://github.com/umfieldrobotics/OceanSim>
 - 项目主页: <https://umfieldrobotics.github.io/OceanSim>
-
-暂无法获取完整项目文档

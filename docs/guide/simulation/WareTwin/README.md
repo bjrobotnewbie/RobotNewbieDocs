@@ -6,6 +6,7 @@
 
 - GitHub: <https://github.com/WayneChou-bot/WareTwin>
 - 项目主页: <https://ware-twin.vercel.app>
+- 中文文档: https://github.com/waynechou-bot/waretwin/blob/main/README.zh-TW.md
 
 ## 项目介绍
 WareTwin是一款浏览器原生的自主仓库3D数字孪生项目，可在真实部署前模拟机器人车队、运营事件、AI决策与假设场景。它支持20台自主移动机器人(AMR)的实时仿真，搭载确定性仿真引擎、可解释调度系统、VLM视觉感知与AI运维助手，技术栈为React Three Fiber + FastAPI，无需RTX显卡、ROS或云服务即可在集成GPU的笔记本上运行，还提供在线演示版本。

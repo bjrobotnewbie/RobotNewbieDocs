@@ -5,6 +5,7 @@ UavNetSim：一个基于 Python 的无人机组群通信协议设计与测试及
 ## 项目链接
 
 - GitHub: <https://github.com/Zihao-Felix-Zhou/UavNetSim>
+- 中文文档: https://github.com/zihao-felix-zhou/uavnetsim/blob/main/README_CHINESE.md
 
 ## 项目介绍
 UavNetSim是一款基于Python的无人机集群通信网络仿真平台，用于设计和测试无人机集群的通信协议与控制算法。平台可以对无人机网络的网络层、MAC层、物理层、无人机移动模型以及能量模型进行逼真且全面的建模，支持自定义开发协议以适配多样化应用需求。
