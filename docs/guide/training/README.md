@@ -149,7 +149,3 @@
 - [SimpleNav（SimpleNav: 一个简单、统一、可…）](/guide/training/SimpleNav/README)
 
 - [dreamforge（将世界模型想象转化为机器人策略的修正训练…）](/guide/training/dreamforge/README)
-
-- [easy-rl（强化学习中文教程（蘑菇书🍄），在线阅读地…）](/guide/training/easy-rl/README)
-
-- [Practical_RL（在真实世界中的强化学习课程）](/guide/training/Practical_RL/README)

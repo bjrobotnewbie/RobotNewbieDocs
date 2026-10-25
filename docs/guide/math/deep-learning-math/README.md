@@ -13,3 +13,7 @@
 - [Hands-On LLM 中文版](./hands-on-llm-cn/README)：大语言模型完整指南中文版
 
 - [pytorch_volumetric（在PyTorch中实现的体素、SDF等体…）](/guide/math/deep-learning-math/pytorch_volumetric/README)
+
+- [easy-rl（强化学习中文教程（蘑菇书🍄））](/guide/math/deep-learning-math/easy-rl/README)
+
+- [Practical_RL（在真实世界中的强化学习课程）](/guide/math/deep-learning-math/Practical_RL/README)
