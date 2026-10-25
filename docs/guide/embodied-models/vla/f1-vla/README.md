@@ -1,4 +1,7 @@
 # F1-VLA
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/f1-vla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions, arXiv 2025.
 
 ## 核心特性

@@ -22,6 +22,9 @@
 - [lamaria（城市尺度视觉 - 惯性 SLAM 基准测…）](/guide/data/benchmark_data/lamaria/README)
 - [Benchmark（低空多视角观测条件下的无人机视觉定位基准）](/guide/data/benchmark_data/Benchmark/README)
 - [ACMMM25-UAV_ON](/guide/data/benchmark_data/ACMMM25-UAV_ON/README)
+- [the_well（15TB 物理仿真数据集集合）](/guide/data/benchmark_data/the_well/README)
+- [Ground-Challenge（聚焦于边缘情况的多传感器 SLAM 数据…）](/guide/data/benchmark_data/Ground-Challenge/README)
+- [M2DGR-plus（M2DGR 扩展与更新：一种面向地面机器…）](/guide/data/benchmark_data/M2DGR-plus/README)
 ## 分类说明
 
 | 数据集 | 应用领域 | 特点 |

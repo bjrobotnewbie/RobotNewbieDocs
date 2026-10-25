@@ -1,5 +1,7 @@
 # sumo
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/sumo/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Eclipse SUMO 是一款开源、高度便携、微观且连续的交通仿真软件，专为处理大规模网络而设计。它支持多模态仿真，包括行人，并提供了一套完整的场景创建工具。
 
 ## 项目链接

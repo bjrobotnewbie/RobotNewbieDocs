@@ -1,5 +1,7 @@
 # open-h-embodiment
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/datasets/open-h-embodiment/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Open-H-Embodiment 是一个社区驱动的基准数据集项目，旨在构建开放、共享的基础设施，以训练和评估用于医疗机器人领域的通用视觉 - 语言 - 动作（VLA）模型。
 
 ## 项目链接

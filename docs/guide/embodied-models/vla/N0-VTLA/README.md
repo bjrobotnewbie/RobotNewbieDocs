@@ -1,5 +1,7 @@
 # N0-VTLA
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/N0-VTLA/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 N0-VTLA: 基于潜在触觉 Token 的视觉 - 触觉 - 语言 - 动作模型缩放
 
 ## 项目链接

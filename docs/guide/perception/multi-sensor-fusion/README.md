@@ -18,3 +18,5 @@
 - [Lidar_AI_Solution（一个展示激光雷达相关 AI 解决方案的项…）](/guide/perception/multi-sensor-fusion/Lidar_AI_Solution/README)
 - [RGBT-Perception-Papers（RGB-T 目标检测、语义分割与人群计数…）](/guide/perception/multi-sensor-fusion/RGBT-Perception-Papers/README)
 - [OpenVR-SpaceSync（使用 Follow SLAM HMD 模…）](/guide/perception/multi-sensor-fusion/OpenVR-SpaceSync/README)
+- [youtu-parsing（Youtu-Parsing: 通过高并行…）](/guide/perception/multi-sensor-fusion/youtu-parsing/README)
+- [DeepLiDAR（基于稀疏激光雷达数据和单色图像的室外场景…）](/guide/perception/multi-sensor-fusion/DeepLiDAR/README)

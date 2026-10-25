@@ -1,5 +1,7 @@
 # Universal_Robots_ROS_Driver
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/Universal_Robots_ROS_Driver/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 支持 CB3 和 e 系列机器人的 Universal Robots ROS 驱动程序
 
 ## 项目链接

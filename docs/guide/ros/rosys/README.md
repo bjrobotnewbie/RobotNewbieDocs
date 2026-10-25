@@ -1,5 +1,7 @@
 # rosys
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/rosys/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个基于Web技术的全Python机器人系统。其用途与ROS类似，但它基于NiceGUI开发，更易于用于移动机器人领域。
 
 ## 项目链接

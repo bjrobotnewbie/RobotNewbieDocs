@@ -1,5 +1,7 @@
 # cadence
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/cadence/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个从实时经验中学习的智能大脑。默认系统 1：感知、记忆、可塑性和行动。可选的系统 2 用于自我观察和缓慢修正。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # Awesome-Embodied-AI-Safety
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/Awesome-Embodied-AI-Safety/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 具身AI中的安全性：风险、攻击与防御综述 | 500+篇文献 | 感知、认知、规划、交互、智能体系统
 
 ## 项目链接

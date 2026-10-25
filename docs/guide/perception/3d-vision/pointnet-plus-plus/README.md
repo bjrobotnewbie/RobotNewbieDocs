@@ -1,5 +1,7 @@
 # PointNet++
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/pointnet-plus-plus/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 PointNet++是一个开源的点云深度学习框架，用于点云数据的分类、分割和检测任务，是PointNet的改进版本，解决了原始PointNet无法捕捉局部特征的问题，广泛应用于机器人3D感知领域。
 

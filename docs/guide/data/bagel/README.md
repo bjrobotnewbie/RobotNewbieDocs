@@ -1,5 +1,7 @@
 # bagel
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/bagel/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 与您的机器人、无人机和物联网数据对话——面向物理世界的ChatGPT。
 
 ## 项目链接

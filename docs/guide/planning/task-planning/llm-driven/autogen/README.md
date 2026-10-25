@@ -1,5 +1,7 @@
 # AutoGen (多智能体协作规划)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/llm-driven/autogen/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 AutoGen 是微软开发的多智能体框架，通过多个专业化智能体的分工协作来完成复杂任务。它提供了灵活的对话模式、代码执行能力、人类交互支持，是当前最成熟的多智能体协作框架之一。
 
 ## 简介

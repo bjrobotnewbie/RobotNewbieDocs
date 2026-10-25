@@ -1,5 +1,7 @@
 # yubi-hw
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/hardware/projects/yubi-hw/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 YUBI - Yielding Universal Bidigital Interface（自适应通用双数字接口）
 一款手指驱动遥操作手套与机器人夹爪的开源硬件设计，包含CAD、BOM和装配说明。
 

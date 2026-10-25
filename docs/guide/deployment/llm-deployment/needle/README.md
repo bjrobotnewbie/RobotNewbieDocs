@@ -1,5 +1,7 @@
 # needle
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/needle/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 适用于微型设备的基座模型；14MB 参数规模，1-6K tokens/秒的推理速度，支持移动设备、可穿戴设备、智能家居及机器人场景。
 
 ## 项目链接

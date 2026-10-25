@@ -1,5 +1,7 @@
 # LLM 驱动的任务规划
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/llm-driven/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 LLM 驱动的任务规划利用大语言模型的语义理解能力、常识知识和推理能力，直接从自然语言指令生成任务计划。这是当前机器人智能领域最活跃的研究方向之一，显著提升了机器人的泛化能力和人机交互体验。
 
 ## 分类总览

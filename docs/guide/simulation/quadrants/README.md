@@ -1,5 +1,7 @@
 # quadrants
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/quadrants/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Quadrants 是面向物理仿真和机器人负载的高性能多平台编译器，可将 Python 代码编译为并行 kernel。
 
 ## 项目链接

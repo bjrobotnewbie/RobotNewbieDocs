@@ -1,5 +1,7 @@
 # MoveIt 2
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/motion-planning/frameworks/moveit2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 MoveIt 2 是 MoveIt! 的 ROS 2 版本，针对现代机器人系统进行了全面优化，支持实时控制、多机器人协作和更灵活的架构设计。
 
 ## 简介

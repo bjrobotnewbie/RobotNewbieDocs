@@ -1,5 +1,7 @@
 # yahboom_rosmaster
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/yahboom_rosmaster/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Yahboom 为 ROSMASTER X3 移动机器人提供的自动避障支持（ROS 2）
 
 ## 项目链接

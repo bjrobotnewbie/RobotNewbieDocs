@@ -1,5 +1,7 @@
 # LMDeploy
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/lmdeploy/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 LMDeploy 是由 MMRazor 与 MMDeploy 团队研发，面向大语言模型与多模态模型的轻量化、高性能部署工具链，集模型量化、推理优化、服务部署于一体，助力开发者快速将模型落地到生产环境。
 
 ## 关键能力

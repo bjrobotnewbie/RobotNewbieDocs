@@ -1,5 +1,7 @@
 # rig_omni
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/rig_omni/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 开源 ESP32-S3 机器人固件，支持多种形态（Puppy 和 Hover）。功能包括语音 AI、EAF 情感动画、IMU 平衡控制、MCP 远程工具、OTA 更新以及 240×240 圆屏 LCD 显示。
 
 ## 项目链接

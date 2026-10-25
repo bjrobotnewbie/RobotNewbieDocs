@@ -89,3 +89,5 @@
 - [hyperdog_ros2（HyperDog 是一款完全基于 ROS…）](/guide/robot-forms/ground-mobile-robots/hyperdog_ros2/README)
 
 - [RC_WheelLeg（关键词：ROBOCON、四足机器人、仿生…）](/guide/robot-forms/ground-mobile-robots/RC_WheelLeg/README)
+
+- [mini_pupper（开源物理人工智能平台，连接 ROS 与 …）](/guide/robot-forms/ground-mobile-robots/mini_pupper/README)

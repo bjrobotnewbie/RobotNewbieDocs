@@ -1,5 +1,7 @@
 # batear
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/hardware/projects/batear/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ● 布特耳 — 超低成本的无源无人机声学检测器。边缘计算。用麦克风守护您的领空。
 
 ## 项目链接

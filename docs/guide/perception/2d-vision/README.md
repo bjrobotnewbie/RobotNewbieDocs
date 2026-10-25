@@ -26,3 +26,4 @@
 - [geo-clip（这是我们在 NeurIPS 2023 论…）](/guide/perception/2d-vision/geo-clip/README)
 - [OptiGeo（[CORL2026] 论文官方实现：《O…）](/guide/perception/2d-vision/OptiGeo/README)
 - [OneStreamer（OneStreamer: 统一流式视频交…）](/guide/perception/2d-vision/OneStreamer/README)
+- [DeCLIP（[CVPR 2025 / IEEE TP…）](/guide/perception/2d-vision/DeCLIP/README)

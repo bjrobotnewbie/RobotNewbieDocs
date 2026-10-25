@@ -1,5 +1,7 @@
 # ros2_medkit
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/ros2_medkit/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ros2_medkit - 用于ROS 2机器人的诊断网关。通过REST API实现故障获取、实时数据、操作、脚本、锁定、触发器和OTA更新。无需SSH，无需自定义工具。
 
 ## 项目链接

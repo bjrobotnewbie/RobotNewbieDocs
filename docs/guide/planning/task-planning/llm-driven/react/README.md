@@ -1,5 +1,7 @@
 # ReAct (Reasoning + Acting)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/llm-driven/react/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ReAct 是一种将推理和行动结合的范式，让大语言模型在解决任务时交替进行思考推理和执行动作，从而实现复杂任务的自主完成。它是 LLM Agent 最经典的架构之一，被广泛应用于各类智能体系统。
 
 ## 简介

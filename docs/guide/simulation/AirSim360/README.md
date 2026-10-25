@@ -1,5 +1,7 @@
 # AirSim360
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/AirSim360/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 AirSim360 是面向无人机视角的 360° 全景高保真仿真平台，基于 Unreal Engine 5 构建。
 
 ## 项目链接

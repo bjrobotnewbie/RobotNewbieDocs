@@ -47,3 +47,6 @@
 - [urbanomnidetect（一种无需标定即可泛化于 ego-车辆、基…）](/guide/perception/3d-vision/urbanomnidetect/README)
 - [Lidar-object-clustering-AND-ground-remove（激光雷达障碍物检测与聚类，参考论文：Ef…）](/guide/perception/3d-vision/Lidar-object-clustering-AND-ground-remove/README)
 - [Interactive4D（[ICRA 2025] Interact…）](/guide/perception/3d-vision/Interactive4D/README)
+- [lidar_obstacle_detector（基于 ROS 1/ROS 2 的实时 3…）](/guide/perception/3d-vision/lidar_obstacle_detector/README)
+- [segment-lidar（Meta AI 提供的 Python 包…）](/guide/perception/3d-vision/segment-lidar/README)
+- [OverlapTransformer（[RAL 与 ESI 高被引论文 🏆] …）](/guide/perception/3d-vision/OverlapTransformer/README)

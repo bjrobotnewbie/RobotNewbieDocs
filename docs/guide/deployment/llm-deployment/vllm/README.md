@@ -1,4 +1,7 @@
 # vLLM
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/vllm/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 项目概述
 vLLM 是面向大语言模型的开源高性能推理与服务框架，由加州大学伯克利分校团队发起开发，聚焦提升模型推理效率、降低显存占用与提升服务吞吐，广泛用于在线服务、离线批量推理、多模态与长文本场景。项目依托活跃社区持续迭代，提供完善文档、多硬件适配与生产级部署能力，可快速搭建高并发、低延迟的 LLM 服务。
 

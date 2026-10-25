@@ -1,5 +1,7 @@
 # awesome-physical-ai
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/awesome-physical-ai/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一份精心整理的物理人工智能（Physical AI）相关学术论文与资源列表——重点涵盖视觉-语言-动作（VLA）模型、世界模型、具身智能与机器人基础模型。
 
 ## 项目链接

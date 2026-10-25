@@ -1,5 +1,7 @@
 # NVIDIA Cosmos
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/nvidia-cosmos/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 - 官方文档：[NVIDIA Cosmos](https://docs.nvidia.com/cosmos/)
 
 **NVIDIA Cosmos™** 是英伟达专为**物理AI**打造的开发平台，核心组件包括：
@@ -54,3 +56,5 @@ Cosmos 3 在多项基准测试中排名第一：
 - [object-permanence（世界模型中的对象持久性训练代码库）](/guide/world-models/nvidia-cosmos/object-permanence/README)
 
 - [LongLive（长视频生成/世界模型/世界动作模型（具身…）](/guide/world-models/nvidia-cosmos/LongLive/README)
+
+- [cosmos-transfer1（Cosmos-Transfer1 是一个…）](/guide/world-models/nvidia-cosmos/cosmos-transfer1/README)

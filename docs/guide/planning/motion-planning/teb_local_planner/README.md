@@ -1,5 +1,7 @@
 # teb_local_planner
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/motion-planning/teb_local_planner/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于 Timed-Elastic-Bands（ROS 包）构建的移动机器人最优轨迹规划器，考虑独特的拓扑结构
 
 ## 项目链接

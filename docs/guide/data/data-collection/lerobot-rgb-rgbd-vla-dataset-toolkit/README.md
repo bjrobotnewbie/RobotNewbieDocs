@@ -1,5 +1,7 @@
 # lerobot-rgb-rgbd-vla-dataset-toolkit
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/lerobot-rgb-rgbd-vla-dataset-toolkit/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 用于收集、合并、审计、可视化和发布 RGB/RGB-D LeRobot VLA 数据集的工具集。
 
 ## 项目链接

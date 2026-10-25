@@ -1,5 +1,7 @@
 # rai
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/rai/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 RAI 是一个面向物理人工智能机器人的厂商无关智能体框架，它利用 ROS 2 工具执行复杂动作、已定义场景、自由接口执行、日志摘要、语音交互等功能。
 
 ## 项目链接

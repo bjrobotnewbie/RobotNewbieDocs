@@ -1,9 +1,11 @@
 # awesome-world-action-models
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/awesome-world-action-models/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 项目链接
 
 - GitHub: <https://github.com/world-action-models/awesome-world-action-models>
-
+- [ViGAR（重新思考世界 - 动作模型：组合与上下文…）](/guide/world-models/awesome-world-action-models/ViGAR/README)
 ## 项目介绍
 本项目是一份名为`World Action Models: A Survey`的综述资源列表，口号为"Dream Less, Act More"，由新加坡国立大学团队出品。该综述聚焦于世界模型与动作耦合的相关研究，定义当模型的预测未来被用于动作规划、评分、训练或校验时，即可归类为世界动作模型(WAM)。项目提供了官方主页和arXiv论文链接，同时开放了GitHub讨论区和微信交流社区供社区交流。
 

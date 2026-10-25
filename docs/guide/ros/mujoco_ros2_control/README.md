@@ -1,5 +1,7 @@
 # mujoco_ros2_control
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/mujoco_ros2_control/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 为 MuJoCo 物理模拟器提供了一个 ROS 2 控制硬件接口，包含适配各类传感器、RGB-D 相机和激光雷达的插件。
 
 ## 项目链接

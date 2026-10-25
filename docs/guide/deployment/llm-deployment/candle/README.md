@@ -1,5 +1,7 @@
 # Candle
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/candle/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 Candle 是由 Hugging Face 开源的 Rust 机器学习框架，依托 Rust 语言的特性打造高性能、轻量化的机器学习运行环境。框架语法风格参考 PyTorch，上手门槛低，同时彻底脱离 Python 运行时依赖，可编译为独立二进制程序，能够在服务端、边缘设备、浏览器等多种环境中完成模型推理与训练工作。
 

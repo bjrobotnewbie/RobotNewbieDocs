@@ -1,5 +1,7 @@
 # OpenCat-Quadruped-Robot
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/OpenCat-Quadruped-Robot/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个用于开发波士顿动力风格四足机器人的开源四足机器宠物框架，非常适合用于STEM、编程与机器人教育、IoT机器人应用、AI增强机器人应用服务、研究以及DIY机器人套件开发。
 
 ## 项目链接

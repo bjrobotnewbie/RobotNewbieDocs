@@ -1,5 +1,7 @@
 # yolov14
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/2d-vision/yolov14/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 YOLOv14：面向鱼眼、无人机、全景、游戏到现实及混合摄像头场景的跨域实时目标检测框架。本项目 YOLOv14 是一个面向跨域、跨视角和复杂成像环境的实时目标检测框架。不同于传统 YOLO 系列通常默认输入来自标准针孔相机，本项目面向鱼眼广角、无人机俯视、360°全景、游戏画面与真实图像混合等更复杂的视觉场景，构建了包含场景分析、自适应数据增强、域自适应、多视角特征注入、可变形注意力特征金字塔和自适应检测头的完整检测流程。
 
 ## 项目链接

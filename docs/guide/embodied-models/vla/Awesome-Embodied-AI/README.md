@@ -1,5 +1,7 @@
 # Awesome-Embodied-AI
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/Awesome-Embodied-AI/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 精选具身智能列表：涵盖综述、视觉 - 语言模型（VLA）、数据集、模拟器、人形机器人、机器人学习及安全资源。
 
 ## 项目链接

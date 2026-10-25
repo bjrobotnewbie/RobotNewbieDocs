@@ -100,3 +100,13 @@
 - [Semantic-Framework（InsightOS Semantic 是…）](/guide/embodied-models/Semantic-Framework/README)
 
 - [awesome-coding-agents-for-robot-learning（机器人学习的编码代理研究地图）](/guide/embodied-models/awesome-coding-agents-for-robot-learning/README)
+
+- [system1-agents（系统 1 决策模型（Jev、Laya、C…）](/guide/embodied-models/system1-agents/README)
+
+- [Spotter（官方代码库：让具身模型引领，让视觉语言模…）](/guide/embodied-models/Spotter/README)
+
+- [embodied-jev（EmbodiedJev：配备 MiniC…）](/guide/embodied-models/embodied-jev/README)
+
+- [GameScaling（游戏中的缩放：具身代理在多样化虚拟世界中…）](/guide/embodied-models/GameScaling/README)
+
+- [awesome-robots-icl（“机器人内语境学习：方法与应用”的配套仓…）](/guide/embodied-models/awesome-robots-icl/README)

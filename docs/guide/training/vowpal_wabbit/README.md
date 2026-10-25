@@ -1,5 +1,7 @@
 # vowpal_wabbit
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/vowpal_wabbit/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Vowpal Wabbit 是一个机器学习系统，利用在线、哈希、allreduce、归约、学习2搜索、主动学习和交互式学习等技术，推动机器学习的前沿。
 
 ## 项目链接

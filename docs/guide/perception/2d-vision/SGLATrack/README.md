@@ -1,5 +1,7 @@
 # SGLATrack
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/2d-vision/SGLATrack/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于相似度的层自适应视觉Transformer用于无人机跟踪（CVPR 2025）
 
 ## 项目链接

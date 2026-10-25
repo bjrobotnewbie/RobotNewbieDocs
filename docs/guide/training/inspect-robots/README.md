@@ -1,5 +1,7 @@
 # inspect-robots
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/inspect-robots/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 开源物理人工智能评估。在任意臂或人形机器人上运行任意大语言模型/视觉 - 语言模型，进行任意真实或仿真基准测试。
 
 ## 项目链接

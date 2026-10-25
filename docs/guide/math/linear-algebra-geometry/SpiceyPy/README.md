@@ -1,5 +1,7 @@
 # SpiceyPy
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/math/linear-algebra-geometry/SpiceyPy/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SpiceyPy：SPICE工具包的Python化封装库。
 
 ## 项目链接

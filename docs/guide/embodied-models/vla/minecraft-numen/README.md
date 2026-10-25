@@ -1,5 +1,7 @@
 # minecraft-numen
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/minecraft-numen/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Numen 是一个运行在 Minecraft 内部的具身智能体。它以模组的形式存在于游戏中，持续探索 Minecraft 世界，自主做出决策，并执行操作以完成任务。
 
 ## 项目链接

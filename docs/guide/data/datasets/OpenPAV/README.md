@@ -1,5 +1,7 @@
 # OpenPAV
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/datasets/OpenPAV/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Open-PAV 项目收集并组织来自商业自动驾驶车辆的各类数据，包括激光雷达、图像、视频和轨迹数据，并以统一向量格式存储。该工具提供经过校准的动力学模型（线性、IDM、Wiedemann-99 及基于机器学习的模型），并预配置参数，以支持仿真软件的高效研究与合作。
 
 ## 项目链接

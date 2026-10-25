@@ -1,5 +1,7 @@
 # FastDEM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/FastDEM/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 嵌入式移动机器人的实时 2.5D 高程映射引擎：基于 C++17 的核心，可选 ROS1/ROS2 支持
 
 ## 项目链接

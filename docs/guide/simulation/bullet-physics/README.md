@@ -1,5 +1,7 @@
 # Bullet Physics SDK
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/bullet-physics/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 Bullet Physics SDK是一个开源的物理引擎，支持刚体和柔体仿真、碰撞检测、运动学和动力学计算，广泛应用于机器人仿真、游戏开发和虚拟现实等领域。
 

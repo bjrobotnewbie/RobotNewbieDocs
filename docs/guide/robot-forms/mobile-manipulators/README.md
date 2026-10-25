@@ -47,3 +47,5 @@
 - [hei-rebot-lift（HEI ReBot Lift 是一款基于…）](/guide/robot-forms/mobile-manipulators/hei-rebot-lift/README)
 
 - [OpenHomie（开源代码："HOMIE：异构外骨骼驾驶舱…）](/guide/robot-forms/mobile-manipulators/OpenHomie/README)
+
+- [RP1（RP1: 一个开源全栈平台，用于代理型人…）](/guide/robot-forms/mobile-manipulators/RP1/README)

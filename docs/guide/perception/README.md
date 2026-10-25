@@ -38,3 +38,5 @@
 - [MPRGDeepLearningLectureNotebook](/guide/perception/MPRGDeepLearningLectureNotebook/README)
 
 - [awesome-touch-sun（面向机器人操纵的触觉感知研究资源精选列表…）](/guide/perception/awesome-touch-sun/README)
+
+- [ComfyUI_Sonic（Sonic 是一种关于“将焦点转向全身动…）](/guide/perception/ComfyUI_Sonic/README)

@@ -1,5 +1,7 @@
 # Tasmota
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/hardware/embedded-systems/Tasmota/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 适用于基于ESP8266和ESP32设备的替代固件，支持通过webUI轻松配置、OTA更新、基于定时器或规则的自动化，具备可扩展性，可通过MQTT、HTTP、串口或KNX实现完全本地控制。完整文档位于：
 
 ## 项目链接

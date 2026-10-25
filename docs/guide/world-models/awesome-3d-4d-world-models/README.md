@@ -1,5 +1,7 @@
 # awesome-3d-4d-world-models
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/awesome-3d-4d-world-models/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 - 项目链接：https://github.com/worldbench/awesome-3d-4d-world-models
 - 项目主页：https://worldbench.github.io/survey
 
@@ -15,3 +17,4 @@ awesome-3d-4d-world-models是一份关于**3D与4D世界建模领域的最新综
 3. **开放维护**：欢迎社区贡献PR更新最新研究，持续跟踪领域进展
 
 这份综述是进入3D/4D世界建模领域非常好的入门资料，统一了术语、范围和评估方法，对研究者有重要参考价值。
+- [visionary（愿景：基于 WebGPU 驱动的散斑图平…）](/guide/world-models/awesome-3d-4d-world-models/visionary/README)

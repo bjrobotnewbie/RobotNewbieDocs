@@ -1,5 +1,7 @@
 # unitree_go2_ros2
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/unitree_go2_ros2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 该包提供了基于 CHAMP 控制器框架的完整 ROS 2 Jazzy 集成，用于 Unitree Go2 四足机器人。
 
 ## 项目链接

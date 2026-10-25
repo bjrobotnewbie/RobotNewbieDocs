@@ -1,5 +1,7 @@
 # teleop - WebXR手机VR遥操作
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/spes-teleop/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 teleop 是 SpesRobotics 开发的开源项目，能够将你的手机或 VR 头盔变成机器人机械臂遥操作设备，通过 WebXR 技术实现遥操作。

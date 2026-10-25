@@ -1,5 +1,7 @@
 # robotics-skills-suite
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/robotics-skills-suite/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 76项符合合规审计要求的Claude技能，可实现工业机器人、协作机器人、AMR、ROS2、V&V、AI/ML以及IEC 62443生命周期的自动化。共38组构建者+评审者对，锚定ISO 10218、13849、62061、12100、9283、15066、3691-4及IEC 62443标准。
 
 ## 项目链接

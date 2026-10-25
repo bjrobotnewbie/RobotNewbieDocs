@@ -1,5 +1,7 @@
 # Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Synapsa Commons: 免费、动手实践的 AI 课程，可在任何地方运行（Colab、Kaggle、Binder、Codespaces、Jupyter）。欧盟 AI 法案合规性证明、模型验证、预测性维护、文档提取与检索、RAG、AI 代理及 MCP，以及一个模拟人形机器人。每节课均支持自动评分。来自 Synapsa 团队组建活动。
 
 ## 项目链接

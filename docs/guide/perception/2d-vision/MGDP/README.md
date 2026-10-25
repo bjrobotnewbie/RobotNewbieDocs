@@ -1,5 +1,7 @@
 # MGDP
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/2d-vision/MGDP/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [Adv. Sci. 2026] MGDP: 面向四足 locomotion 的通用深度感知模型掌握
 
 ## 项目链接

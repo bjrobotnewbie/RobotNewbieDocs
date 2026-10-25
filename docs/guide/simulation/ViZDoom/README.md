@@ -1,5 +1,7 @@
 # ViZDoom
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/ViZDoom/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ViZDoom 是基于 Doom 游戏引擎的视觉强化学习环境，用于训练仅依赖画面信息行动的 AI bot。
 
 ## 项目链接

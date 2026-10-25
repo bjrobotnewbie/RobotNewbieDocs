@@ -1,5 +1,7 @@
 # bonsai
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/bonsai/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Bonsai 是一个用 Rust 实现的行为树库，并提供 Python 绑定，用于构建模块化、响应式的确定性 AI 行为逻辑。
 
 ## 项目链接

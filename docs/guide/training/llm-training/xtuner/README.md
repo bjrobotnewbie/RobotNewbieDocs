@@ -1,5 +1,7 @@
 # xtuner
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/llm-training/xtuner/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 XTuner 是 InternLM 生态中的大模型训练引擎，重点面向超大规模 MoE 模型的高效训练。
 
 ## 项目链接

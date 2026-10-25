@@ -1,5 +1,7 @@
 # Awesome-LLM4AD
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/Awesome-LLM4AD/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一份精选的自动驾驶领域大语言模型（LLM）、视觉语言模型（VLM）和视觉 - 语言 - 动作模型（VLA）及世界模型（World Model）资源列表（LLM4AD），持续更新中。
 
 ## 项目链接

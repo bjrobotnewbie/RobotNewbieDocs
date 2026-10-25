@@ -1,5 +1,7 @@
 # Reflexion (反思式规划)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/llm-driven/reflexion/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Reflexion 是一种基于反思机制的 LLM 智能体架构，通过让模型自我评估、反思错误并调整策略，显著提升复杂任务的解决能力和鲁棒性。它在 ReAct 的基础上增加了反思环节，使智能体能够从失败中学习并改进。
 
 ## 简介

@@ -1,5 +1,7 @@
 # panda-py
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/control/panda-py/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Python 绑定，用于实时控制 Franka Emika 机器人。
 
 ## 项目链接

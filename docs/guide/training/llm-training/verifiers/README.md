@@ -1,5 +1,7 @@
 # verifiers
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/llm-training/verifiers/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Verifiers 是面向大语言模型强化学习的环境构建与评估库，用于把任务、工具、沙箱和奖励函数组织成可训练的 RL 环境。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # mapbox-navigation-ios
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/autonomous-driving/mapbox-navigation-ios/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于iOS Swift实现的逐向导航逻辑与用户界面
 
 ## 项目链接

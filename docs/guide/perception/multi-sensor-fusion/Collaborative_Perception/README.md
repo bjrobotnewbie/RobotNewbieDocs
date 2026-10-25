@@ -1,5 +1,7 @@
 # Collaborative_Perception
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/multi-sensor-fusion/Collaborative_Perception/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 本仓库收录了近期在车辆至基础设施（V2I）、车辆至车辆（V2V）及车辆至外界（V2X）自动驾驶场景中协同/合作/多智能体感知的最新进展。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # Ray 分布式计算框架
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/ray-serve/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Ray 是面向机器学习场景的开源分布式计算框架，以 Python 为优先设计，支持从单机便捷开发到集群高效扩展，可统一支撑训练、微调、超参搜索、批量推理、在线服务等全链路 ML 工作负载。
 
 ## 框架定位与能力

@@ -1,5 +1,7 @@
 # MMDetection
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/2d-vision/mmdetection/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 MMDetection是由国内开源团队OpenMMLab开发的开源计算机视觉检测工具箱，提供了丰富的目标检测、实例分割等算法实现，广泛应用于机器人视觉和工业检测领域。
 

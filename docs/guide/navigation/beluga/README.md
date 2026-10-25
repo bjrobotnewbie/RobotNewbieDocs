@@ -1,5 +1,7 @@
 # beluga
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/beluga/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 C++17 实现的通用蒙特卡洛局部化（MCL）算法实现，以及适用于 ROS 1 和 ROS 2 的 ROS 包。
 
 ## 项目链接

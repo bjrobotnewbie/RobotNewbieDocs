@@ -1,5 +1,7 @@
 # OMG
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/OMG/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 官方仓库： "OMG: 通用多模态运动生成与通用 humanoid 控制"，https://arxiv.org/abs/2606.10340
 
 ## 项目链接

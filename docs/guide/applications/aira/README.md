@@ -1,5 +1,7 @@
 # aira
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/aira/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 自主智能机器人代理（AIRA）项目实现了人机交互与机器人交互的标准规范。
 
 ## 项目链接

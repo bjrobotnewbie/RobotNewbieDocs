@@ -213,3 +213,6 @@ GigaBrain-0: 国内首个利用世界模型生成数据实现真机泛化的视�
 - [InternVLA-M1（InternVLA-M1：一种面向通用机…）](/guide/embodied-models/vla/InternVLA-M1/README)
 - [RoboHarness（一种机器人 harness，为 LLM …）](/guide/embodied-models/vla/RoboHarness/README)
 - [FASTER（[NeurIPS 2026] FASTE…）](/guide/embodied-models/vla/FASTER/README)
+- [GroundingPI（面向物理智能的 4B 级基础模型。统一了…）](/guide/embodied-models/vla/GroundingPI/README)
+- [vla-corrector（[NeurIPS 2026] VLA-C…）](/guide/embodied-models/vla/vla-corrector/README)
+- [AlphaBrain（综合体智能模型工具集）](/guide/embodied-models/vla/AlphaBrain/README)

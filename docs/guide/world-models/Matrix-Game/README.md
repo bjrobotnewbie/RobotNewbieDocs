@@ -1,5 +1,7 @@
 # Matrix-Game
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/Matrix-Game/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 矩阵游戏 3.0：具有长时记忆的真实时间流式交互式世界模型
 
 ## 项目链接

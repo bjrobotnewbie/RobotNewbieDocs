@@ -1,5 +1,7 @@
 # OpenWAM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/wam/OpenWAM/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 OpenWAM：面向系统世界 - 动作模型预训练的开放、模块化探索”的官方仓库。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # bsuite
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/bsuite/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 bsuite 是一系列精心设计的实验集合，用于研究强化学习（RL）智能体的核心能力。
 
 ## 项目链接

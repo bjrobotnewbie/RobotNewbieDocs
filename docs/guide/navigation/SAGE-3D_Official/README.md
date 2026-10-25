@@ -1,5 +1,7 @@
 # SAGE-3D_Official
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/SAGE-3D_Official/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 这是论文"Towards Physically Executable 3D Gaussian for Embodied Navigation"的官方仓库。
 
 ## 项目链接

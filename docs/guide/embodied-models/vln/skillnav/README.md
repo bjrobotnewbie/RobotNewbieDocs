@@ -1,4 +1,7 @@
 # SkillNav
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vln/skillnav/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SkillNav是基于技能的模块化VLN框架，将导航学习分解为可重用的原子技能，实现灵活重组和泛化能力。
 
 ## 核心特性

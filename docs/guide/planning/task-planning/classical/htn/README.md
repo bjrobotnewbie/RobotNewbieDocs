@@ -1,5 +1,7 @@
 # 层次任务网络 (Hierarchical Task Network, HTN)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/classical/htn/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 层次任务网络是一种基于任务分解的规划方法，通过递归地将复杂任务分解为更简单的子任务，直到达到可执行的原语动作，是经典 AI 规划的重要方法之一。
 
 ## 简介

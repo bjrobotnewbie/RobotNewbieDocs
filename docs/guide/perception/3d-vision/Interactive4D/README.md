@@ -1,5 +1,7 @@
 # Interactive4D
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/Interactive4D/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [ICRA 2025] Interactive4D: 交互式 4D 激光雷达分割
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # GaussianPretrain
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/GaussianPretrain/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 GaussianPretrain 用于自动驾驶的视觉预训练，展示了在多种 3D 感知任务中的显著改进，包括 3D 目标检测、高地图构建和占用预测。
 
 ## 项目链接

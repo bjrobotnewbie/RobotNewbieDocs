@@ -1,5 +1,7 @@
 # live
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/uav/live/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个开源无人机表演与无人机蜂群地面控制站GUI前端
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # awesome-efficient-vla
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/awesome-efficient-vla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 🔥 高效 VLA 领域精选路线图。我们保持此列表实时更新，欢迎贡献最新成果！
 
 ## 项目链接

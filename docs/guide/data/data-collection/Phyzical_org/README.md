@@ -1,5 +1,7 @@
 # Phyzical_org
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/Phyzical_org/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于 Web 的具身智能操作数据——elizaOS 就绪的回合、轨迹数据库转换器、链上可追溯性。为智能体机器人堆栈提供的燃料站。
 
 ## 项目链接

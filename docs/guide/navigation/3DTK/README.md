@@ -1,5 +1,7 @@
 # 3DTK
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/3DTK/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 3D Toolkit 提供处理 3D 点云的算法与方法。其中包括自动精确配准（6 自由度同时定位与建图，6D SLAM）及其他工具，例如快速 3D 查看器、平面提取软件等。
 
 ## 项目链接

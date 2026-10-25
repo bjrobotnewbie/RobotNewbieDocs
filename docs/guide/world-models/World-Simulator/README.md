@@ -1,5 +1,7 @@
 # World-Simulator
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/World-Simulator/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [IEEE TPAMI 2026] 模拟真实世界：综述与资源，包含我们的综述"模拟真实世界：多模态生成模型的统一综述"（IEEE TPAMI, 2026）以及 Awesome-Text2X-Resources。关注本仓库以获取最新更新！🔥
 
 ## 项目链接

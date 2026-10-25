@@ -1,5 +1,7 @@
 # Habitat Lab
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/habitat-lab/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 Habitat Lab 是 Meta AI 开发的模块化高级库，用于训练具身 AI 智能体在各种任务、环境和模拟器中进行视觉导航和交互研究。官方定义为"一个模块化的高级库，用于在各种任务、环境和模拟器中训练具身 AI 智能体"。

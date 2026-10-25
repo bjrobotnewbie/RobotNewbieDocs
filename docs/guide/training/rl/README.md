@@ -1,5 +1,7 @@
 # rl
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/rl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 TorchRL 是 PyTorch 原生的强化学习工具库，提供可组合的数据结构、环境、采集器、损失函数和训练组件。
 
 ## 项目链接

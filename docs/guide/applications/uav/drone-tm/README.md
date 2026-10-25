@@ -1,5 +1,7 @@
 # drone-tm
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/uav/drone-tm/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 无人机任务管理器 - 社区驱动的无人机影像采集项目
 
 ## 项目链接

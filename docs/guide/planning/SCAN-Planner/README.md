@@ -1,5 +1,7 @@
 # SCAN-Planner
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/SCAN-Planner/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SCAN-Planner 是面向长距离四足机器人导航的空间碰撞感知局部规划器，可服务于自主探索和视觉语言导航等上层任务。
 
 ## 项目链接

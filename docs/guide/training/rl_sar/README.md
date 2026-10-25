@@ -1,5 +1,7 @@
 # rl_sar
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/rl_sar/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 机器人强化学习算法的仿真验证与实物部署，适用于四足机器人、轮式机器人及人形机器人。"sar"代表"simulation and real"。
 
 ## 项目链接

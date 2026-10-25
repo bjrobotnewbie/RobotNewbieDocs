@@ -1,5 +1,7 @@
 # cyclotron
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/leisaac/cyclotron/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于 Isaac Lab 构建的官方强化学习训练框架，专为 Asimov  humanoid 机器人设计。
 
 ## 项目链接

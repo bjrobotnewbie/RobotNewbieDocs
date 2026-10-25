@@ -1,5 +1,7 @@
 # piper-dual-arm-smolvla-towel-folding
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/piper-dual-arm-smolvla-towel-folding/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SmolVLA（SmolVLM2-500M）在真实双 AgileX Piper 机器人臂上实现视觉 - 语言 - 动作控制——基于经过验证的 ACT 安全基础实现连续权威融合，将真实毛巾折叠动作压缩为一条 750 步的技能序列（状态=0）。完整演示课程已包含。
 
 ## 项目链接

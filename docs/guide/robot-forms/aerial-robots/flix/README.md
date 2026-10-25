@@ -1,5 +1,7 @@
 # flix
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/aerial-robots/flix/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 从零开始制作基于 ESP32 的四旋翼飞行器
 
 ## 项目链接

@@ -32,3 +32,5 @@ LeIsaac 在 [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html) 中
 - [cyclotron（基于 Isaac Lab 构建的官方强化…）](/guide/training/leisaac/cyclotron/README)
 
 - [phosphobot（控制人工智能机器人。社区驱动的 UI 中…）](/guide/training/leisaac/phosphobot/README)
+
+- [robot_lab（基于 IsaacLab 的机器人 RL …）](/guide/training/leisaac/robot_lab/README)

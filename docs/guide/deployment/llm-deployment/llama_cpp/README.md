@@ -1,5 +1,7 @@
 # llama.cpp
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/llama_cpp/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 **llama.cpp** 是由 Georgi Gerganov 开发的 C/C++ 大语言模型（LLM）推理引擎，是目前 GitHub 上星标数最多的本地 AI 推理框架之一（超过 75,000 颗星）。
 
 ## 核心特性

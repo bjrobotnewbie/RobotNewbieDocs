@@ -1,5 +1,7 @@
 # 机器人部署
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 机器人部署是将开发完成的机器人系统和算法部署到实际硬件平台并运行的过程，包括模型优化、系统集成和实际测试。本章节涵盖机器人部署的全栈技术方案，从边缘设备到云端，从单机器人到集群部署。
 
 ## 分类导航

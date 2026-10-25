@@ -226,3 +226,5 @@ ROS (Robot Operating System) 是机器人领域最常用的开源操作系统，
 - [imu_pipeline（使用 tf 将 sensor_msgs/…）](/guide/ros/imu_pipeline/README)
 
 - [aruco_ros（Aruco 增强现实标记检测库的软件包及…）](/guide/ros/aruco_ros/README)
+
+- [velodyne（ROS 对 Velodyne 3D 激光…）](/guide/ros/velodyne/README)

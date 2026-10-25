@@ -1,4 +1,7 @@
 # DUET (Dual-scale GraphTransformer)
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vln/duet/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 DUET是基于双尺度图Transformer的视觉语言导航模型，能够同时进行全局动作规划和细粒度跨模态理解，是VLN领域的经典基准模型。
 
 ## 核心特性

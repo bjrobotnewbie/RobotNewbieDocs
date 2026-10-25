@@ -1,5 +1,7 @@
 # OpenBot
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/OpenBot/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 OpenBot利用智能手机作为低成本机器人的大脑。我们设计了一辆成本约50美元的小型电动车，用作机器人机身。我们面向Android智能手机的软件栈支持人员跟随、实时自主导航等高级机器人任务。
 
 ## 项目链接

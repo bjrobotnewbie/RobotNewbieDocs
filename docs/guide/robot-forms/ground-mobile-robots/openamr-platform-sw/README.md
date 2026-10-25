@@ -1,5 +1,7 @@
 # openamr-platform-sw
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/openamr-platform-sw/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 OpenAMRobot 移动机器人平台的 ROS 2 软件、仿真、导航、停靠、控制、驱动及快速搭建（bringup）工具集
 
 ## 项目链接

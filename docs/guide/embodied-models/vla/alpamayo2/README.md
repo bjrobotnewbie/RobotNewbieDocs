@@ -1,5 +1,7 @@
 # alpamayo2
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/alpamayo2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 NVIDIA Alpamayo 2 Super 是一款开源的 34B 参数多任务基础模型，旨在为自动驾驶开发提供强劲动力。
 
 ## 项目链接

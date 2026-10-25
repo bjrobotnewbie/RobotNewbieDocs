@@ -6,6 +6,7 @@
 
 - GitHub: <https://github.com/areal-project/AReaL>
 - 项目主页: <https://areal-ai.io>
+- 中文文档: https://areal-project.github.io/AReaL/zh/
 
 ## 项目介绍
 AReaL是一款面向大模型智能体应用的强化学习（RL）桥接框架，旨在简化并灵活构建AI智能体应用，由清华IIIS与蚂蚁集团AReaL团队开发。它采用全异步RL训练范式，优化了效率与扩展性，专为大规模推理与智能体模型训练设计，目标是让开发者和研究者能够低成本、高效地搭建AI智能体。

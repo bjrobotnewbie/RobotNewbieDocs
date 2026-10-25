@@ -1,4 +1,7 @@
 # FluxVLA Engine
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/fluxvla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 - 中文文档: https://github.com/fluxvla/fluxvla/blob/main/README_zh-CN.md
 逐际动力开源的标准化VLA工程底座，打通数据处理、模型训练、仿真评测到真机部署全流程，大幅降低具身智能全研发周期的工程门槛。
 

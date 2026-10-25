@@ -1,5 +1,7 @@
 # hands-on-modern-rl
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/llm-training/hands-on-modern-rl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 🚀 一门开源的实操课程，填补了从基础RL概念到LLM对齐、RLVR与高级智能体系统之间的知识缺口。
 
 ## 项目链接

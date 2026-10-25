@@ -1,4 +1,7 @@
 # Motus
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/wam/motus/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Motus: A Unified Latent Action World Model, arXiv 2025.
 
 ## 核心特性

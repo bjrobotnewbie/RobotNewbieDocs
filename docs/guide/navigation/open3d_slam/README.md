@@ -1,5 +1,7 @@
 # open3d_slam
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/open3d_slam/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于点云图的 SLAM 系统，使用 C++ 语言开发，基于 open3D 库。
 
 ## 项目链接

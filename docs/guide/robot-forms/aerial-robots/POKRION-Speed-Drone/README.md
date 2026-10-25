@@ -1,5 +1,7 @@
 # POKRION-Speed-Drone
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/aerial-robots/POKRION-Speed-Drone/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 支持快速原型开发的开源高机动四旋翼飞行器研发平台，提供可打印机身设计参考及可复现的黑匣子飞行测试。
 
 ## 项目链接

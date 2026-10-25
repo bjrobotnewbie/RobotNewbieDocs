@@ -1,5 +1,7 @@
 # Pearl
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/Pearl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 由Meta应用强化学习团队打造的生产可用的强化学习AI智能体库
 
 ## 项目链接

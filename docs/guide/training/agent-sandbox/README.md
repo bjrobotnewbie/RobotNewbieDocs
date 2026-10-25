@@ -1,12 +1,14 @@
 # agent-sandbox
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/agent-sandbox/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 agent-sandbox 支持对隔离、有状态的单一实例工作负载进行便捷管理，适用于如 AI 代理运行时和强化学习（RL）等用例。
 
 ## 项目链接
 
 - GitHub: <https://github.com/kubernetes-sigs/agent-sandbox>
 - 项目主页: <https://agent-sandbox.sigs.k8s.io>
-
+- [OpenEnv（RL 训练后环境接口库）](/guide/training/agent-sandbox/OpenEnv/README)
 ## 项目介绍
 agent-sandbox 是 Kubernetes SIG Apps 旗下的开源项目，用于为 Kubernetes 提供声明式的标准化 API，管理具备稳定标识、有状态的单实例工作负载。它通过依托 Kubernetes 原生能力，打造轻量级单容器虚拟机式的运行环境，特别适合 AI 代理运行时、强化学习（RL）等场景。
 该项目核心是`Sandbox`自定义资源定义（CRD）与控制器，会将底层容器隔离工作委托给 gVisor、Kata Containers 等安全沙箱运行时。

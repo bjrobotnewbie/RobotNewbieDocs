@@ -1,5 +1,7 @@
 # Structure-PLP-SLAM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/Structure-PLP-SLAM/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [ICRA'23] 结构 PLP-SLAM：基于点、线和平面的高效稀疏地图构建与定位——面向单目、RGB-D 和立体相机的实现
 
 ## 项目链接

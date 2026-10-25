@@ -1,12 +1,14 @@
 # loco-mujoco
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/loco-mujoco/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于 MuJoCo 的复杂动作模仿学习基准，专注于使用强化学习（RL）进行复杂运动任务。
 
 ## 项目链接
 
 - GitHub: <https://github.com/robfiras/loco-mujoco>
 - 项目主页: <https://loco-mujoco.readthedocs.io/>
-
+- [SuperMimic-Reproduced（SuperMimic 复现（arXiv:…）](/guide/training/loco-mujoco/SuperMimic-Reproduced/README)
 ## 项目介绍
 LocoMuJoCo是一个专注于复杂运动控制任务的模仿学习基准测试套件，基于MuJoCo开发。它提供了丰富的四足机器人、人形机器人以及生物力学骨骼人体模型环境，每个环境附带超22000条运动捕捉数据集。项目不仅支持模仿学习，还可自定义奖励函数，同样适用于纯强化学习场景，兼容Gymnasium接口。最新v1.1版本新增了MjWarp后端，可在兼容GPU上实现更快的并行仿真。
 

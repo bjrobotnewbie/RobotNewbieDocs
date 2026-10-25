@@ -1,5 +1,7 @@
 # ardudeck
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/uav/ardudeck/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个 GCS 统御一切。ArduPilot、Betaflight、iNav 合而为一。任务规划、PID 调优、OSD 模拟器、FlightGear 的 SITL 仿真。跨平台支持（Windows/macOS/Linux）。
 
 ## 项目链接

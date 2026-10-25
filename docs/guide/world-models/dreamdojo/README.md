@@ -1,5 +1,7 @@
 # DreamDojo
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/dreamdojo/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
 
 DreamDojo 是基于大规模人类视频预训练的通用机器人世界模型，由 NVIDIA Jim Fan 团队开发。该项目通过从大规模人类数据中获取全面的物理知识，使用潜在动作进行预训练，然后在目标具身系统上用连续机器人动作进行后训练，能够对多样化物体和环境展现出强大的泛化能力。

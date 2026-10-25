@@ -1,5 +1,7 @@
 # rosclaw
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/rosclaw/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 面向Physical AI与具身智能体的自进化运行时基础设施。通过e-URDF、沙箱安全、能力路由、实践捕获、物理内存、运行时干预与技能进化，将AI具身落地到实体机器人。
 
 ## 项目链接

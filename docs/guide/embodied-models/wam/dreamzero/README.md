@@ -1,4 +1,7 @@
 # DreamZero
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/wam/dreamzero/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 首个开源世界动作模型（WAM），基于预训练视频扩散主干网络构建，实现了零样本物理泛化和跨机器人本体迁移。
 
 ## 核心特性

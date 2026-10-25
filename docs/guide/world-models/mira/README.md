@@ -1,5 +1,7 @@
 # mira
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/mira/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 MIRA 代码：具有表示自编码器（Representation Autoencoders）的多玩家交互式世界模型
 
 ## 项目链接

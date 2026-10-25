@@ -1,5 +1,7 @@
 # quackd
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/quackd/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 🦆🧠 为您的小型机器人赋予大脑。告诉您自己构建的 Microduck、Open Duck Mini、Reachy Mini、LeRobot 手臂或任何 ROS 基座，您想让它做什么，只需使用人类语言。LLM（如 Claude、OpenAI、Gemini、Grok，或通过 Ollama、vLLM 或 llama.cpp 运行的本地模型）利用其已有的技能。支持模拟器、.duck 任务文件、MCP、跨运行记忆以及 flock 模式。
 
 ## 项目链接

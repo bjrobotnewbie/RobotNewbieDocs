@@ -1,12 +1,14 @@
 # IsaacSim
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/IsaacSim/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 NVIDIA Isaac Sim 是基于 Omniverse 的机器人开发、仿真、训练和验证平台。
 
 ## 项目链接
 
 - GitHub: <https://github.com/isaac-sim/IsaacSim>
 - 项目主页: https://developer.nvidia.com/isaac/sim
-
+- [Embodied-RobotSim（Embodied-RobotSim 是一…）](/guide/simulation/IsaacSim/Embodied-RobotSim/README)
 ## 项目概述
 
 Isaac Sim 面向 AI 机器人开发全流程，支持在真实感虚拟环境中导入、模拟、测试和部署机器人系统。它可以导入 URDF、MJCF、CAD 等常见格式，利用 GPU 加速物理引擎和 RTX 多传感器渲染提供高保真动力学与视觉，并内置合成数据生成、强化学习、ROS 集成和数字孪生等工作流。

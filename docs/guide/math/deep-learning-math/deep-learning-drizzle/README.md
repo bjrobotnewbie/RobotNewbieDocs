@@ -1,5 +1,7 @@
 # Deep Learning Drizzle
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/math/deep-learning-math/deep-learning-drizzle/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 Deep Learning Drizzle 是一个深度学习数学基础的交互式学习资源集合，由 kmario23 创建和维护。该项目提供了深度学习核心概念的详细解释、数学推导和代码实现，是学习深度学习数学基础的优质资源。

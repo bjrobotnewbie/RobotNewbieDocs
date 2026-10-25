@@ -1,5 +1,7 @@
 # Apollo Perception
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/multi-sensor-fusion/apollo-perception/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 Apollo Perception是百度阿波罗自动驾驶平台的感知模块，提供了多传感器融合、目标检测、车道线检测等功能，广泛应用于自动驾驶和移动机器人领域。
 

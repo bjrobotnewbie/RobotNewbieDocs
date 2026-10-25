@@ -6,6 +6,7 @@ LocalAI 是开源 AI 引擎。可在任意硬件上运行各类模型——LLM�
 
 - GitHub: <https://github.com/mudler/LocalAI>
 - 项目主页: <https://localai.io>
+- 中文文档: https://zdoc.app/zh/mudler/LocalAI
 
 ## 项目介绍
 LocalAI是一款开源AI引擎，支持在任意硬件上运行LLM、视觉、语音、图像、视频等各类AI模型，无需专用GPU。它采用轻量化核心设计，不会强制预装冗余组件，仅在需要对应模型时才拉取对应的后端容器镜像，后端基于llama.cpp、vLLM、whisper.cpp、stable-diffusion、MLX等一流引擎封装。

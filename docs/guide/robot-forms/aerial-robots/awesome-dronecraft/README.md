@@ -1,5 +1,7 @@
 # awesome-dronecraft
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/aerial-robots/awesome-dronecraft/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 用于全面理解自主无人机工作原理的资源。这是在ChatGPT出现之前人工整理的资源。
 
 ## 项目链接

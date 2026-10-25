@@ -1,4 +1,7 @@
 # OpenVINO
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/openvino/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Intel 开源的边缘 AI 推理优化工具包，专为工业机器人和边缘计算场景设计。
 
 ## 简介

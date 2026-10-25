@@ -1,5 +1,7 @@
 # Vision-OPD
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/Vision-OPD/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Vision-OPD 是一种区域到全球的基于策略的自我蒸馏框架，它通过将模型自身的特权裁剪条件下的感知迁移至其全图策略，实现无需外部教师、标签或验证者即可在一次前向传播中完成细粒度视觉理解。
 
 ## 项目链接

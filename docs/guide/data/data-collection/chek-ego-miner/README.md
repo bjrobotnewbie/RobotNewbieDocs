@@ -1,5 +1,7 @@
 # chek-ego-miner
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/chek-ego-miner/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 CHEK EGO Miner 由青空科技开发：使用CHEK移动端和青空Miker桌面端为具身AI采集第一人称EGO数据。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # dora
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/dora/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 DORA（面向数据流的机器人架构，Dataflow-Oriented Robotic Architecture）是为简化基于AI的机器人应用开发而设计的中间件，提供低延迟、可组合的分布式数据流能力。应用被建模为有向图，也可称为流水线。
 
 ## 项目链接

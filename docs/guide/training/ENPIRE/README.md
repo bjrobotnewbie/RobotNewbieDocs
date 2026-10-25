@@ -1,5 +1,7 @@
 # ENPIRE
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/ENPIRE/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ENPIRE 是一个代理框架，它允许 AI 编程代理通过闭环的物理试错与演化，自主优化现实世界的机器人策略。
 
 ## 项目链接

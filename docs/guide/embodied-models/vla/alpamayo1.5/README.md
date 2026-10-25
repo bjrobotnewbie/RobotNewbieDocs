@@ -1,5 +1,7 @@
 # alpamayo1.5
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/alpamayo1.5/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 NVIDIA Alpamayo 1.5 Nano 是一款专为自动驾驶车辆设计的开源 10B 参数推理视觉 - 语言 - 行动（VLA）模型，具备强化学习增强的推理、导航引导及视觉问答能力。
 
 ## 项目链接

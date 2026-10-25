@@ -1,5 +1,7 @@
 # Orion-Quadruped
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/Orion-Quadruped/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 🐕 Orion 是一款由 ROS2 驱动的、具有 12 自由度四足机器人的狗狗，我亲手设计、构建并编程。
 
 ## 项目链接

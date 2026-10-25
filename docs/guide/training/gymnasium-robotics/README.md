@@ -1,5 +1,7 @@
 # Gymnasium-Robotics
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/gymnasium-robotics/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 Gymnasium-Robotics 是由 Farama Foundation 开发的机器人仿真环境集合，专门用于强化学习研究。官方定义为"一个用于强化学习的机器人仿真环境集合"。它使用 MuJoCo 物理引擎和 maintained mujoco python bindings 提供高精度物理仿真。

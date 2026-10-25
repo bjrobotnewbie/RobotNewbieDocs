@@ -1,4 +1,7 @@
 # BYOVLA (Bring Your Own VLA)
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/byovla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Princeton University 开源的运行时干预VLA增强方法，无需微调即可提升复杂场景下VLA模型性能，对干扰物体和背景鲁棒性更强。
 
 ## 核心特性

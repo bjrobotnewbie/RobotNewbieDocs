@@ -1,5 +1,7 @@
 # skills
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/skills/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 为 NVIDIA 产品设计的 Agent 技能——可安装至 Claude Code、Codex 及其他编程代理，以端到端运行物理 AI、机器人、仿真、CUDA 及 RAG 工作流。
 
 ## 项目链接

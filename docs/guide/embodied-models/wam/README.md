@@ -175,3 +175,7 @@ LingBot-VA: Causal video-action world model for generalist robot control, RSS 20
 - [FACT（[CoRL 2026] "FACT：面向…）](/guide/embodied-models/wam/FACT/README)
 - [EmbodiedSkills（RoboTwin 的模块化具身智能体运行…）](/guide/embodied-models/wam/EmbodiedSkills/README)
 - [UniWAM（UniWAM 官方代码：统一世界 - 动…）](/guide/embodied-models/wam/UniWAM/README)
+- [InternW0-Delta（InternW0-Δ：一个融合预测动力学…）](/guide/embodied-models/wam/InternW0-Delta/README)
+- [EMERGE-Policy（EMERGE-Policy：机器人思维超…）](/guide/embodied-models/wam/EMERGE-Policy/README)
+- [LAW（官方实现：论文"LAW：统一语言、动作与…）](/guide/embodied-models/wam/LAW/README)
+- [UNITAS（Unitas 官方代码库：一种面向具身操…）](/guide/embodied-models/wam/UNITAS/README)

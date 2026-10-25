@@ -1,5 +1,7 @@
 # bcr_bot
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/bcr_bot/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 支持 ROS、ROS2、Gazebo、Ignition、Mujoco 和 ISAAC 仿真平台的移动机器人仿真系统，具备轮式驱动、深度相机、IMU 和 2D LiDAR 功能。
 
 ## 项目链接

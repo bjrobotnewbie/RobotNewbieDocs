@@ -1,5 +1,7 @@
 # teleop_tools - ROS通用遥操作工具
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/ros-teleop-tools/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 teleop_tools 是 ros-teleop 组织维护的一套通用遥操作工具集合，为任意机器人提供一套通用遥操作工具。自2013年开始维护，是 ROS 生态中最经典的遥操作工具包。

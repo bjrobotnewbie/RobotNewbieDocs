@@ -1,5 +1,7 @@
 # SimWorld
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/SimWorld/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SimWorld：面向物理与社交世界中自主智能体的开放式真实感模拟器
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # DART (Dynamic Animation and Robotics Toolkit)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/dart/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 DART是一个开源的动态动画和机器人工具箱，提供多体系统仿真、运动规划和控制功能，适用于机器人研究和动画制作领域。
 

@@ -1,5 +1,7 @@
 # Awesome-WAM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/wam/awesome-wam/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一份经过整理、持续更新的，关于具身智能中世界动作模型（World Action Models, WAMs）的阅读清单、论文博客与资源合集。
 
 ## 项目链接

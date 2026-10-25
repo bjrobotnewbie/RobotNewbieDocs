@@ -1,5 +1,7 @@
 # ouster-sdk
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/hardware/sensors-actuators/ouster-sdk/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 跨平台 C++ 和 Python SDK，用于 Ouster LiDAR 传感器。包含可视化工具、数据记录/回放及传感器配置工具。
 
 ## 项目链接

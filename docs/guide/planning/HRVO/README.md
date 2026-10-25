@@ -1,5 +1,7 @@
 # HRVO
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/HRVO/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 HRVO 是用于多移动机器人或虚拟智能体无碰撞、无振荡导航的混合互惠速度障碍 C++ 库。
 
 ## 项目链接

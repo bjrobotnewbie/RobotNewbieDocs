@@ -1,5 +1,7 @@
 # Evoke
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/Evoke/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 EVOKE 官方实现：具有有限状态和长时监督的无限交互式世界。一种无需 CFG 的三步交互世界模型。在 WBench 上达到 SOTA 水平。
 
 ## 项目链接

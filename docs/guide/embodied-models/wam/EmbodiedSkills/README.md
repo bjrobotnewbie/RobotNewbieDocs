@@ -1,5 +1,7 @@
 # EmbodiedSkills
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/wam/EmbodiedSkills/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 RoboTwin 的模块化具身智能体运行时，集成了基于视觉语言模型（VLM）的语义 grounding、子目标调度、OpenPI/pi0.5 动作生成以及执行时验证。
 
 ## 项目链接

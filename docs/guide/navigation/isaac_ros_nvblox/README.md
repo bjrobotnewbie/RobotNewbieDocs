@@ -1,5 +1,7 @@
 # isaac_ros_nvblox
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/isaac_ros_nvblox/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于 NVIDIA 加速的 3D 场景重建与 Nav2 局部代价地图提供者，使用 nvblox
 
 ## 项目链接

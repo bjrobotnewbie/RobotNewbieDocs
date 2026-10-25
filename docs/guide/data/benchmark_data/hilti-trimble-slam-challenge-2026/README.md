@@ -1,5 +1,7 @@
 # hilti-trimble-slam-challenge-2026
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/benchmark_data/hilti-trimble-slam-challenge-2026/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于地面计划先验的 360 度视觉 - 惯性 SLAM 与定位基准
 
 ## 项目链接

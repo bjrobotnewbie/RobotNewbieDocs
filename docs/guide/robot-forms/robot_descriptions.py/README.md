@@ -1,5 +1,7 @@
 # robot_descriptions.py
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/robot_descriptions.py/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 可从主流Python机器人框架获取190余种机器人描述
 
 ## 项目链接

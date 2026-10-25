@@ -1,5 +1,7 @@
 # tmrl
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/tmrl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 TMRL 是面向实时机器人控制与 TrackMania 自动驾驶示例的分布式强化学习框架。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # dynoplan
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/dynoplan/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Dynoplan 是一个用于求解动力学约束运动规划问题的小型库，围绕 Dynobench 定义的问题集实现多种规划算法。
 
 ## 项目链接

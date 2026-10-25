@@ -1,5 +1,7 @@
 # warp
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/warp/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 NVIDIA Warp 是 Python 框架，可将普通 Python 函数 JIT 编译为 CPU/GPU 高效 kernel，用于仿真、机器人和机器学习。
 
 ## 项目链接

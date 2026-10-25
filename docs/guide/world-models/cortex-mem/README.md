@@ -1,5 +1,7 @@
 # cortex-mem
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/cortex-mem/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 🧠 适用于OpenClaw、具身AI等自主系统的生产就绪型认知基础。面向内存管理，涵盖从提取、搜索到自动优化的全流程，开箱即用提供SKILL、CLI、API、MCP以及洞察面板。
 
 ## 项目链接

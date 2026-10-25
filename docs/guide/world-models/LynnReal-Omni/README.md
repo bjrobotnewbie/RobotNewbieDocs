@@ -1,5 +1,7 @@
 # LynnReal-Omni
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/LynnReal-Omni/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 LynnReal-Omni 将文本转视频、图像转视频、基于人体与手部姿态引导的生成、结构控制、全向参考生成、风格迁移、视频编辑、退化视频恢复以及长视频生成等能力整合到一个统一框架中，并支持四步快速生成。
 
 ## 项目链接

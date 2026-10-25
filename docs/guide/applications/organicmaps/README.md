@@ -1,5 +1,7 @@
 # organicmaps
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/organicmaps/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 🍃 Organic Maps 是一款面向超600万旅行者、游客、徒步旅行者和骑行者的免费 Android 与 iOS 离线地图应用。它使用众包更新的 OpenStreetMap 数据，由社区满怀热爱开发而成。无广告、无追踪、无数据收集、无捆绑垃圾软件。欢迎捐款支持我们的开发！
 
 ## 项目链接

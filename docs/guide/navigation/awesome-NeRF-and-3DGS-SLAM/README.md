@@ -1,5 +1,7 @@
 # awesome-NeRF-and-3DGS-SLAM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/awesome-NeRF-and-3DGS-SLAM/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SLAM/机器人领域内隐式表示、NeRF与3D高斯溅射相关论文的综合列表，包含论文、视频、代码及相关网站
 
 ## 项目链接

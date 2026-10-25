@@ -1,5 +1,7 @@
 # roman
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/roman/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [RSS 2025] ROMAN: 一种视角无关的全局定位方法，通过匹配来自不同机器人视角的物体，即使在场景从相反视角观察时也能实现可靠的位姿估计。
 
 ## 项目链接

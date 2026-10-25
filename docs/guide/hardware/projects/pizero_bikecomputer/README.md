@@ -1,5 +1,7 @@
 # pizero_bikecomputer
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/hardware/projects/pizero_bikecomputer/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于 Raspberry Pi Zero (W, WH, 2 W) 或 Compute Module Zero 的开源自行车计算机，具备 GPS 和 ANT+ 功能，并提供离线地图与导航。
 
 ## 项目链接

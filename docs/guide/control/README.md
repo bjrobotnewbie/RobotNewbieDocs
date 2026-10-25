@@ -62,3 +62,4 @@
 - [Pontryagin-Differentiable-Programming（能够学习控制系统的（神经）控制目标函数、…）](/guide/control/Pontryagin-Differentiable-Programming/README)
 - [LADAC（飞机动力学与控制库）](/guide/control/LADAC/README)
 - [vlsa-aegis（一种名为 AEGIS 的视觉 - 语言 …）](/guide/control/vlsa-aegis/README)
+- [Kinesis（[ICRA 2026] 该论文《基于强化…）](/guide/control/Kinesis/README)

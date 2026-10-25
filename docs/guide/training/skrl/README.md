@@ -1,5 +1,7 @@
 # skrl
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/skrl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 模块化强化学习（RL）库（基于 PyTorch、JAX 和 NVIDIA Warp 实现，支持 Gymnasium/Gym、NVIDIA Isaac Lab、MuJoCo Playground 及其他环境）
 
 ## 项目链接

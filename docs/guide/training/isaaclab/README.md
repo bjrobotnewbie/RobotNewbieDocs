@@ -1,5 +1,7 @@
 # Isaac Lab
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/isaaclab/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 Isaac Lab 是 NVIDIA 开发的统一模块化机器人学习框架，旨在简化机器人研究中的常见工作流程。官方定义为"一个统一且模块化的机器人学习框架，旨在简化机器人研究中的常见工作流程（如强化学习、从演示学习和运动规划）"。它基于 NVIDIA Isaac Sim 构建，利用最新的仿真能力提供逼真的场景和高效仿真。

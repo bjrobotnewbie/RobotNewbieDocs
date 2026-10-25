@@ -1,5 +1,7 @@
 # invensense-imu
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/hardware/sensors-actuators/invensense-imu/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Arduino 与 CMake 库：用于与 InvenSense MPU-6500、MPU-9250 和 MPU-9255 九轴 IMU 进行通信。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # geo-clip
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/2d-vision/geo-clip/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 这是我们在 NeurIPS 2023 论文 "GeoCLIP：基于 Clip 的地点与图像之间的对齐，以实现有效的全球定位" 的官方 PyTorch 实现。
 
 ## 项目链接

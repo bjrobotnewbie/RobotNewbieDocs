@@ -26,3 +26,5 @@
 - [PincOpen（一款源自Reachy 2机械臂夹爪的低成…）](/guide/robot-forms/manipulators/PincOpen/README)
 
 - [PAROL6-Desktop-robot-arm（BOM, STL 文件及 PAROL6 …）](/guide/robot-forms/manipulators/PAROL6-Desktop-robot-arm/README)
+
+- [SO-ARM-102（开源领导者 + 跟随者机器人手臂套件：5…）](/guide/robot-forms/manipulators/SO-ARM-102/README)

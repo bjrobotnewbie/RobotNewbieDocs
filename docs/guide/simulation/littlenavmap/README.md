@@ -1,5 +1,7 @@
 # littlenavmap
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/littlenavmap/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Little Navmap 是一款适用于微软模拟飞行X、微软模拟飞行2020、Prepar3D 以及 X-Plane 的免费飞行计划器、导航工具、移动地图、机场搜索与机场信息系统。
 
 ## 项目链接

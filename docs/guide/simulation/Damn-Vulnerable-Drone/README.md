@@ -1,5 +1,7 @@
 # Damn-Vulnerable-Drone
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/Damn-Vulnerable-Drone/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Damn Vulnerable Drone 是一款基于流行的 ArduPilot/MAVLink 架构、故意设计为存在漏洞的无人机黑客攻击模拟器，可用于实战化无人机黑客训练，提供真实逼真的环境。
 
 ## 项目链接

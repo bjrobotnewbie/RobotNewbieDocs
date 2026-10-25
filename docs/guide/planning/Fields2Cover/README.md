@@ -1,5 +1,7 @@
 # Fields2Cover
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/Fields2Cover/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Fields2Cover 是面向自主农业车辆的覆盖路径规划库，提供模块化、可扩展的田地覆盖规划算法。
 
 ## 项目链接

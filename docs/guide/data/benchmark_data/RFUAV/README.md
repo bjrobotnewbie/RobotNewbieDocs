@@ -1,5 +1,7 @@
 # RFUAV
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/benchmark_data/RFUAV/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 本仓库为论文"RFUAV：无人飞行器检测与识别基准数据集”的官方版本。代码包含一个两阶段模型，利用 FFT/STFT 分析方法实现无人机检测与分类。论文被接受后，原始数据将免费开放使用。请 Star 我们！如果您认为此内容有益♥
 
 ## 项目链接

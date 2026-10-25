@@ -1,5 +1,7 @@
 # FlyDrones
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/aerial-robots/FlyDrones/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 果蝇连接组作为无人机驾驶员：摄像头 -> 果蝇眼睛 -> 神经元放电 -> 下行神经元 -> 无人机。请在浏览器中体验实时 3D 演示。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # dimos
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/dimos/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Dimensional 是面向物理空间的智能体操作系统。你可以通过自然语言指挥人形机器人、四足机器人、无人机及其他硬件平台，并构建能与物理输入（相机、激光雷达、执行器）无缝协作的多智能体系统。
 
 ## 项目链接

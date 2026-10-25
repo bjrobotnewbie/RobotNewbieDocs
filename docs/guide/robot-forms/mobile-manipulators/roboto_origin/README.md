@@ -1,5 +1,7 @@
 # 萝博头_原型机——全开源手搓级人形机器人
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/mobile-manipulators/roboto_origin/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 - 项目链接：https://github.com/Roboparty/roboto_origin
 - 中文文档：https://github.com/roboparty/roboto_origin/blob/main/README_cn.md
 

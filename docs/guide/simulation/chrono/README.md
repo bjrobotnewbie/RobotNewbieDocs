@@ -1,5 +1,7 @@
 # chrono
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/chrono/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Project Chrono 是用于多体动力学和多物理场仿真的高性能 C++ 开源库。
 
 ## 项目链接

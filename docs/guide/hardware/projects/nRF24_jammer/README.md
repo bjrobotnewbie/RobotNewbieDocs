@@ -1,5 +1,7 @@
 # nRF24_jammer
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/hardware/projects/nRF24_jammer/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 nRF24干扰器是一款功能强大的工具，需要一块ESP32和可配置数量的NRF24模块组装而成。它用于产生干扰，破坏蓝牙设备🔊、BLE技术📱、无人机🚁、Wi-Fi网络📶和Zigbee📡的正常运行。此外，它还配有一个用户友好的网页界面🌐。
 
 ## 项目链接

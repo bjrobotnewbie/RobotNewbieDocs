@@ -1,5 +1,7 @@
 # RLark
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/RLark/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 跨集群具身智能云原生平台。使用 Kubernetes 原生 CRD 管理跨集群具身 AI 工作负载，提供统一的任务调度、跨集群 Pod 网络通信以及多运行时支持。
 
 ## 项目链接

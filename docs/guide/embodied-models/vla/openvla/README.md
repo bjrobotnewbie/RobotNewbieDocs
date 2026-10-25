@@ -1,4 +1,7 @@
 # OpenVLA
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/openvla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 开源的通用视觉-语言-动作（VLA）模型，基于Prismatic VLM架构（融合DINOv2和SigLIP视觉主干，搭配Llama-2 LLM），支持开箱即用，可直接生成机器人可执行的控制命令。
 
 ## 核心特性

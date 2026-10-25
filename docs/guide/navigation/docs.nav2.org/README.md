@@ -1,5 +1,7 @@
 # docs.nav2.org
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/docs.nav2.org/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 https://docs.nav2.org/
 
 ## 项目链接

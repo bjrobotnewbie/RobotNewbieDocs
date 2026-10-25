@@ -1,5 +1,7 @@
 # OpenSplat
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/OpenSplat/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 支持 CPU 和 GPU 的 Windows、Mac 和 Linux 平台生产级 3D 高斯泼溅
 
 ## 项目链接

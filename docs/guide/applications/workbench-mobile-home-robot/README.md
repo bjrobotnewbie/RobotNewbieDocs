@@ -1,5 +1,7 @@
 # workbench-mobile-home-robot
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/workbench-mobile-home-robot/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 具有有限动作、可重放事件和失效闭验证的轮式移动家机器人证据导向运行时。
 
 ## 项目链接

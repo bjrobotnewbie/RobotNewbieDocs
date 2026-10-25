@@ -1,5 +1,7 @@
 # unidrivevla
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/autonomous-driving/unidrivevla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 UniDriveVLA：融合理解、感知与行动规划，实现自动驾驶
 
 ## 项目链接

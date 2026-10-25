@@ -1,5 +1,7 @@
 # hyperdog_ros2
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/hyperdog_ros2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 HyperDog 是一款完全基于 ROS 2 和 Micro-ROS 构建的四足机器人。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # 行为树 (Behavior Tree)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/classical/behavior-tree/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 行为树是一种层级化的任务执行建模方法，广泛应用于游戏 AI 和机器人系统中，通过组合基本行为节点实现复杂的任务逻辑。
 
 ## 简介

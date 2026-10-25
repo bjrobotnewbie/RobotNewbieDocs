@@ -1,5 +1,7 @@
 # lidarbot
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/lidarbot/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 使用 ROS2 Jazzy 运行在 Raspberry Pi 4 上的 Ubuntu Server 24.04 系统控制差分驱动机器人。该车辆配备用于视觉反馈的 Raspberry Pi 摄像头，以及用于同时定位与地图构建（SLAM）、自主导航和避障的 RPLIDAR A1 传感器。
 
 ## 项目链接

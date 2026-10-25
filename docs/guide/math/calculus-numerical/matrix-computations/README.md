@@ -1,5 +1,7 @@
 # Matrix Computations
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/math/calculus-numerical/matrix-computations/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 Matrix Computations（矩阵计算）是由 Gene H. Golub 和 Charles F. Van Loan 合著的经典著作，是数值线性代数领域的权威参考书。该书深入讲解了各种矩阵分解和线性方程组求解算法，理论严谨且注重算法分析，是机器人学、计算机视觉、机器学习等领域研究者的必备工具书。

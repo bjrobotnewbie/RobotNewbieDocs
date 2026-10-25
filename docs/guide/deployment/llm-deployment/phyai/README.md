@@ -1,5 +1,7 @@
 # phyai
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/phyai/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 PhyAI 是一个高性能框架，用于运行物理 AI 模型（包括 VLA、WAM 及更先进的模型），同时支持云端推理与端侧部署。
 
 ## 项目链接

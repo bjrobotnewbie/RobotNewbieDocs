@@ -1,5 +1,7 @@
 # ros-sharp
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/ros-sharp/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ROS# 是一套基于 C# 的开源软件库和工具集，用于从 .NET 应用程序（特别是 Unity3D）中向 ROS 通信。
 
 ## 项目链接

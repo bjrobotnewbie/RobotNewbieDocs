@@ -1,5 +1,7 @@
 # cyclo_lab
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/leisaac/cyclo_lab/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 此仓库提供了使用ROBOTIS机器人进行强化学习与模仿学习的教程，并支持Sim2Real功能，可将训练得到的策略部署到实体机器人上。
 
 ## 项目链接

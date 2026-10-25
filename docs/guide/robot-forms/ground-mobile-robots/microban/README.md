@@ -1,5 +1,7 @@
 # microban
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/microban/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Microban 是一款经济实惠、完全可 3D 打印且 100% 开源的人形机器人。它由 Raspberry Pi Zero 2W 和 19 个 Dynamixel 伺服电机驱动，作为一个易于使用的 DIY 平台，用于学习、实验和机器人研究。
 
 ## 项目链接

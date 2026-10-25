@@ -1,5 +1,7 @@
 # LeRobot-Anything-U-Arm - 跨形态遥操作
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/lerobot-anything-uarm/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 LeRobot-Anything-U-Arm 是上海交通大学 MINT 实验室开发的项目，实现了基于 LeRobot 的跨具身遥操作。项目名称为"U-Arm: Lerobot-Everything-Cross-Embodiment-Teleoperation"。

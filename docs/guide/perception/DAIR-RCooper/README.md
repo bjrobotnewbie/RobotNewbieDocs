@@ -1,4 +1,7 @@
 # DAIR-RCooper
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/DAIR-RCooper/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 - GitHub仓库: https://github.com/AIR-THU/DAIR-RCooper
 - 论文链接: https://openaccess.thecvf.com/content/CVPR2024/html/Hao_RCooper_A_Real-world_Large-scale_Dataset_for_Roadside_Cooperative_Perception_CVPR_2024_paper.html
 

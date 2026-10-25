@@ -1,5 +1,7 @@
 # urbanomnidetect
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/urbanomnidetect/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一种无需标定即可泛化于 ego-车辆、基础设施及空中摄像机的单目 3D 关键点检测器，支持无标定 V2X 协同感知。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # Awesome-Quant-VLA-WAM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/Awesome-Quant-VLA-WAM/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 为 VLA 和 WAM 模型定制的研究成果——涵盖 180 多篇论文、五类分类体系、路线图以及配套 PTQ 和 LIBERO 工具集（quant-vla）。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # awesome-memory-vla
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/awesome-memory-vla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 🧠 Awesome Memory-VLA：一款集成的视觉 - 语言 - 动作模型列表，带有记忆功能
 
 ## 项目链接

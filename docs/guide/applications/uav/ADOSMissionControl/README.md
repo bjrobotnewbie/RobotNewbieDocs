@@ -1,5 +1,7 @@
 # ADOSMissionControl
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/uav/ADOSMissionControl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 用于自主无人机的开源Web地面控制站。支持飞控配置、传感器校准、任务规划、MAVLink协议、手动飞行控制。支持多无人机机群与配套软件，打造真正的软件定义无人机。
 
 ## 项目链接

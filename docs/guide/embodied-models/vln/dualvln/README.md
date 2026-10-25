@@ -1,4 +1,7 @@
 # DualVLN
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vln/dualvln/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 DualVLN是首个双系统视觉语言导航基础模型，通过协同集成高层推理与低层动作执行，实现了出色的泛化能力和实时控制性能。
 
 ## 核心特性

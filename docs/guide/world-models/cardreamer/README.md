@@ -1,5 +1,7 @@
 # CarDreamer
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/cardreamer/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 CarDreamer 是 UCD-Dare 在 2024 年 5 月发布的**基于 CARLA 的世界模型学习平台**，为自动驾驶世界模型研究提供开箱即用的轻量级解决方案。
 
 ## 资源简介

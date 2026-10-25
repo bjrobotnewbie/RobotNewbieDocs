@@ -1,5 +1,7 @@
 # GigaBrain-0
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/gigabrain-0/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 GigaBrain-0 是国内首个利用「世界模型」生成数据实现真机泛化的视觉-语言-动作（VLA）基础模型，由极佳科技（极佳视界）开发。该项目旨在通过世界模型为中心，无论在数据侧还是模型侧，彻底改变通用机器人大脑的开发方式。
 
 ## 主要特点

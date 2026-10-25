@@ -1,5 +1,7 @@
 # mrpt_navigation
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/mrpt_navigation/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 封装了MRPT核心功能的ROS 2节点，涵盖定位、自主导航、rawlog记录等功能。SLAM相关功能位于其他软件包中。
 
 ## 项目链接

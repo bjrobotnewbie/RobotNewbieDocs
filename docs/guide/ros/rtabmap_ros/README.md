@@ -1,5 +1,7 @@
 # rtabmap_ros
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/rtabmap_ros/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 rtabmap_ros 是 RTAB-Map 的 ROS/ROS 2 包，用于 RGB-D、立体和激光雷达 SLAM 与定位建图。
 
 ## 项目链接

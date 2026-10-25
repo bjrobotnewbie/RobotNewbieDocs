@@ -1,5 +1,7 @@
 # unsloth
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/llm-training/unsloth/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Unsloth 是用于本地运行、微调和强化学习训练开源模型的工具集，提供 Studio 图形界面与 Core 代码接口。
 
 ## 项目链接

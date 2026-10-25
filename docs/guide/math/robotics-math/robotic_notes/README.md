@@ -1,5 +1,7 @@
 # robotic_notes
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/math/robotics-math/robotic_notes/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 本仓库包含我的关于李群和李代数、机器人及空间拓扑与配置、IMU、ROS2 Gazebo 集成、状态估计、VIO 和基于深度学习的 SLAM 的片段与教程。
 
 ## 项目链接

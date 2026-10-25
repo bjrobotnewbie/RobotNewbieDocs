@@ -84,3 +84,5 @@
 - [stable-pretraining（可靠、精简且可扩展的预训练基础模型与世界…）](/guide/training/llm-training/stable-pretraining/README)
 
 - [oumi（轻松微调（SFT/RL）、评估并部署 Q…）](/guide/training/llm-training/oumi/README)
+
+- [rax（RAX 框架：通过在线探索学习机器人任务…）](/guide/training/llm-training/rax/README)

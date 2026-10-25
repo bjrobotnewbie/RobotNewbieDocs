@@ -1,5 +1,7 @@
 # zenoh-plugin-dds
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/zenoh-plugin-dds/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个支持透明路由DDS数据的zenoh插件。DDS应用可通过该插件借助zenoh实现地理路由或更具可扩展性的发现服务。针对ROS2机器人应用，请使用：https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds
 
 ## 项目链接

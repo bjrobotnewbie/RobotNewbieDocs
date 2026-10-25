@@ -1,5 +1,7 @@
 # limap
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/limap/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 用于 3D 视觉定位、定位和 SfM 的工具箱，支持结构化几何特征（如点、线、平面、消失点、线框等）。
 
 ## 项目链接

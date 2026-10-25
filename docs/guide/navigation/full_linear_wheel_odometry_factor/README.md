@@ -1,5 +1,7 @@
 # full_linear_wheel_odometry_factor
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/full_linear_wheel_odometry_factor/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 全线性轮式 odometry 因子为轮式避障机器人提供运动约束和在线标定。该约束可集成至您的 SLAM 框架。此处提供了一个使用该因子的示例视频：https://youtu.be/Vss86xUhU80
 
 ## 项目链接

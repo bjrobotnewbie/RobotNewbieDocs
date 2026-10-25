@@ -1,5 +1,7 @@
 # lehome_solution
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/lehome_solution/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 我的解决方案获得 LeHome 挑战赛第一名（在线）和现实世界比赛第二名。
 
 ## 项目链接

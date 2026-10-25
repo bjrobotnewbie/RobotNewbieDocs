@@ -1,5 +1,7 @@
 # OMPL (Open Motion Planning Library)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/motion-planning/libraries/ompl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 OMPL 是一个开源的运动规划库，实现了大量基于采样的运动规划算法。它是 MoveIt! 和 MoveIt 2 的默认规划器后端，被广泛应用于机器人研究和工业应用。
 
 ## 简介

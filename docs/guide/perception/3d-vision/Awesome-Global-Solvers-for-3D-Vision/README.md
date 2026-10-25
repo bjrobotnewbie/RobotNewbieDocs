@@ -1,5 +1,7 @@
 # Awesome-Global-Solvers-for-3D-Vision
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/Awesome-Global-Solvers-for-3D-Vision/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 3D 视觉领域全球求解器 curated 综述与论文列表：可验证优化、凸松弛、分支界限法与鲁棒估计。
 
 ## 项目链接

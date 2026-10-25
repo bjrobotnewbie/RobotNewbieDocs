@@ -1,5 +1,7 @@
 # Detectron2
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/2d-vision/detectron2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 Detectron2是Facebook AI Research开发的开源计算机视觉库，是Detectron的下一代版本，专注于目标检测、实例分割和人体姿态估计等任务，广泛应用于机器人视觉和自动驾驶领域。
 

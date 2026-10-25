@@ -1,4 +1,7 @@
 # LingBot-VLA
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/lingbot-vla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 蚂蚁集团灵波科技开源的具身智能VLA基座模型，基于2万小时真实机器人操作数据预训练，覆盖9种主流双臂机器人构型，具备跨本体、跨任务迁移能力。
 
 ## 核心特性

@@ -1,5 +1,7 @@
 # VLN-BERT
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vln/vln-bert/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 VLN-BERT是基于BERT的视觉语言导航模型，通过循环神经网络增强，能够在导航过程中更好地理解历史信息和语言指令。
 
 ## 核心特性

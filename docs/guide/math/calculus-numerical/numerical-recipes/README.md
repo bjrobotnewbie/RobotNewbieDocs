@@ -1,5 +1,7 @@
 # Numerical Recipes
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/math/calculus-numerical/numerical-recipes/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 Numerical Recipes 是数值计算领域的经典著作，由 William H. Press 等人编写，涵盖了几乎所有常用数值算法，提供了完整的代码实现，被誉为数值计算领域的"圣经"。该书强调实用性，非常适合工程应用。

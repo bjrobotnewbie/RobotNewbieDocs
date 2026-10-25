@@ -1,5 +1,7 @@
 # Meta CWM (Code World Model)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/cwm/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 CWM (Code World Model) 是 Meta AI Research 在 2026 年 4 月发布的**代码世界模型**，专门用于理解代码对系统状态的影响，支持代码生成和程序状态推理。
 
 ## 资源简介

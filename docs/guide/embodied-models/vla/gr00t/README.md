@@ -1,4 +1,7 @@
 # GR00T-N1.7
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/gr00t/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 NVIDIA 开源的 Isaac GR00T 通用人形机器人基础VLA模型，支持开放推理，具备任务层级推理能力，支持精细指尖灵巧操作，适合商用部署。
 
 ## 核心特性

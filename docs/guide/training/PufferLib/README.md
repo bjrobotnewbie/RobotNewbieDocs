@@ -1,12 +1,14 @@
 # PufferLib
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/PufferLib/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 PufferLib 是一个强调速度和易用性的强化学习库，用于快速训练小型但表现强的智能体。
 
 ## 项目链接
 
 - GitHub: <https://github.com/PufferAI/PufferLib>
 - 项目主页: https://puffer.ai/
-
+- [puffer-phc（基于 Pufferlib 和 CARBS…）](/guide/training/PufferLib/puffer-phc/README)
 ## 项目概述
 
 PufferLib 关注让强化学习实验更快、更直接。项目提供自研的学习算法、超参数调优和仿真方法，目标是在较短时间内训练出高性能模型，并为用户应用构建高性能环境提供工具支持。官方文档集中在 puffer.ai，README 也强调社区支持和开源贡献。

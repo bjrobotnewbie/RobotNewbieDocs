@@ -1,5 +1,7 @@
 # PDDL (Planning Domain Definition Language)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/classical/pddl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 PDDL 是标准化的规划问题描述语言，用于形式化定义规划领域和问题，是自动规划研究和应用的事实标准。它提供了统一的方式描述动作、状态和目标，使得不同规划器可以使用相同的输入格式。
 
 ## 简介

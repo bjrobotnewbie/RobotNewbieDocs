@@ -1,5 +1,7 @@
 # WareTwin
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/WareTwin/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 实时 3D 自主仓储数字孪生——20 台 AMR 确定性仿真、可解释车队调度、故障注入、视觉语言模型（VLM）相机感知、AI 运维助手及情景模拟。基于 React Three Fiber 与 FastAPI 构建。
 
 ## 项目链接

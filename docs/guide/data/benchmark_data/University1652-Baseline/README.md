@@ -1,5 +1,7 @@
 # University1652-Baseline
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/benchmark_data/University1652-Baseline/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ACM Multimedia 2020 University-1652：一个基于无人机的地理定位多视角多源基准数据集 :helicopter:，该数据集标注了全球72所大学中的1652座建筑。
 
 ## 项目链接

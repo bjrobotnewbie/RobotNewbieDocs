@@ -1,5 +1,7 @@
 # SpartanEngine
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/SpartanEngine/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个完全无绑定、基于 GPU 渲染的游戏引擎，支持实时全局光照路径追踪、硬件级光线追踪以及 200Hz 的物理模拟，历经 12 年以上的研发。
 
 ## 项目链接

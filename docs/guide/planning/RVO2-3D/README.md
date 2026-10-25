@@ -1,5 +1,7 @@
 # RVO2-3D
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/RVO2-3D/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 RVO2-3D 是三维空间中的最优互惠避碰 C++ 库，用于多智能体在无中心协调条件下实现局部无碰撞导航。
 
 ## 项目链接

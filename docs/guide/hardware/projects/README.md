@@ -30,6 +30,7 @@
 - [ESP32_FC（基于 ESP32 的无人机飞行控制器研发…）](/guide/hardware/projects/ESP32_FC/README)
 - [batear（● 布特耳 — 超低成本的无源无人机声学…）](/guide/hardware/projects/batear/README)
 - [handumi-hw（开源的 UMI 手拟变体，用于在无机器人…）](/guide/hardware/projects/handumi-hw/README)
+- [PiLiDAR（开源低成本 DIY 360°激光雷达扫描…）](/guide/hardware/projects/PiLiDAR/README)
 ## 分类说明
 
 | 项目类型 | 项目 | 特点 |

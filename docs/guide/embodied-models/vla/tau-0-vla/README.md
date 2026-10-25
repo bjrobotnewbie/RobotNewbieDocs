@@ -1,5 +1,7 @@
 # tau-0-vla
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/tau-0-vla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 本仓库是"τ0-VLA：带世界模型指导的测试时计算分层机器人基础模型”的官方实现。
 
 ## 项目链接

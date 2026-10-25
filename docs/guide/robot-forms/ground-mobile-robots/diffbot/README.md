@@ -1,5 +1,7 @@
 # diffbot
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/diffbot/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 DiffBot 是一款基于 ROS Noetic 和 Raspberry Pi 4 B 的自主双轮驱动（2WD）机器人。它配备 SLAMTEC 激光雷达和 ROS 控制硬件接口，能够利用 ROS 导航栈在未知环境中导航，并通过 SLAM 算法生成环境地图。
 
 ## 项目链接

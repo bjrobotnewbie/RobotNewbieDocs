@@ -1,5 +1,7 @@
 # ORB-SLAM3-ROS2-Docker
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/ORB-SLAM3-ROS2-Docker/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 该仓库包含运行 ROS2 Humble 下 Ubuntu 22.04 的 Docker 容器所需的完整内容，以支持 ORB-SLAM3。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # open-simulation-interface
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/open-simulation-interface/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Open Simulation Interface 是自动驾驶虚拟仿真中的通用环境感知接口标准，基于 Protocol Buffers 定义。
 
 ## 项目链接

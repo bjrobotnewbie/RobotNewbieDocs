@@ -1,6 +1,7 @@
 # Teleopit
 
 - 项目链接：https://github.com/BotRunner64/Teleopit
+- 中文文档：https://BotRunner64.github.io/Teleopit/zh-Hans/
 - 项目主页：https://botrunner64.github.io/Teleopit/
 
 ## 项目概述

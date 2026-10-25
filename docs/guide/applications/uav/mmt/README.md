@@ -1,5 +1,7 @@
 # mmt
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/uav/mmt/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 媒体管理工具 - 使从 GoPro 及其他运动相机/无人机导入视频和图片的过程更加易于接受。
 
 ## 项目链接

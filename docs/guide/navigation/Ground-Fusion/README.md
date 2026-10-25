@@ -1,5 +1,7 @@
 # Ground-Fusion
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/Ground-Fusion/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Ground-Fusion：一个对边缘场景鲁棒的低成本地面SLAM系统 (ICRA2024)
 
 ## 项目链接

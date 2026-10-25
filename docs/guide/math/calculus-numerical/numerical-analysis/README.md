@@ -1,5 +1,7 @@
 # Numerical Analysis
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/math/calculus-numerical/numerical-analysis/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 Numerical Analysis 是由 Richard L. Burden 和 J. Douglas Faires 合著的经典数值分析教材，被全球众多高校采用作为课程教材。本书讲解清晰，由浅入深，非常适合入门学习，每章包含大量习题和实际应用案例。

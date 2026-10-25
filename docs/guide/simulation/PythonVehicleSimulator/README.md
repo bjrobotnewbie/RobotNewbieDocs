@@ -1,5 +1,7 @@
 # PythonVehicleSimulator
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/PythonVehicleSimulator/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Python 车辆模拟器是补充教科书《海洋船舶水动力学与运动控制手册》（第 2 版，T. I. Fossen 著，2021 年由 John Wiley & Sons Ltd 出版）的软件。
 
 ## 项目链接

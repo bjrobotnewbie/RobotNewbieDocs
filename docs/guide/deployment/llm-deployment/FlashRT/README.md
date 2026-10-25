@@ -1,5 +1,7 @@
 # FlashRT
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/FlashRT/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 FlashRT 是一款专为小批量、低延迟 AI 工作负载设计的高性能实时推理引擎。旗舰集成包括 Pi0、Pi0.5、GROOT N1.6 和 Pi0-FAST 的量产 VLA 控制。此外还支持 LLM 模型，例如 Qwen3.6-27B。
 
 ## 项目链接

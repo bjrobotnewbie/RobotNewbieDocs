@@ -169,6 +169,11 @@
 - [imu_gps_localization（使用卡尔曼滤波融合IMU和GPS数据以实…）](/guide/navigation/imu_gps_localization/README)
 - [aruco_ekf_slam（基于 ArUco 的 EKF-SLAM）](/guide/navigation/aruco_ekf_slam/README)
 - [YOPO-Tracker（无人机端到端敏捷跟踪与导航方法）](/guide/navigation/YOPO-Tracker/README)
+- [LocationSimulator（这是一款用于欺骗/伪造/模拟你的iOS、…）](/guide/navigation/LocationSimulator/README)
+- [sas.planet.src（SAS.Planet 是一款免费开源的地…）](/guide/navigation/sas.planet.src/README)
+- [HI-SLAM2（HI-SLAM2: 基于高斯分布的几何感…）](/guide/navigation/HI-SLAM2/README)
+- [genz-lio（GenZ-LIO：最先进的鲁棒 LiDA…）](/guide/navigation/genz-lio/README)
+- [frontier_exploration_ros2（面向自主移动机器人的现代 C++ 前沿探…）](/guide/navigation/frontier_exploration_ros2/README)
 ## 与其他分类的区别
 
 | 目录 | 定位 | 主要特点 |

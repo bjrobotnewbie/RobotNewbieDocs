@@ -1,5 +1,7 @@
 # Zenoh
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/zenoh/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 Zenoh是一个轻量级的高性能消息中间件，作为ROS/ROS2的替代方案，专为物联网和机器人系统设计，提供低延迟、高吞吐量的数据传输。
 

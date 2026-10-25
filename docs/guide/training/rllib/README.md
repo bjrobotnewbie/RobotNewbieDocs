@@ -1,5 +1,7 @@
 # RLlib
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/rllib/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 RLlib 是由 UC Berkeley RISELab 开发的开源强化学习库，官方定义为"一个用于强化学习的开源库，提供对生产级、高度可扩展和容错的 RL 工作负载的支持，同时为各种行业应用提供简单统一的 API"。

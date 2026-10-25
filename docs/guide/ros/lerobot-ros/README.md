@@ -1,5 +1,7 @@
 # lerobot-ros
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/lerobot-ros/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于 LeRobot 的 ROS 机器人手臂轻量级控制接口
 
 ## 项目链接

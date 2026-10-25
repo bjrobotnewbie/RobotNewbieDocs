@@ -1,5 +1,7 @@
 # MPlib
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/MPlib/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 MPlib 是一个轻量级 Python 运动规划库，脱离 ROS 依赖，便于在机器人操作任务中快速集成规划能力。
 
 ## 项目链接

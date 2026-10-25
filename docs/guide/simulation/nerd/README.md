@@ -1,4 +1,7 @@
 # NeRD（神经机器人动力学）
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/nerd/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 NeRD是面向多关节刚体机器人的神经模拟框架，用于预测机器人与环境接触时的后续状态，可在长时间仿真步长内保持稳定与精准输出，由NVIDIA团队提出并集成于Newton物理引擎，相关成果发表于CoRL 2025。
 
 <video src="https://neural-robot-dynamics.github.io/static/videos/NeRD_video.mp4" width="600" controls="controls"></video>

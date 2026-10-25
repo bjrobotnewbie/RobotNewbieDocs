@@ -1,5 +1,7 @@
 # hello-slam
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/hello-slam/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个入门友好的 SLAM 迷你课程，使用 Jupyter 笔记本——涵盖贝叶斯滤波、卡尔曼滤波、粒子滤波以及基于图的 SLAM，并提供手头的 Python 示例。
 
 ## 项目链接

@@ -34,3 +34,5 @@
 - [humanoid-motion-intelligence（人形机器人运动智能论文、开源项目、产业与…）](/guide/robot-forms/humanoid-motion-intelligence/README)
 
 - [soma-retargeter（基于牛顿和 NVIDIA Warp 构建…）](/guide/robot-forms/soma-retargeter/README)
+
+- [groki-bot（Groki Bot 桌面机器人（M5St…）](/guide/robot-forms/groki-bot/README)

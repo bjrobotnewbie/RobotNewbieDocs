@@ -1,5 +1,7 @@
 # navit
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/navit/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一款适用于多种操作系统的开源（GPL v2）逐向导航软件
 
 ## 项目链接

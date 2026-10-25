@@ -1,5 +1,7 @@
 # Falcon-Perception
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/multi-sensor-fusion/Falcon-Perception/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Falcon-Perception和Falcon-OCR模型的推理仓库，是原生多模态、稠密自回归Transformer的早融合模型。
 
 ## 项目链接

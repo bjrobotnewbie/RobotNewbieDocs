@@ -1,5 +1,7 @@
 # llm-as-a-verifier
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/llm-as-a-verifier/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 LLM-as-a-Verifier 是一个通用框架，可为任何代理提供细粒度的反馈，无需额外训练。它在编程、机器人和医疗代理基准测试中实现了最先进的性能。
 
 ## 项目链接

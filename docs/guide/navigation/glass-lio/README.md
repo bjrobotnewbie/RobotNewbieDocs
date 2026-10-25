@@ -1,5 +1,7 @@
 # glass-lio
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/glass-lio/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 适用于 Livox 的透明激光雷达 - 惯性里程计。已编写好以便阅读：D
 
 ## 项目链接

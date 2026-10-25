@@ -1,5 +1,7 @@
 # RAGEN
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/llm-training/RAGEN/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 LLM 代理框架：基于 StarPO 的多轮强化学习与推理 - 崩塌诊断
 
 ## 项目链接

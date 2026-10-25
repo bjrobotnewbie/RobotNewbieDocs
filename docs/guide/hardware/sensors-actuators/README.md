@@ -15,6 +15,7 @@
 - [invensense-imu（Arduino 与 CMake 库：用于…）](/guide/hardware/sensors-actuators/invensense-imu/README)
 - [products（超核电子产品资料）](/guide/hardware/sensors-actuators/products/README)
 - [YDLidar-SDK（接收 YD LiDAR 数据的驱动程序及…）](/guide/hardware/sensors-actuators/YDLidar-SDK/README)
+- [Payload-SDK（DJI Payload SDK 官方仓库）](/guide/hardware/sensors-actuators/Payload-SDK/README)
 ## 分类说明
 
 | 项目 | 主要内容 | 技能要点 |

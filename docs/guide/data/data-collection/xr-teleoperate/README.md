@@ -1,5 +1,7 @@
 # XR Teleoperate - Unitree人形遥操作
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/xr-teleoperate/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 资源简介
 
 xr_teleoperate 是 Unitree Robotics 开发的开源项目，实现了使用 XR 设备对 Unitree 人形机器人进行遥操作。项目拥有 1488+ stars，是目前最受欢迎的人形机器人遥操作项目之一。

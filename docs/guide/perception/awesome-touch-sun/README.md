@@ -1,5 +1,7 @@
 # awesome-touch
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/awesome-touch-sun/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 面向机器人操纵的触觉感知研究资源精选列表：涵盖论文、数据集、基准测试、仿真平台及框架，重点集成触觉与视觉 - 语言 - 动作（VLA）模型及世界模型，以支持富含接触场景的操纵任务。
 
 ## 项目链接

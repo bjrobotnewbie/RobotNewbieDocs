@@ -27,6 +27,7 @@
 - [awesome-robotics-libraries（:sunglasses: 精心整理的机器…）](/guide/robotics/awesome-robotics-libraries/README)
 - [robotics-toolbox-matlab（MATLAB 机器人工具箱）](/guide/robotics/robotics-toolbox-matlab/README)
 - [kinpy（机器人领域简单运动学计算工具集）](/guide/robotics/kinpy/README)
+- [c4dynamics（用于状态空间建模与算法开发的 Pytho…）](/guide/robotics/c4dynamics/README)
 ## 算法与工具库
 
 - [PythonRobotics（机器人学算法库）](/guide/robotics/PythonRobotics/README)

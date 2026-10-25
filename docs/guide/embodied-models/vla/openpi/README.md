@@ -1,4 +1,7 @@
 # OpenPI (PI-Zero)
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/openpi/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Physical Intelligence 开源的通用机器人策略模型 PI-Zero，基于大规模机器人数据预训练的扩散-based VLA模型，具备出色的泛化能力，支持多种机器人形态和任务。
 
 ## 核心特性

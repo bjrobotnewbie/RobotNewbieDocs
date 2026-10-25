@@ -38,6 +38,7 @@
 - [RemoteIDReceiver（基于远程标识（Remote ID）技术的…）](/guide/applications/uav/RemoteIDReceiver/README)
 - [visualize_uav_trajectory（在视频中可视化无人机的轨迹）](/guide/applications/uav/visualize_uav_trajectory/README)
 - [bobac-air-ground-delivery（基于 ROS 2 和 NVIDIA Is…）](/guide/applications/uav/bobac-air-ground-delivery/README)
+- [Cloud-API-2（DJI Cloud API 2 官方仓库…）](/guide/applications/uav/Cloud-API-2/README)
 ## 代表性项目
 - 大疆消费级/行业级无人机
 - 极飞农业无人机

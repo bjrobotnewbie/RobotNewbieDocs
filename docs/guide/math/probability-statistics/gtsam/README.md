@@ -1,5 +1,7 @@
 # gtsam
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/math/probability-statistics/gtsam/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 GTSAM 是一个在机器人与视觉领域实现了平滑与建图（SAM）的 C++ 类库，它采用因子图和贝叶斯网络作为底层计算范式，而非稀疏矩阵。
 
 ## 项目链接

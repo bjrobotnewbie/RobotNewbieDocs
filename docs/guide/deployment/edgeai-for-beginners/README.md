@@ -1,5 +1,7 @@
 # edgeai-for-beginners
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/edgeai-for-beginners/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 本课程旨在引导初学者深入探索边缘 AI 的激动人心世界，涵盖基本概念、流行模型、推理技术、特定设备应用、模型优化以及智能边缘 AI 代理的开发。
 
 ## 项目链接

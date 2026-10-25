@@ -1,11 +1,13 @@
 # awesome-vla-wam
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/awesome-vla-wam/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一份精选的视觉 - 语言 - 动作（VLA）与世界动作模型（WAM）研究综述及更多相关内容
 
 ## 项目链接
 
 - GitHub: <https://github.com/DravenALG/awesome-vla-wam>
-
+- [Awesome-VLA-Robotics（机器人领域内关于视觉 - 语言 - 动作…）](/guide/embodied-models/awesome-vla-wam/Awesome-VLA-Robotics/README)
 ## 项目介绍
 本项目是一个精选整理的视觉-语言-动作模型（VLA）、世界动作模型（WAM）及相关机器人基础模型研究资源列表，旨在系统性梳理该领域的最新进展，理清不同研究方向间的关联，为机器人通用大模型开发提供参考。项目会随领域发展持续更新，欢迎贡献相关论文资源。
 

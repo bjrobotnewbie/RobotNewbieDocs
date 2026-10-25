@@ -1,5 +1,7 @@
 # MoveIt!
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/motion-planning/frameworks/moveit/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 简介
 MoveIt!是一个开源的机器人运动规划框架，基于ROS开发，用于机器人的操作、运动规划、碰撞检测和轨迹执行等任务，是机器人操作系统中最常用的运动规划工具之一。
 

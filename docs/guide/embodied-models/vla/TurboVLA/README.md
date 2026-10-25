@@ -1,5 +1,7 @@
 # TurboVLA
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/TurboVLA/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 TurboVLA: 32 Hz 实时视觉语言 - 动作模型，搭载 RTX 4090，显存占用小于 1 GB
 
 ## 项目链接

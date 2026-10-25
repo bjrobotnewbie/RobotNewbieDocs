@@ -1,5 +1,7 @@
 # openamr
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/openamr/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 面向中小企业的平价移动机器人：一个为内部物流自动化打造高性价比AMR的DIY项目。本指南涵盖机电一体化、嵌入式软件、基于ROS的软件（Linorobot）、用户界面，以及与用于车队管理的OpenRMF集成。适用于提升运营效率并促进后续开发。
 
 ## 项目链接

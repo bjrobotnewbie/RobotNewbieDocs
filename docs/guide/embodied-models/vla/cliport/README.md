@@ -1,4 +1,7 @@
 # CLIPort
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/cliport/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 CLIPort是一个语言条件下的模仿学习智能体，可以学习单一的多任务策略，用于各种桌面操作任务，结合了CLIP的语义理解能力和TransporterNets的空间精度。
 
 ## 核心特性

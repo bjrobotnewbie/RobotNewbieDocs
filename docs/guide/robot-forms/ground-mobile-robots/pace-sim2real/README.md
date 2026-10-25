@@ -1,5 +1,7 @@
 # pace-sim2real
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/pace-sim2real/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 PACE：一种用于足式机器人仿真到真实迁移的系统化方法，可通过标准关节编码器识别执行器与关节动力学。
 
 ## 项目链接

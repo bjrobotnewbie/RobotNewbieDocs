@@ -1,4 +1,7 @@
 # X-VLA
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/x-vla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 清华大学AIR 开源的高扩展跨实体VLA模型，IROS'25冠军工作，通过软提示实现可扩展跨实体学习，在低参数量条件下刷新多项基准性能。
 
 ## 核心特性

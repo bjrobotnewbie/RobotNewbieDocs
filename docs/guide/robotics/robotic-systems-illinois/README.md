@@ -1,5 +1,7 @@
 # Robotic Systems (Illinois)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robotics/robotic-systems-illinois/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 一、基础信息
 - **名称**：Robotic Systems（草案版）
 - **作者**：Kris Hauser（伊利诺伊大学厄巴纳-香槟分校 UIUC 计算机科学、电气与计算机工程、机械科学与工程教授）

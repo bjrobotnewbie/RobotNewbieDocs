@@ -1,5 +1,7 @@
 # Video2World
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/Video2World/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 从具身视频评估编码代理的交互式世界建模能力——重新审视具身现实到模拟：软件工程视角
 
 ## 项目链接

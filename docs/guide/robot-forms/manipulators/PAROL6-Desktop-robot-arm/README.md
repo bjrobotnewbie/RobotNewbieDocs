@@ -1,5 +1,7 @@
 # PAROL6-Desktop-robot-arm
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/manipulators/PAROL6-Desktop-robot-arm/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 BOM, STL 文件及 PAROL6 3D 打印机器人臂的安装说明
 
 ## 项目链接

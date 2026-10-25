@@ -1,5 +1,7 @@
 # isaac_ros_pose_estimation
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/isaac_ros_pose_estimation/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 深度学习的 NVIDIA 加速 3D 物体姿态估计
 
 ## 项目链接

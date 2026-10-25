@@ -1,5 +1,7 @@
 # xtreme1
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/xtreme1/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Xtreme1 是一款集成的多模态数据标注与标注平台，支持 3D LiDAR 点云、图像及大语言模型（LLM）的训练。
 
 ## 项目链接

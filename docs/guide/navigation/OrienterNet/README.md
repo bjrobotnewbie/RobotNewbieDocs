@@ -1,5 +1,7 @@
 # OrienterNet
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/OrienterNet/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 论文"OrienterNet 在带有神经匹配的 2D 公共地图中的视觉定位"源代码
 
 ## 项目链接

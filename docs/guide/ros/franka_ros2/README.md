@@ -1,5 +1,7 @@
 # franka_ros2
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/franka_ros2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 franka_ros2 是 Franka Robotics 研究型机械臂的 ROS 2 集成包，基于 libfranka 提供控制接口。
 
 ## 项目链接

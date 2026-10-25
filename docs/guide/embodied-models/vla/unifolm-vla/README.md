@@ -1,4 +1,7 @@
 # UnifoLM-VLA-0
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/unifolm-vla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 宇树科技（Unitree Robotics）开源的UnifoLM系列面向通用人形机器人操作的视觉-语言-动作(VLA)大模型，突破传统VLM在物理交互中的局限，通过在机器人操作数据上持续预训练，实现从"图文理解"到具备物理常识"具身大脑"的进化。
 
 ## 核心特性

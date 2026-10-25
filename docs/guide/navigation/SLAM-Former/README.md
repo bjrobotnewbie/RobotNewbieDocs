@@ -1,5 +1,7 @@
 # SLAM-Former
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/SLAM-Former/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [ECCV 2026] SLAM-Former：将 SLAM 集成到统一 Transformer 架构
 
 ## 项目链接

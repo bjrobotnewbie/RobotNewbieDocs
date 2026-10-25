@@ -1,5 +1,7 @@
 # Causal-Forcing
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/Causal-Forcing/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [ICML 2026] "Causal Forcing: 正确实现自回归扩散蒸馏的高品质实时交互式视频生成" 及 "Causal Forcing++" 官方代码库
 
 ## 项目链接

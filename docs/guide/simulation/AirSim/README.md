@@ -1,5 +1,7 @@
 # AirSim
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/AirSim/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 由微软AI与研究部门打造、基于Unreal Engine/Unity开发的开源自动驾驶车辆模拟器
 
 ## 项目链接

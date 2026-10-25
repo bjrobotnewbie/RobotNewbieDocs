@@ -1,5 +1,7 @@
 # LeSTA
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/LeSTA/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [RA-L '24] 基于移动机器人导航经验的自监督可达性学习：一种风险感知的自训练方法
 
 ## 项目链接

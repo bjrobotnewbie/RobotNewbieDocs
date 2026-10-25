@@ -172,3 +172,8 @@
 - [PteroSim-UAV-Simulator（无人机仿真平台，用于开发、测试与科研。）](/guide/simulation/PteroSim-UAV-Simulator/README)
 - [Unity-Robotics-Hub（Unity 机器人仿真工具、教程、资源和…）](/guide/simulation/Unity-Robotics-Hub/README)
 - [space_robotics_bench（机器人学习超越地球）](/guide/simulation/space_robotics_bench/README)
+- [robosimstudio（一个开放的交互式工具包，加速人类与代理物…）](/guide/simulation/robosimstudio/README)
+- [tiny-differentiable-simulator（Tiny Differentiable …）](/guide/simulation/tiny-differentiable-simulator/README)
+- [GibsonEnv（吉布森环境：具身智能体的现实世界感知）](/guide/simulation/GibsonEnv/README)
+- [embodied-first-exam（物理世界首个代码代理评估：来自多个基准集…）](/guide/simulation/embodied-first-exam/README)
+- [Multi-UAV-JEV（基于相机观测的无人机追逐任务，使用 Mu…）](/guide/simulation/Multi-UAV-JEV/README)

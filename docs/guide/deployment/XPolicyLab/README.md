@@ -1,5 +1,7 @@
 # XPolicyLab
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/XPolicyLab/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [第 26 届 IROS 尺度基础设施研讨会最佳工具论文] 涉及超过 40 种高级操纵策略
 
 ## 项目链接

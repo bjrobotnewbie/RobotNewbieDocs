@@ -1,5 +1,7 @@
 # 传统任务规划
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/task-planning/classical/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 传统任务规划基于形式化逻辑和符号推理，经过数十年的发展，理论基础扎实，在工业界有广泛应用。这类方法的特点是可解释性强、确定性高，但需要人工建模，泛化能力有限。
 
 ## 分类总览

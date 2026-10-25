@@ -1,5 +1,7 @@
 # mavsdk_drone_show
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/uav/mavsdk_drone_show/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 适用于PX4的开源MAVLink机群作业：支持SITL、无人机表演、搜索救援、协同自主与实地验证
 
 ## 项目链接

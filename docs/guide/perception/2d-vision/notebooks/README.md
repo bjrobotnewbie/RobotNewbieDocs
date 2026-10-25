@@ -1,5 +1,7 @@
 # notebooks
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/2d-vision/notebooks/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 这是一系列关于前沿计算机视觉模型与技术的教程，涵盖从ResNet这类基础架构到RF-DETR、YOLO11、SAM 3和Qwen3-VL等最新模型的相关内容。
 
 ## 项目链接

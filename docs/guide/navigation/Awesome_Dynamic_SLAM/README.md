@@ -1,5 +1,7 @@
 # Awesome_Dynamic_SLAM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/Awesome_Dynamic_SLAM/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 动态 SLAM，终身 SLAM 研究（激光、视觉、传感器融合等）
 
 ## 项目链接

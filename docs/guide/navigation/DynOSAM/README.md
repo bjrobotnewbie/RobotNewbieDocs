@@ -1,5 +1,7 @@
 # DynOSAM
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/DynOSAM/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 DynoSAM：动态物体平滑建图 官方代码发布。论文已被《Transactions on Robotics》（视觉SLAM专刊）接收。这是一个面向动态环境的视觉SLAM框架与流程，可估计物体的运动/位姿及其结构，同时估计相机里程计与静态地图。
 
 ## 项目链接

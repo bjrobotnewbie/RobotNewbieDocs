@@ -1,5 +1,7 @@
 # hei-rebot-lift
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/mobile-manipulators/hei-rebot-lift/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 HEI ReBot Lift 是一款基于 LeRobot/ReBot 的双臂移动机器人，配备升降平台、全向底盘、三目视觉以及 VR + MuJoCo + Pinocchio 的逆向运动学（IK）远程操作管道。它支持远程操作、数据记录、ACT/VLA 训练以及策略部署。
 
 ## 项目链接

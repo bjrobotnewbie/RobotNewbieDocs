@@ -23,6 +23,7 @@
 - [Tasmota（适用于基于ESP8266和ESP32设备…）](/guide/hardware/embedded-systems/Tasmota/README)
 - [WLED（通过ESP32基于WiFi控制WS281…）](/guide/hardware/embedded-systems/WLED/README)
 - [antsdr_dji_droneid（ANTSDR E200 DJI 无人机 …）](/guide/hardware/embedded-systems/antsdr_dji_droneid/README)
+- [libcanard（C 语言中 Cyphal/CAN 协议的…）](/guide/hardware/embedded-systems/libcanard/README)
 ## 分类说明
 
 | 项目 | 主要内容 | 技能要点 |

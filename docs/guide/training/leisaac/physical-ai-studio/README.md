@@ -1,5 +1,7 @@
 # physical-ai-studio
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/leisaac/physical-ai-studio/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 物理 AI 工作室是一个端到端的框架，用于通过人类演示的模仿学习训练机器人执行任务。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # Pontryagin-Differentiable-Programming
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/control/Pontryagin-Differentiable-Programming/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 能够学习控制系统的（神经）控制目标函数、动力学方程、控制策略或最优轨迹的统一端到端学习与控制框架。
 
 ## 项目链接

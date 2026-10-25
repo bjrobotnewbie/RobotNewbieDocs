@@ -1,5 +1,7 @@
 # PE3R
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/perception/3d-vision/PE3R/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 [CVPR'26] PE3R: 感知高效的 3D 重建。只需使用手机拍摄 2-3 张照片，上传后等待几分钟，即可通过文本探索您的 3D 世界！
 
 ## 项目链接

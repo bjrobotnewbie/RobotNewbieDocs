@@ -1,5 +1,7 @@
 # Evo-RL
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/Evo-RL/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 我们发布了 Evo-RL，这是一个运行于 Unitree So-100 与 AgileX PiPER 平台上的开源真实世界离线 RL 项目，可用于更便捷地开展算法复现工作。
 
 ## 项目链接

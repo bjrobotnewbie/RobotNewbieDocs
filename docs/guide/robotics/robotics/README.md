@@ -1,5 +1,7 @@
 # robotics
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robotics/robotics/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 基于笔记的书籍《机器人学感知导论》，作者为弗兰克·德莱耶特（Frank Dellaert）和塞斯·哈钦森（Seth Hutchinson）。
 
 ## 项目链接

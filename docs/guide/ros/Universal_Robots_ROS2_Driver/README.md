@@ -1,5 +1,7 @@
 # Universal_Robots_ROS2_Driver
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/Universal_Robots_ROS2_Driver/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Universal Robots ROS2 Driver 是面向 UR 协作机器人全系列的 ROS 2 驱动，支持 CB3、e-Series 和 PolyScope X 控制器。
 
 ## 项目链接

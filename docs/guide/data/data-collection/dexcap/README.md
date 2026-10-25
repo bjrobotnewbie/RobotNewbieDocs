@@ -1,5 +1,7 @@
 # DexCap - 灵巧操作可扩展便携式动作捕捉
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-collection/dexcap/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 项目简介
 
 DexCap 是一个可扩展、便携式的灵巧操作动作捕捉数据采集系统，官方标题为"Scalable and Portable Mocap Data Collection System for Dexterous Manipulation"。由斯坦福大学李飞飞团队开发，专注于人手灵巧操作数据采集。

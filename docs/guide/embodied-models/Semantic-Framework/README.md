@@ -1,5 +1,7 @@
 # Semantic-Framework
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/Semantic-Framework/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 InsightOS Semantic 是由具识智能（Jushi Intelligence）构建的具身 AI 语义代理系统。它语义连接机器人的身体、环境、任务、技能和操作经验；将自然语言需求转化为机器人可执行的任务；并实现从理解、规划到执行的完整闭环。
 
 ## 项目链接

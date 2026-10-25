@@ -1,5 +1,7 @@
 # robot_localization
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/robot_localization/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 robot_localization 是一个非线性的状态估计节点包。该包由 Charles River Analytics, Inc. 开发。有关问题，请访问 answers.ros.org。
 
 ## 项目链接

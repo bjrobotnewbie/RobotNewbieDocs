@@ -1,5 +1,7 @@
 # 外骨骼机器人
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/exoskeleton/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 外骨骼机器人是一种可穿戴的机器人系统，通过机械结构与人体肢体耦合，为人提供力量增强、运动辅助或康复训练功能。外骨骼融合了机器人学、生物力学、传感技术和人机交互等多个领域，是具身智能的重要形态之一。
 
 ## 定义与特点

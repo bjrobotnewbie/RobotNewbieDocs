@@ -49,3 +49,5 @@
 - [pyDrone（01 微Python无人机（ESP32-…）](/guide/robot-forms/aerial-robots/pyDrone/README)
 
 - [POKRION-Speed-Drone（支持快速原型开发的开源高机动四旋翼飞行器…）](/guide/robot-forms/aerial-robots/POKRION-Speed-Drone/README)
+
+- [single-propeller-drone（单电机下驱动无人机）](/guide/robot-forms/aerial-robots/single-propeller-drone/README)

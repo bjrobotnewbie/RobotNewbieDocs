@@ -1,5 +1,7 @@
 # DroneAid
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/applications/uav/DroneAid/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 面向急救人员的空中侦察员。DroneAid 利用机器学习探测地面受困者发出的求救信号。
 
 ## 项目链接

@@ -1,5 +1,7 @@
 # project_superdex
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/project_superdex/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SuperDex 整合了专用的物理引擎、机器人编写工具以及可扩展的强化学习接口，统一于仿真平台之中，并计划在未来版本中引入基于 VR 的远程操控及其他功能。
 
 ## 项目链接

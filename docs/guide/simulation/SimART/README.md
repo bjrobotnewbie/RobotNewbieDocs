@@ -1,5 +1,7 @@
 # SimART
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/SimART/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个面向所有场景的开源软件平台，用于无线通信与感知研究
 
 ## 项目链接

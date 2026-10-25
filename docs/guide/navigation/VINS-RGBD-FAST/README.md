@@ -1,5 +1,7 @@
 # VINS-RGBD-FAST
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/VINS-RGBD-FAST/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 VINS-RGBD-FAST 是一个基于 VINS-RGBD 的 SLAM 系统。我们对系统进行了一些优化，以加速其在资源受限的嵌入式平台上的性能，例如华为 Atlas 200DK、Raspberry Pi 等。
 
 ## 项目链接

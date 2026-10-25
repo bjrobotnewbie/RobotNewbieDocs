@@ -1,5 +1,7 @@
 # SBPL (Search-Based Planning Library)
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/motion-planning/libraries/sbpl/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 SBPL 是一个基于搜索的运动规划库，专注于离散状态空间的最优规划。它实现了多种启发式搜索算法，支持 anytime 规划和增量修复，广泛应用于移动机器人导航和机械臂运动规划。
 
 ## 简介

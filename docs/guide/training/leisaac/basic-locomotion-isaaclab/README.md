@@ -1,5 +1,7 @@
 # basic-locomotion-isaaclab
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/leisaac/basic-locomotion-isaaclab/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 适用于基本四足机器人任务的 IsaacLab DirectEnv，支持多四足机器人、模拟到模拟（sim-to-sim）以及模拟到真实（sim-to-real）的管道。
 
 ## 项目链接

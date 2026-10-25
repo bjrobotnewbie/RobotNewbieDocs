@@ -1,5 +1,7 @@
 # omnisim
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/omnisim/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 开源机器人模拟器：支持 HTTP/JSON 与 MCP 控制，采用牛顿物理引擎，配备 WGPU 渲染，集成 ROS 2，并提供可复现的基准测试。
 
 ## 项目链接

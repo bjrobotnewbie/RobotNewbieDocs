@@ -1,5 +1,7 @@
 # mighty
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/motion-planning/mighty/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 MIGHTY：一种基于 Hermite 样条的单/多体无人机及地面机器人的实时轨迹规划器（ROS 2）。已提交至 IEEE RA-L。
 
 ## 项目链接

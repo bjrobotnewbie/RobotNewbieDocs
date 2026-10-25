@@ -1,11 +1,13 @@
 # awesome-coding-agents-for-robot-learning
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/awesome-coding-agents-for-robot-learning/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 机器人学习的编码代理研究地图
 
 ## 项目链接
 
 - GitHub: <https://github.com/harooos/awesome-coding-agents-for-robot-learning>
-
+- [HexaShell（HexaShell: 一个薄层框架，其中…）](/guide/embodied-models/awesome-coding-agents-for-robot-learning/HexaShell/README)
 ## 项目介绍
 本项目是面向机器人学习的编码智能体研究资源汇总库，聚焦于基于LLM的编码智能体系统，这类系统通过显式可执行层作用于机器人模型，实现机器人学习与具身执行，覆盖代码生成、机器人接口交互、执行反馈等多环节，为语言模型推理、机器人学习与物理反馈提供具象交互界面。
 

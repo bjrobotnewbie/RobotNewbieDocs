@@ -1,4 +1,7 @@
 # mp2p_icp
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/navigation/mp2p_icp/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 - GitHub仓库: https://github.com/MOLAorg/mp2p_icp
 - 项目主页: https://docs.mola-slam.org/latest/module-mp2p-icp.html
 

@@ -1,4 +1,7 @@
 # TensorRT LLM
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/deployment/llm-deployment/tensorrt-llm/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 ## 项目定位
 TensorRT LLM 是 NVIDIA 面向大型语言模型推理场景打造的开源优化库，依托 PyTorch 构建，提供易用的 Python API，可在 NVIDIA GPU 上实现高效的大模型推理部署，适配单卡、多卡及多节点等多种运行环境，兼容 NVIDIA 主流 GPU 架构，是大模型落地部署的常用工具。
 

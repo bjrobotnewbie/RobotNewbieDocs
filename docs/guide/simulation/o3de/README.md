@@ -1,5 +1,7 @@
 # o3de
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/o3de/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Open 3D Engine (O3DE) 是一个采用 Apache 2.0 许可的多平台 3D 引擎，它允许开发者与内容创作者无需任何费用或商业义务，即可构建 AAA 级游戏、电影级 3D 世界和高保真模拟。
 
 ## 项目链接

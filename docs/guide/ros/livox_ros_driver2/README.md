@@ -1,5 +1,7 @@
 # livox_ros_driver2
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/livox_ros_driver2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Livox 设备驱动支持 ROS（兼容 ros 和 ros2），支持激光雷达 HAP 和 Mid-360。
 
 ## 项目链接

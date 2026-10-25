@@ -1,5 +1,7 @@
 # Agent-R1
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/training/llm-training/Agent-R1/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Agent-R1 是用于端到端训练多步 LLM 代理的强化学习框架，把代理交互建模为逐步 MDP 轨迹。
 
 ## 项目链接

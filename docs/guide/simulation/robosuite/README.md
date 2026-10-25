@@ -1,5 +1,7 @@
 # robosuite
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/simulation/robosuite/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 robosuite 是基于 MuJoCo 的模块化机器人学习仿真框架和可复现实验基准。
 
 ## 项目链接

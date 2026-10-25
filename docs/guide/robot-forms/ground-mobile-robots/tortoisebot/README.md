@@ -1,5 +1,7 @@
 # tortoisebot
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/ground-mobile-robots/tortoisebot/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 TortoiseBot 是一款对学习者极其友好、性价比出色的基于ROS的开源移动机器人，支持遥操作、手动建图、自主建图、导航、仿真等功能。
 
 ## 项目链接

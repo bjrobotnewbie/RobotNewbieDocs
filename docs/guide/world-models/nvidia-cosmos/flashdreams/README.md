@@ -1,5 +1,7 @@
 # flashdreams
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/world-models/nvidia-cosmos/flashdreams/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 高性能推理与服务库，用于交互式自回归视频与世界模型
 
 ## 项目链接

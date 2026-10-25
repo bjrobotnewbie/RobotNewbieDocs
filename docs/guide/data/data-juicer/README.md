@@ -1,12 +1,14 @@
 # data-juicer
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/data/data-juicer/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 面向基础模型以及与基础模型协同的数据处理！  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
 
 ## 项目链接
 
 - GitHub: <https://github.com/datajuicer/data-juicer>
 - 项目主页: <https://datajuicer.github.io/data-juicer/>
-
+- [forge（机器人数据工具包 | 支持在 RLDS、…）](/guide/data/data-juicer/forge/README)
 ## 项目介绍
 Data-Juicer是面向大模型时代的数据操作系统，主打多模态、云原生、适配AI训练、可大规模扩展的数据处理工具。它将数据处理视为可组合的基础设施，提供模块化组件，用于全AI生命周期内的数据清洗、合成与分析，挖掘每一份数据的潜在价值。
 它可无缝适配从个人笔记本到千节点集群的各类场景，支持网页级预训练语料去重、智能体交互轨迹整理、领域专属RAG索引构建等任务，已被阿里云PAI深度集成到其数据处理产品中。

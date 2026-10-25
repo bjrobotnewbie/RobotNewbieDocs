@@ -1,4 +1,7 @@
 # SmolVLA
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/smolvla/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Hugging Face 开源的轻量级紧凑型VLA模型，仅4.5亿参数，专为消费级硬件设计，让先进机器人技术走进更多开发者和爱好者。
 
 ## 核心特性

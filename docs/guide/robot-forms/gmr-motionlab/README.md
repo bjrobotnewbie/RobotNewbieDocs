@@ -1,12 +1,14 @@
 # gmr-motionlab
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/robot-forms/gmr-motionlab/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 一个用于人形运动重定向、pkl运动可视化/编辑以及运动分割的扩展GMR工具包
 
 ## 项目链接
 
 - GitHub: <https://github.com/chaowei-code/gmr-motionlab>
 - 中文文档: https://github.com/chaowei-code/gmr-motionlab/blob/main/README.zh-CN.md
-
+- [GMR（[ICRA 2026] GMR: 通用运…）](/guide/robot-forms/gmr-motionlab/GMR/README)
 ## 项目介绍
 GMR-MotionLab是一款基于斯坦福大学GMR框架的量产级人形运动重定向工具，可将SMPL-X、BVH、FBX、视频格式的人体动作捕捉数据，通过逆运动学转换为物理合理的人形机器人关节配置。同时支持pkl格式动作可视化编辑与动作分割。
 

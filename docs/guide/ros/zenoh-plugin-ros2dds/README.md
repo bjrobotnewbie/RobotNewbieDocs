@@ -1,5 +1,7 @@
 # zenoh-plugin-ros2dds
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/ros/zenoh-plugin-ros2dds/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 适用于ROS2、基于DDS RMW的Zenoh插件。如需了解相较于其他DDS RMW实现使用本插件的优势，参见：https://discourse.ros.org/t/ros-2-alternative-middleware-report/
 
 ## 项目链接

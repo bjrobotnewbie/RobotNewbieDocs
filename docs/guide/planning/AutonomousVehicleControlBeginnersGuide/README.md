@@ -1,5 +1,7 @@
 # AutonomousVehicleControlBeginnersGuide
 
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/planning/AutonomousVehicleControlBeginnersGuide/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 AutonomousVehicleControlBeginnersGuide 是一组面向初学者的自动驾驶控制、定位、建图、规划和感知算法 Python 示例与文档。
 
 ## 项目链接

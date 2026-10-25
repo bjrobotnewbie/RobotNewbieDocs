@@ -205,3 +205,5 @@
 - [plainmp（快速运动规划，适用于 articulat…）](/guide/planning/motion-planning/plainmp/README)
 
 - [teb_local_planner（基于 Timed-Elastic-Ban…）](/guide/planning/motion-planning/teb_local_planner/README)
+
+- [fiss_planner（[RA-L 2022] FISS: 一种…）](/guide/planning/motion-planning/fiss_planner/README)

@@ -1,4 +1,7 @@
 # RT-2
+
+<div class="zh-readme-entry"><a class="zh-readme-entry__link" href="/guide/embodied-models/vla/rt-2/README_zh"><span class="zh-readme-entry__badge" aria-hidden="true">中</span><span class="zh-readme-entry__text"><span class="zh-readme-entry__title">阅读中文 README</span><span class="zh-readme-entry__subtitle">本项目介绍的中文完整版</span></span><span class="zh-readme-entry__arrow" aria-hidden="true">→</span></a></div>
+
 Google DeepMind 提出的VLA奠基性工作，首次将机器人动作表示为文本token，在互联网规模视觉语言数据上联合训练，开创了VLA这一研究方向。
 
 ## 核心特性
